@@ -2,4 +2,5 @@ collections:
   partners-and-service-providers:
     output: true
     order:
+      - School Bus Service.md
       - Dental Service.md
