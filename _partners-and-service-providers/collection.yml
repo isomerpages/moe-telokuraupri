@@ -1,4 +1,5 @@
 collections:
   partners-and-service-providers:
     output: true
-    order: []
+    order:
+      - Dental Service.md
