@@ -2,6 +2,7 @@ collections:
   events-and-notices:
     output: true
     order:
+      - Events/eMTLS Online Quest.md
       - Events/.keep
       - Notices/Use of Images and Videos in Publication.md
       - Notices/ECHA Nomination 2022.md
