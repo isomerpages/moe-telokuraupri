@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Information Communication Technology.md
       - Student Leadership Development.md
       - Future Problem Solving Programme (FPSP).md
       - Growing Years Series (GYS).md
