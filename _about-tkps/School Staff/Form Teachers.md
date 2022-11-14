@@ -58,6 +58,15 @@ third_nav_title: School Staff
 
 #### **Primary 5**
 
-
+| Class | Name of Teacher | Email Address |
+|---|---|---|
+| P5 Care |  Mr Shawn Lee<br>Mdm Christine Chua |  shawn_lee_shiyang@moe.edu.sg<br>christine_chua_kah_yeen@moe.edu.sg |
+| P5 Harmony |  Mdm Linda Kwek<br>Mr Chua Cheow Teck |  kwek_li_hiang_linda@moe.edu.sg<br>chua_cheow_teck@moe.edu.sg |
+| P5 Integrity |  Mr Rodger Chua<br>Mdm Naime |  chua_yew_cheong_rodger@moe.edu.sg<br>noor_naime_zainal_abidin@moe.edu.sg |
+| P5 Resilience |  Miss Felicia Goh<br>Mdm Kartini |  felicia_goh_xiu_xian@moe.edu.sg<br>kartini_mohamed_ramli@moe.edu.sg |
+| P5 Respect |  Mrs Lydia Neo |  heng_po_khim_lydia@moe.edu.sg |
+| P5 Responsibility |  Mr Shahazad<br>Mdm Yeong Wei Syn |  shaharzad_b_kasman@moe.edu.sg<br>yeong_wei_syn@moe.edu.sg |
+|
 
 #### **Primary 6**
+
