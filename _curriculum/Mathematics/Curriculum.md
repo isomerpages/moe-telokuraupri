@@ -47,7 +47,24 @@ third_nav_title: Mathematics
 |
 
 #### **P5**
+**Standard Mathematics**
 
+| Term | Topics Covered |
+|:---:|---|
+| Term 1 | 1.Whole Numbers:up to 10 Million & Four Operations<br>2.Fractions<br>3.Decimals |
+| Term 2 | 4.Area of Triangle<br>5.Ratio<br>6.Volume of Cubes and Cuboids |
+| Term 3 | 7.Decimals<br>8.Average<br>9.Percentage<br>10.Rate |
+| Term 4 | 11.Angles<br>12.Properties of Triangles & 4-sided figures<br>13.Volume of cube and cuboids |
+|
 
+**Foundation Mathematics**
+
+| Term | Topics Covered |
+|:---:|---|
+| Term 1 | 1.Whole Numbers up to 10 Million and four operations<br>2.Factors and Multiples |
+| Term 2 | 1.Fractions<br>2.Geometry |
+| Term 3 | 1.Fractions<br>2.Decimals<br>3.Time |
+| Term 4 | 1.Perimeter,Area and Volume<br>2.Rate<br>3.Tables and Graphs |
+|
 
 #### **P6**
