@@ -48,24 +48,24 @@ third_nav_title: School Staff
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P4 Care |  Ms Goh Ya Li <br>Mr Mohamed Hisham |  goh_ya_li@moe.edu.sg<br>mohamed_hisham_salim@moe.edu.sg |
-| P4 Harmony |  Mdm Stephanie Tan<br>Mrs Nalani Raj |  tan_jin_jun@moe.edu.sg<br>nalaniammah_rajenthiran@moe.edu.sg |
-| P4 Integrity |  Ms Choo Siok Hui<br>Ms Tham Sau Ngor |  choo_siok_hui@moe.edu.sg<br>tham_sau_ngor@moe.edu.sg |
-| P4 Resilience |  Mrs Tan W L<br>Mdm Huda |  tan_wei_ling@moe.edu.sg<br>siti_nurulhuda_said@moe.edu.sg |
-| P4 Respect |  Mdm Juhaidah Amin <br>Mr Tan Yew Heng |  juhaidah_amin@moe.edu.sg<br>tan_yew_heng@moe.edu.sg |
-| P4 Responsibility |  Mdm Salehati |  salehati_md_salleh@moe.edu.sg |
+| P4 Care |  Ms Goh Ya Li <br>Mr Mohamed Hisham |  [goh_ya_li@moe.edu.sg](mailto:goh_ya_li@moe.edu.sg)<br>[mohamed_hisham_salim@moe.edu.sg](mailto:mohamed_hisham_salim@moe.edu.sg) |
+| P4 Harmony |  Mdm Stephanie Tan<br>Mrs Nalani Raj |  [tan_jin_jun@moe.edu.sg](mailto:tan_jin_jun@moe.edu.sg)<br>[nalaniammah_rajenthiran@moe.edu.sg](mailto:nalaniammah_rajenthiran@moe.edu.sg) |
+| P4 Integrity |  Ms Choo Siok Hui<br>Ms Tham Sau Ngor |  [choo_siok_hui@moe.edu.sg](mailto:choo_siok_hui@moe.edu.sg)<br>[tham_sau_ngor@moe.edu.sg](mailto:tham_sau_ngor@moe.edu.sg) |
+| P4 Resilience |  Mrs Tan W L<br>Mdm Huda |  [tan_wei_ling@moe.edu.sg](mailto:tan_wei_ling@moe.edu.sg)<br>[siti_nurulhuda_said@moe.edu.sg](mailto:siti_nurulhuda_said@moe.edu.sg) |
+| P4 Respect |  Mdm Juhaidah Amin <br>Mr Tan Yew Heng |  [juhaidah_amin@moe.edu.sg](mailto:juhaidah_amin@moe.edu.sg)<br>[tan_yew_heng@moe.edu.sg](mailto:tan_yew_heng@moe.edu.sg) |
+| P4 Responsibility |  Mdm Salehati |  [salehati_md_salleh@moe.edu.sg](mailto:salehati_md_salleh@moe.edu.sg) |
 |
 
 #### **Primary 5**
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P5 Care |  Mr Shawn Lee<br>Mdm Christine Chua |  shawn_lee_shiyang@moe.edu.sg<br>christine_chua_kah_yeen@moe.edu.sg |
-| P5 Harmony |  Mdm Linda Kwek<br>Mr Chua Cheow Teck |  kwek_li_hiang_linda@moe.edu.sg<br>chua_cheow_teck@moe.edu.sg |
-| P5 Integrity |  Mr Rodger Chua<br>Mdm Naime |  chua_yew_cheong_rodger@moe.edu.sg<br>noor_naime_zainal_abidin@moe.edu.sg |
-| P5 Resilience |  Miss Felicia Goh<br>Mdm Kartini |  felicia_goh_xiu_xian@moe.edu.sg<br>kartini_mohamed_ramli@moe.edu.sg |
-| P5 Respect |  Mrs Lydia Neo |  heng_po_khim_lydia@moe.edu.sg |
-| P5 Responsibility |  Mr Shahazad<br>Mdm Yeong Wei Syn |  shaharzad_b_kasman@moe.edu.sg<br>yeong_wei_syn@moe.edu.sg |
+| P5 Care |  Mr Shawn Lee<br>Mdm Christine Chua |  [shawn_lee_shiyang@moe.edu.sg](mailto:shawn_lee_shiyang@moe.edu.sg)<br>[christine_chua_kah_yeen@moe.edu.sg](mailto:christine_chua_kah_yeen@moe.edu.sg) |
+| P5 Harmony |  Mdm Linda Kwek<br>Mr Chua Cheow Teck |  [kwek_li_hiang_linda@moe.edu.sg](mailto:kwek_li_hiang_linda@moe.edu.sg)<br>[chua_cheow_teck@moe.edu.sg](mailto:chua_cheow_teck@moe.edu.sg) |
+| P5 Integrity |  Mr Rodger Chua<br>Mdm Naime |  [chua_yew_cheong_rodger@moe.edu.sg](mailto:chua_yew_cheong_rodger@moe.edu.sg)<br>[noor_naime_zainal_abidin@moe.edu.sg](mailto:noor_naime_zainal_abidin@moe.edu.sg) |
+| P5 Resilience |  Miss Felicia Goh<br>Mdm Kartini |  [felicia_goh_xiu_xian@moe.edu.sg](mailto:felicia_goh_xiu_xian@moe.edu.sg)<br>[kartini_mohamed_ramli@moe.edu.sg](mailto:kartini_mohamed_ramli@moe.edu.sg) |
+| P5 Respect |  Mrs Lydia Neo |  [heng_po_khim_lydia@moe.edu.sg](mailto:heng_po_khim_lydia@moe.edu.sg) |
+| P5 Responsibility |  Mr Shahazad<br>Mdm Yeong Wei Syn |  [shaharzad_b_kasman@moe.edu.sg](mailto:shaharzad_b_kasman@moe.edu.sg)<br>[yeong_wei_syn@moe.edu.sg](mailto:yeong_wei_syn@moe.edu.sg) |
 |
 
 #### **Primary 6**
