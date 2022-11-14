@@ -8,7 +8,7 @@ RICHIE, the school mascot, is a familiar face during school events and well-love
 
 <img src="/images/mascot1.jpg" style="width:65%">
 
-<img src="/images/mascot3.png" style="width:45%;margin-right:80px;" align = "right">  
+<img src="/images/mascot3.png" style="width:45%;margin-right:80px;" align = "right">
 <img src="/images/mascot2.png" style="width:25%;margin-left:130px;" align = "left">
 
 <br clear="left">
