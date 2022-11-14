@@ -25,7 +25,7 @@ sections:
       subtitle: Telok Kurau Primary School
       description: Details of our Open House can be found here
       button: Find out more
-      url: /tkps-openhouse/
+      url: /tkps-open-house/
   - infopic:
       title: Register for Open House
       subtitle: Telok Kurau Primary School
