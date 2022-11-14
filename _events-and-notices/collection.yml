@@ -1,0 +1,4 @@
+collections:
+  events-and-notices:
+    output: true
+    order: []
