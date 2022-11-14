@@ -28,7 +28,13 @@ third_nav_title: Mathematics
 
 #### **P3**
 
-
+| Term | Topics Covered |
+|:---:|---|
+| Term 1 | 1.Whole Numbers:Numbers up to 10000<br>2.Addition and Subtraction |
+| Term 2 | 3.Multiplication<br>4.Division<br>5.Money |
+| Term 3 | 6.Measures<br>7.Graphs<br>8.Fractions<br>9.Time<br>10.Angles |
+| Term 4 | 11.Perpendicular and Parallel Lines<br>12.Area and Perimeter |
+|
 
 #### **P4**
 
