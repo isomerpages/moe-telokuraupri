@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Telok Kurau Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: ""
 sections:
@@ -36,3 +36,4 @@ sections:
       image: /images/openhouseqr.jpeg
       alt: Image alt text
 ---
+
