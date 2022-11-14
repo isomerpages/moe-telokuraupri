@@ -20,3 +20,15 @@ To develop pupils’ ability in communicating thoughts, ideas or feelings throug
 | **Excursion** | LJ to Esplanade (P3) |
 | **Expertise** | - Talented Development Programme (Intermediate Beatboxing)<br>- Competitions e.g. EZ Music Warriors.; EZ music competition<br>- Talented pupils (Music Elective Programme) |
 |
+
+#### **Curriculum**
+
+| Levels | Music |
+|:---:|---|
+| **P1** | Singing & movement<br>Classroom Instruments |
+| **P2** | Singing & movement<br>Classroom Instruments |
+| **P3** | Recorder<br>Ukulele |
+| **P4** | Recorder<br>Ukulele<br>Orff ensemble |
+| **P5** | Beatboxing<br>Pen tapping<br>Recorder Ensemble |
+| **P6** | Garage Band<br>Ethnic Percussion |
+|
