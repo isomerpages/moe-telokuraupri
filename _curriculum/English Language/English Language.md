@@ -4,7 +4,7 @@ permalink: /curriculum/english/
 description: ""
 third_nav_title: English Language
 ---
-### **English Language**
+### **English Language Curriculum**
 #### **Vision**
 Confident and Effective Communicators
 
