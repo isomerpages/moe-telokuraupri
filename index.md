@@ -16,10 +16,10 @@ sections:
           url: /achievements/recent/
         - title: Events
           description: ""
-          url: /events-and-notices/
+          url: /events-and-notices/events/tkps-open-house-2022/
         - title: Notices
           description: ""
-          url: /notices/
+          url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
   - infobar:
       title: TKPS Open House
       subtitle: Telok Kurau Primary School
