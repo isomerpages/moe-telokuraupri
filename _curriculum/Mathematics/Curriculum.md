@@ -18,7 +18,13 @@ third_nav_title: Mathematics
 
 #### **P2**
 
-
+| Term | Topics Covered |
+|:---:|---|
+| Term 1 | 1.Numbers to 1000<br>2.Addition and Subtraction within 1000<br>3.Length |
+| Term 2 | 4.Multiplication and Division<br>5.Multiplication Tables 2,5 and 10<br>6.Mass<br>7.Time |
+| Term 3 | 8.Addition and Subtraction (2-step Word Problems)<br>9.Multiplication Tables of 3 and 4<br>10.Money<br>11.Fractions |
+| Term 4 | 12.Volume<br>13.Picture Graphs<br>14.Shapes |
+|
 
 #### **P3**
 
@@ -33,5 +39,3 @@ third_nav_title: Mathematics
 
 
 #### **P6**
-
-
