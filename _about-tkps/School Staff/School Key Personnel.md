@@ -28,14 +28,14 @@ third_nav_title: School Staff
 
 | Designation | Name | Email Address |
 |:---:|:---:|:---:|
-|  HOD English Language<br> |  Mr Jose Paolo Boquiren <br> |  jose_paolo_t_boquiren@moe.edu.sg<br>  |
-| HOD Mother Tongue Language |  Mdm Pamela Leck Hwee Huan |  leck_hwee_huan@moe.edu.sg |
-| HOD Mathematics |  Mr Jeremy Tan |  tan_keng_lim_jeremy@moe.edu.sg |
-| HOD Science |  Mdm Lee Theng Theng |  lee_theng_theng@moe.edu.sg |
-| <br>HOD Aesthetics/ Physical Education/ <br>Co-Curricular Activities |  Mr Jeffrey Tan |  tan_kong_hui@moe.edu.sg |
-| HOD Character and Citizenship Education |  Mrs Zalina Zakariah-Ismael |  zalina_zakariah@moe.edu.sg |
-| HOD Information and Communication Technology |  Mr Rozaimi Bin Anas |  rozaimi_b_anas@moe.edu.sg |
-| School Staff Developer |  Mr Lee Kok Hian Mark |  lee_kok_hian@moe.edu.sg |
+|  HOD English Language<br> |  Mr Jose Paolo Boquiren <br> |  [jose_paolo_t_boquiren@moe.edu.sg](mailto:jose_paolo_t_boquiren@moe.edu.sg)<br>  |
+| HOD Mother Tongue Language |  Mdm Pamela Leck Hwee Huan |  [leck_hwee_huan@moe.edu.sg](mailto:leck_hwee_huan@moe.edu.sg) |
+| HOD Mathematics |  Mr Jeremy Tan |  [tan_keng_lim_jeremy@moe.edu.sg](mailto:tan_keng_lim_jeremy@moe.edu.sg) |
+| HOD Science |  Mdm Lee Theng Theng |  [lee_theng_theng@moe.edu.sg](mailto:lee_theng_theng@moe.edu.sg) |
+| <br>HOD Aesthetics/ Physical Education/ <br>Co-Curricular Activities |  Mr Jeffrey Tan |  [tan_kong_hui@moe.edu.sg](mailto:tan_kong_hui@moe.edu.sg) |
+| HOD Character and Citizenship Education |  Mrs Zalina Zakariah-Ismael |  [zalina_zakariah@moe.edu.sg](mailto:zalina_zakariah@moe.edu.sg) |
+| HOD Information and Communication Technology |  Mr Rozaimi Bin Anas |  [rozaimi_b_anas@moe.edu.sg](mailto:rozaimi_b_anas@moe.edu.sg) |
+| School Staff Developer |  Mr Lee Kok Hian Mark |  [lee_kok_hian@moe.edu.sg](mailto:lee_kok_hian@moe.edu.sg) |
 |
 
 #### **Subject Heads (SH)**
@@ -47,5 +47,3 @@ third_nav_title: School Staff
 
 
 #### **Administrative and Operations Team Managers**
-
-
