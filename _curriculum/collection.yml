@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - Science/Curriculum.md
-      - Science/Science.md
       - Science/.keep
+      - Science/Science.md
+      - Science/Curriculum.md
       - Aesthetics/Art.md
       - Aesthetics/Music.md
       - Aesthetics/.keep
