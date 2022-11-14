@@ -1,4 +1,5 @@
 collections:
   events-and-notices:
     output: true
-    order: []
+    order:
+      - Notices/.keep
