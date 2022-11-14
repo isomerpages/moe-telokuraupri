@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Events/.keep
+      - Notices/Catch Them Doing Right 2022.md
       - Notices/School Opening Hours on 28 Nov 2022.md
       - Notices/.keep
