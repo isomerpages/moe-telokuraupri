@@ -2,6 +2,7 @@ collections:
   partners-and-service-providers:
     output: true
     order:
+      - Student Care Centre.md
       - School Bookshop.md
       - Uniform Shop.md
       - School Bus Service.md
