@@ -4,7 +4,7 @@ permalink: /curriculum/english/curriculum/
 description: ""
 third_nav_title: English Language
 ---
-### **Curriculum**
+### **English Language**
 #### **P1**
 
 | Level | Primary 1 |
