@@ -2,6 +2,7 @@ collections:
   events-and-notices:
     output: true
     order:
+      - Events/SwimSafer Programme 2021.md
       - Events/eMTLS Online Quest.md
       - Events/.keep
       - Notices/Use of Images and Videos in Publication.md
