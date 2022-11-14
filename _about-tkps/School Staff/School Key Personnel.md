@@ -10,9 +10,9 @@ third_nav_title: School Staff
 
 | Designation | Name | Email Address |
 |---|---|---|
-| **Principal** | Ms Lau Wan Sze | [lau\_wan\_sze@schools.gov.sg](mailto:lau\_wan\_sze@schools.gov.sg) |
-| **Vice Principal** | Mdm Irene Chua | [irene\_chua@schools.gov.sg](mailto:irene\_chua@schools.gov.sg) |
-| **Vice-Principal (Administration)** | Mr Kwan Wan Hor | [kwan\_wan\_hor@schools.gov.sg](mailto:kwan\_wan\_hor@schools.gov.sg) |
+| Principal | Ms Lau Wan Sze | [lau\_wan\_sze@schools.gov.sg](mailto:lau\_wan\_sze@schools.gov.sg) |
+| Vice Principal | Mdm Irene Chua | [irene\_chua@schools.gov.sg](mailto:irene\_chua@schools.gov.sg) |
+| Vice-Principal (Administration) | Mr Kwan Wan Hor | [kwan\_wan\_hor@schools.gov.sg](mailto:kwan\_wan\_hor@schools.gov.sg) |
 |
 
 #### **Year Heads**
