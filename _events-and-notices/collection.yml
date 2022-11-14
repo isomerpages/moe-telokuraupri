@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Events/.keep
+      - Notices/Catch Them Doing Right 2021.md
       - Notices/Teachers' Day Notes of Appreciation 2021.md
       - Notices/HPB Parents Newsletter.md
       - Notices/Catch Them Doing Right 2022.md
