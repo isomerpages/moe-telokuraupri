@@ -72,10 +72,9 @@ third_nav_title: School Staff
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P6 Care | Mdm Bath<br>Mrs Karen Oh |  randeep_kaur_bath@moe.edu.sg<br>woo_shan_shan_karen@moe.edu.sg |
-|  | Mrs Karen Oh |  woo_shan_shan_karen@moe.edu.sg |
-| P6 Harmony | Mr Muhammad Reza<br>Mrs Lee Khua Hou<br>Mdm Christine Chua |  muhammad_reza@moe.edu.sg<br>lee_khuay_hou@moe.edu.sg<br>christine_chua_kah_yeen@moe.edu.sg |
-| P6 Integrity | Mr Ng Ying Hui<br>Mdm Nurul'aini |  ng_ying_hui_a@moe.edu.sg<br>nurulaini_rohani@moe.edu.sg |
-| P6 Resilience | Mrs Lee M L<br>Ms Siti Dzhawieyah Binte Suja'ee |  liew_mee_lee@moe.edu.sg<br>siti_dzhawieyah@moe.edu.sg |
-| P6 Respect | Mrs Lim Yew Hock<br>Mdm Ramlah Begam |  lim_yew_hock@moe.edu.sg<br>ramlah_begam@moe.edu.sg |
+| P6 Care | Mdm Bath<br>Mrs Karen Oh |  [randeep_kaur_bath@moe.edu.sg](mailto:randeep_kaur_bath@moe.edu.sg)<br>[woo_shan_shan_karen@moe.edu.sg](mailto:woo_shan_shan_karen@moe.edu.sg) |
+| P6 Harmony | Mr Muhammad Reza<br>Mrs Lee Khua Hou<br>Mdm Christine Chua |  [muhammad_reza@moe.edu.sg](mailto:muhammad_reza@moe.edu.sg)<br>[lee_khuay_hou@moe.edu.sg](mailto:lee_khuay_hou@moe.edu.sg)<br>[christine_chua_kah_yeen@moe.edu.sg](mailto:christine_chua_kah_yeen@moe.edu.sg) |
+| P6 Integrity | Mr Ng Ying Hui<br>Mdm Nurul'aini |  [ng_ying_hui_a@moe.edu.sg](mailto:ng_ying_hui_a@moe.edu.sg)<br>[nurulaini_rohani@moe.edu.sg](mailto:nurulaini_rohani@moe.edu.sg) |
+| P6 Resilience | Mrs Lee M L<br>Ms Siti Dzhawieyah Binte Suja'ee |  [liew_mee_lee@moe.edu.sg](mailto:liew_mee_lee@moe.edu.sg)<br>[siti_dzhawieyah@moe.edu.sg](mailto:siti_dzhawieyah@moe.edu.sg) |
+| P6 Respect | Mrs Lim Yew Hock<br>Mdm Ramlah Begam |  [lim_yew_hock@moe.edu.sg](mailto:lim_yew_hock@moe.edu.sg)<br>[ramlah_begam@moe.edu.sg](mailto:ramlah_begam@moe.edu.sg) |
 |
