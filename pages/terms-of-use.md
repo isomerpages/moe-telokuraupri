@@ -4,9 +4,9 @@ permalink: /terms-of-use/
 ---
 ### **Terms of Use**
 
-| Terms of Use |
-|:---:|
-|  |
+<figure><figcaption><strong>
+Terms of Use
+</figure></strong></figcaption>
 
 1\. Thank you for visiting [www.telokkuraupri.moe.edu.sg](https://staging.d2rlcod8p8kwg8.amplifyapp.com/). By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 
