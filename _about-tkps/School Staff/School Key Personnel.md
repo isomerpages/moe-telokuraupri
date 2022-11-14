@@ -61,7 +61,7 @@ third_nav_title: School Staff
 |Senior Teacher<br>Chinese Language |  Mrs Karen Oh |  [woo_shan_shan_karen@moe.edu.sg](mailto:woo_shan_shan_karen@moe.edu.sg) |
 | Senior Teacher<br>Malay Language<br>  |  Mdm Ramlah Begam  |  [ramlah_begam@moe.edu.sg](mailto:ramlah_begam@moe.edu.sg)  |
 | Senior Teacher<br>Malay Language |  Mr Faizal |  [faizal_b_mohamed_yusoff@moe.edu.sg](mailto:faizal_b_mohamed_yusoff@moe.edu.sg) |
-| Senior TeacherMathematics |  Mr Rodger Chua |  [chua_yew_cheong_rodger@moe.edu.sg](mailto:chua_yew_cheong_rodger@moe.edu.sg) |
+| Senior Teacher<br>Mathematics |  Mr Rodger Chua |  [chua_yew_cheong_rodger@moe.edu.sg](mailto:chua_yew_cheong_rodger@moe.edu.sg) |
 | Senior Teacher<br>Science |  Ms Goh Ya Li |  [goh_ya_li@moe.edu.sg](mailto:goh_ya_li@moe.edu.sg) |
 |  Senior Teacher<br>Social Studies |  Ms Siti Dzhawieyah Binte Suja'ee |  [siti_dzhawieyah@moe.edu.sg](mailto:siti_dzhawieyah@moe.edu.sg)  |
 | Senior Teacher<br>Physical Education |  Mr Tan Yew Heng |  [tan_yew_heng@moe.edu.sg](mailto:tan_yew_heng@moe.edu.sg) |
