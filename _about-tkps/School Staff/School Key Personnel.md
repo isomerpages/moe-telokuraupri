@@ -56,7 +56,7 @@ third_nav_title: School Staff
 | Designation | Name | Email Address |
 |---|---|---|
 | Lead Teacher<br>English Language |  Ms Chan Siew Boon |  [chan_siew_boon@moe.edu.sg](mailto:chan_siew_boon@moe.edu.sg) |
-| Senior TeacherEnglish Language |  Mrs Tan B L |  [lim_bee_leng@moe.edu.sg](mailto:lim_bee_leng@moe.edu.sg) |
+| Senior Teacher<br>English Language |  Mrs Tan B L |  [lim_bee_leng@moe.edu.sg](mailto:lim_bee_leng@moe.edu.sg) |
 | Senior Teacher<br>English Language |  Mdm Nurashikin Tohir |  [nurashikin_mohamed_tohir@moe.edu.sg](mailto:nurashikin_mohamed_tohir@moe.edu.sg) |
 |Senior Teacher<br>Chinese Language |  Mrs Karen Oh |  [woo_shan_shan_karen@moe.edu.sg](mailto:woo_shan_shan_karen@moe.edu.sg) |
 | Senior Teacher<br>Malay Language<br>  |  Mdm Ramlah Begam  |  [ramlah_begam@moe.edu.sg](mailto:ramlah_begam@moe.edu.sg)  |
