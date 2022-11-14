@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Character & Citizenship Edu/Curriculum.md
       - Character & Citizenship Edu/.keep
       - Form Teacher Guidance Period (FTGP).md
       - Information Communication Technology.md
