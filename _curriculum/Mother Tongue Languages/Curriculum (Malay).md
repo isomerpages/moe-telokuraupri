@@ -10,7 +10,7 @@ third_nav_title: Mother Tongue Languages
 **2019 Curriculum Overview**
 
 | Term | Topics to be covered |
-|:---:|---|
+|---|---|
 | 1 | Siap Sedia<br>Unit 1: Sekolah Saya<br>Unit 2: Diri Saya |
 | 2 | Unit 3: Keluarga Saya<br>Unit 4: Rakan-rakan Saya<br>Unit 5: Kegemaran Saya |
 | 3 | Unit 6: Bersiar-siar<br>Unit 7: Aktiviti Harian<br>Unit 8: Aktif Di Sekolah |
@@ -21,7 +21,7 @@ third_nav_title: Mother Tongue Languages
 **2019 Curriculum Overview**
 
 | Term | Topics to be covered |
-|:---:|---|
+|---|---|
 | 1 | Unit 1 : Peraturan Sekolah<br>Unit 2: Sihat Selalu<br>Unit 3: Saudara-mara Saya |
 | 2 | Unit 4: Masa Bersama-sama Rakan<br>Unit 5: Cerita Datuk dan Nenek<br>Unit 6: Saya ingin Menjadi … |
 | 3 | Unit 7: Pakaian<br>Unit 8: Makanan Tempatan dan Serantau<br>Unit 9: Pengembaraan Titis<br>Unit 10: Sayang Singapura |
@@ -32,7 +32,7 @@ third_nav_title: Mother Tongue Languages
 **2019 Curriculum Overview**
 
 | Term | Topics to be covered |
-|:---:|---|
+|---|---|
 | 1 | Unit 1 : Kembali Ke Sekolah<br>Unit 2: Pilihan Saya<br>Unit 3: Boleh Lakukan Sendiri |
 | 2 | Unit 4: Keluarga Ibu<br>Unit 5: Peraduan Bercerita |
 | 3 | Unit 6: Permainan Tradisional<br>Unit 7: Usaha Untuk Berjaya<br>Unit 8: Saya Sayang Akan Singapura |
@@ -43,7 +43,7 @@ third_nav_title: Mother Tongue Languages
 **2019 Curriculum Overview**
 
 | Term | Topics to be covered |
-|:---:|---|
+|---|---|
 | 1 | Unit 1: Saya Bertanggungjawab<br>Unit 2: Teknologi Di Sekolah<br>Unit 3: Pengalaman Berharga |
 | 2 | Unit 4: Suatu Masa Dahulu<br>Unit 5: Legenda Singapura<br>Persiapan Peperiksaan SA1 |
 | 3 | Unit 6: Tokoh Kita<br>Unit 7: Adab dan Sopan<br>Unit 8: Mengenali Budaya Lain |
@@ -55,7 +55,7 @@ third_nav_title: Mother Tongue Languages
 **Subject: Malay Language andHigher Mother Tongue**
 
 | Term | Topics to be covered |
-|:---:|---|
+|---|---|
 | 1 | Unit 1: Menjadi Ketua Darjah<br>Unit 2: Mari Belajar Membaca |
 | 2 | Unit 3: Jejak Budaya<br>Unit 4: Kreatif Sungguh<br>Persiapan Peperiksaan SA1 |
 | 3 | Unit 5: Bumi Kita<br>Unit 6: Indahnya Bahasa |
@@ -67,7 +67,7 @@ third_nav_title: Mother Tongue Languages
 **Subject: Malay Language**
 
 | Term | Topics to be covered |
-|:---:|---|
+|---|---|
 | 1 | Unit 1 - Bercuti sambil Beramal<br>Unit 2- Cerita Rakyat |
 | 2 | Unit 3- Sains dan Kita<br>Unit 4 - Penyiasat Cilik<br>Persiapan Peperiksaan SA1 |
 | 3 | Unit 5: Kita Istimewa<br>Unit 6: Berita Semasa<br>Unit 7: Pencipta dan Ciptaan<br>Unit 8: Tempat Jatuh Lagi Dikenang |
@@ -77,7 +77,7 @@ third_nav_title: Mother Tongue Languages
 **Subject: Higher Malay Language**
 
 | Term | Topics to be covered |
-|:---:|---|
+|---|---|
 | 1 | Unit 1: Percutian di Pulau Langkawi<br>Unit 2: Cerita Rakyat |
 | 2 | Unit 3: Silap Mata<br>Latihan Pengukuhan 1<br>Persiapan Peperiksaan SA1 |
 | 3 | Unit 4: Keistimewaan Haiwan<br>Unit 5: Tidak Kenal Maka Tidak Cinta<br>Unit 6: Nama Yang Dikenang |
@@ -87,10 +87,9 @@ third_nav_title: Mother Tongue Languages
 **Subject: Foundation Malay Language**
 
 | Term | Topics to be covered |
-|:---:|---|
+|---|---|
 | 1 | Unit 1: Makan Angin<br>Unit 2: Gagak, Oh, Gagak! |
 | 2 | Unit 3: Keajaiban Sains<br>Persiapan Peperiksaan SA1 |
 | 3 | Unit 4: Kami Istimewa<br>Unit 5: Berita Semasa |
 | 4 | Unit 6: Tokoh Dunia<br>Persiapan Peperiksaan PSLE<br>Aktiviti Pos-PSLE |
 |
-
