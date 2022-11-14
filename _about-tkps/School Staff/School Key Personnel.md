@@ -40,7 +40,16 @@ third_nav_title: School Staff
 
 #### **Subject Heads (SH)**
 
-
+| Designation | Name | Email Address |
+|:---:|:---:|:---:|
+| SH Chinese Language |  Mdm Melody Tan |  [tan_puay_oon_melody@moe.edu.sg](mailto:tan_puay_oon_melody@moe.edu.sg) |
+| SH Co-Curricular Activities |  Mrs Thio-Kooh Yong Tse |  [kooh_yong_tse@moe.edu.sg](mailto:kooh_yong_tse@moe.edu.sg) |
+| SH Citizenship Education |  Mdm Christine Chua |  [christine_chua_kah_yeen@moe.edu.sg](mailto:christine_chua_kah_yeen@moe.edu.sg) |
+| SH Information and Communication Technology and Applied Learning Programme |  Mr Muhammad Reza |  [muhammad_reza@moe.edu.sg](mailto:muhammad_reza@moe.edu.sg) |
+| SH Cyber Wellness & Media Literacy |  Mdm Safiah Bte Arshad |  [safiah_arshad@moe.edu.sg](mailto:safiah_arshad@moe.edu.sg) |
+| SH Student Well Being |  Mdm Liew Hwee Hong |  [liew_hwee_hong@moe.edu.sg](mailto:liew_hwee_hong@moe.edu.sg) |
+| SH Student Management |  Mr Shaharzad |  [shaharzad_b_kasman@moe.edu.sg](mailto:shaharzad_b_kasman@moe.edu.sg) |
+|
 
 #### **Teacher Leaders**
 
