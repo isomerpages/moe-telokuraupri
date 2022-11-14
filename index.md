@@ -8,15 +8,18 @@ notification: ""
 sections:
   - hero:
       title: Telok Kurau Primary School
-      background: /images/hero-banner.png
+      background: /images/hero.gif
       url: /contact-us/
       key_highlights:
         - title: Achievements
           description: ""
           url: /achievements/recent/
-        - title: Events and Notices
+        - title: Events
           description: ""
           url: /events-and-notices/
+        - title: Notices
+          description: ""
+          url: /notices/
   - infobar:
       title: TKPS Open House
       subtitle: Telok Kurau Primary School
