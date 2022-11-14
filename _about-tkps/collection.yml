@@ -2,6 +2,7 @@ collections:
   about-tkps:
     output: true
     order:
+      - School History.md
       - TKPS Featured/.keep
       - School Staff/.keep
       - School Crest.md
