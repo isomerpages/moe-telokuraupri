@@ -38,7 +38,13 @@ third_nav_title: Mathematics
 
 #### **P4**
 
-
+| Term | Topics Covered |
+|:---:|---|
+| Term 1 | 1.Whole Numbers:Numbers up to 100000<br>2.Factors and multiples<br>3.Multiplication and Division<br>4.Angles |
+| Term 2 | 5.Line Symmetry<br>6.Geometrical Figures<br>7.Fractions |
+| Term 3 | 8.Decimals<br>9.The Four Operations of Decimals<br>10.Area and Perimeter<br>11.Fractions (Word Problems) |
+| Term 4 | 12.Tables and Graphs<br>13.Time |
+|
 
 #### **P5**
 
