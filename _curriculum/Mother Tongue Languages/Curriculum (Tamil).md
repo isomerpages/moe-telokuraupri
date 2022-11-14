@@ -74,3 +74,23 @@ Subject: Tamil Language**
 |
 
 #### **P6**
+**2019 Curriculum Overview**<br>
+**Subject: Tamil Language**
+
+|  |  |
+|:---:|---|
+| Term 1 |  |
+| Term 2 |  |
+| Term 3 |  |
+| Term 4 |  |
+|
+
+**Subject: Higher Tamil Language**
+
+|  |  |
+|:---:|---|
+| Term 1 |  |
+| Term 2 |  |
+| Term 3 |  |
+| Term 4 |  |
+|
