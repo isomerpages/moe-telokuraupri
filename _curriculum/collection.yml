@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Science/.keep
-      - Science.md
       - Aesthetics/Art.md
       - Aesthetics/Music.md
       - Aesthetics/.keep
