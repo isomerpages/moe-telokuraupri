@@ -7,7 +7,9 @@ description: ""
 
 <img src="/images/principal1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-A very warm welcome to the Telok Kurau Primary School (TKPS) website! Whether you are here as a student, parent, alumni of the school, or just browsing, I hope that we are able to provide a good overview of the school, insights into school life at TKPS and some ideas about what makes TKPS unique for its many stakeholders.
+<br>A very warm welcome to the Telok Kurau Primary School (TKPS) website! Whether you are here as a student, parent, alumni of the school, or just browsing, I hope that we are able to provide a good overview of the school, insights into school life at TKPS and some ideas about what makes TKPS unique for its many stakeholders.
+
+<br clear="left">
 
 First and foremost, some updates about the school in 2021. To mark our 95th birthday in 2021, we worked with local artist Lee Xin Li to create a beautiful mural depicting the different stages of development the school has undergone, starting from its humble beginnings as a rural school in a coconut plantation in 1926. It was here that late former Prime Minister Mr Lee Kuan Yew and the late former Malaysian Prime Minister Datuk Hussein Onn studied. The school moved locations and joined with other schools, before finally becoming Telok Kurau Primary School in 1985.
 
