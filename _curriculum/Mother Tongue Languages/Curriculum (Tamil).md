@@ -4,7 +4,7 @@ permalink: /curriculum/mother-tongue-language/curriculum/tamil/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-### **Tamil Language**
+### **Tamil Language Curriculum**
 
 #### **P1**
 **2019 Curriculum Overview**
