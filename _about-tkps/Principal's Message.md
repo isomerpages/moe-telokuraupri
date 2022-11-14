@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Principal's Message**
 
-<img src="/images/principal1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/principal1.jpg" style="width:25%;margin-right:15px;" align = "left">
 
 <br>A very warm welcome to the Telok Kurau Primary School (TKPS) website! Whether you are here as a student, parent, alumni of the school, or just browsing, I hope that we are able to provide a good overview of the school, insights into school life at TKPS and some ideas about what makes TKPS unique for its many stakeholders.
 
