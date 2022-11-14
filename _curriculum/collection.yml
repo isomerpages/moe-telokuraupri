@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Aesthetics/Music.md
       - Aesthetics/.keep
       - Physical Education (PE).md
       - Programme for Active Learning (PAL).md
