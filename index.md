@@ -35,5 +35,10 @@ sections:
       url: https://for.edu.sg/tkpsopenhouse2022
       image: /images/openhouseqr.jpeg
       alt: Image alt text
+  - infobar:
+      title: TKPS Instagram
+      subtitle: Telok Kurau Primary School
+      description: Keep in touch with us!
+      button: find out more
+      url: https://www.instagram.com/telokkuraupri.official/
 ---
-
