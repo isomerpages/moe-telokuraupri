@@ -40,10 +40,10 @@ third_nav_title: Mathematics
 
 | Term | Topics Covered |
 |:---:|---|
-| Term 1 | 1.Whole Numbers:Numbers up to 100000<br>2.Factors and multiples<br>3.Multiplication and Division<br>4.Angles |
-| Term 2 | 5.Line Symmetry<br>6.Geometrical Figures<br>7.Fractions |
-| Term 3 | 8.Decimals<br>9.The Four Operations of Decimals<br>10.Area and Perimeter<br>11.Fractions (Word Problems) |
-| Term 4 | 12.Tables and Graphs<br>13.Time |
+| Term 1 | 1. Whole Numbers:Numbers up to 100000<br>2. Factors and multiples<br>3. Multiplication and Division<br>4. Angles |
+| Term 2 | 5. Line Symmetry<br>6. Geometrical Figures<br>7. Fractions |
+| Term 3 | 8. Decimals<br>9. The Four Operations of Decimals<br>10. Area and Perimeter<br>11. Fractions (Word Problems) |
+| Term 4 | 12. Tables and Graphs<br>13. Time |
 |
 
 #### **P5**
@@ -51,20 +51,20 @@ third_nav_title: Mathematics
 
 | Term | Topics Covered |
 |:---:|---|
-| Term 1 | 1.Whole Numbers:up to 10 Million & Four Operations<br>2.Fractions<br>3.Decimals |
-| Term 2 | 4.Area of Triangle<br>5.Ratio<br>6.Volume of Cubes and Cuboids |
-| Term 3 | 7.Decimals<br>8.Average<br>9.Percentage<br>10.Rate |
-| Term 4 | 11.Angles<br>12.Properties of Triangles & 4-sided figures<br>13.Volume of cube and cuboids |
+| Term 1 | 1. Whole Numbers:up to 10 Million & Four Operations<br>2. Fractions<br>3. Decimals |
+| Term 2 | 4. Area of Triangle<br>5. Ratio<br>6. Volume of Cubes and Cuboids |
+| Term 3 | 7. Decimals<br>8. Average<br>9. Percentage<br>10. Rate |
+| Term 4 | 11. Angles<br>12. Properties of Triangles & 4-sided figures<br>13. Volume of cube and cuboids |
 |
 
 **Foundation Mathematics**
 
 | Term | Topics Covered |
 |:---:|---|
-| Term 1 | 1.Whole Numbers up to 10 Million and four operations<br>2.Factors and Multiples |
-| Term 2 | 1.Fractions<br>2.Geometry |
-| Term 3 | 1.Fractions<br>2.Decimals<br>3.Time |
-| Term 4 | 1.Perimeter,Area and Volume<br>2.Rate<br>3.Tables and Graphs |
+| Term 1 | 1. Whole Numbers up to 10 Million and four operations<br>2. Factors and Multiples |
+| Term 2 | 1. Fractions<br>2. Geometry |
+| Term 3 | 1. Fractions<br>2. Decimals<br>3. Time |
+| Term 4 | 1. Perimeter,Area and Volume<br>2. Rate<br>3. Tables and Graphs |
 |
 
 #### **P6**
@@ -72,9 +72,9 @@ third_nav_title: Mathematics
 
 | Term | Topics Covered |
 |:---:|---|
-| Term 1 | 1.Angles in Geometric Figures<br>2.Fractions<br>3.Ratio<br>4.Percentage<br>5.Speed |
-| Term 2 | 6.Speed<br>7.Circles<br>8.Volumes of cubes and cuboid |
-| Term 3 | 9.Pie Charts<br>10.Algebra<br>11.Nets |
+| Term 1 | 1. Angles in Geometric Figures<br>2. Fractions<br>3. Ratio<br>4. Percentage<br>5. Speed |
+| Term 2 | 6. Speed<br>7. Circles<br>8. Volumes of cubes and cuboid |
+| Term 3 | 9. Pie Charts<br>10. Algebra<br>11. Nets |
 | Term 4 | Revision |
 |
 
@@ -82,8 +82,8 @@ third_nav_title: Mathematics
 
 | Term | Topics Covered |
 |:---:|---|
-| Term 1 | 1.Fraction and Decimals<br>2.Applications of Whole Numbers, Fractions and Decimals |
-| Term 2 | 3.Percentage<br>4.Pie Charts |
-| Term 3 | 5.Volume of cubes and cuboid<br>6.Geometry (triangles)<br>7.Area (Area of triangles) |
+| Term 1 | 1. Fraction and Decimals<br>2. Applications of Whole Numbers, Fractions and Decimals |
+| Term 2 | 3. Percentage<br>4. Pie Charts |
+| Term 3 | 5. Volume of cubes and cuboid<br>6. Geometry (triangles)<br>7. Area (Area of triangles) |
 | Term 4 | Revision |
 |
