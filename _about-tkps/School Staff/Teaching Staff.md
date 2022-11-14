@@ -30,31 +30,113 @@ third_nav_title: School Staff
 
 ##### **Chinese Language / CCE (CL)**
 
+|  |  |
+|---|---|
+|  Mdm Pamela Leck Hwee Huan |  Mdm Faith Seah |
+|  Mrs Karen Oh |  Mdm Shen Huijie |
+|  Mdm Christine Chua |  Mdm Mandy Chan |
+|  Mdm Melody Tan |  Ms Choo Siok Hui <br> |
+|  Ms Wu Ling |  Mrs Ong Wan Sien |
+|  Mdm Yeow Yun Hui |  |
+| 
 
 ##### **Malay Language / CCE (ML)**
 
+|  |  |
+|---|---|
+| Mdm Ramlah Begam | Mdm Juhaidah M.Amin |
+|  Mr Faizal |  Mdm Naime |
+|  Ms Norita |  Mdm Kartini |
+|  Mr Mohamed Hisham |  Mdm Arni |
+|  Mdm Salehati |  |
+|
 
 ##### **Tamil Language / CCE (TL)**
 
+|  |
+|---|
+| Mrs Nalini Raj |
+|  Mrs Ramesh Eswari |
+|  Mdm Sathya |
+| 
 
 ##### **Mathematics**
 
+|  |  |
+|---|---|
+|  Mr Jeremy Tan |  Mr Robin Lim  |
+|  Mr Rodger Chua |  Mrs Veronica Tan |
+|  Mdm Huda |  Ms Goh Ya Li |
+|  Mdm Yeong Wei Syn |  Mdm Stephanie Tan |
+|  Mdm Yeo Hwee Bin |  Mr Kenneth Wong |
+|  Mrs Jennifer Loy |  Mdm Liew Hwee Hong |
+|  Ms Hwee Yuet Ying |  Mr Shawn Lee |
+|  Mdm Safiah Bte Arshad |  Mrs Lee M L |
+|  Mdm Kua Shimin |  Mr Ng Ying Hui |
+|  Ms Haryati Bte Mohamed  |  Mr Muhammad Reza |
+|  Ms Tham Sau Ngor |  Mrs Lee Khuay Hou |
+|  Mdm Yip Weng Ee |  Mrs Quay-Hoe Belinda  |
+|
 
 ##### **Science**
 
+|  |  |
+|---|---|
+|  Mrs Koh Theng Theng |  Mr Kenneth Wong |
+|  Ms Goh Ya Li |  Mr Ng Ying Hui  |
+|  Miss Liana Binte Aziz |  Mrs Lee Mee Lee |
+|  Mdm Yeong Wei Syn |  Mr Shaharzad  |
+|  Ms Abigail Choo |  Mr Rodger Chua<br> |
+|  Mdm Sheeba  |  Ms Tham Sau Ngor   |
+|  Mrs Tan W L |  |
+|
 
 ##### **Art**
 
+|  |
+|---|
+| Mdm Aznizah Aris |
+|  Mr Mark Lee Kok Hian |
+|  Mdm Nurul’aini |
+|  Mr Mark Chang |
+|
 
 ##### **Music**
 
+|  |
+|---|
+| Mrs Quay-Hoe Belinda |
+|  Miss Sandy Soh |
+|  Mrs Dulcy John |
+|  Mrs Lydia Neo  |
+|
 
 ##### **Physical Education**
 
+|  |  |
+|---|---|
+|  Mr Jeffrey Tan | Mr Robin Lim |
+|  Mr Tan Yew Heng |  Mr Chua Cheow Teck |
+|  Mrs Thio-Kooh Yong Tse |  Mr Shawn Lee |
+|
 
 ##### **Social Studies**
 
+|  |  |
+|---|---|
+|  Mrs Zalina Zakariah-Ismael |  Mdm Bath |
+|  Ms Siti Dzhawieyah Binte Suja'ee |  Ms Susan Goh |
+|  Mdm Kasrina Rahaini Bte Rahmat |  Mdm Linda Kwek |
+|  Mdm Tan Teck Ngee |  Mr Rozaimi Bin Anas |
+|  Ms Chan Siew Boon |  Ms Abigail Choo<br> |
+|  Mdm Hafizah Ansari |  Ms Aw Han Chin Kwang |
+|
 
 ##### **CCE (EL)**
 
-
+|  |  |
+|---|---|
+|  Ms Siti Dzhawieyah Binte Suja'ee | Mdm Safiah Bte Arshad<br> |
+|  Mdm Kasrina Rahaini Bte Rahmat |  Mdm Juhaidah Amin <br> |
+|  Mdm Stephanie Tan |  Mdm Brenda Lee |
+|
