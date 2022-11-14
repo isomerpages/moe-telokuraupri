@@ -1,4 +1,5 @@
 collections:
   about-tkps:
     output: true
-    order: []
+    order:
+      - School Information/.keep
