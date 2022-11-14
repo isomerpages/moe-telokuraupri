@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Events/.keep
+      - Notices/MOE Financial Assistance Scheme (FAS) 2021.md
       - Notices/Catch Them Doing Right 2021.md
       - Notices/Teachers' Day Notes of Appreciation 2021.md
       - Notices/HPB Parents Newsletter.md
