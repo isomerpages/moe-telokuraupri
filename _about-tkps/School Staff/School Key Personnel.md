@@ -69,3 +69,9 @@ third_nav_title: School Staff
 |
 
 #### **Administrative and Operations Team Managers**
+
+| Designation | Name | Email Address |
+|:---:|:---:|:---:|
+| Administration Manager |  Ms Manju |  [chatlani_manju_murli@schools.gov.sg](mailto:chatlani_manju_murli@schools.gov.sg) |
+| Operations Manager |  Mr Teo Kian Yeow |  [teo_kian_yeow@moe.edu.sg](mailto:teo_kian_yeow@moe.edu.sg) |
+|
