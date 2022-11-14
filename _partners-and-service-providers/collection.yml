@@ -2,5 +2,6 @@ collections:
   partners-and-service-providers:
     output: true
     order:
+      - Uniform Shop.md
       - School Bus Service.md
       - Dental Service.md
