@@ -34,11 +34,27 @@ third_nav_title: School Staff
 
 #### **Primary 3**
 
-
+| Class | Name of Teacher | Email Address |
+|---|---|---|
+| P3 Care |  Mdm Kua Shimin |  kua_shimin_ke_shimin@moe.edu.sg |
+| P3 Harmony |  Ms Hafizah Ansari<br>Mdm Liew Hwee Hong |  hafizah_bee_ansari@moe.edu.sg<br>liew_hwee_hong@moe.edu.sg |
+| P3 Integrity |  Miss Abigail Choo |  abigail_choo_ru_yi@moe.edu.sg |
+| P3 Resilience |  Mr Kenneth Wong<br>Mdm Melody Tan |  kenneth_wong_cher_jian@moe.edu.sg<br>tan_puay_oon_melody@moe.edu.sg |
+| P3 Responsibility |  Mdm Sheeba |  sheeba_balakrishnan@moe.edu.sg |
+| P3 Respect |  Mdm Faith Seah |  seah_xuyu@moe.edu.sg |
+|
 
 #### **Primary 4**
 
-
+| Class | Name of Teacher | Email Address |
+|---|---|---|
+| P4 Care |  Ms Goh Ya Li <br>Mr Mohamed Hisham |  goh_ya_li@moe.edu.sg<br>mohamed_hisham_salim@moe.edu.sg |
+| P4 Harmony |  Mdm Stephanie Tan<br>Mrs Nalani Raj |  tan_jin_jun@moe.edu.sg<br>nalaniammah_rajenthiran@moe.edu.sg |
+| P4 Integrity |  Ms Choo Siok Hui<br>Ms Tham Sau Ngor |  choo_siok_hui@moe.edu.sg<br>tham_sau_ngor@moe.edu.sg |
+| P4 Resilience |  Mrs Tan W L<br>Mdm Huda |  tan_wei_ling@moe.edu.sg<br>siti_nurulhuda_said@moe.edu.sg |
+| P4 Respect |  Mdm Juhaidah Amin <br>Mr Tan Yew Heng |  juhaidah_amin@moe.edu.sg<br>tan_yew_heng@moe.edu.sg |
+| P4 Responsibility |  Mdm Salehati |  salehati_md_salleh@moe.edu.sg |
+|
 
 #### **Primary 5**
 
