@@ -68,3 +68,22 @@ third_nav_title: Mathematics
 |
 
 #### **P6**
+**Standard Mathematics**
+
+| Term | Topics Covered |
+|:---:|---|
+| Term 1 | 1.Angles in Geometric Figures<br>2.Fractions<br>3.Ratio<br>4.Percentage<br>5.Speed |
+| Term 2 | 6.Speed<br>7.Circles<br>8.Volumes of cubes and cuboid |
+| Term 3 | 9.Pie Charts<br>10.Algebra<br>11.Nets |
+| Term 4 | Revision |
+|
+
+**Foundation Mathematics**
+
+| Term | Topics Covered |
+|:---:|---|
+| Term 1 | 1.Fraction and Decimals<br>2.Applications of Whole Numbers, Fractions and Decimals |
+| Term 2 | 3.Percentage<br>4.Pie Charts |
+| Term 3 | 5.Volume of cubes and cuboid<br>6.Geometry (triangles)<br>7.Area (Area of triangles) |
+| Term 4 | Revision |
+|
