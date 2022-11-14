@@ -36,12 +36,12 @@ third_nav_title: School Staff
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P3 Care |  Mdm Kua Shimin |  kua_shimin_ke_shimin@moe.edu.sg |
-| P3 Harmony |  Ms Hafizah Ansari<br>Mdm Liew Hwee Hong |  hafizah_bee_ansari@moe.edu.sg<br>liew_hwee_hong@moe.edu.sg |
-| P3 Integrity |  Miss Abigail Choo |  abigail_choo_ru_yi@moe.edu.sg |
-| P3 Resilience |  Mr Kenneth Wong<br>Mdm Melody Tan |  kenneth_wong_cher_jian@moe.edu.sg<br>tan_puay_oon_melody@moe.edu.sg |
-| P3 Responsibility |  Mdm Sheeba |  sheeba_balakrishnan@moe.edu.sg |
-| P3 Respect |  Mdm Faith Seah |  seah_xuyu@moe.edu.sg |
+| P3 Care |  Mdm Kua Shimin |  [kua_shimin_ke_shimin@moe.edu.sg](mailto:kua_shimin_ke_shimin@moe.edu.sg) |
+| P3 Harmony |  Ms Hafizah Ansari<br>Mdm Liew Hwee Hong |  [hafizah_bee_ansari@moe.edu.sg](mailto:hafizah_bee_ansari@moe.edu.sg)<br>[liew_hwee_hong@moe.edu.sg](mailto:liew_hwee_hong@moe.edu.sg) |
+| P3 Integrity |  Miss Abigail Choo |  [abigail_choo_ru_yi@moe.edu.sg](mailto:abigail_choo_ru_yi@moe.edu.sg) |
+| P3 Resilience |  Mr Kenneth Wong<br>Mdm Melody Tan |  [kenneth_wong_cher_jian@moe.edu.sg](mailto:kenneth_wong_cher_jian@moe.edu.sg)<br>[tan_puay_oon_melody@moe.edu.sg](mailto:tan_puay_oon_melody@moe.edu.sg) |
+| P3 Responsibility |  Mdm Sheeba |  [sheeba_balakrishnan@moe.edu.sg](mailto:sheeba_balakrishnan@moe.edu.sg) |
+| P3 Respect |  Mdm Faith Seah |  [seah_xuyu@moe.edu.sg](mailto:seah_xuyu@moe.edu.sg) |
 |
 
 #### **Primary 4**
