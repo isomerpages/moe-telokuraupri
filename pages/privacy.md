@@ -4,9 +4,9 @@ permalink: /privacy/
 ---
 ### **Privacy Statement**
 
-| Telok Kurau Primary School PRIVACY STATEMENT |
-|:---:|
-|  |
+<figure><figcaption><strong>
+Telok Kurau Primary School PRIVACY STATEMENT
+</figure></strong></figcaption>
 
 1\. This is a Telok Kurau Primary School website. Thank you for examining our privacy statement.  
   
