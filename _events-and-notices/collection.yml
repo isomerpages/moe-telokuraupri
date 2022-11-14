@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Events/.keep
+      - Notices/Use of Images and Videos in Publication.md
       - Notices/ECHA Nomination 2022.md
       - Notices/Name Tags 2022.md
       - Notices/MOE Financial Assistance Scheme (FAS) 2021.md
