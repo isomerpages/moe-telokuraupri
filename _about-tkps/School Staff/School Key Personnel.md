@@ -32,7 +32,7 @@ third_nav_title: School Staff
 | HOD Mother Tongue Language |  Mdm Pamela Leck Hwee Huan |  [leck_hwee_huan@moe.edu.sg](mailto:leck_hwee_huan@moe.edu.sg) |
 | HOD Mathematics |  Mr Jeremy Tan |  [tan_keng_lim_jeremy@moe.edu.sg](mailto:tan_keng_lim_jeremy@moe.edu.sg) |
 | HOD Science |  Mdm Lee Theng Theng |  [lee_theng_theng@moe.edu.sg](mailto:lee_theng_theng@moe.edu.sg) |
-| <br>HOD Aesthetics/ Physical Education/ <br>Co-Curricular Activities |  Mr Jeffrey Tan |  [tan_kong_hui@moe.edu.sg](mailto:tan_kong_hui@moe.edu.sg) |
+| HOD Aesthetics/ Physical Education/ <br>Co-Curricular Activities |  Mr Jeffrey Tan |  [tan_kong_hui@moe.edu.sg](mailto:tan_kong_hui@moe.edu.sg) |
 | HOD Character and Citizenship Education |  Mrs Zalina Zakariah-Ismael |  [zalina_zakariah@moe.edu.sg](mailto:zalina_zakariah@moe.edu.sg) |
 | HOD Information and Communication Technology |  Mr Rozaimi Bin Anas |  [rozaimi_b_anas@moe.edu.sg](mailto:rozaimi_b_anas@moe.edu.sg) |
 | School Staff Developer |  Mr Lee Kok Hian Mark |  [lee_kok_hian@moe.edu.sg](mailto:lee_kok_hian@moe.edu.sg) |
@@ -53,6 +53,19 @@ third_nav_title: School Staff
 
 #### **Teacher Leaders**
 
-
+| Designation | Name | Email Address |
+|:---:|:---:|:---:|
+| Lead Teacher<br>English Language |  Ms Chan Siew Boon |  [chan_siew_boon@moe.edu.sg](mailto:chan_siew_boon@moe.edu.sg) |
+| Senior TeacherEnglish Language |  Mrs Tan B L |  [lim_bee_leng@moe.edu.sg](mailto:lim_bee_leng@moe.edu.sg) |
+| Senior Teacher<br>English Language |  Mdm Nurashikin Tohir |  [nurashikin_mohamed_tohir@moe.edu.sg](mailto:nurashikin_mohamed_tohir@moe.edu.sg) |
+|Senior Teacher<br>Chinese Language |  Mrs Karen Oh |  [woo_shan_shan_karen@moe.edu.sg](mailto:woo_shan_shan_karen@moe.edu.sg) |
+| Senior Teacher<br>Malay Language<br>  |  Mdm Ramlah Begam  |  [ramlah_begam@moe.edu.sg](mailto:ramlah_begam@moe.edu.sg)  |
+| Senior Teacher<br>Malay Language |  Mr Faizal |  [faizal_b_mohamed_yusoff@moe.edu.sg](mailto:faizal_b_mohamed_yusoff@moe.edu.sg) |
+| Senior TeacherMathematics |  Mr Rodger Chua |  [chua_yew_cheong_rodger@moe.edu.sg](mailto:chua_yew_cheong_rodger@moe.edu.sg) |
+| Senior Teacher<br>Science |  Ms Goh Ya Li |  [goh_ya_li@moe.edu.sg](mailto:goh_ya_li@moe.edu.sg) |
+|  Senior Teacher<br>Social Studies |  Ms Siti Dzhawieyah Binte Suja'ee |  [siti_dzhawieyah@moe.edu.sg](mailto:siti_dzhawieyah@moe.edu.sg)  |
+| Senior Teacher<br>Physical Education |  Mr Tan Yew Heng |  [tan_yew_heng@moe.edu.sg](mailto:tan_yew_heng@moe.edu.sg) |
+| Senior Teacher<br>Special Education Needs |  Mdm Quek Sr Ling |  [quek_sr_ling@moe.edu.sg](mailto:quek_sr_ling@moe.edu.sg) |
+|
 
 #### **Administrative and Operations Team Managers**
