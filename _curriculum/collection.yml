@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Future Problem Solving Programme (FPSP).md
       - Growing Years Series (GYS).md
       - Environment Education.md
