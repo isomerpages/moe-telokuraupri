@@ -1,0 +1,4 @@
+collections:
+  partners-and-service-providers:
+    output: true
+    order: []
