@@ -1,2 +1,10 @@
 logo: /images/isomer-logo.svg
-links: []
+links:
+  - title: About TKPS
+    collection: about-tkps
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curricular Activities (CCA)
+    collection: co-curricular-activities
+  - title: Partners and Service Providers
+    collection: partners-and-service-providers
