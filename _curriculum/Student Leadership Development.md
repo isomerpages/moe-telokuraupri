@@ -22,7 +22,7 @@ Student leadership in TKPS entails having the confidence to take the initiative 
 While incidental leadership learning can occur across all platforms, only intentional student leadership development will ensure all students are equipped with the requisite competencies for effective leadership. TKPS is intentional about designing and delivering SLD programmes that provide differentiated leadership development for students according to student capacity and interest.
 
 #### **Student Leadership Development (SLD) Framework @ TKPS**
-<img src="/images/studentleadership2.jpg" style="width:65%">
+<img src="/images/studentleadership2.jpg" style="width:75%">
 
 SLD Framework @TKPS is comprises three strategic focuses – leading self, leading peers and leading teams. SLD@TKPS serves like a compass of values which provides multiple avenues for students to explore their everyday experiences, discover their strengths, test their limits, engage in reflection and eventually develop their leadership skills from within. This process enables student leaders to navigate and discover their true north that leads them to the rainbow of true leadership. The rainbow represents a spectrum of leadership competencies which students can develop and become student leaders who can proactively strive to make a positive difference within their sphere of influence. As a result, student leaders form the pillars of the school. Ultimately, SLD@TKPS aims to develop student leaders to be a **_TRUE_** leader who are able to _**T**_ hink critically, _**R**_  eflect to develop greater _**U**_ nderstanding and _**E**_ ncourage others to be active contributors.
 
