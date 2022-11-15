@@ -8,7 +8,7 @@ description: ""
 **2019**
 
 | Category | Competition / Event | Achievement |
-|:---:|---|---|
+|:---:|:---:|:---:|
 | Cognitive | FPSP GIPS 2019 National Finals (Team) | Finalist:<br>Certificate of Honorable Mention<br>Action Plan Presentation<br>(Junior Division) Champion |
 | Cognitive  | FPSP GIPS 2019 National Finals (Alternatives)  | Certificate of Excellence<br>  |
 |  Cognitive | Sudoku Challenge 2019 by Yuying Sec Sch | 3rd Position, 6th Position <br> |
@@ -25,7 +25,7 @@ description: ""
 **CCA Achievements (2019)**
 
 | Category | Competition / Event | Achievement |
-|:---:|---|---|
+|:---:|:---:|:---:|
 | Physical | National School Games Junior Division 3x3 Basketball (Junior Boys) | 1st Team Placing (Tier 1) |
 | Physical | East Zone Primary Schools Basketball Championship (Senior Boys) | 4th Team Placing |
 | Physical | National Primary Schools Basketball Championship 2019 (Senior Boys) | Top 16th |
