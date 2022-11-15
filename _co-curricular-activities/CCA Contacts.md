@@ -21,7 +21,7 @@ description: ""
 | Miss Vivian Tan | [tan_wan_teng_vivian@moe.edu.sg](mailto:tan_wan_teng_vivian@moe.edu.sg) |
 |
 
-##### **Football**
+**Football**
 
 | Name | Email Address |
 |:---:|:---:|
@@ -40,10 +40,38 @@ description: ""
 
 #### **Clubs and Societies**
 
+**Robotics**
+
+
+
+**Arts and Crafts**
+
 
 
 #### **Visual and Performing Arts**
+**Chinese Dance**
+
+
+**Malay Dance**
+
+
+**Indian Dance**
+
+
+**Lion Dance**
+
+
+**Choir**
+
+
+**Guzheng Ensemble**
 
 
 
 #### **Uniformed Groups**
+**Scouts**
+
+
+**Girl Guides (Brownies)**
+
+
