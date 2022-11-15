@@ -118,7 +118,7 @@ description: ""
 
 | Award | Award Recipients |
 |:---:|---|
-| MOE Service Excellence Award (MSEA) | **Gold Award**<br>1. Miss Sandy Soh<br>**Silver Award**<br>1. Ms Chan Siew Boon<br>2. Mr Mark Chang<br>3. Mdm Pamela Leck Hwee Huan<br>4. Mrs Lim Yew Hock<br>5. Mdm Rashidah Binte Mohamad Yusop<br>6. Mdm Shen Huijie<br>7. Miss Joanne Tan<br>8. Mr Tan Yew Heng<br>9. Mrs Tan B L<br>10. Ms Wu Ling<br>11. Mrs Zalina Zakaria - Ismael  |
+| MOE Service Excellence Award (MSEA) | **Gold Award**<br>1. Miss Sandy Soh<br><br>**Silver Award**<br>1. Ms Chan Siew Boon<br>2. Mr Mark Chang<br>3. Mdm Pamela Leck Hwee Huan<br>4. Mrs Lim Yew Hock<br>5. Mdm Rashidah Binte Mohamad Yusop<br>6. Mdm Shen Huijie<br>7. Miss Joanne Tan<br>8. Mr Tan Yew Heng<br>9. Mrs Tan B L<br>10. Ms Wu Ling<br>11. Mrs Zalina Zakaria - Ismael  |
 | Palm Leaf Award |  **Bronze Award**<br> Mdm Raihanah Binte Mohamed |
 |  National Day Awards 2020<br>The Public Administration Medal (Bronze) | **Bronze Medal**<br>Mdm Irene Chua Wan Ling  |
 |
