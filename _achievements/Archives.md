@@ -19,9 +19,8 @@ description: ""
 
 **2015**
 
-|  |  |
-|:---:|---|
 | Award | Staff Name |
+|:---:|---|
 | National Day Award Commendation Award | Mdm Ramlah Begum |
 | Arif Budiman Award (Motivation Category) | Mdm Marliana Bte Mohamed Rashid |
 | MOE Service Excellence Award (MSEA) | Ms Manju Chatlani Murli |
@@ -29,9 +28,8 @@ description: ""
 
 **2014**
 
-|  |  |
-|:---:|---|
 | Award | Staff Name |
+|:---:|---|
 | Caring Teacher Award | 1. Mr Chua Yew Cheong Rodger<br>2. Mrs Lim Yew Hock<br>3. Ms Eileen Chin<br>4. Mdm Nurashikin Bte Mohd Tohir<br>5. Mdm Linda kwek Li Hiang |
 | Academy award for PD | 1. Ms Chan Siew Boon<br>2. Mdm Tan Ying Fong |
 | MOE Service Excellence Award (MSEA) | Mdm Goh Koon Yen |
@@ -39,18 +37,16 @@ description: ""
 
 **2013**
 
-|  |  |
-|:---:|---|
 | Award | Staff Name |
+|:---:|---|
 | National Day Award Commendation Award | Mdm Rezina Khan |
 | MOE Service Excellence Award (MSEA) | Ms Manju Chatlani Murli |
 |
 
 **2012**
 
-|  |  |
-|:---:|---|
 | Award | Staff Name |
+|:---:|---|
 | Caring Teacher Award | 1. Mrs Lim Yew Hock<br>2. Mr Faizal Bin Mohamed Yusoff<br>3. Tan Ying Fong<br>4. Mdm Salehati Bte Md Salleh<br>5. Mdm Leck Hwee Huan |
 | President Teachers’ Award | Mdm Tan Ying Fong |
 | National Day Award Commendation Award | Mr Lee Kok Hian |
@@ -59,9 +55,8 @@ description: ""
 
 **2011**
 
-|  |  |
-|:---:|---|
 | Award | Staff Name |
+|:---:|---|
 | MOE Service Excellence Award (MSEA) | 1. Mdm Evelyn Yap Poh Kwee<br>2. Mdm Tahira Bibi d/o Abdul Rahman<br>3. Mr Rudolph Yap<br>4. Mdm Rokeah Bte Abdul Rahman |
 |
 
