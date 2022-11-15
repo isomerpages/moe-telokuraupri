@@ -10,15 +10,15 @@ Hand in Hand, Making a Difference
 As Telok Kurau Primary School Parent Support Group, we believe that no matter which nationality or religion, we work together as a big family hand in hand to make a difference in the children’s’ lives.
 
 #### **Activities**
-1\.  Games Room<br>
-2\.  READ To Me<br>
-3\.  P1 Orientation<br>
-4\.  Teachers’ Day<br>
-5\.  Childrens’ Day<br>
-6\.  National Day<br>
-7\.  Recess Engagement for different events<br>
-8\.  K2 visits<br>
-9\.  Maths Booster
+1\. Games Room<br>
+2\. READ To Me<br>
+3\. P1 Orientation<br>
+4\. Teachers’ Day<br>
+5\. Childrens’ Day<br>
+6\. National Day<br>
+7\. Recess Engagement for different events<br>
+8\. K2 visits<br>
+9\. Maths Booster
 
 #### **Mother and Child Bonding Activity**
 Mummies, join us in a baking session to bond with your child!
