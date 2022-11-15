@@ -9,8 +9,8 @@ description: ""
 **2016**
 
 | Award | Staff Name |
-|:---:|:---:|
-| Caring Teacher Award | Mr Robin Lim Heng Hock<br>Mdm Yeo Hwee Bin<br>Mr Chua Cheow Teck<br>Mdm Rabi'ah Bte Abdul Rahim Shah<br>Mdm Aznizah Bte Aris |
+|:---:|---|
+| Caring Teacher Award | 1. Mr Robin Lim Heng Hock<br>2. Mdm Yeo Hwee Bin<br>3. Mr Chua Cheow Teck<br>4. Mdm Rabi'ah Bte Abdul Rahim Shah<br>5. Mdm Aznizah Bte Aris |
 | National Day Award Commendation Award | Mr Chua Yew Cheong Rodger |
 | The Public Administration Medal (Bronze) | Mrs Charis Wong Siew Chen |
 | Arif Budiman Award | Mdm Siti Raudah Bte Ishak |
@@ -20,7 +20,7 @@ description: ""
 **2015**
 
 |  |  |
-|:---:|:---:|
+|:---:|---|
 | Award | Staff Name |
 | National Day Award Commendation Award | Mdm Ramlah Begum |
 | Arif Budiman Award (Motivation Category) | Mdm Marliana Bte Mohamed Rashid |
@@ -30,17 +30,17 @@ description: ""
 **2014**
 
 |  |  |
-|:---:|:---:|
+|:---:|---|
 | Award | Staff Name |
-| Caring Teacher Award | Mr Chua Yew Cheong Rodger<br>Mrs Lim Yew Hock<br>Ms Eileen Chin<br>Mdm Nurashikin Bte Mohd Tohir<br>Mdm Linda kwek Li Hiang |
-| Academy award for PD | Ms Chan Siew Boon<br>Mdm Tan Ying Fong |
+| Caring Teacher Award | 1. Mr Chua Yew Cheong Rodger<br>2. Mrs Lim Yew Hock<br>3. Ms Eileen Chin<br>4. Mdm Nurashikin Bte Mohd Tohir<br>5. Mdm Linda kwek Li Hiang |
+| Academy award for PD | 1. Ms Chan Siew Boon<br>2. Mdm Tan Ying Fong |
 | MOE Service Excellence Award (MSEA) | Mdm Goh Koon Yen |
 |
 
 **2013**
 
 |  |  |
-|---|---|
+|:---:|---|
 | Award | Staff Name |
 | National Day Award Commendation Award | Mdm Rezina Khan |
 | MOE Service Excellence Award (MSEA) | Ms Manju Chatlani Murli |
@@ -49,7 +49,7 @@ description: ""
 **2012**
 
 |  |  |
-|:---:|:---:|
+|:---:|---|
 | Award | Staff Name |
 | Caring Teacher Award | Mrs Lim Yew Hock<br>Mr Faizal Bin Mohamed Yusoff<br>Tan Ying Fong<br>Mdm Salehati Bte Md Salleh<br>Mdm Leck Hwee Huan |
 | President Teachers’ Award | Mdm Tan Ying Fong |
@@ -60,7 +60,7 @@ description: ""
 **2011**
 
 |  |  |
-|:---:|:---:|
+|:---:|---|
 | Award | Staff Name |
 | MOE Service Excellence Award (MSEA) | Mdm Evelyn Yap Poh Kwee<br>Mdm Tahira Bibi d/o Abdul Rahman<br>Mr Rudolph Yap<br>Mdm Rokeah Bte Abdul Rahman |
 |
@@ -68,7 +68,7 @@ description: ""
 #### **School Achievements**
 
 | Competition / Event | Achievement |
-|:---:|:---:|
+|:---:|---|
 | SEC – Starhub School Green Awards (2016) | Orchid Award |
 | Green Carpet School Award (2015) | Merit |
 | School Green Awards Lotus (2015) | Sustained Achievement Award |
