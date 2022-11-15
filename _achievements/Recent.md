@@ -47,7 +47,7 @@ description: ""
 **2018**
 
 | Category | Competition / Event | Achievement |
-|:---:|---|---|
+|:---:|:---:|:---:|
 | Cognitive | UNSW Science (2018) | High Distinction, Distinction |
 | Cognitive | UNSW English (2018) | Distinction |
 | Cognitive | UNSW Writing (2018) | Distinction |
@@ -66,7 +66,7 @@ description: ""
 **CCA Achievements (2018)** - edit here onwards
 
 | Category | Competition / Event | Achievement |
-|:---:|---|---|
+|:---:|:---:|:---:|
 | Physical | East Zone Primary Schools Basketball Championship (Junior Boys) | 3rd Team Placing |
 | Physical | Nanyang Cup Invitation (Junior Boys) | 1st Team Placing |
 | Physical | East Zone Primary Schools Basketball Championship (Senior Boys) | 2nd Team Placing |
@@ -77,13 +77,13 @@ description: ""
 | Physical | National Primary Schools Football Championship (Senior Girls) | 1st Team Placing |
 | Physical | National Primary Schools Football Championship (Junior Girls) | 1st Team Placing |
 | Physical | Switzerland-Singapore Football Festival 2018 (Junior & Senior) | 2nd Team Placing |
-| Physical | National Games Wushu Championships 2018 | 3 Duan Changquan – 28th, 50th placing<br>4 Duan Sword – 48th, 50th placing<br>4 Duan Cudgel – 44th, 32nd, 66th |
+| Physical | National Games Wushu Championships 2018 | 1. 3 Duan Changquan – 28th, 50th placing<br>2. 4 Duan Sword – 48th, 50th placing<br>3. 4 Duan Cudgel – 44th, 32nd, 66th |
 |  |  |  |
 
 **CCA Achievements (2017)**
 
 | Category | Competition / Event | Achievement |
-|:---:|---|---|
+|:---:|:---:|:---:|
 | Physical | East Zone Primary Schools Basketball Championship (Junior Boys) | 3rd Team Placing |
 | Physical | National Primary Schools Basketball Championship 2017 (Junior Boys) | Top 16 |
 | Physical | East Zone Primary Schools Basketball Championship (Senior Boys) | 1st Team Placing |
