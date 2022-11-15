@@ -27,9 +27,8 @@ CCA is an integral part of the holistic development of a TKPS student. It allows
 
 5\. Application for a second CCA will be reviewed on a case-by-case basis. Students may apply for a second CCA only if: 
 
-	a. they have good attendance records in the current CCA;
-	b. they are able to meet academic deadlines and maintain quality in assignments; 
-	c. the CCA timings do not clash.   
+a. they have good attendance records in the current CCA;<br>
+b. they are able to meet academic deadlines and maintain quality in assignments; <br>
+c. the CCA timings do not clash.   
 
 6\. All Primary 4 to Primary 6 students who demonstrate excellence in CCA are eligible to be nominated for leadership positions, as well as the Edusave Awards for Achievement, Good Leadership and Service (EAGLES), provided they satisfy the eligibility criteria.
-
