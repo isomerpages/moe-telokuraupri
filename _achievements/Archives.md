@@ -51,10 +51,10 @@ description: ""
 |  |  |
 |:---:|---|
 | Award | Staff Name |
-| Caring Teacher Award | Mrs Lim Yew Hock<br>Mr Faizal Bin Mohamed Yusoff<br>Tan Ying Fong<br>Mdm Salehati Bte Md Salleh<br>Mdm Leck Hwee Huan |
+| Caring Teacher Award | 1. Mrs Lim Yew Hock<br>2. Mr Faizal Bin Mohamed Yusoff<br>3. Tan Ying Fong<br>4. Mdm Salehati Bte Md Salleh<br>5. Mdm Leck Hwee Huan |
 | President Teachers’ Award | Mdm Tan Ying Fong |
 | National Day Award Commendation Award | Mr Lee Kok Hian |
-| MOE Service Excellence Award (MSEA) | Mdm Goh Koon Yen<br>Mdm Tahira Bibi d/o Abdul Rahman |
+| MOE Service Excellence Award (MSEA) | 1. Mdm Goh Koon Yen<br>2. Mdm Tahira Bibi d/o Abdul Rahman |
 |
 
 **2011**
@@ -62,7 +62,7 @@ description: ""
 |  |  |
 |:---:|---|
 | Award | Staff Name |
-| MOE Service Excellence Award (MSEA) | Mdm Evelyn Yap Poh Kwee<br>Mdm Tahira Bibi d/o Abdul Rahman<br>Mr Rudolph Yap<br>Mdm Rokeah Bte Abdul Rahman |
+| MOE Service Excellence Award (MSEA) | 1. Mdm Evelyn Yap Poh Kwee<br>2. Mdm Tahira Bibi d/o Abdul Rahman<br>3. Mr Rudolph Yap<br>4. Mdm Rokeah Bte Abdul Rahman |
 |
 
 #### **School Achievements**
