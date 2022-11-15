@@ -2,6 +2,7 @@ collections:
   partners-and-service-providers:
     output: true
     order:
+      - Service Providers/Uniform Shop.md
       - Service Providers/School Bus Service.md
       - Service Providers/Dental Service.md
       - Service Providers/.keep
