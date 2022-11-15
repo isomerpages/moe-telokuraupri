@@ -2,9 +2,9 @@ collections:
   partners-and-service-providers:
     output: true
     order:
-      - TKPS Alumni/Teachers' Day Well Wishes.md
-      - TKPS Alumni/TKPS Alumni.md
       - TKPS Alumni/.keep
+      - TKPS Alumni/TKPS Alumni.md
+      - TKPS Alumni/Teachers' Day Well Wishes.md
       - School Advisory Committee.md
       - Parent Support Group.md
       - Service Providers/Student Care Centre.md
