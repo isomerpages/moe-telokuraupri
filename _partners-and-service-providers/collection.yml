@@ -2,6 +2,7 @@ collections:
   partners-and-service-providers:
     output: true
     order:
+      - TKPS Alumni/Teachers' Day Well Wishes.md
       - TKPS Alumni/TKPS Alumni.md
       - TKPS Alumni/.keep
       - School Advisory Committee.md
