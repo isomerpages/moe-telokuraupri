@@ -2,6 +2,7 @@ collections:
   partners-and-service-providers:
     output: true
     order:
+      - School Advisory Committee.md
       - Parent Support Group.md
       - TKPS Alumni.md
       - Service Providers/Student Care Centre.md
