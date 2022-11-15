@@ -34,14 +34,14 @@ description: ""
 | Physical | National Primary Schools Basketball Championship 2019 (Senior Girls) | Top 8th |
 | Physical | National Primary Schools Football Championship (Senior Girls) | 2nd Team Placing |
 | Physical | FAS Inter School Futsal Challenge 2019 | Champion (Plate U10 Girls) |
-| Physical | National Games Wushu Championships 2019 | 1st International Changquan – 11th Placing<br>1st International Nan Dao – 10th Placing<br>42 Style Taijijian – 7th Placing (Junior Boys), 8th placing (Senior Boys)<br>1st International Cudgel – 6th Placing |
-| Physical | East Division Day 2019 | 2nd – Mix Media Art, Snack making<br>3rd – Performance, Cheerleading<br>Merit – Recycled Fashion |
+| Physical | National Games Wushu Championships 2019 | 1. 1st International Changquan – 11th Placing<br>2. 1st International Nan Dao – 10th Placing<br>3. 42 Style Taijijian – 7th Placing (Junior Boys), 8th placing (Senior Boys)<br>4. 1st International Cudgel – 6th Placing |
+| Physical | East Division Day 2019 | 1. 2nd – Mix Media Art, Snack making<br>2. 3rd – Performance, Cheerleading<br>3. Merit – Recycled Fashion |
 | Physical | National Cub Scout Gang Show 2019 | Bronze Award |
 | Aesthetics | 15th NTU Institutional Lion Dance Competition | Silver, Bronze |
 | Cognitive | Innovation, Design and Engineering ( IDE ) Competition | 7th Team Placing |
 | Cognitive | International Micro Coding Championship | Line Tracing – Silver, Bronze<br>Maze Runner – Gold, Silver |
-| Cognitive | Singapore Vex Robotics Championship | Judges Award & Programming Challenge Bronze<br>Programming Challenge Gold & Team Alliance Gold Award |
-| Cognitive | DSO - DSTA Robotics Challenge 2019 | Light Category: Gold And Silver<br>Heavy Category: Gold |
+| Cognitive | Singapore Vex Robotics Championship | 1. Judges Award & Programming Challenge Bronze<br>2. Programming Challenge Gold & Team Alliance Gold Award |
+| Cognitive | DSO - DSTA Robotics Challenge 2019 | 1. Light Category: Gold And Silver<br>2. Heavy Category: Gold |
 |
 
 **2018**
@@ -63,7 +63,7 @@ description: ""
 | Cognitive | International Chinese Language Competition 2018 | Bronze |
 |
 
-**CCA Achievements (2018)** - edit here onwards
+**CCA Achievements (2018)**
 
 | Category | Competition / Event | Achievement |
 |:---:|:---:|:---:|
