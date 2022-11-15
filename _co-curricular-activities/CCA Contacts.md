@@ -17,24 +17,24 @@ description: ""
 
 | Name | Email Address |
 |:---:|:---:|
-| Mr Tan Yew Heng  | tan_yew_heng@moe.edu.sg  |
-| Miss Vivian Tan | tan_wan_teng_vivian@moe.edu.sg |
+| Mr Tan Yew Heng  | [tan_yew_heng@moe.edu.sg](mailto:tan_yew_heng@moe.edu.sg)  |
+| Miss Vivian Tan | [tan_wan_teng_vivian@moe.edu.sg](mailto:tan_wan_teng_vivian@moe.edu.sg) |
 |
 
 ##### **Football**
 
 | Name | Email Address |
 |:---:|:---:|
-|  Mr Chua Cheow Teck |  chua_cheow_teck@moe.edu.sg |
-| Mr Shawn Lee | shawn_lee_shiyang@moe.edu.sg |
+|  Mr Chua Cheow Teck |  [chua_cheow_teck@moe.edu.sg](mailto:chua_cheow_teck@moe.edu.sg) |
+| Mr Shawn Lee | [shawn_lee_shiyang@moe.edu.sg](mailto:shawn_lee_shiyang@moe.edu.sg) |
 |
 
 **Wushu**
 
 | Name | Email Address |
 |:---:|:---:|
-|  Mdm Yeong Wei Syn |  yeong_wei_syn@moe.edu.sg |
-| Mrs Lim Yew Hock | lim_yew_hock@moe.edu.sg |
+|  Mdm Yeong Wei Syn |  [yeong_wei_syn@moe.edu.sg](mailto:yeong_wei_syn@moe.edu.sg) |
+| Mrs Lim Yew Hock | [lim_yew_hock@moe.edu.sg](mailto:lim_yew_hock@moe.edu.sg) |
 |
 
 
@@ -47,6 +47,3 @@ description: ""
 
 
 #### **Uniformed Groups**
-
-
-
