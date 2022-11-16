@@ -57,6 +57,8 @@ Children born between 2 January 2016 and 1 January 2017 (both dates inclusive) 
 <img style="width:25%" src="/images/pinkfindoutmore.jpg" align=left> 
 </a></p>
 
+<br clear="left">
+
 #### **Curriculum Timing (For 2022)**
 All students are to report to the school by 7.30 a.m. on school days. The flag raising ceremony will be conducted at 7.30 a.m. Your child must have a storybook for silent reading daily.
 
@@ -99,3 +101,25 @@ Primary 1 students attending Student Care Centre (SCC) after school will be guid
 *   **School Bookshop** **([Link](https://staging.d2rlcod8p8kwg8.amplifyapp.com/partners-and-service-providers/school-bookshop/))**
 *   **Uniform Shop** **([Link](https://staging.d2rlcod8p8kwg8.amplifyapp.com/partners-and-service-providers/uniform-shop/))**
 *   **Dental Service** **([Link](https://staging.d2rlcod8p8kwg8.amplifyapp.com/partners-and-service-providers/dental-service/))**
+
+#### **Parent Support Group**
+
+<p><a href="https://staging.d2rlcod8p8kwg8.amplifyapp.com/partners-and-service-providers/psg/">  
+<img style="width:25%" src="/images/pinkfindoutmore.jpg" align=left> 
+</a></p>
+
+#### **FAQs on School Matters**
+
+| Questions | Answers |
+|:---:|:---:|
+| What are the different modes of communication with the class teachers? | You child's teachers will establish a preferred mode of communication with you at the start of the school term. <br><br>In addition, parents may also consider emailing the form teacher or leaving notes using the Student Handbook for communication. The e-mail addresses are available on our website (Direct Link). <br><br>You may also call the school to schedule an appointment to speak with the teacher.<br><br>Parents are encouraged to communicate and engage with teachers within school hours on weekdays and during school terms, unless urgent.  |
+| How do I get information about school programmes? | Once your child is registered with Telok Kurau Primary School, you can log into **Parents Gateway** to access announcements. (more information will be provided during P1 Orientation Day) |
+| Can I enter the classroom during school hours to pick up my child if he is unwell? | Due to security reasons, parents are only allowed restricted access within the school premises during school hours, limited only to the General Office. <br><br>Parents are to report to the security guard post upon entry and pick up a ‘Visitor Pass’.<br><br>You will then need to proceed to the General Office where the staff will assist you. Your child will be brought to the General Office. |
+| What is the class size for a Primary 1 class? | There is a maximum of 30 students in each class. |
+| Will there be any weighted assessments at Primary 1? | There will be no examinations and weighted assessments at Primary 1 so that our students can ease into formal schooling more smoothly. Teachers will provide timely and targeted feedback to students and engage parents to move the students’ learning forward. |
+| Will there be any support for my child to buy food and drink during recess? | The teachers will be there to show the students how to purchase food and drinks from the canteen stalls. |
+|
+
+#### **Questions**
+Do you still have questions unanswered?<br>
+If you have further questions about the school, you may email us at [telokkuraups@moe.edu.sg](mailto:telokkuraups@moe.edu.sg).
