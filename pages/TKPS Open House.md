@@ -56,7 +56,7 @@ Children born between 2 January 2016 and 1 January 2017 (both dates inclusive) 
 <p><a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=3583">  
 <img style="width:25%" src="/images/pinkfindoutmore.jpg" align=left> 
 </a></p>
-
+broken link
 <br clear="left">
 
 #### **Curriculum Timing (For 2022)**
