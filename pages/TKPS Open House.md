@@ -108,6 +108,8 @@ Primary 1 students attending Student Care Centre (SCC) after school will be guid
 <img style="width:25%" src="/images/pinkfindoutmore.jpg" align=left> 
 </a></p>
 
+<br clear="left">
+
 #### **FAQs on School Matters**
 
 | Questions | Answers |
