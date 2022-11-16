@@ -14,6 +14,6 @@ third_nav_title: Notices
 <img src="/images/ctdr3.jpg" style="width:85%">
 
 **Click on the links to open up other CTDR cards!**<br>
-1\) [Teaching Staff (Group)]
-2\) [Teaching Staff]
-3\) [Non-Teaching Staff]
+1\) [Teaching Staff (Group)](/files/catchthemdoingright1.pdf)<br>
+2\) [Teaching Staff](/files/catchthemdoingright2.pdf)<br>
+3\) [Non-Teaching Staff](/files/catchthemdoingright3.pdf)
