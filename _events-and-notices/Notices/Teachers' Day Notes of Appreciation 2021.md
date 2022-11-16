@@ -7,7 +7,7 @@ third_nav_title: Notices
 ### **Teachers' Day Notes of Appreciation 2021**
 A teacher is...
 
-<img src="/images/tchersdaynote1.jpg" style="width:85%">
+<img src="/images/tchersdaynote1.jpg" style="width:55%">
 
 This Teachers' Day, our parents penned their appreciation to our teachers to affirm their dedication. Let's see what the parents have to say.
 
