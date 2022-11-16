@@ -38,5 +38,4 @@ Students may be nominated regardless of their academic results provided that the
 The Edusave Character Award (ECHA) nomination is now open to all students, staff, parents/ guardians and partners to nominate deserving students. Please click **[HERE](https://go.gov.sg/echa2022nomination)** **form unavailable** to submit your nomination. The deadline for nomination is 20 July 2022, 1700h.
 
 #### **Selection Process**
-
-
+The selection process for the ECHA include Nomination, Selection and Endorsement. **Only selected nominees will be notified to attend the endorsement session.**
