@@ -7,7 +7,7 @@ third_nav_title: Events
 ### **TKPS Open House 2022**
 Telok Kurau Primary School will be having in-person Open House this year!
 
-<p><a href="[https://staging.d2rlcod8p8kwg8.amplifyapp.com/tkps-open-house/](https://staging.d2rlcod8p8kwg8.amplifyapp.com/tkps-open-house/)">  
+<p><a href="https://staging.d2rlcod8p8kwg8.amplifyapp.com/tkps-open-house/">  
 <img style="width:25%" src="/images/findoutmore.jpg">  
 </a></p>
 
