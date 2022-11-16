@@ -26,14 +26,14 @@ TKPS Corporate Video
 </strong></figcaption>  
 </figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JFL835e4olI" title="TKPS Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/JFL835e4olI" title="TKPS Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <figure><figcaption><strong>  
 A Day in the Life of a P1 Child in TKPS
 </strong></figcaption>  
 </figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/urVvMVgo8nM" title="A Day in the Life of a P1 Child in TKPS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/urVvMVgo8nM" title="A Day in the Life of a P1 Child in TKPS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Find out more about our school by clicking on the links below.
 
@@ -82,7 +82,7 @@ The daily curriculum timings are as follows:
 Students are encouraged to have fruit or bread for snack time.<br>
 We strongly encourage our students to choose water over sugared beverages.
 
-#### Dismissal Timings (For 2022)
+#### **Dismissal Timings (For 2022)**
 To ensure the safety and security of our students during dismissal, parents are only allowed limited access to fetch their child from the school canteen. Primary 1 students will not be allowed to leave on their own unless accompanied by a parent/guardian/authorized caregiver.
 
 Primary 1 students taking the school bus will be guided to board their school buses from the school foyer before the teachers send the rest of the class to the canteen.
