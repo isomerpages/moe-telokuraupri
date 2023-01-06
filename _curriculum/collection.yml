@@ -1,0 +1,35 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
+      - English Language/English Language.md
+      - English Language/Curriculum.md
+      - English Language/.keep
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Mother Tongue Languages.md
+      - Mother Tongue Languages/Curriculum (Chinese).md
+      - Mother Tongue Languages/Curriculum (Malay).md
+      - Mother Tongue Languages/Curriculum (Tamil).md
+      - Mathematics/Mathematics.md
+      - Mathematics/Curriculum.md
+      - Mathematics/.keep
+      - Science/.keep
+      - Science/Science.md
+      - Science/Curriculum.md
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Art.md
+      - Aesthetics/Music.md
+      - Aesthetics/.keep
+      - Physical Education (PE).md
+      - Programme for Active Learning (PAL).md
+      - Character & Citizenship Edu/Character & Citizenship Education (CCE).md
+      - Character & Citizenship Edu/Curriculum.md
+      - Character & Citizenship Edu/.keep
+      - Form Teacher Guidance Period (FTGP).md
+      - Information Communication Technology.md
+      - Student Leadership Development.md
+      - Future Problem Solving Programme (FPSP).md
+      - Growing Years Series (GYS).md
+      - Environment Education.md
