@@ -5,23 +5,30 @@ description: ""
 ---
 ### **Principal's Message**
 
-<img src="/images/principal1.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/Grace_Leong%20edv2.jpg" style="width:25%;margin-right:15px;" align = "left">
 
-<br>A very warm welcome to the Telok Kurau Primary School (TKPS) website! Whether you are here as a student, parent, alumni of the school, or just browsing, I hope that we are able to provide a good overview of the school, insights into school life at TKPS and some ideas about what makes TKPS unique for its many stakeholders.
+<br><br><br><br>Mrs Grace Leong
+<br>Principal
 
-<br clear="left">
-
-First and foremost, some updates about the school in 2021. To mark our 95th birthday in 2021, we worked with local artist Lee Xin Li to create a beautiful mural depicting the different stages of development the school has undergone, starting from its humble beginnings as a rural school in a coconut plantation in 1926. It was here that late former Prime Minister Mr Lee Kuan Yew and the late former Malaysian Prime Minister Datuk Hussein Onn studied. The school moved locations and joined with other schools, before finally becoming Telok Kurau Primary School in 1985.
-
-<img src="/images/principal2.jpg" style="width:85%">
-
-The mural shows students and staff in different uniforms and settings, from colonial times to early independence and finally the modern era. What remains consistent is the school’s focus on its students, the care that is extended to every child who passes through its gates and the support given so that they can strive for excellence.
-
-Secondly, TKPS stands at the cusp of a new era as we prepare for merger with Eunos Primary School in 2023. While a merger may bring with it some uncertainty and trepidation, we will leverage this change to strive for excellence, to pick the best of both schools so that we can strive for excellence.
-
-Lastly, in 2022, the school has taken on the challenge of including Co-Curricular Activities (CCA) within curriculum time. This ensures that all our P3 – P6 students have the opportunity to participate in a CCA which is a natural platform for teamwork, talent development and character building. Many TKPS students also go on to use their CCA and leadership talents in the Direct School Admission (DSA) exercise.
-
-We have adapted and done well in the face of the evolving Covid situation since 2020. Our students and staff have been real troopers, adjusting and learning despite changes and challenges. I believe that each and every one of us are raring to go, ready to learn and grow together as individuals and as a school in 2022!
-
-Ms Lau Wan Sze<br>
-Principal
+Telok Kurau Primary, 友诺小学，welcomes all of you!
+<br><br>
+2023 is going to be an exciting year! The merger of Telok Kurau Primary and Eunos Primary presents us with vast opportunities and possibilities to co-create an even better future for all of us. My staff and I are committed to partner you in nurturing and developing our children to enjoy learning and be future-ready. Our school envisions our students to be confident leaders, resilient learners and caring citizens.  We believe that all our students can learn and want to excel. As such, we seek to grow our students in a values-driven environment to achieve excellence and contribute actively to the society. 
+<br><br>
+Our school curriculum is designed to bring forth a student-centric, values-driven holistic education where students develop 21st century competencies that are essential to thrive and flourish in the globalised world. The learning experiences and programmes curated are age-appropriate, vibrant and promote curiosity, joy of learning and student agency.
+<br><br>
+Our school places great emphasis on student character development. One of the platforms is our Learning for Life Programme (LLP), Character Development through Team Sports. It offers students opportunities to strengthen their growing minds and to test their mettle as they enjoy the physical sports and games through our Physical and Health Education (PHE), Programme for Active Learning (PAL) and our wide array of Co-Curricular Activities (CCAs). In 2023, we have 18 CCAs ranging from physical sports to visual and performing arts, clubs and societies, as well as uniform groups. Our CCAs are weaved into curriculum time to ensure balanced and conducive learning opportunities for all our children. 
+<br><br>
+Our students are also provided with authentic, relevant and applicable learning opportunities within and outside of school.  Our Applied Learning Programme (ALP), Critical and Innovative Thinking in Coding and Robotics, develops in our students logical thinking, problem-solving and communication skills. Through block-based programming, our students deepen their ability to think creatively and to collaborate in teams. They aspire to apply their knowledge and skills to benefit others in the Bedok community as active contributors. 
+<br><br>
+Our school has grown in capacity and capabilities with the two schools coming together as one. It takes a village to grow a child and we have expanded our “village”. We are confident that the transition experience of the merger will be a smooth one with the strong support of all stakeholders. We are thankful for the unwavering support, love and commitment given to our staff and students. We are ready to embark on our new journey as one. 
+<br><br>
+#OneTKPS unites!
+<br><br>
+<img src="/images/img-Z06094031-0001.jpg" style="width:100%" align = "Centre">
+<br>
+<Strong>Artists: </strong>
+<br>
+Ye Xinyan (TKPS P5 Care 2022)  
+Mohamad Qayyim Khan Bin Mohamad Ridzwan Khan (EPS P5 Integrity 2022)
+<br><br>
+The drawing depicts members of the two schools coming together as a big family in Telok Kurau Primary School. The torch symbolises knowledge and the book represents the key to learning and attaining knowledge. Education is a lifelong endeavour in the pursuit of excellence. The everlasting glow from the torch symbolises staff and students continuously learning together as one, striving to achieve our personal best.
