@@ -49,13 +49,13 @@ third_nav_title: School Staff
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P4 Care | <br><br> | <br><br> |
-| P4 Harmony | <br><br> | <br><br> |
-| P4 Integrity | <br><br> | <br><br> |
-| P4 Resilience | <br><br> | <br><br> |
-| P4 Respect | <br><br> | <br><br> |
-| P4 Responsibility | <br><br> | <br><br> |
-| P4 Sincerity | <br><br> | <br><br> |
+| P4 Care | Mr Faizal Bin Mohamed Yusoff<br>Mr Wong Li Hao James<br> | faizal_b_mohamed_yusoff@moe.edu.sg<br>wong_li_hao_james@moe.edu.sg<br> |
+| P4 Harmony | Mr Muhd Reza Bin Daud<br>Ms Teo Tian Ki Tammy<br> | muhammad_reza@moe.edu.sg<br>teo_tian_ki@moe.edu.sg<br> |
+| P4 Integrity | Mr Chua Cheow Teck<br>Mdm Hajra Maideen<br> | chua_cheow_teck@moe.edu.sg<br>hajra_maideen@moe.edu.sg<br> |
+| P4 Resilience | Mr Kenneth Wong Cher Jian<br>Mdm Vijayalekshmi d/o Mariappan<br> | kenneth_wong_cher_jian@moe.edu.sg<br>vijayalekshmi_mariappan@moe.edu.sg<br> |
+| P4 Respect | Mrs Ong Wan Sien<br>Mr Joe Ang Choon Hai<br> | kow_wan_sien@moe.edu.sg<br>ang_choon_hai@moe.edu.sg<br> |
+| P4 Responsibility | Mdm Sathyajothi D/o Selvandran<br>Mr Kwek Wenhong Shane<br> | sathyajothi_selvandran@moe.edu.sg<br>kwek_wenhong_shane@moe.edu.sg<br> |
+| P4 Sincerity | Mdm Nalaniammah Rajenthiran (Mrs Raj)<br>Mdm Sharinah Bte Samshudin<br>Mr Mohamed Hisham Bin Salim | nalaniammah_rajenthiran@moe.edu.sg<br>sharinah_samshudin@moe.edu.sg<br>mohamed_hisham_salim@moe.edu.sg |
 |
 
 #### **Primary 5**
