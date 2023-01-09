@@ -2,31 +2,30 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Telok Kurau Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 50 Bedok Reservoir Rd
+      - Singapore 479239
+      - ""
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: School term
+        time: 7.00 am - 6.00 pm
+        description: ""
+      - days: School Holidays
+        time: 8.00 am - 5.00 pm
+        description: The office is closed on weekends and public holidays.
+    maps_link: https://www.onemap.sg/main/v2/?lat=1.331045863&lng=103.910934
+    title: Main Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6244 1600
+      - email: telokkuraups@moe.edu.sg
+      - other: ""
+    title: General Office
+  - content:
+      - phone: +65 6224 2182
+      - email: ""
+      - other: ""
+    title: Fax
 ---
