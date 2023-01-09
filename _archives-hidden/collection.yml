@@ -1,0 +1,4 @@
+collections:
+  archives-hidden:
+    output: true
+    order: []
