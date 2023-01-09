@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Telok Kurau Primary School
-      background: /images/hero.gif
+      background: /images/new-tkps-bg.gif
       url: /contact-us/
       key_highlights:
         - title: Achievements
