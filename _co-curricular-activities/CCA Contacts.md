@@ -136,14 +136,22 @@ description: ""
 
 | Name | Email Address |
 |---|---|
-|  Mdm Kartini | [kartini_mohamed_ramli@moe.edu.sg](mailto:kartini_mohamed_ramli@moe.edu.sg) |
-| Mdm Mandy Chan | [chan_sau_man@moe.edu.sg](mailto:chan_sau_man@moe.edu.sg) |
+| Mdm Mandy Chan | chan_sau_man@moe.edu.sg |
+| Mdm Kartini | kartini_mohamed_ramli@moe.edu.sg |
 |
 
 **Girl Guides (Brownies)**
 
 | Name | Email Address |
 |---|---|
-| Mdm Nurul’aini | [nurulaini_rohani@moe.edu.sg](mailto:nurulaini_rohani@moe.edu.sg) |
-| Mdm Sathya | [sathyajothi_selvandran@moe.edu.sg](mailto:sathyajothi_selvandran@moe.edu.sg) |
+| Mdm Sathya | sathyajothi_selvandran@moe.edu.sg |
+| Ms Tan Hui Ling | tan_hui_ling@moe.edu.sg |
+|
+
+**Red Cross Youth**
+
+| Name | Email Address |
+|---|---|
+| Mr Peter Sung | sung_voon_tet_peter@moe.edu.sg |
+| Ms Loy Qian Yin | loy_qian_yin@moe.edu.sg |
 |
