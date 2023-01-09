@@ -77,12 +77,12 @@ third_nav_title: School Staff
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P6 Care | <br><br> | <br><br> |
-| P6 Harmony | <br><br> | <br><br> |
-| P6 Integrity | <br><br> | <br><br> |
-| P6 Resilience | <br><br> | <br><br> |
-| P6 Respect | <br><br> | <br><br> |
-| P6 Responsibility | <br><br> | <br><br> |
-| P6 Sincerity | <br><br> | <br><br> |
-| P6 Unity | <br><br> | <br><br> |
+| P6 Care | Mr Shawn Lee Shi Yang<br>Mdm Arafah Bte Tajudin<br> | <br><br> |
+| P6 Harmony | Mr Chang Mao Chiao Mark<br>Ms Nazihah Binti Na'amsah	<br> | <br><br> |
+| P6 Integrity | Mdm Juhaidah Binte Mohamed Amin<br>Mdm Asiyah Bte Sheik Md Ismail<br> | <br><br> |
+| P6 Resilience | Mdm Salehati Bte Md Salleh<br>Ms Amelia Binte Othman<br> | <br><br> |
+| P6 Respect | Mr Ng Ying Hui<br>Mr Amarjit Singh Sewa Singh<br> | <br><br> |
+| P6 Responsibility | Mdm Seah Xuyu Faith<br>Dr Teo Bee Lin<br> | <br><br> |
+| P6 Sincerity | Mr Shaharzad B Kasman<br>Mr Firouk Bin Mohamed Mydin<br> | <br><br> |
+| P6 Unity | Mdm Soh Hwee Choo (Mrs Lim Yew Hock)<br><br> | <br><br> |
 |
