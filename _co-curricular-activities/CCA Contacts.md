@@ -50,65 +50,85 @@ description: ""
 
 | Name | Email Address |
 |---|---|
-|  Mr Muhammad Reza |  [muhammad_reza@moe.edu.sg](mailto:muhammad_reza@moe.edu.sg) |
-| Mdm Faith Seah | [seah_xuyu@moe.edu.sg](mailto:seah_xuyu@moe.edu.sg) |
+| Mr Muhammad Reza |  muhammad_reza@moe.edu.sg  |
+| Mr Firouk Mydin | firouk_mohamed_mydin@moe.edu.sg |
 |
 
+**Strategy Games Club**
+
+| Name | Email Address |
+|---|---|
+| Mr Mark Chang |  chang_mao_chiao@moe.edu.sg  |
+| Mr Shane Kwek | kwek_wenhong_shane@moe.edu.sg |
+|
+
+**Debating and Public Speaking**
+
+| Name | Email Address |
+|---|---|
+| Ms Felicia Goh Xiu Xian |  felicia_goh_xiu_xian@moe.edu.sg  |
+| Mdm Noraida Yasmin Bte Abd Jabbar  | noraida_yasmin_abd_jabbar@moe.edu.sg  |
+|
+
+
+
+#### **Visual and Performing Arts**
 **Arts and Crafts**
 
 | Name | Email Address |
 |---|---|
-|  Mr Mark Chang | [chang_mao_chiao@moe.edu.sg](mailto:chang_mao_chiao@moe.edu.sg) |
-| Mdm Aznizah Aris | [aznizah_aris@moe.edu.sg](mailto:aznizah_aris@moe.edu.sg) |
+| Mdm Aznizah Bte Aris | aznizah_aris@moe.edu.sg |
+| Mdm Elnie Tryana Dridi  | elnie_tryana_dridi@moe.edu.sg |
 |
 
-#### **Visual and Performing Arts**
+
+
 **Chinese Dance**
 
 | Name | Email Address |
 |---|---|
-|  Mdm Kua Shimin |  [kua_shimin_ke_shimin@moe.edu.sg](mailto:kua_shimin_ke_shimin@moe.edu.sg) |
-| Mr Robin Lim | [robin_lim_heng_hock@moe.edu.sg](mailto:robin_lim_heng_hock@moe.edu.sg) |
+| Mdm Kua Shimin |  kua_shimin_ke_shimin@moe.edu.sg |
+| Ms Lisa Chi Li Shan | lisa_chi_li_shan@moe.edu.sg |
 |
 
 **Malay Dance**
 
 | Name | Email Address |
 |---|---|
-|  Mdm Naime |  [noor_naime_zainal_abidin@moe.edu.sg](mailto:noor_naime_zainal_abidin@moe.edu.sg) |
-| Mdm Ezzati | [nurezzati_a@moe.edu.sg](mailto:nurezzati_a@moe.edu.sg) |
+| Mdm Asiyah Bte Sheik Md Ismail | asiyah_sheik_mohamed_ism@moe.edu.sg |
+| Mr Mohamed Hisham Bin Salim | mohamed_hisham_salim@moe.edu.sg |
 |
 
 **Indian Dance**
 
 | Name | Email Address |
 |---|---|
-|  Mrs Ramesh Eswari |  [ramesh_eswari@moe.edu.sg](mailto:ramesh_eswari@moe.edu.sg) |
-| Mdm Ramlah Begam | [ramlah_begam@moe.edu.sg](mailto:ramlah_begam@moe.edu.sg) |
+| Mrs Ramesh Eswari | ramesh_eswari@moe.edu.sg |
+| Mdm Vijaya | vijayalekshmi_mariappan@moe.edu.sg |
 |
 
 **Lion Dance**
 
 | Name | Email Address |
 |---|---|
-|  Mr Ng Ying Hui |  [ng_ying_hui_a@moe.edu.sg](mailto:ng_ying_hui_a@moe.edu.sg) |
-| Ms Wu Ling | [yvonne_wu_ling@moe.edu.sg](mailto:yvonne_wu_ling@moe.edu.sg) |
+| Mr Ng Ying Hui|  ng_ying_hui_a@moe.edu.sg |
+| Ms Wu Ling | yvonne_wu_ling@moe.edu.sg |
 |
 
 **Choir**
 
 | Name | Email Address |
 |---|---|
-|  Ms Haryati Bte mohamed  |  [haryati_mohamed@moe.edu.sg](mailto:haryati_mohamed@moe.edu.sg) |
-| Mdm Shen Huijie | [shen_huijie@moe.edu.sg](mailto:shen_huijie@moe.edu.sg) |
+| Ms Haryati Bte mohamed | haryati_mohamed@moe.edu.sg |
+| Mdm Fatimah Azzahra | fatimah_azzahra_hasnordin@moe.edu.sg |
 |
 
 **Guzheng Ensemble**
 
 | Name | Email Address |
 |---|---|
-|  Mrs Karen Oh |  [woo_shan_shan_karen@moe.edu.sg](mailto:woo_shan_shan_karen@moe.edu.sg) |
-| Mrs Tan W L | [tan_wei_ling@moe.edu.sg](mailto:tan_wei_ling@moe.edu.sg) |
+| Mdm Seah Xuyu Faith | seah_xuyu@moe.edu.sg |
+| Mdm Tan Suat Hoon | tan_suat_hoon@moe.edu.sg |
 |
 
 #### **Uniformed Groups**
