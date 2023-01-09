@@ -6,14 +6,14 @@ description: ""
 ### **School Advisory Commitee**
 
 | Name | Designation |
-|:---:|:---:|
-|  Ms Yeo Seow Wei |  Chairperson |
-|  Mr Tan Bon Seng, Jimmy |  Member |
-|  Mr Tan See Tee |  Member |
-|  Mr Chong Gim Soon |  Member |
-|  Mr Seah Khiang Haw |  Member |
-|  Mr Purushotman S. |  Member |
-|  Mdm Catherine Loh Phui Yee |  Member |
+|---|---|
+|  Mdm Catherine Loh|  Chairperson |
+|  Ms Yeo Seow Wei |  Member |
 |  Dr Lim Seok Lai |  Member |
-|  Mr Tan Chye Tiong |  Member |
+|  Mr Jimmy Ho J Meng|  Member |
+|  Mdm Grace Cheah |  Member |
+|  Mrs Monique Viengkhou Li |  Member |
+|  Dr Mustafa Izzudin |  Member |
+|  Dr Eric Ng Eng Seng|  Member |
+|  Mr Joseph Loh Kum Hoong |  Member |
 |

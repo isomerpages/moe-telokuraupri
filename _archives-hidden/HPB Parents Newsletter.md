@@ -2,8 +2,8 @@
 title: HPB Parents Newsletter
 permalink: /events-and-notices/notices/hpb-parents-newsletter/
 description: ""
-third_nav_title: Notices
 ---
+
 ### **HPB Parents Newsletter**
 As we approach the end of the school year, Health Promotion Board (HPB) would like to share the following resources with you to promote a healthier lifestyle for your children and family.    
   

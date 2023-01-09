@@ -9,72 +9,80 @@ third_nav_title: School Staff
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P1 Care |  Mr Robin Lim<br> Ms Norita Binti Rahmad |  [robin_lim_heng_hock@moe.edu.sg](mailto:robin_lim_heng_hock@moe.edu.sg)<br>[norita_rahmad@moe.edu.sg](mailto:norita_rahmad@moe.edu.sg) |
-| P1 Harmony |  Ms Haryati Bte Mohamed<br> Mr Muhammad Adib Salim |  [haryati_mohamed@moe.edu.sg](mailto:haryati_mohamed@moe.edu.sg)<br>[muhammad_adib_sali@moe.edu.sg](mailto:muhammad_adib_sali@moe.edu.sg) |
-| P1 Integrity |  Mrs Veronica Tan<br> Mdm Sathya |  [goh_beng_lay@moe.edu.sg](mailto:goh_beng_lay@moe.edu.sg)<br> [sathyajothi_selvandran@moe.edu.sg](mailto:sathyajothi_selvandran@moe.edu.sg) |
-| P1 Resilience |  Mdm Yip Weng Ee  <br> Mdm Safiah Bte Arshad |  [yip_weng_ee@moe.edu.sg](mailto:yip_weng_ee@moe.edu.sg)<br> [safiah_arshad@moe.edu.sg](mailto:safiah_arshad@moe.edu.sg) |
-| P1 Respect |  Mdm Aznizah Aris<br> Ms Wu Ling |  [aznizah_aris@moe.edu.sg](mailto:aznizah_aris@moe.edu.sg)<br> [yvonne_wu_ling@moe.edu.sg](mailto:yvonne_wu_ling@moe.edu.sg) |
-| P1 Responsibility |  Mdm Nurashikin Tohir<br> Mdm Yeow Yun Hui |  [nurashikin_mohamed_tohir@moe.edu.sg](mailto:nurashikin_mohamed_tohir@moe.edu.sg)<br> [yeow_yun_hui@moe.edu.sg](mailto:yeow_yun_hui@moe.edu.sg) |
-| P1 Sincerity |  Mdm Kasrina Rahaini Bte Rahmat<br> Mdm Mandy Chan |  [kasrina_rahaini_rahmat@moe.edu.sg](mailto:kasrina_rahaini_rahmat@moe.edu.sg)<br> [chan_sau_man@moe.edu.sg](mailto:chan_sau_man@moe.edu.sg) |
+| P1 Care |  Ms Hwee Yuet Ying<br>Mdm Wiwiek Bte Sulaiman<br>Ms Norita Binti Rahmad | hwee_yuet_ying@moe.edu.sg<br>	wiwiek_sulaiman@moe.edu.sg<br>norita_rahmad@moe.edu.sg |
+| P1 Harmony |  Mdm Chua Jennifer (Mrs Loy)<br> Mrs Elnie Tryana Dridi <br>Ms Wu Ling |  jennifer_lee_peck_guek@moe.edu.sg <br>	 elnie_tryana_dridi@moe.edu.sg<br>	yvonne_wu_ling@moe.edu.sg |
+| P1 Integrity |  Mdm Irwani Bte Ahmad<br>Ms Eunice Ng Si Ling <br>Mdm Lim Poh Yen Doreen (Mrs Phoon) | irwani_ahmad@moe.edu.sg<br>ng_si_ling_eunice@moe.edu.sg <br>lim_poh_yen_doreen@moe.edu.sg   |
+| P1 Respect |  	Ms Haryati Bte Mohamed<br>Ms Sin Yoke Jing Mavis <br>Ms Kasturi d/o Gnanachegaran |  haryati_mohamed@moe.edu.sg<br>sin_yoke_jing_mavis@moe.edu.sg <br>kasturi_gnanachegaran@moe.edu.sg  |
+| P1 Responsibility |  Mdm Yeo Hwee Bin	<br> Mdm Elisha Bte Jaafar<br>Ms Loy Qian Yin | yeo_hwee_bin@moe.edu.sg<br>elisha_jaafar@moe.edu.sg <br> loy_qian_yin@moe.edu.sg |
 |
+
 
 #### **Primary 2**
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P2 Care |  Mdm Irwani<br>Mrs Ong Wan Sien |  [irwani_ahmad@moe.edu.sg](mailto:irwani_ahmad@moe.edu.sg)<br>[kow_wan_sien@moe.edu.sg](mailto:kow_wan_sien@moe.edu.sg) |
-| P2 Harmony |  Mdm Yeo Hwee Bin |  [yeo_hwee_bin@moe.edu.sg](mailto:yeo_hwee_bin@moe.edu.sg)  |
-| P2 Integrity |  Mrs Jennifer Loy  |  [jennifer_lee_peck_guek@moe.edu.sg](mailto:jennifer_lee_peck_guek@moe.edu.sg)  |
-| P2 Resilience |  Ms Hwee Yuet Ying<br>Mrs Ramesh Eswari |  [hwee_yuet_ying@moe.edu.sg](mailto:hwee_yuet_ying@moe.edu.sg)<br>[ramesh_eswari@moe.edu.sg](mailto:ramesh_eswari@moe.edu.sg) |
-| P2 Respect |  Miss Sandy Soh<br>Mdm Shen Huijie |  [soh_hui_shian_sandy@moe.edu.sg](mailto:soh_hui_shian_sandy@moe.edu.sg)<br>[shen_huijie@moe.edu.sg](mailto:shen_huijie@moe.edu.sg) |
-| P2 Responsibility |  Mrs Doreen Phoon <br>Mr Faizal |  [lim_poh_yen_doreen@moe.edu.sg](mailto:lim_poh_yen_doreen@moe.edu.sg)<br>[faizal_b_mohamed_yusoff@moe.edu.sg](mailto:faizal_b_mohamed_yusoff@moe.edu.sg) |
-| P2 Sincerity |  Mr Mark Chang<br>Mdm Arni |  [chang_mao_chiao@moe.edu.sg](mailto:chang_mao_chiao@moe.edu.sg)<br>[arni_johan@moe.edu.sg](mailto:arni_johan@moe.edu.sg) |
-| P2 Valour |  Mrs Thio-Kooh Yong Tse  |  [kooh_yong_tse@moe.edu.sg](mailto:kooh_yong_tse@moe.edu.sg) |
+| P2 Care |  Mr Robin Lim Heng Hock<br>Mdm Teo Cheng Yim |  robin_lim_heng_hock@moe.edu.sg<br>teo_cheng_yim@moe.edu.sg  |
+| P2 Harmony |  Mdm Kua Shimin<br>Ms Nur Hafizah Bte Ismail <br>Ms Goh Jook Kin Susan | kua_shimin_ke_shimin@moe.edu.sg<br>nur_hafizah_ismail_b@moe.edu.sg <br>goh_jook_kin@moe.edu.sg   |
+| P2 Integrity |  Mdm Goh Beng Lay (Mrs Veronica Tan)<br>Mdm Tan Suat Hoon |  goh_beng_lay@moe.edu.sg<br>tan_suat_hoon@moe.edu.sg |
+| P2 Resilience |  Mdm Chan Sau Man Mandy<br>Ms Parvathy d/o Balakrisnan | chan_sau_man@moe.edu.sg<br>parvathy_balakrisnan@moe.edu.sg  |
+| P2 Respect | Ms Soh Hui Shian Sandy<br>Mdm Amalina Binte Abdul Razak | soh_hui_shian_sandy@moe.edu.sg<br>amalina_abdul_razak@moe.edu.sg |
+| P2 Responsibility |  Mdm Shen Huijie<br>Mr Ang Gee Kai Marcus<br>Mdm Yeow Yun Hui | shen_huijie@moe.edu.sg<br>ang_gee_kai@moe.edu.sg<br>yeow_yun_hui@moe.edu.sg |
+| P2 Sincerity | Mdm Kasrina Rahaini Binte Rahmat<br>Ms Nur'ain Binte Saiman	 | kasrina_rahaini_rahmat@moe.edu.sg<br>nurain_saiman@moe.edu.sg |
 |
 
 #### **Primary 3**
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P3 Care |  Mdm Kua Shimin |  [kua_shimin_ke_shimin@moe.edu.sg](mailto:kua_shimin_ke_shimin@moe.edu.sg) |
-| P3 Harmony |  Ms Hafizah Ansari<br>Mdm Liew Hwee Hong |  [hafizah_bee_ansari@moe.edu.sg](mailto:hafizah_bee_ansari@moe.edu.sg)<br>[liew_hwee_hong@moe.edu.sg](mailto:liew_hwee_hong@moe.edu.sg) |
-| P3 Integrity |  Miss Abigail Choo |  [abigail_choo_ru_yi@moe.edu.sg](mailto:abigail_choo_ru_yi@moe.edu.sg) |
-| P3 Resilience |  Mr Kenneth Wong<br>Mdm Melody Tan |  [kenneth_wong_cher_jian@moe.edu.sg](mailto:kenneth_wong_cher_jian@moe.edu.sg)<br>[tan_puay_oon_melody@moe.edu.sg](mailto:tan_puay_oon_melody@moe.edu.sg) |
-| P3 Responsibility |  Mdm Sheeba |  [sheeba_balakrishnan@moe.edu.sg](mailto:sheeba_balakrishnan@moe.edu.sg) |
-| P3 Respect |  Mdm Faith Seah |  [seah_xuyu@moe.edu.sg](mailto:seah_xuyu@moe.edu.sg) |
+| P3 Care | Mdm Aznizah Bte Aris<br>Ms Seah Xing Fen | aznizah_aris@moe.edu.sg<br>seah_xing_fen@moe.edu.sg |
+| P3 Harmony | Mdm Hafizah Bee Bte Ansari<br>Ms Han Jing<br> | hafizah_bee_ansari@moe.edu.sg<br>han_jing@moe.edu.sg<br> |
+| P3 Integrity | Mdm Randeep Kaur Bath<br>Ms Ang Ming'en<br> | randeep_kaur_bath@moe.edu.sg<br>ang_mingen@moe.edu.sg<br> |
+| P3 Resilience | Ms Choo Siok Hui<br>Mr Muhammad Naqib Bin Ismail<br> | choo_siok_hui@moe.edu.sg<br>muhammad_naqib_ismail@moe.edu.sg<br> |
+| P3 Respect | Mdm Tan Puay Oon Melody<br>Mdm Fatimah Azzahra Bte Hasnordin<br>Ms Loh Chai Na | tan_puay_oon_melody@moe.edu.sg<br>fatimah_azzahra_hasnordin@moe.edu.sg<br>loh_chai_na@moe.edu.sg |
+| P3 Responsibility | Mdm Felicia Goh Xiu Xian (Mrs Ling)<br>Mdm Patricia Lim Chiu Yen (Mrs Chew)<br>Mdm Abigail Choo Ru Yi (Mrs Liau) | felicia_goh_xiu_xian@moe.edu.sg<br>patricia_lim_chiu_yen@moe.edu.sg<br>abigail_choo_ru_yi@moe.edu.sg |
+| P3 Sincerity | Mdm Arni Binte Johan<br>Ms Tan Hui Ling<br> | arni_johan@moe.edu.sg<br>tan_hui_ling@moe.edu.sg<br> |
+| P3 Unity | Mrs Ramesh Eswari<br>Mdm Tan Choon Jhet<br> | ramesh_eswari@moe.edu.sg<br>tan_choon_jhet@moe.edu.sg<br> |
+| P3 Valour | Mdm Liew Mee Lee (Mrs Lee)<br>Mdm Khaziah Bte Yem<br> | liew_mee_lee@moe.edu.sg<br>khaziah_yem@moe.edu.sg<br> |
 |
 
 #### **Primary 4**
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P4 Care |  Ms Goh Ya Li <br>Mr Mohamed Hisham |  [goh_ya_li@moe.edu.sg](mailto:goh_ya_li@moe.edu.sg)<br>[mohamed_hisham_salim@moe.edu.sg](mailto:mohamed_hisham_salim@moe.edu.sg) |
-| P4 Harmony |  Mdm Stephanie Tan<br>Mrs Nalani Raj |  [tan_jin_jun@moe.edu.sg](mailto:tan_jin_jun@moe.edu.sg)<br>[nalaniammah_rajenthiran@moe.edu.sg](mailto:nalaniammah_rajenthiran@moe.edu.sg) |
-| P4 Integrity |  Ms Choo Siok Hui<br>Ms Tham Sau Ngor |  [choo_siok_hui@moe.edu.sg](mailto:choo_siok_hui@moe.edu.sg)<br>[tham_sau_ngor@moe.edu.sg](mailto:tham_sau_ngor@moe.edu.sg) |
-| P4 Resilience |  Mrs Tan W L<br>Mdm Huda |  [tan_wei_ling@moe.edu.sg](mailto:tan_wei_ling@moe.edu.sg)<br>[siti_nurulhuda_said@moe.edu.sg](mailto:siti_nurulhuda_said@moe.edu.sg) |
-| P4 Respect |  Mdm Juhaidah Amin <br>Mr Tan Yew Heng |  [juhaidah_amin@moe.edu.sg](mailto:juhaidah_amin@moe.edu.sg)<br>[tan_yew_heng@moe.edu.sg](mailto:tan_yew_heng@moe.edu.sg) |
-| P4 Responsibility |  Mdm Salehati |  [salehati_md_salleh@moe.edu.sg](mailto:salehati_md_salleh@moe.edu.sg) |
+| P4 Care | Mr Faizal Bin Mohamed Yusoff<br>Mr Wong Li Hao James<br> | faizal_b_mohamed_yusoff@moe.edu.sg<br>wong_li_hao_james@moe.edu.sg<br> |
+| P4 Harmony | Mr Muhd Reza Bin Daud<br>Ms Teo Tian Ki Tammy<br> | muhammad_reza@moe.edu.sg<br>teo_tian_ki@moe.edu.sg<br> |
+| P4 Integrity | Mr Chua Cheow Teck<br>Mdm Hajra Maideen<br> | chua_cheow_teck@moe.edu.sg<br>hajra_maideen@moe.edu.sg<br> |
+| P4 Resilience | Mr Kenneth Wong Cher Jian<br>Mdm Vijayalekshmi d/o Mariappan<br> | kenneth_wong_cher_jian@moe.edu.sg<br>vijayalekshmi_mariappan@moe.edu.sg<br> |
+| P4 Respect | Mrs Ong Wan Sien<br>Mr Joe Ang Choon Hai<br> | kow_wan_sien@moe.edu.sg<br>ang_choon_hai@moe.edu.sg<br> |
+| P4 Responsibility | Mdm Sathyajothi D/o Selvandran<br>Mr Kwek Wenhong Shane<br> | sathyajothi_selvandran@moe.edu.sg<br>kwek_wenhong_shane@moe.edu.sg<br> |
+| P4 Sincerity | Mdm Nalaniammah Rajenthiran (Mrs Raj)<br>Mdm Sharinah Bte Samshudin<br>Mr Mohamed Hisham Bin Salim | nalaniammah_rajenthiran@moe.edu.sg<br>sharinah_samshudin@moe.edu.sg<br>mohamed_hisham_salim@moe.edu.sg |
 |
 
 #### **Primary 5**
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P5 Care |  Mr Shawn Lee<br>Mdm Christine Chua |  [shawn_lee_shiyang@moe.edu.sg](mailto:shawn_lee_shiyang@moe.edu.sg)<br>[christine_chua_kah_yeen@moe.edu.sg](mailto:christine_chua_kah_yeen@moe.edu.sg) |
-| P5 Harmony |  Mdm Linda Kwek<br>Mr Chua Cheow Teck |  [kwek_li_hiang_linda@moe.edu.sg](mailto:kwek_li_hiang_linda@moe.edu.sg)<br>[chua_cheow_teck@moe.edu.sg](mailto:chua_cheow_teck@moe.edu.sg) |
-| P5 Integrity |  Mr Rodger Chua<br>Mdm Naime |  [chua_yew_cheong_rodger@moe.edu.sg](mailto:chua_yew_cheong_rodger@moe.edu.sg)<br>[noor_naime_zainal_abidin@moe.edu.sg](mailto:noor_naime_zainal_abidin@moe.edu.sg) |
-| P5 Resilience |  Miss Felicia Goh<br>Mdm Kartini |  [felicia_goh_xiu_xian@moe.edu.sg](mailto:felicia_goh_xiu_xian@moe.edu.sg)<br>[kartini_mohamed_ramli@moe.edu.sg](mailto:kartini_mohamed_ramli@moe.edu.sg) |
-| P5 Respect |  Mrs Lydia Neo |  [heng_po_khim_lydia@moe.edu.sg](mailto:heng_po_khim_lydia@moe.edu.sg) |
-| P5 Responsibility |  Mr Shahazad<br>Mdm Yeong Wei Syn |  [shaharzad_b_kasman@moe.edu.sg](mailto:shaharzad_b_kasman@moe.edu.sg)<br>[yeong_wei_syn@moe.edu.sg](mailto:yeong_wei_syn@moe.edu.sg) |
+| P5 Care | Ms Siti Dzhawieyah Binte Suja'ee<br>Mr Sung Voon Tet Peter<br> | siti_dzhawieyah@moe.edu.sg<br>sung_voon_tet_peter@moe.edu.sg<br> |
+| P5 Harmony | Ms Tham Sau Ngor<br>Mdm Noraida Yasmin Bte Abd Jabbar<br> | tham_sau_ngor@moe.edu.sg<br>noraida_yasmin_abdul_jabbar@moe.edu.sg<br> |
+| P5 Integrity | Mrs Tan Wei Ling<br>Mr Lee Chee Hao<br> | tan_wei_ling@moe.edu.sg<br>lee_chee_hao@moe.edu.sg<br> |
+| P5 Resilience | Mdm Kartini Bte Mohamed Ramli<br>Mr Aw Yang Ming<br> | kartini_mohamed_ramli@moe.edu.sg<br>aw_yang_ming@moe.edu.sg<br> |
+| P5 Respect | Mdm Tan Jin Jun Stephanie<br>Mr Teo Ser Leng<br> | tan_jin_jun@moe.edu.sg<br>teo_ser_leng@moe.edu.sg<br> |
+| P5 Responsibility | Woo Shan Shan Karen (Mrs Oh)<br>Ms Lisa Chi Li Shan<br> | woo_shan_shan_karen@moe.edu.sg<br>lisa_chi_li_shan@moe.edu.sg<br> |
+| P5 Sincerity | Mdm Yip Weng Ee<br>Ms Tan Wan Lee<br> | yip_weng_ee@moe.edu.sg<br>tan_wan_lee@moe.edu.sg<br> |
+| P5 Unity | Mr Tan Yew Heng<br>Ms Tan Zhao Lin<br> | tan_yew_heng@moe.edu.sg<br>tan_zhao_lin@moe.edu.sg<br> |
+| P5 Valour | Mdm Kwek Li Hiang Linda @ Nadia Kwek<br>Ms Salmah Bee Bte Abu Bakar<br>Mdm Jayanthi d/o Retnam | kwek_li_hiang_linda@moe.edu.sg<br>salmah_bee_abu_bakar@moe.edu.sg<br>jayanthi_retnam@moe.edu.sg |
 |
 
 #### **Primary 6**
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P6 Care | Mdm Bath<br>Mrs Karen Oh |  [randeep_kaur_bath@moe.edu.sg](mailto:randeep_kaur_bath@moe.edu.sg)<br>[woo_shan_shan_karen@moe.edu.sg](mailto:woo_shan_shan_karen@moe.edu.sg) |
-| P6 Harmony | Mr Muhammad Reza<br>Mrs Lee Khua Hou<br>Mdm Christine Chua |  [muhammad_reza@moe.edu.sg](mailto:muhammad_reza@moe.edu.sg)<br>[lee_khuay_hou@moe.edu.sg](mailto:lee_khuay_hou@moe.edu.sg)<br>[christine_chua_kah_yeen@moe.edu.sg](mailto:christine_chua_kah_yeen@moe.edu.sg) |
-| P6 Integrity | Mr Ng Ying Hui<br>Mdm Nurul'aini |  [ng_ying_hui_a@moe.edu.sg](mailto:ng_ying_hui_a@moe.edu.sg)<br>[nurulaini_rohani@moe.edu.sg](mailto:nurulaini_rohani@moe.edu.sg) |
-| P6 Resilience | Mrs Lee M L<br>Ms Siti Dzhawieyah Binte Suja'ee |  [liew_mee_lee@moe.edu.sg](mailto:liew_mee_lee@moe.edu.sg)<br>[siti_dzhawieyah@moe.edu.sg](mailto:siti_dzhawieyah@moe.edu.sg) |
-| P6 Respect | Mrs Lim Yew Hock<br>Mdm Ramlah Begam |  [lim_yew_hock@moe.edu.sg](mailto:lim_yew_hock@moe.edu.sg)<br>[ramlah_begam@moe.edu.sg](mailto:ramlah_begam@moe.edu.sg) |
+| P6 Care | Mr Shawn Lee Shi Yang<br>Mdm Arafah Bte Tajudin<br> | shawn_lee_shiyang@moe.edu.sg<br>arafah_tajudin@moe.edu.sg<br> |
+| P6 Harmony | Mr Chang Mao Chiao Mark<br>Ms Nazihah Binti Na'amsah	<br> | chang_mao_chiao@moe.edu.sg<br>nazihah_naamsah@moe.edu.sg<br> |
+| P6 Integrity | Mdm Juhaidah Binte Mohamed Amin<br>Mdm Asiyah Bte Sheik Md Ismail<br> | juhaidah_amin@moe.edu.sg<br>asiyah_sheik_mohamed_ism@moe.edu.sg<br> |
+| P6 Resilience | Mdm Salehati Bte Md Salleh<br>Ms Amelia Binte Othman<br> | salehati_md_salleh@moe.edu.sg<br>amelia_othman@moe.edu.sg<br> |
+| P6 Respect | Mr Ng Ying Hui<br>Mr Amarjit Singh Sewa Singh<br> | ng_ying_hui_a@moe.edu.sg<br>amarjit_singh_sewa_singh@moe.edu.sg<br> |
+| P6 Responsibility | Mdm Seah Xuyu Faith<br>Dr Teo Bee Lin<br> | seah_xuyu@moe.edu.sg<br>teo_bee_lin@moe.edu.sg<br> |
+| P6 Sincerity | Mr Shaharzad B Kasman<br>Mr Firouk Bin Mohamed Mydin<br> | shaharzad_b_kasman@moe.edu.sg<br>firouk_mohamed_mydin@moe.edu.sg<br> |
+| P6 Unity | Mdm Soh Hwee Choo (Mrs Lim Yew Hock)<br>Mdm Edith Ang Sian Hong<br>Mr Ahmad Tarmidzi Bin Mohd Kassim | lim_yew_hock@moe.edu.sg<br>ang_sian_hong_edith@moe.edu.sg<br>ahmad_tarmidzi_mohd_kassim@moe.edu.sg  | 
 |

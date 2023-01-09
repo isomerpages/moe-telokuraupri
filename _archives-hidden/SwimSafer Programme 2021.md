@@ -2,8 +2,8 @@
 title: SwimSafer Programme 2021
 permalink: /events-and-notices/events/swimsafer-programme-2021/
 description: ""
-third_nav_title: Events
 ---
+
 ### **SwimSafer Programme 2021**
 <img src="/images/swimsafer1.jpg" style="width:85%">
 

@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Our Mission, Vision and Philiosophy.md
+      - Our Mission and Vision.md
       - School Core Values.md
       - School History.md
       - TKPS Featured/TKPS Featured.md
@@ -16,7 +16,6 @@ collections:
       - TKPS Featured/.keep
       - School Staff/School Key Personnel.md
       - School Staff/Form Teachers.md
-      - School Staff/Teaching Staff.md
       - School Staff/Counsellors, Allied Educators & Executive and
         Administrative Staff.md
       - School Staff/.keep
