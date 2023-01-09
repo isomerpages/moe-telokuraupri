@@ -72,3 +72,17 @@ third_nav_title: School Staff
 | P5 Unity |  <br> <br> | <br> <br>   |
 | P5 Valour |  <br> <br> | <br> <br>   |
 |
+
+#### **Primary 6**
+
+| Class | Name of Teacher | Email Address |
+|---|---|---|
+| P6 Care |  <br> <br> |  <br> <br>  |
+| P6 Harmony |  <br> <br> | <br> <br>   |
+| P6 Integrity |  <br> <br> |  <br> <br>  |
+| P6 Resilience |  <br> <br> | <br> <br>   |
+| P6 Respect |  <br> <br> |  <br> <br>  |
+| P6 Responsibility |  <br> <br> | <br> <br>   |
+| P6 Sincerity |  <br> <br> | <br> <br>   |
+| P6 Unity |  <br> <br> | <br> <br>   |
+|
