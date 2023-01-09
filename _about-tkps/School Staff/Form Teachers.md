@@ -34,10 +34,10 @@ third_nav_title: School Staff
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P3 Care | <br><br> | <br><br> |
-| P3 Harmony | <br><br> | <br><br> |
-| P3 Integrity | <br><br> | <br><br> |
-| P3 Resilience | <br><br> | <br><br> |
+| P3 Care | Mdm Aznizah Bte Aris<br>Ms Seah Xing Fen | aznizah_aris@moe.edu.sg<br>seah_xing_fen@moe.edu.sg |
+| P3 Harmony | Mdm Hafizah Bee Bte Ansari<br>Ms Han Jing<br> | hafizah_bee_ansari@moe.edu.sg<br>han_jing@moe.edu.sg<br> |
+| P3 Integrity | Mdm Randeep Kaur Bath<br>Ms Ang Ming'en<br> | randeep_kaur_bath@moe.edu.sg<br>ang_mingen@moe.edu.sg<br> |
+| P3 Resilience | Ms Choo Siok Hui<br>Mr Muhammad Naqib Bin Ismail<br> | choo_siok_hui@moe.edu.sg<br>muhammad_naqib_ismail@moe.edu.sg<br> |
 | P3 Respect | <br><br> | <br><br> |
 | P3 Responsibility | <br><br> | <br><br> |
 | P3 Sincerity | <br><br> | <br><br> |
