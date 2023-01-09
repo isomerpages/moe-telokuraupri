@@ -56,18 +56,18 @@ third_nav_title: School Staff
 
 | Designation | Name | Email Address |
 |---|---|---|
-| Lead Teacher<br>English Language |  Ms Chan Siew Boon |  [chan_siew_boon@moe.edu.sg](mailto:chan_siew_boon@moe.edu.sg) |
-| Senior Teacher<br>English Language |  Mrs Tan B L |  [lim_bee_leng@moe.edu.sg](mailto:lim_bee_leng@moe.edu.sg) |
-| Senior Teacher<br>English Language |  Mdm Nurashikin Tohir |  [nurashikin_mohamed_tohir@moe.edu.sg](mailto:nurashikin_mohamed_tohir@moe.edu.sg) |
+| Master Teacher Science |  Mdm Wong Mei Leng Anne |  [wong\_mei\_leng\_anne@moe.edu.sg](mailto:wong\_mei\_leng\_anne@moe.edu.sg) |
+| Lead Teacher Science |  Mr Yap Chong Chieh |  [yap\_chong\_chieh@moe.edu.sg](mailto:yap\_chong\_chieh@moe.edu.sg) |
+| Lead Teacher Special Education Needs |  Mdm Quek Sr Ling |  [quek\_sr\_ling@moe.edu.sg](mailto:quek\_sr\_ling@moe.edu.sg) |
+| Senior Teacher English Language |  Mdm Ong Siu Yee |  [ong_siu_yee@moe.edu.sg](mailto:ong_siu_yee@moe.edu.sg) |
+| Senior Teacher Mathematics |  Mr Rodger Chua Yew Cheong |  [chua_yew_cheong_rodger@moe.edu.sg](mailto:chua_yew_cheong_rodger@moe.edu.sg) |
+| Senior Teacher Science |  Ms Goh Ya Li |  [goh_ya_li@moe.edu.sg](mailto:goh_ya_li@moe.edu.sg) |
 |Senior Teacher<br>Chinese Language |  Mrs Karen Oh |  [woo_shan_shan_karen@moe.edu.sg](mailto:woo_shan_shan_karen@moe.edu.sg) |
-| Senior Teacher<br>Malay Language<br>  |  Mdm Ramlah Begam  |  [ramlah_begam@moe.edu.sg](mailto:ramlah_begam@moe.edu.sg)  |
-| Senior Teacher<br>Malay Language |  Mr Faizal |  [faizal_b_mohamed_yusoff@moe.edu.sg](mailto:faizal_b_mohamed_yusoff@moe.edu.sg) |
-| Senior Teacher<br>Mathematics |  Mr Rodger Chua |  [chua_yew_cheong_rodger@moe.edu.sg](mailto:chua_yew_cheong_rodger@moe.edu.sg) |
-| Senior Teacher<br>Science |  Ms Goh Ya Li |  [goh_ya_li@moe.edu.sg](mailto:goh_ya_li@moe.edu.sg) |
-|  Senior Teacher<br>Social Studies |  Ms Siti Dzhawieyah Binte Suja'ee |  [siti_dzhawieyah@moe.edu.sg](mailto:siti_dzhawieyah@moe.edu.sg)  |
-| Senior Teacher<br>Physical Education |  Mr Tan Yew Heng |  [tan_yew_heng@moe.edu.sg](mailto:tan_yew_heng@moe.edu.sg) |
-| Senior Teacher<br>Special Education Needs |  Mdm Quek Sr Ling |  [quek_sr_ling@moe.edu.sg](mailto:quek_sr_ling@moe.edu.sg) |
-|
+| Senior Teacher Malay Language |  Mr Faizal Bin Mohamed Yusoff |  [faizal_b_mohamed_yusoff@moe.edu.sg](mailto:faizal_b_mohamed_yusoff@moe.edu.sg) |
+| Senior Teacher Malay Language |  Mdm Khaziah Bte Yem  |  [khaziah\_yem@moe.edu.sg](mailto:khaziah\_yem@moe.edu.sg)  |
+|  Senior Teacher High Ability Learners |  Mdm Arafah Bte Tajudin |  [arafah\_tajudin@moe.edu.sg](mailto:arafah\_tajudin@moe.edu.sg)  |
+| Senior Teacher Physical Education |  Mr Tan Yew Heng |  [tan_yew_heng@moe.edu.sg](mailto:tan_yew_heng@moe.edu.sg) |
+|  Senior Teacher Social Studies |  Ms Siti Dzhawieyah Binte Suja'ee |  [siti_dzhawieyah@moe.edu.sg](mailto:siti_dzhawieyah@moe.edu.sg)  |
 
 #### **Administrative and Operations Team Managers**
 
