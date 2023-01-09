@@ -38,11 +38,11 @@ third_nav_title: School Staff
 | P3 Harmony | Mdm Hafizah Bee Bte Ansari<br>Ms Han Jing<br> | hafizah_bee_ansari@moe.edu.sg<br>han_jing@moe.edu.sg<br> |
 | P3 Integrity | Mdm Randeep Kaur Bath<br>Ms Ang Ming'en<br> | randeep_kaur_bath@moe.edu.sg<br>ang_mingen@moe.edu.sg<br> |
 | P3 Resilience | Ms Choo Siok Hui<br>Mr Muhammad Naqib Bin Ismail<br> | choo_siok_hui@moe.edu.sg<br>muhammad_naqib_ismail@moe.edu.sg<br> |
-| P3 Respect | <br><br> | <br><br> |
-| P3 Responsibility | <br><br> | <br><br> |
-| P3 Sincerity | <br><br> | <br><br> |
-| P3 Unity | <br><br> | <br><br> |
-| P3 Valour | <br><br> | <br><br> |
+| P3 Respect | Mdm Tan Puay Oon Melody<br>Mdm Fatimah Azzahra Bte Hasnordin<br>Ms Loh Chai Na | tan_puay_oon_melody@moe.edu.sg<br>fatimah_azzahra_hasnordin@moe.edu.sg<br>loh_chai_na@moe.edu.sg |
+| P3 Responsibility | Mdm Felicia Goh Xiu Xian (Mrs Ling)<br>Mdm Patricia Lim Chiu Yen (Mrs Chew)<br>Mdm Abigail Choo Ru Yi (Mrs Liau) | felicia_goh_xiu_xian@moe.edu.sg<br>patricia_lim_chiu_yen@moe.edu.sg<br>abigail_choo_ru_yi@moe.edu.sg |
+| P3 Sincerity | Mdm Arni Binte Johan<br>Ms Tan Hui Ling<br> | arni_johan@moe.edu.sg<br>tan_hui_ling@moe.edu.sg<br> |
+| P3 Unity | Mrs Ramesh Eswari<br>Mdm Tan Choon Jhet<br> | ramesh_eswari@moe.edu.sg<br>tan_choon_jhet@moe.edu.sg<br> |
+| P3 Valour | Mdm Liew Mee Lee (Mrs Lee)<br>Mdm Khaziah Bte Yem<br> | liew_mee_lee@moe.edu.sg<br>khaziah_yem@moe.edu.sg<br> |
 |
 
 #### **Primary 4**
