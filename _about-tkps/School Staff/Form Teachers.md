@@ -27,5 +27,48 @@ third_nav_title: School Staff
 | P2 Resilience |  <br> <br> | <br> <br>   |
 | P2 Respect |  <br> <br> |  <br> <br>  |
 | P2 Responsibility |  <br> <br> | <br> <br>   |
-| P2 Responsibility |  <br> <br> | <br> <br>   |
+| P2 Sincerity |  <br> <br> | <br> <br>   |
+|
+
+#### **Primary 3**
+
+| Class | Name of Teacher | Email Address |
+|---|---|---|
+| P3 Care |  <br> <br> |  <br> <br>  |
+| P3 Harmony |  <br> <br> | <br> <br>   |
+| P3 Integrity |  <br> <br> |  <br> <br>  |
+| P3 Resilience |  <br> <br> | <br> <br>   |
+| P3 Respect |  <br> <br> |  <br> <br>  |
+| P3 Responsibility |  <br> <br> | <br> <br>   |
+| P3 Sincerity |  <br> <br> | <br> <br>   |
+| P3 Unity |  <br> <br> | <br> <br>   |
+| P3 Valour |  <br> <br> | <br> <br>   |
+|
+
+#### **Primary 4**
+
+| Class | Name of Teacher | Email Address |
+|---|---|---|
+| P4 Care |  <br> <br> |  <br> <br>  |
+| P4 Harmony |  <br> <br> | <br> <br>   |
+| P4 Integrity |  <br> <br> |  <br> <br>  |
+| P4 Resilience |  <br> <br> | <br> <br>   |
+| P4 Respect |  <br> <br> |  <br> <br>  |
+| P4 Responsibility |  <br> <br> | <br> <br>   |
+| P4 Sincerity |  <br> <br> | <br> <br>   |
+|
+
+#### **Primary 5**
+
+| Class | Name of Teacher | Email Address |
+|---|---|---|
+| P5 Care |  <br> <br> |  <br> <br>  |
+| P5 Harmony |  <br> <br> | <br> <br>   |
+| P5 Integrity |  <br> <br> |  <br> <br>  |
+| P5 Resilience |  <br> <br> | <br> <br>   |
+| P5 Respect |  <br> <br> |  <br> <br>  |
+| P5 Responsibility |  <br> <br> | <br> <br>   |
+| P5 Sincerity |  <br> <br> | <br> <br>   |
+| P5 Unity |  <br> <br> | <br> <br>   |
+| P5 Valour |  <br> <br> | <br> <br>   |
 |
