@@ -4,11 +4,8 @@ permalink: /partners-and-service-providers/alumni/
 description: ""
 third_nav_title: TKPS Alumni
 ---
-
 ### **TKPS Alumni**
 TKPS Alumni key purpose is to allow you to stay connected with your alma mater. Our Alumni volunteer their time to support the school’s activities and programmes. Led by EXCO members and advisors, members build strong relationships and forge bonds with one another through involvement in school activities, events and alumni events. This fosters a sense of belonging and friendship amongst former students.
-
-**video needs to be uploaded on youtube**
 
 #### **Alumni EXCO**
 
