@@ -62,15 +62,15 @@ third_nav_title: School Staff
 
 | Class | Name of Teacher | Email Address |
 |---|---|---|
-| P5 Care | <br><br> | <br><br> |
-| P5 Harmony | <br><br> | <br><br> |
-| P5 Integrity | <br><br> | <br><br> |
-| P5 Resilience | <br><br> | <br><br> |
-| P5 Respect | <br><br> | <br><br> |
-| P5 Responsibility | <br><br> | <br><br> |
-| P5 Sincerity | <br><br> | <br><br> |
-| P5 Unity | <br><br> | <br><br> |
-| P5 Valour | <br><br> | <br><br> |
+| P5 Care | Ms Siti Dzhawieyah Binte Suja'ee<br>Mr Sung Voon Tet Peter<br> | siti_dzhawieyah@moe.edu.sg<br>sung_voon_tet_peter@moe.edu.sg<br> |
+| P5 Harmony | Ms Tham Sau Ngor<br>Mdm Noraida Yasmin Bte Abd Jabbar<br> | tham_sau_ngor@moe.edu.sg<br>noraida_yasmin_abdul_jabbar@moe.edu.sg<br> |
+| P5 Integrity | Mrs Tan Wei Ling<br>Mr Lee Chee Hao<br> | tan_wei_ling@moe.edu.sg<br>lee_chee_hao@moe.edu.sg<br> |
+| P5 Resilience | Mdm Kartini Bte Mohamed Ramli<br>Mr Aw Yang Ming<br> | kartini_mohamed_ramli@moe.edu.sg<br>aw_yang_ming@moe.edu.sg<br> |
+| P5 Respect | Mdm Tan Jin Jun Stephanie<br>Mr Teo Ser Leng<br> | tan_jin_jun@moe.edu.sg<br>teo_ser_leng@moe.edu.sg<br> |
+| P5 Responsibility | Woo Shan Shan Karen (Mrs Oh)<br>Ms Lisa Chi Li Shan<br> | woo_shan_shan_karen@moe.edu.sg<br>lisa_chi_li_shan@moe.edu.sg<br> |
+| P5 Sincerity | Mdm Yip Weng Ee<br>Ms Tan Wan Lee<br> | yip_weng_ee@moe.edu.sg<br>tan_wan_lee@moe.edu.sg<br> |
+| P5 Unity | Mr Tan Yew Heng<br>Ms Tan Zhao Lin<br> | tan_yew_heng@moe.edu.sg<br>tan_zhao_lin@moe.edu.sg<br> |
+| P5 Valour | Mdm Kwek Li Hiang Linda @ Nadia Kwek<br>Ms Salmah Bee Bte Abu Bakar<br>Mdm Jayanthi d/o Retnam | kwek_li_hiang_linda@moe.edu.sg<br>salmah_bee_abu_bakar@moe.edu.sg<br>jayanthi_retnam@moe.edu.sg |
 |
 
 #### **Primary 6**
