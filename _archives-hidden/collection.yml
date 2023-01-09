@@ -2,4 +2,5 @@ collections:
   archives-hidden:
     output: true
     order:
+      - MOE Financial Assistance Scheme (FAS) 2021.md
       - SwimSafer Programme 2021.md
