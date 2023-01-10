@@ -20,6 +20,19 @@ The merger of Telok Kurau Primary (TKPS) and Eunos Primary (EPS) in 2023 puts us
 
 With these 4 physical sports, 3 uniformed groups, 7 visual and performing arts, and 4 clubs and societies CCA options,  students will get to discover their passion, build friendships, cultivate leadership skills and acquire values such as teamwork and resilience in a vibrant environment. 
 
+
+
+| PHYSICAL SPORTS (PS) | VISUAL AND PERFORMING ARTS (VPA)| CLUBS AND SOCIETIES (CS) | UNIFORMED GROUPS (UG) |
+| -------- | -------- | -------- | -------- |
+| Basketball#  | Art and Crafts#   | Debating and Public Speaking* | Brownies |
+| Bowling*#  | Choir  | Environmental Club | Red Cross Youth |
+| Football#  | Guheng Ensemble  | Robotics# | Scouts |
+| Wushu  | Lion Dance  | Strategy Games Club* |  |
+| | Chinese Dance| |
+| | Indian Dance| |
+| | Malay Dance| |
+
+
 #### **CCAs@TKPS Policy**
 
 1. All P3 to P6 students will have a CCA.   
