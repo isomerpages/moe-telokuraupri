@@ -12,6 +12,7 @@ third_nav_title: School Staff
 | P1 Care |  Ms Hwee Yuet Ying<br>Mdm Wiwiek Bte Sulaiman<br>Ms Norita Binti Rahmad | hwee_yuet_ying@moe.edu.sg<br>	wiwiek_sulaiman@moe.edu.sg<br>norita_rahmad@moe.edu.sg |
 | P1 Harmony |  Mdm Chua Jennifer (Mrs Loy)<br> Mrs Elnie Tryana Dridi <br>Ms Wu Ling |  jennifer_lee_peck_guek@moe.edu.sg <br>	 elnie_tryana_dridi@moe.edu.sg<br>	yvonne_wu_ling@moe.edu.sg |
 | P1 Integrity |  Mdm Irwani Bte Ahmad<br>Ms Eunice Ng Si Ling <br>Mdm Lim Poh Yen Doreen (Mrs Phoon) | irwani_ahmad@moe.edu.sg<br>ng_si_ling_eunice@moe.edu.sg <br>lim_poh_yen_doreen@moe.edu.sg   |
+| P1 Resilience |  Mdm Siti Nurulhuda Binte Said<br>Mdm Siti Sumaiyah Bte Rashid <br>Mrs Liew-Sim Ai Ling | siti_nurulhuda_said@moe.edu.sg<br>siti_sumaiyah_rashid@moe.edu.sg<br>sim_ai_ling_a@moe.edu.sg   |
 | P1 Respect |  	Ms Haryati Bte Mohamed<br>Ms Sin Yoke Jing Mavis <br>Ms Kasturi d/o Gnanachegaran |  haryati_mohamed@moe.edu.sg<br>sin_yoke_jing_mavis@moe.edu.sg <br>kasturi_gnanachegaran@moe.edu.sg  |
 | P1 Responsibility |  Mdm Yeo Hwee Bin	<br> Mdm Elisha Bte Jaafar<br>Ms Loy Qian Yin | yeo_hwee_bin@moe.edu.sg<br>elisha_jaafar@moe.edu.sg <br> loy_qian_yin@moe.edu.sg |
 |
