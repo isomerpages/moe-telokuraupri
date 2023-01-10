@@ -32,6 +32,10 @@ With these 4 physical sports, 3 uniformed groups, 7 visual and performing arts, 
 | | Indian Dance| |
 | | Malay Dance| |
 
+   
+
+\* These CCAs are opened only to 2023 P3 and P4 students<br>
+\# CCAs that require trials in the selection process
 
 #### **CCAs@TKPS Policy**
 
