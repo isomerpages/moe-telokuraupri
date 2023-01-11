@@ -4,8 +4,7 @@ permalink: /tkps-open-house/
 description: ""
 third_nav_title: Events
 ---
-
-### **TKPS Open House**
+### **TKPS Open House 2022**
 
 <figure><figcaption><strong>  
 TKPS Brochure
