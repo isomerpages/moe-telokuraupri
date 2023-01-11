@@ -8,11 +8,4 @@ third_nav_title: Visual and Performing Arts
 <img src="/images/vpa3.jpg" style="width:65%">
 
 #### **Introduction of CCA**
-Our Malay Dance group aims to impart the rich cultural Malay heritage, and develop grace and discipline in students through the performing arts. Through dance, students are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. We continue to strive for excellence and obtained the Certificate of Distinction in the Singapore Youth Festival Arts Presentation in 2018.
-
-#### **Achievement**
-
-| Competition | Achievement |
-|:---:|:---:|
-| Singapore Youth Festival Arts Presentation 2018 | Certificate Of Distinction |
-|  |  |
+Our TKPS Malay Dance group is an important part of our school’s LLP. It plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Our Malay Dancers are also given opportunities to perform at different events such as school-based cultural celebrations and the SYF AP.
