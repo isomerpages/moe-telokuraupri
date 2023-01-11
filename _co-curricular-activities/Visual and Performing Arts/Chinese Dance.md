@@ -8,11 +8,4 @@ third_nav_title: Visual and Performing Arts
 <img src="/images/vpa2.jpg" style="width:65%">
 
 #### **Introduction of CCA**
-The Chinese Dance CCA was established in 2001 to impart Chinese culture and appreciation of different ethnic practices. Through dance, we teach our students to be confident performers and learn the importance of teamwork and commitment. Students learn about the development of artistic expressions by conveying emotions using both body and facial expressions. Our dancers are given opportunities to be actively involved in school and public performances. We have been participating in the Singapore Youth Festival Arts Presentation and in 2018, attained the Certificate of Distinction.
-
-#### **Achievements**
-
-| Competition | Achievement |
-|:---:|:---:|
-| Singapore Youth Festival Arts Presentation 2018 | Certificate Of Distinction |
-|  |  |
+As our school’s LLP focuses on character development through team sports and the arts, Chinese dance supports the aesthetic development of our students by allowing them to appreciate and connect with the Chinese culture through different forms of Chinese dance. This CCA provides our dancers with knowledge, skills and values through learning and performing Chinese Dance, as well as creating, appreciating and responding to dance. Through dance, we teach our members to be confident performers and learn the importance of teamwork and commitment. Our dancers learn about the development of artistic expressions by conveying emotions using both body and facial expressions. They are also given opportunities to be actively involved in school and public performances, such as the SYF AP.

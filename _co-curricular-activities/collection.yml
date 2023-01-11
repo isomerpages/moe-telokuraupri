@@ -4,20 +4,25 @@ collections:
     order:
       - Co Curricular Activities (CCA).md
       - CCA Contacts.md
-      - Sports & Games/Basketball.md
-      - Sports & Games/Football.md
-      - Sports & Games/Wushu.md
-      - Sports & Games/.keep
+      - Physical Sports/.keep
+      - Physical Sports/Basketball.md
+      - Physical Sports/Bowling.md
+      - Physical Sports/Football.md
+      - Physical Sports/Wushu.md
+      - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Art and Crafts.md
-      - Visual and Performing Arts/Chinese Dance.md
-      - Visual and Performing Arts/Malay Dance.md
-      - Visual and Performing Arts/Indian Dance.md
-      - Visual and Performing Arts/Lion dance.md
       - Visual and Performing Arts/Choir.md
       - Visual and Performing Arts/Guzheng Ensemble.md
-      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Lion and Dragon Dance.md
+      - Visual and Performing Arts/Chinese Dance.md
+      - Visual and Performing Arts/Indian Dance.md
+      - Visual and Performing Arts/Malay Dance.md
+      - Clubs & Societies/Strategy Games Club.md
+      - Clubs & Societies/Environmental Club.md
+      - Clubs & Societies/Debating and Public Speaking.md
       - Clubs & Societies/Robotics.md
       - Clubs & Societies/.keep
-      - Uniformed Groups/Brownies.md
-      - Uniformed Groups/Scouts.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/Scouts.md

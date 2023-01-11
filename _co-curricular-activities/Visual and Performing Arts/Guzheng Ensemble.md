@@ -8,11 +8,4 @@ third_nav_title: Visual and Performing Arts
 <img src="/images/vpa7.jpg" style="width:65%">
 
 #### **Introduction of CCA**
-The Guzheng Ensemble was established in 2001 with the aim of developing a genuine love and a lifelong passion for music in its members. Since its establishment, the ensemble has embarked on the journey of musicianship, and its members have learnt the values of respect, resilience, passion and excellence. Throughout the years, we have also gained enriching experiences through performances such as at the Singapore Youth Festival Arts Presentations, Singapore Youth Festival at the Esplanade, festival celebrations in school and community involvement activities. During practice sessions, we encourage members to put in their utmost to strengthen their understanding and passion towards music, build friendships, and develop leadership skills and teamwork. We achieved the Certificate of Commendation at the Singapore Youth Festival Arts Presentation in 2018.
-
-#### **Achievement**
-
-| Competition | Achievement |
-|:---:|:---:|
-| Singapore Youth Festival 2018 | Certificate of Commendation |
-|  |  |
+The Guzheng Ensemble is an important CCA as our LLP, in cultivating a genuine love and a lifelong passion for music amongst its members. We aim to help them achieve mastery as they learn to play beautiful pieces of music! Since its establishment, the ensemble has embarked on the journey of musicianship, and its members have learnt the values of respect, resilience and excellence. Members are imbued with a strong sense of responsibility towards their guzheng by ensuring it is well tuned and put in their best during performances. They learn to work collaboratively as a team and play together as one. Members are given the opportunity to also perform at various school platforms as well as the SYF AP. 

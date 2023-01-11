@@ -24,6 +24,6 @@ sections:
       title: TKPS Instagram
       subtitle: Telok Kurau Primary School
       description: Keep in touch with us!
-      button: find out more
+      button: click here
       url: https://www.instagram.com/telokkuraupri.official/
 ---

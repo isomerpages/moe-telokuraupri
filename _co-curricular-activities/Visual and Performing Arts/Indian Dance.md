@@ -8,11 +8,4 @@ third_nav_title: Visual and Performing Arts
 <img src="/images/vpa4.jpg" style="width:65%">
 
 #### **Introduction of CCA**
-Our Indian Dance group exposes students to different Indian Dance genres and provides a platform for them to showcase their talents. Through dance, we teach our students to be resilient and to have self-discipline. Our students have taken part in many external performances and in school events. We have been participating in the Singapore Youth Festival Arts Presentation and in 2018, attained the Certificate of Accomplishment.
-
-#### **Achievement**
-
-| Competition | Achievement |
-|:---:|:---:|
-| Singapore Youth Festival Arts Presentation 2018 | Certificate Of Accomplishment |
-|  |  |
+Part of the school’s LLP, our Indian Dance Group provides the platform to appreciate the aesthetics of Indian culture and by exposing its members to different Indian Dance genre. Our dancers start off with basic dance steps before going on to more intricate moves. Elements of Indian dance facial expressions, hand and footwork, and poise and stage presence are also taught, as well as an appreciation of Indian cultural practices. Through opportunities to perform at different platforms such the schools’ SPG and SYF AP, members gain self-confidence and learn values such as resilience, respect and care as they perform together as a team. 
