@@ -30,4 +30,6 @@ c. School Canteen.
 
 9. Non-compliance with the school policy on the use of mobile devices will require students to hand over their devices to school authorities. <br><br>
 
-10. Parents/ guardians will be required to personally collect their child’s mobile device from the school’s General Office.<br><br>
+10. Parents/ guardians will be required to personally collect their child’s mobile device from the school’s General Office.
+
+###  **Homework Policy**
