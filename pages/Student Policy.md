@@ -44,7 +44,7 @@ The responsibilities of the each TKPS student include the following:
 4. Attempt all work and give his/her best to each piece of assignment.
 5. Inform the subject teacher of any difficulties in doing them.
 
-Our school’s recommendations are as follows:-
+##### **Our school’s recommendations are as follows:-**
 
 1. The approximate time allocation during school term per day / week and holidays are stipulated in the table below.
 
