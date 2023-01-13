@@ -58,16 +58,16 @@ description: ""
 
 | Name | Email Address | Tel Ext |
 |---|---|---|
-| Mr Mark Chang |  chang_mao_chiao@moe.edu.sg  |
-| Mr Shane Kwek | kwek_wenhong_shane@moe.edu.sg |
+| Mr Mark Chang |  chang_mao_chiao@moe.edu.sg  | 340
+| Mr Shane Kwek | kwek_wenhong_shane@moe.edu.sg | 247
 |
 
 **Debating and Public Speaking**
 
 | Name | Email Address | Tel Ext |
 |---|---|---|
-| Ms Felicia Goh Xiu Xian |  felicia_goh_xiu_xian@moe.edu.sg  |
-| Mdm Noraida Yasmin Bte Abd Jabbar  | noraida_yasmin_abd_jabbar@moe.edu.sg  |
+| Ms Felicia Goh Xiu Xian |  felicia_goh_xiu_xian@moe.edu.sg  | 235
+| Mdm Noraida Yasmin Bte Abd Jabbar  | noraida_yasmin_abd_jabbar@moe.edu.sg  | 322
 |
 
 
@@ -77,8 +77,8 @@ description: ""
 
 | Name | Email Address | Tel Ext |
 |---|---|---|
-| Mdm Aznizah Bte Aris | aznizah_aris@moe.edu.sg |
-| Mdm Elnie Tryana Dridi  | elnie_tryana_dridi@moe.edu.sg |
+| Mdm Aznizah Bte Aris | aznizah_aris@moe.edu.sg | 227
+| Mdm Elnie Tryana Dridi  | elnie_tryana_dridi@moe.edu.sg | 206
 |
 
 
