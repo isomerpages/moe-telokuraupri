@@ -49,5 +49,3 @@ Our school’s recommendations are as follows:-
 1. The approximate time allocation during school term per day / week and holidays are stipulated in the table below.
 
 | Level | Approximate time  allocation during school term per day | Approximate time  allocation during school term per week | Approximate time allocation during school  holidays per day
-
-
