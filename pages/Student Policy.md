@@ -48,4 +48,8 @@ Our school’s recommendations are as follows:-
 
 1. The approximate time allocation during school term per day / week and holidays are stipulated in the table below.
 
-| Level | Approximate time  allocation during school term per day | Approximate time  allocation during school term per week | Approximate time allocation during school  holidays per day
+| Level | Approximate time  allocation during school term per day | Approximate time  allocation during school term per week | Approximate time allocation during school  holidays per day |
+|---|---|---|---|
+|Primary 1 & 2|1 to 1.5 hrs|7.5 to 9 hrs|30 to 45 mins|
+|Primary 3 & 4|1.5 to 2 hrs|10 to 12 hrs|45 mins to 1 hr|
+|Primary 5 & 6|2 to 3 hrs|12.5 to 14 hrs| 1 to 1.5 hrs|
