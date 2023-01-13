@@ -87,48 +87,48 @@ description: ""
 
 | Name | Email Address | Tel Ext |
 |---|---|---|
-| Mdm Kua Shimin |  kua_shimin_ke_shimin@moe.edu.sg |
-| Ms Lisa Chi Li Shan | lisa_chi_li_shan@moe.edu.sg |
+| Mdm Kua Shimin |  kua_shimin_ke_shimin@moe.edu.sg | 220
+| Ms Lisa Chi Li Shan | lisa_chi_li_shan@moe.edu.sg | 319
 |
 
 **Malay Dance**
 
 | Name | Email Address | Tel Ext |
 |---|---|---|
-| Mdm Asiyah Bte Sheik Md Ismail | asiyah_sheik_mohamed_ism@moe.edu.sg |
-| Mr Mohamed Hisham Bin Salim | mohamed_hisham_salim@moe.edu.sg |
+| Mdm Asiyah Bte Sheik Md Ismail | asiyah_sheik_mohamed_ism@moe.edu.sg | 268
+| Mr Mohamed Hisham Bin Salim | mohamed_hisham_salim@moe.edu.sg | 262
 |
 
 **Indian Dance**
 
 | Name | Email Address | Tel Ext |
 |---|---|---|
-| Mrs Ramesh Eswari | ramesh_eswari@moe.edu.sg |
-| Mdm Vijaya | vijayalekshmi_mariappan@moe.edu.sg |
+| Mrs Ramesh Eswari | ramesh_eswari@moe.edu.sg | 260
+| Mdm Vijaya | vijayalekshmi_mariappan@moe.edu.sg | 299
 |
 
 **Lion Dance**
 
 | Name | Email Address | Tel Ext |
 |---|---|---|
-| Mr Ng Ying Hui|  ng_ying_hui_a@moe.edu.sg |
-| Ms Wu Ling | yvonne_wu_ling@moe.edu.sg |
+| Mr Ng Ying Hui|  ng_ying_hui_a@moe.edu.sg | 341
+| Ms Wu Ling | yvonne_wu_ling@moe.edu.sg | 278
 |
 
 **Choir**
 
 | Name | Email Address | Tel Ext |
 |---|---|---|
-| Ms Haryati Bte mohamed | haryati_mohamed@moe.edu.sg |
-| Mdm Fatimah Azzahra | fatimah_azzahra_hasnordin@moe.edu.sg |
+| Ms Haryati Bte mohamed | haryati_mohamed@moe.edu.sg | 209
+| Mdm Fatimah Azzahra | fatimah_azzahra_hasnordin@moe.edu.sg | 231
 |
 
 **Guzheng Ensemble**
 
 | Name | Email Address | Tel Ext |
 |---|---|---|
-| Mdm Seah Xuyu Faith | seah_xuyu@moe.edu.sg |
-| Mdm Tan Suat Hoon | tan_suat_hoon@moe.edu.sg |
+| Mdm Seah Xuyu Faith | seah_xuyu@moe.edu.sg | 288
+| Mdm Tan Suat Hoon | tan_suat_hoon@moe.edu.sg | 272
 |
 
 #### **Uniformed Groups**
