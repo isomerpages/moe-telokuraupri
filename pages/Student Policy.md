@@ -33,3 +33,21 @@ c. School Canteen.
 10. Parents/ guardians will be required to personally collect their child’s mobile device from the school’s General Office.
 
 ###  **Homework Policy**
+
+At Telok Kurau Primary School, we give due consideration to how much time is appropriate for students to complete their homework at each level, according to their aptitude.
+
+The responsibilities of the each TKPS student include the following:
+
+1. Listen to homework instructions in class.
+2. Copy down instructions for the task and deadline date into their Student Handbook.
+3. Ensure that homework is completed and handed in by the deadline.
+4. Attempt all work and give his/her best to each piece of assignment.
+5. Inform the subject teacher of any difficulties in doing them.
+
+Our school’s recommendations are as follows:-
+
+1. The approximate time allocation during school term per day / week and holidays are stipulated in the table below.
+
+| Level | Approximate time  allocation during school term per day | Approximate time  allocation during school term per week | Approximate time allocation during school  holidays per day
+
+
