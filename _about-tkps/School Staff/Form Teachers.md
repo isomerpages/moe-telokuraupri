@@ -7,8 +7,8 @@ third_nav_title: School Staff
 ### **Form Teachers**
 #### **Primary 1**
 
-| Class | Name of Teacher | Email Address |
-|---|---|---|
+| Class | Name | Email Address | Ext |
+|---|---|---|---|
 | P1 Care |  Ms Hwee Yuet Ying<br>Mdm Wiwiek Bte Sulaiman<br>Ms Norita Binti Rahmad | hwee_yuet_ying@moe.edu.sg<br>	wiwiek_sulaiman@moe.edu.sg<br>norita_rahmad@moe.edu.sg |
 | P1 Harmony |  Mdm Chua Jennifer (Mrs Loy)<br> Mrs Elnie Tryana Dridi <br>Ms Wu Ling |  jennifer_lee_peck_guek@moe.edu.sg <br>	 elnie_tryana_dridi@moe.edu.sg<br>	yvonne_wu_ling@moe.edu.sg |
 | P1 Integrity |  Mdm Irwani Bte Ahmad<br>Ms Eunice Ng Si Ling <br>Mdm Lim Poh Yen Doreen (Mrs Phoon) | irwani_ahmad@moe.edu.sg<br>ng_si_ling_eunice@moe.edu.sg <br>lim_poh_yen_doreen@moe.edu.sg   |
@@ -20,8 +20,8 @@ third_nav_title: School Staff
 
 #### **Primary 2**
 
-| Class | Name of Teacher | Email Address |
-|---|---|---|
+| Class | Name | Email Address | Ext |
+|---|---|---|---|
 | P2 Care |  Mr Robin Lim Heng Hock<br>Mdm Teo Cheng Yim |  robin_lim_heng_hock@moe.edu.sg<br>teo_cheng_yim@moe.edu.sg  |
 | P2 Harmony |  Mdm Kua Shimin<br>Ms Nur Hafizah Bte Ismail <br>Ms Goh Jook Kin Susan | kua_shimin_ke_shimin@moe.edu.sg<br>nur_hafizah_ismail_b@moe.edu.sg <br>goh_jook_kin@moe.edu.sg   |
 | P2 Integrity |  Mdm Goh Beng Lay (Mrs Veronica Tan)<br>Mdm Tan Suat Hoon |  goh_beng_lay@moe.edu.sg<br>tan_suat_hoon@moe.edu.sg |
@@ -33,8 +33,8 @@ third_nav_title: School Staff
 
 #### **Primary 3**
 
-| Class | Name of Teacher | Email Address |
-|---|---|---|
+| Class | Name | Email Address | Ext |
+|---|---|---|---|
 | P3 Care | Mdm Aznizah Bte Aris<br>Ms Seah Xing Fen | aznizah_aris@moe.edu.sg<br>seah_xing_fen@moe.edu.sg |
 | P3 Harmony | Mdm Hafizah Bee Bte Ansari<br>Ms Han Jing<br> | hafizah_bee_ansari@moe.edu.sg<br>han_jing@moe.edu.sg<br> |
 | P3 Integrity | Mdm Randeep Kaur Bath<br>Ms Ang Ming'en<br> | randeep_kaur_bath@moe.edu.sg<br>ang_mingen@moe.edu.sg<br> |
@@ -48,8 +48,8 @@ third_nav_title: School Staff
 
 #### **Primary 4**
 
-| Class | Name of Teacher | Email Address |
-|---|---|---|
+| Class | Name | Email Address | Ext |
+|---|---|---|---|
 | P4 Care | Mr Faizal Bin Mohamed Yusoff<br>Mr Wong Li Hao James<br> | faizal_b_mohamed_yusoff@moe.edu.sg<br>wong_li_hao_james@moe.edu.sg<br> |
 | P4 Harmony | Mr Muhd Reza Bin Daud<br>Ms Teo Tian Ki Tammy<br> | muhammad_reza@moe.edu.sg<br>teo_tian_ki@moe.edu.sg<br> |
 | P4 Integrity | Mr Chua Cheow Teck<br>Mdm Hajra Maideen<br> | chua_cheow_teck@moe.edu.sg<br>hajra_maideen@moe.edu.sg<br> |
@@ -61,8 +61,8 @@ third_nav_title: School Staff
 
 #### **Primary 5**
 
-| Class | Name of Teacher | Email Address |
-|---|---|---|
+| Class | Name | Email Address | Ext |
+|---|---|---|---|
 | P5 Care | Ms Siti Dzhawieyah Binte Suja'ee<br>Mr Sung Voon Tet Peter<br> | siti_dzhawieyah@moe.edu.sg<br>sung_voon_tet_peter@moe.edu.sg<br> |
 | P5 Harmony | Ms Tham Sau Ngor<br>Mdm Noraida Yasmin Bte Abd Jabbar<br> | tham_sau_ngor@moe.edu.sg<br>noraida_yasmin_abdul_jabbar@moe.edu.sg<br> |
 | P5 Integrity | Mrs Tan Wei Ling<br>Mr Lee Chee Hao<br> | tan_wei_ling@moe.edu.sg<br>lee_chee_hao@moe.edu.sg<br> |
@@ -76,8 +76,8 @@ third_nav_title: School Staff
 
 #### **Primary 6**
 
-| Class | Name of Teacher | Email Address |
-|---|---|---|
+| Class | Name | Email Address | Ext |
+|---|---|---|---|
 | P6 Care | Mr Shawn Lee Shi Yang<br>Mdm Arafah Bte Tajudin<br> | shawn_lee_shiyang@moe.edu.sg<br>arafah_tajudin@moe.edu.sg<br> |
 | P6 Harmony | Mr Chang Mao Chiao Mark<br>Ms Nazihah Binti Na'amsah	<br> | chang_mao_chiao@moe.edu.sg<br>nazihah_naamsah@moe.edu.sg<br> |
 | P6 Integrity | Mdm Juhaidah Binte Mohamed Amin<br>Mdm Asiyah Bte Sheik Md Ismail<br> | juhaidah_amin@moe.edu.sg<br>asiyah_sheik_mohamed_ism@moe.edu.sg<br> |
