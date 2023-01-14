@@ -2,4 +2,5 @@ collections:
   quick-links:
     output: true
     order:
+      - For Students/.keep
       - Student Policy.md
