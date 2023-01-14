@@ -11,25 +11,25 @@ third_nav_title: School Staff
 | Designation | Name | Email Address |
 |---|---|---|
 | Principal | Mrs Grace Leong | [telokuraups@moe.edu.sg](mailto:telokuraups@moe.edu.sg) |
-| Vice Principal <br>(Academic)| Mdm Irene Chua Wan Ling | [telokuraups@moe.edu.sg](mailto:telokuraups@moe.edu.sg) |
-| Vice Principal <br>(Academic) | Mrs Chu-Tan Kim Yan | [telokuraups@moe.edu.sg](mailto:telokuraups@moe.edu.sg) |
-| Vice-Principal (Administration) | Mr Kwan Wan Hor | [telokuraups@moe.edu.sg](mailto:telokuraups@moe.edu.sg) |
+| Vice Principal (Academic)| Mdm Irene Chua Wan Ling | [telokuraups@moe.edu.sg](mailto:telokuraups@moe.edu.sg) |
+| Vice Principal (Academic) | Mrs Chu-Tan Kim Yan | [telokuraups@moe.edu.sg](mailto:telokuraups@moe.edu.sg) |
+| VicePrincipal (Administration) | Mr Kwan Wan Hor | [telokuraups@moe.edu.sg](mailto:telokuraups@moe.edu.sg) |
 |
 
 #### **Year Heads**
 
-| Designation | Name | Email Address |
-|---|---|---|
-| Year Head <br>(P1 to P3) |  Mdm Rashidah Binte  Mohamad Yusop |  [rashidah_mohamad_yusop@moe.edu.sg](mailto:rashidah_mohamad_yusop@moe.edu.sg) |
-| Year Head <br>(P4 to P6) |  Ms Foo Jong Yin |  [foo\_jong\_yin@moe.edu.sg](mailto:lfoo\_jong\_yin@moe.edu.sg) |
+| Designation | Name | Email Address | Ext |
+|---|---|---|---|
+| Year Head (P1 to P3) |  Mdm Rashidah Binte  Mohamad Yusop |  [rashidah_mohamad_yusop@moe.edu.sg](mailto:rashidah_mohamad_yusop@moe.edu.sg) |
+| Year Head (P4 to P6) |  Ms Foo Jong Yin |  [foo\_jong\_yin@moe.edu.sg](mailto:lfoo\_jong\_yin@moe.edu.sg) |
 | 
 
 #### **Heads of Department (HOD)**
 
-| Designation | Name | Email Address |
-|---|---|---|
+| Designation | Name | Email Address | Ext |
+|---|---|---|---|
 | School Staff Developer |  Mdm Theodora Teong Ying Xi |  [theodora\_teong\_ying\_xi@moe.edu.sg](mailto:theodora\_teong\_ying\_xi@moe.edu.sg) |
-|  HOD English Language<br> |  Mr Jose Paolo Boquiren <br> |  [jose_paolo_t_boquiren@moe.edu.sg](mailto:jose_paolo_t_boquiren@moe.edu.sg)<br>  |
+|  HOD English Language |  Mr Jose Paolo Boquiren  |  [jose_paolo_t_boquiren@moe.edu.sg](mailto:jose_paolo_t_boquiren@moe.edu.sg)<br>  |
 | HOD Mathematics |  Mr Jeremy Tan |  [tan_keng_lim_jeremy@moe.edu.sg](mailto:tan_keng_lim_jeremy@moe.edu.sg) |
 | HOD Science |  Mdm Lee Theng Theng |  [lee_theng_theng@moe.edu.sg](mailto:lee_theng_theng@moe.edu.sg) |
 | HOD Mother Tongue Language |  Mdm Pamela Leck Hwee Huan |  [leck_hwee_huan@moe.edu.sg](mailto:leck_hwee_huan@moe.edu.sg) |
@@ -41,8 +41,8 @@ third_nav_title: School Staff
 
 #### **Subject Heads (SH)**
 
-| Designation | Name | Email Address |
-|---|---|---|
+| Designation | Name | Email Address | Ext |
+|---|---|---|---|
 | LH Mathematics |  Mdm Patricia Lim Chiu Yen |  [patricia\_lim\_chiu\_yen@moe.edu.sg](mailto:patricia\_lim\_chiu\_yen@moe.edu.sg) |
 | SH Chinese Language |  Mdm Melody Tan |  [tan_puay_oon_melody@moe.edu.sg](mailto:tan_puay_oon_melody@moe.edu.sg) |
 | SH Student Leadership |  Mr Amarjit Singh Sewa Singh |  [amarjit\_singh\_sewa\_singh@moe.edu.sg](mailto:amarjit\_singh\_sewa\_singh@moe.edu.sg) |
@@ -54,8 +54,8 @@ third_nav_title: School Staff
 
 #### **Teacher Leaders**
 
-| Designation | Name | Email Address |
-|---|---|---|
+| Designation | Name | Email Address | Ext |
+|---|---|---|---|
 | Master Teacher Science |  Mdm Wong Mei Leng Anne |  [wong\_mei\_leng\_anne@moe.edu.sg](mailto:wong\_mei\_leng\_anne@moe.edu.sg) |
 | Lead Teacher Science |  Mr Yap Chong Chieh |  [yap\_chong\_chieh@moe.edu.sg](mailto:yap\_chong\_chieh@moe.edu.sg) |
 | Lead Teacher Special Education Needs |  Mdm Quek Sr Ling |  [quek\_sr\_ling@moe.edu.sg](mailto:quek\_sr\_ling@moe.edu.sg) |
@@ -71,8 +71,8 @@ third_nav_title: School Staff
 
 #### **Administrative and Operations Team Managers**
 
-| Designation | Name | Email Address |
-|---|---|---|
+| Designation | Name | Email Address | Ext |
+|---|---|---|---|
 | Administration Manager |  Ms Manju Chatlani Murli |  [chatlani_manju_murli@schools.gov.sg](mailto:chatlani_manju_murli@schools.gov.sg) |
 | Administration Manager |  Mr Matthew Toh |  [matthew_toh@schools.gov.sg](mailto:matthew_toh@schools.gov.sg) |
 | Operations Manager |  Mr Teo Kian Yeow |  [teo_kian_yeow@moe.edu.sg](mailto:teo_kian_yeow@moe.edu.sg) |
