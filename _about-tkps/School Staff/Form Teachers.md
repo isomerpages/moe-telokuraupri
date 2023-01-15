@@ -22,13 +22,13 @@ third_nav_title: School Staff
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P2 Care |  Mr Robin Lim Heng Hock<br>Mdm Teo Cheng Yim |  robin_lim_heng_hock@moe.edu.sg<br>teo_cheng_yim@moe.edu.sg  |
-| P2 Harmony |  Mdm Kua Shimin<br>Ms Nur Hafizah Bte Ismail <br>Ms Goh Jook Kin Susan | kua_shimin_ke_shimin@moe.edu.sg<br>nur_hafizah_ismail_b@moe.edu.sg <br>goh_jook_kin@moe.edu.sg   |
-| P2 Integrity |  Mdm Goh Beng Lay (Mrs Veronica Tan)<br>Mdm Tan Suat Hoon |  goh_beng_lay@moe.edu.sg<br>tan_suat_hoon@moe.edu.sg |
-| P2 Resilience |  Mdm Chan Sau Man Mandy<br>Ms Parvathy d/o Balakrisnan | chan_sau_man@moe.edu.sg<br>parvathy_balakrisnan@moe.edu.sg  |
-| P2 Respect | Ms Soh Hui Shian Sandy<br>Mdm Amalina Binte Abdul Razak | soh_hui_shian_sandy@moe.edu.sg<br>amalina_abdul_razak@moe.edu.sg |
-| P2 Responsibility |  Mdm Shen Huijie<br>Mr Ang Gee Kai Marcus<br>Mdm Yeow Yun Hui | shen_huijie@moe.edu.sg<br>ang_gee_kai@moe.edu.sg<br>yeow_yun_hui@moe.edu.sg |
-| P2 Sincerity | Mdm Kasrina Rahaini Binte Rahmat<br>Ms Nur'ain Binte Saiman	 | kasrina_rahaini_rahmat@moe.edu.sg<br>nurain_saiman@moe.edu.sg |
+| P2 Care |  Mr Robin Lim Heng Hock<br>Mdm Teo Cheng Yim |  robin_lim_heng_hock@moe.edu.sg<br>teo_cheng_yim@moe.edu.sg  |221<br>218
+| P2 Harmony |  Mdm Kua Shimin<br>Ms Nur Hafizah Bte Ismail <br>Ms Goh Jook Kin Susan | kua_shimin_ke_shimin@moe.edu.sg<br>nur_hafizah_ismail_b@moe.edu.sg <br>goh_jook_kin@moe.edu.sg   |220<br>261<br>224
+| P2 Integrity |  Mdm Goh Beng Lay (Mrs Veronica Tan)<br>Mdm Tan Suat Hoon |  goh_beng_lay@moe.edu.sg<br>tan_suat_hoon@moe.edu.sg |216<br>272
+| P2 Resilience |  Mdm Chan Sau Man Mandy<br>Ms Parvathy d/o Balakrisnan | chan_sau_man@moe.edu.sg<br>parvathy_balakrisnan@moe.edu.sg  |289<br>217
+| P2 Respect | Ms Soh Hui Shian Sandy<br>Mdm Amalina Binte Abdul Razak | soh_hui_shian_sandy@moe.edu.sg<br>amalina_abdul_razak@moe.edu.sg | 215<br>219
+| P2 Responsibility |  Mdm Shen Huijie<br>Mr Ang Gee Kai Marcus<br>Mdm Yeow Yun Hui | shen_huijie@moe.edu.sg<br>ang_gee_kai@moe.edu.sg<br>yeow_yun_hui@moe.edu.sg |275<br>225<br>273
+| P2 Sincerity | Mdm Kasrina Rahaini Binte Rahmat<br>Ms Nur'ain Binte Saiman	 | kasrina_rahaini_rahmat@moe.edu.sg<br>nurain_saiman@moe.edu.sg | 229<br>281
 |
 
 #### **Primary 3**
