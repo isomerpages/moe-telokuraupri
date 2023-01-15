@@ -74,8 +74,8 @@ third_nav_title: School Staff
 
 | Designation | Name | Email Address | Ext |
 |---|---|---|---|
-| Administration Manager |  Ms Manju Chatlani Murli |  [chatlani_manju_murli@schools.gov.sg](mailto:chatlani_manju_murli@schools.gov.sg) |
-| Administration Manager |  Mr Matthew Toh |  [matthew_toh@schools.gov.sg](mailto:matthew_toh@schools.gov.sg) |
-| Operations Manager |  Mr Teo Kian Yeow |  [teo_kian_yeow@moe.edu.sg](mailto:teo_kian_yeow@moe.edu.sg) |
+| Administration Manager |  Ms Manju Chatlani Murli |  [chatlani_manju_murli@schools.gov.sg](mailto:chatlani_manju_murli@schools.gov.sg) | 107
+| Administration Manager |  Mr Matthew Toh |  [matthew_toh@schools.gov.sg](mailto:matthew_toh@schools.gov.sg) | 106
+| Operations Manager |  Mr Teo Kian Yeow |  [teo_kian_yeow@moe.edu.sg](mailto:teo_kian_yeow@moe.edu.sg) | 109
 | ICT Manager |  	Mr Ahmad Dzulkifli Bin Zarinal |  [ahmad_dzulkifli_zarinal@moe.edu.sg](mailto:tahmad_dzulkifli_zarinal@moe.edu.sg) |
 |
