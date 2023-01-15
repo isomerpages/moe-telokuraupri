@@ -78,10 +78,10 @@ third_nav_title: School Staff
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P6 Care | Mr Shawn Lee Shi Yang<br>Mdm Arafah Bte Tajudin<br> | shawn_lee_shiyang@moe.edu.sg<br>arafah_tajudin@moe.edu.sg<br> |
-| P6 Harmony | Mr Chang Mao Chiao Mark<br>Ms Nazihah Binti Na'amsah	<br> | chang_mao_chiao@moe.edu.sg<br>nazihah_naamsah@moe.edu.sg<br> |
-| P6 Integrity | Mdm Juhaidah Binte Mohamed Amin<br>Mdm Asiyah Bte Sheik Md Ismail<br> | juhaidah_amin@moe.edu.sg<br>asiyah_sheik_mohamed_ism@moe.edu.sg<br> |
-| P6 Resilience | Mdm Salehati Bte Md Salleh<br>Ms Amelia Binte Othman<br> | salehati_md_salleh@moe.edu.sg<br>amelia_othman@moe.edu.sg<br> |
+| P6 Care | Mr Shawn Lee Shi Yang<br>Mdm Arafah Bte Tajudin<br> | shawn_lee_shiyang@moe.edu.sg<br>arafah_tajudin@moe.edu.sg<br> | 338<br>329
+| P6 Harmony | Mr Chang Mao Chiao Mark<br>Ms Nazihah Binti Na'amsah	<br> | chang_mao_chiao@moe.edu.sg<br>nazihah_naamsah@moe.edu.sg<br> |340<br>266
+| P6 Integrity | Mdm Juhaidah Binte Mohamed Amin<br>Mdm Asiyah Bte Sheik Md Ismail<br> | juhaidah_amin@moe.edu.sg<br>asiyah_sheik_mohamed_ism@moe.edu.sg<br> | 264<br>268
+| P6 Resilience | Mdm Salehati Bte Md Salleh<br>Ms Amelia Binte Othman<br> | salehati_md_salleh@moe.edu.sg<br>amelia_othman@moe.edu.sg<br> | 265<br>337
 | P6 Respect | Mr Ng Ying Hui<br>Mr Amarjit Singh Sewa Singh<br> | ng_ying_hui_a@moe.edu.sg<br>amarjit_singh_sewa_singh@moe.edu.sg<br> |
 | P6 Responsibility | Mdm Seah Xuyu Faith<br>Dr Teo Bee Lin<br> | seah_xuyu@moe.edu.sg<br>teo_bee_lin@moe.edu.sg<br> |
 | P6 Sincerity | Mr Shaharzad B Kasman<br>Mr Firouk Bin Mohamed Mydin<br> | shaharzad_b_kasman@moe.edu.sg<br>firouk_mohamed_mydin@moe.edu.sg<br> |
