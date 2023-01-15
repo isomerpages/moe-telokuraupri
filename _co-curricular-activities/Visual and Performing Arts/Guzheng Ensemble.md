@@ -13,4 +13,4 @@ The Guzheng Ensemble is an important CCA as our LLP, in cultivating a genuine lo
 
 ![](/images/2023%20CCA/Guzheng1.jpg)
 
-![]()![](/images/2023%20CCA/Guzheng2.jpg)
+![](/images/2023%20CCA/Guzheng2.jpg)
