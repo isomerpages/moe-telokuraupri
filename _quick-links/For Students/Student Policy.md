@@ -4,20 +4,16 @@ permalink: /student-policy/
 description: ""
 third_nav_title: For Students
 ---
-
-
 ### **Students' Use of Mobile Devices**
 
 We understand that parents/guardians may at times require their children to bring mobile devices to school. The school policy on the use of mobile devices ensures that students are focussed during school hours and not distracted by calls, messaging or using the social media, multimedia and internet functions of the mobile device. Please note the following conditions:
 
 1. The mobile device must be switched off by 7.25 am every morning. The device must remain switched off till the end of school hours and Supplementary / Enrichment lessons, Small Group Teaching sessions, CCAs and Higher Mother Tongue lessons.<br><br>
-2. At the end of school hours, mobile devices can only be switched on and operated on silent mode when the students are at one of the four call/ messaging zones,<br><br>
+2. At the end of school hours, mobile devices can only be switched on and operated on silent mode when the students are at one of the four call/ messaging zones,<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Gate 1 dismissal area,<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-b. Gate 4 dismissal area,<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-c. School Canteen.
+* Gate 1 dismissal area,
+* Gate 4 dismissal area,
+* School Canteen.
 
 3. The use of mobile devices is not permitted in other areas of the school after school hours.<br><br>
 
@@ -38,8 +34,8 @@ c. School Canteen.
 ###  **Homework Policy**
 
 At Telok Kurau Primary School, we give due consideration to how much time is appropriate for students to complete their homework at each level, according to their aptitude.
-
 The responsibilities of the each TKPS student include the following:
+
 
 1. Listen to homework instructions in class.
 2. Copy down instructions for the task and deadline date into their Student Handbook.
@@ -49,7 +45,7 @@ The responsibilities of the each TKPS student include the following:
 
 ##### **Our school’s recommendations are as follows:-**
 
-1. The approximate time allocation during school term per day / week and holidays are stipulated in the table below.
+The approximate time allocation during school term per day / week and holidays are stipulated in the table below.
 
 | Level | Approximate time  allocation during school term per day | Approximate time  allocation during school term per week | Approximate time allocation during school  holidays per day |
 |---|---|---|---|
