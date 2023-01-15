@@ -11,7 +11,7 @@ The school was set up to cater to a thriving population eager to be educated in 
 
 The school was a simple two-storey wooden structure set amidst a vast coconut plantation, a typical rural school in the early colonial days. There were twelve classrooms, a hall and a tuckshop. The late former Prime Minister Lee Kuan Yew was enrolled as a student in January 1930 and the late former Malaysian Prime Minister Datuk Hussein Onn in January 1931.
 
-<img src="/images/history1.png" style="width:35%">
+<img src="/images/history1.png" >
 
 In 1958, a new wing was added to accommodate more students. During this period, two other schools bearing the name "Telok Kurau" were built; the Telok Kurau Malay Girls’ School in 1960 and the Telok Kurau West School in 1962. These were built to cater to the growth of the school-going population within the Telok Kurau and Joo Chiat estates. Telok Kurau English School then became known as Telok Kurau East School.
 
@@ -23,7 +23,7 @@ In 1983, Telok Kurau Malay Girl's School merged with Telok Kurau West School. It
 #### **The Merger**
 In 2001, the school merged with Bedok Town Primary School and moved to its present site at 50 Bedok Reservoir Road.
 
-<img src="/images/history2.png" style="width:65%">
+<img src="/images/history2.png">
 
 #### **Telok Kurau Primary School Today**
 Throughout its history, TKPS braved several difficult periods and emerged stronger each time. TKPS stands as an educational cornerstone in the Bedok Reservoir neighbourhood. Besides offering a holistic education, it also provides opportunities for its students to take on greater challenges in the future.  
