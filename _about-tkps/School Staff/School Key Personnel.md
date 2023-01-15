@@ -20,23 +20,24 @@ third_nav_title: School Staff
 
 | Designation | Name | Email Address | Ext |
 |---|---|---|---|
-| Year Head (P1 to P3) |  Mdm Rashidah Binte  Mohamad Yusop |  [rashidah_mohamad_yusop@moe.edu.sg](mailto:rashidah_mohamad_yusop@moe.edu.sg) |
-| Year Head (P4 to P6) |  Ms Foo Jong Yin |  [foo\_jong\_yin@moe.edu.sg](mailto:lfoo\_jong\_yin@moe.edu.sg) |
+| Year Head (P1 to P3) |  Mdm Rashidah Binte  Mohamad Yusop |  [rashidah_mohamad_yusop@moe.edu.sg](mailto:rashidah_mohamad_yusop@moe.edu.sg) | 116
+| Year Head (P4 to P6) |  Ms Foo Jong Yin |  [foo\_jong\_yin@moe.edu.sg](mailto:lfoo\_jong\_yin@moe.edu.sg) | 114
 | 
 
 #### **Heads of Department (HOD)**
 
 | Designation | Name | Email Address | Ext |
 |---|---|---|---|
-| School Staff Developer |  Mdm Theodora Teong Ying Xi |  [theodora\_teong\_ying\_xi@moe.edu.sg](mailto:theodora\_teong\_ying\_xi@moe.edu.sg) |
-|  HOD English Language |  Mr Jose Paolo Boquiren  |  [jose_paolo_t_boquiren@moe.edu.sg](mailto:jose_paolo_t_boquiren@moe.edu.sg)<br>  |
-| HOD Mathematics |  Mr Jeremy Tan |  [tan_keng_lim_jeremy@moe.edu.sg](mailto:tan_keng_lim_jeremy@moe.edu.sg) |
-| HOD Science |  Mdm Lee Theng Theng |  [lee_theng_theng@moe.edu.sg](mailto:lee_theng_theng@moe.edu.sg) |
-| HOD Mother Tongue Language |  Mdm Pamela Leck Hwee Huan |  [leck_hwee_huan@moe.edu.sg](mailto:leck_hwee_huan@moe.edu.sg) |
-| HOD Physical Education & Co-Curricular Activities |  Mr Jeffrey Tan |  [tan_kong_hui@moe.edu.sg](mailto:tan_kong_hui@moe.edu.sg) |
-| HOD Student Management |  Mrs Zalina Zakariah-Ismael |  [zalina_zakariah@moe.edu.sg](mailto:zalina_zakariah@moe.edu.sg) |
-| HOD Information and Communication Technology & Media Resource |  Mdm Fatimah Mohammad |  [fatimah\_mohammad@moe.edu.sg](mailto:fatimah\_mohammad@moe.edu.sg) |
-| HOD Partnership and Engagement |  Mdm Amatul Jameel Suhani Sujari |  [amatul\_jameel\_suhani\_sujari@moe.edu.sg](mailto:amatul\_jameel\_suhani\_sujari@moe.edu.sg) |
+| School Staff Developer |  Mdm Theodora Teong Ying Xi |  [theodora\_teong\_ying\_xi@moe.edu.sg](mailto:theodora\_teong\_ying\_xi@moe.edu.sg) | 121
+|  HOD English Language |  Mr Jose Paolo Boquiren  |  [jose_paolo_t_boquiren@moe.edu.sg](mailto:jose_paolo_t_boquiren@moe.edu.sg) | 110
+| HOD Mathematics |  Mr Jeremy Tan |  [tan_keng_lim_jeremy@moe.edu.sg](mailto:tan_keng_lim_jeremy@moe.edu.sg) | 117
+| HOD Science |  Mdm Lee Theng Theng |  [lee_theng_theng@moe.edu.sg](mailto:lee_theng_theng@moe.edu.sg) | 118
+| HOD Mother Tongue Language |  Mdm Pamela Leck Hwee Huan |  [leck_hwee_huan@moe.edu.sg](mailto:leck_hwee_huan@moe.edu.sg) | 111
+| HOD Physical Education & Co-Curricular Activities |  Mr Jeffrey Tan |  [tan_kong_hui@moe.edu.sg](mailto:tan_kong_hui@moe.edu.sg) | 119
+| HOD Student Management |  Mrs Zalina Zakariah-Ismael |  [zalina_zakariah@moe.edu.sg](mailto:zalina_zakariah@moe.edu.sg) | 112
+| HOD Information and Communication Technology & Media Resource |  Mdm Fatimah Mohammad |  [fatimah\_mohammad@moe.edu.sg](mailto:fatimah\_mohammad@moe.edu.sg) | 123
+| HOD Partnership and Engagement |  Mdm Amatul Jameel Suhani Sujari |  [amatul\_jameel\_suhani\_sujari@moe.edu.sg](mailto:amatul\_jameel\_suhani\_sujari@moe.edu.sg) | 120
+| HOD Character & Citizenship Education |  Mdm Sarah Zheng Huimin |  [zheng_huimin@moe.edu.sg](zheng_huimin@moe.edu.sg) | 113
 |
 
 #### **Subject Heads (SH)**
