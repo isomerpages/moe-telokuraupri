@@ -55,8 +55,8 @@ third_nav_title: School Staff
 | P4 Integrity | Mr Chua Cheow Teck<br>Mdm Hajra Maideen<br> | chua_cheow_teck@moe.edu.sg<br>hajra_maideen@moe.edu.sg<br> |242<br>248
 | P4 Resilience | Mr Kenneth Wong Cher Jian<br>Mdm Vijayalekshmi d/o Mariappan<br> | kenneth_wong_cher_jian@moe.edu.sg<br>vijayalekshmi_mariappan@moe.edu.sg<br> |241<br>257
 | P4 Respect | Mrs Ong Wan Sien<br>Mr Joe Ang Choon Hai<br> | kow_wan_sien@moe.edu.sg<br>ang_choon_hai@moe.edu.sg<br> |271<br>251
-| P4 Responsibility | Mdm Sathyajothi D/o Selvandran<br>Mr Kwek Wenhong Shane<br> | sathyajothi_selvandran@moe.edu.sg<br>kwek_wenhong_shane@moe.edu.sg<br> |
-| P4 Sincerity | Mdm Nalaniammah Rajenthiran (Mrs Raj)<br>Mdm Sharinah Bte Samshudin<br>Mr Mohamed Hisham Bin Salim | nalaniammah_rajenthiran@moe.edu.sg<br>sharinah_samshudin@moe.edu.sg<br>mohamed_hisham_salim@moe.edu.sg |
+| P4 Responsibility | Mdm Sathyajothi D/o Selvandran<br>Mr Kwek Wenhong Shane<br> | sathyajothi_selvandran@moe.edu.sg<br>kwek_wenhong_shane@moe.edu.sg<br> | 280<br>247
+| P4 Sincerity | Mdm Nalaniammah Rajenthiran (Mrs Raj)<br>Mdm Sharinah Bte Samshudin<br>Mr Mohamed Hisham Bin Salim | nalaniammah_rajenthiran@moe.edu.sg<br>sharinah_samshudin@moe.edu.sg<br>mohamed_hisham_salim@moe.edu.sg | 279<br>250<br>262
 |
 
 #### **Primary 5**
