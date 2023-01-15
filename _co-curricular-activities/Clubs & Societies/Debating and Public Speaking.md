@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 ### **Debating and Public Speaking**
-![](/images/2023%20CCA/Public%20Speaking.png)
+
 #### **Introduction of CCA**
 The Debating and Public speaking CCA provides members with the knowledge, skills and values through various oratorical and debating activities. 
 
@@ -14,3 +14,5 @@ Members will be trained in a wide range of debate topics, techniques and formats
 
 #### **Public Speaking**
 In Public Speaking, members will develop confidence and oral communication skills, as well as voice mastery, gestures and facial expressions. They will be taught how to prepare speeches and convey their ideas to an audience. Members will be given opportunities to showcase their skills that they have learnt through the various school events and external opportunities.
+
+![](/images/2023%20CCA/Public%20Speaking.png)
