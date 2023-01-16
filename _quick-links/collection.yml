@@ -1,0 +1,6 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - For Students/Student Policy.md
+      - For Students/.keep
