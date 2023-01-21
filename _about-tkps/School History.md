@@ -3,7 +3,6 @@ title: School History
 permalink: /about-tkps/school-history/
 description: ""
 ---
-
 ### **The Beginning**
 Telok Kurau English School started in 1926. It was situated at Telok Kurau Road from which it derived its name. The words “telok kurau” is Malay for “mango fish bay” – “telok” means “bay” and “kurau” is “mango fish”.  
 
@@ -47,7 +46,9 @@ The school soared high, just like the kite, exploring opportunities, knowing tha
 
 ### **Eunos Primary School Mural (2004 - 2022)**
 This beautiful mural which was commissioned in 2022 depicts the schools’ signature programs and the different scenes in Eunos Primary that invoke fond memories of students’ shared experiences.
-<img src="/images/eps-mural.jpg">
+<img src="/images/eps-mural.jpg"><br>
+Check out Eunos Primary School Commemorative Publication for 2022: 
+[Click Here](https://issuu.com/eunosps/docs/eunos_primary_school_-_commemorative_book_2022)
 
 ### **The Merger**
 In April 2021, MOE announced Telok Kurau Primary School - which marks its 96th anniversary highlight will retain its name in its merger with Eunos Primary School. The merged school is located at the current site of Telok Kurau Primary School at Bedok Reservoir Road. After the merger, the merged school’s English name is Telok Kurau Primary School while her Chinese name is, 友诺小学, which symbolizes the promise of friendship. The merger has given rise to more vibrant learning experiences for our students and allow for a wider range of educational programs and co-curricular activities (CCAs). The school also prioritises a smooth transition for all stakeholders, staff and students to forge a common identity as we move forward together.
