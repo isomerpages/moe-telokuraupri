@@ -5,7 +5,7 @@ description: ""
 ---
 ### **School Crest**
 
-<img src="/images/logo.png" style="width:25%">
+![](/images/About%20TKPS/School%20Logo%20with%20Chinese%20Name.png)
 
 Education is a lifelong endeavour in the pursuit of excellence.
 

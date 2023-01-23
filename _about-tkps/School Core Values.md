@@ -17,7 +17,7 @@ I am a person with **INTEGRITY** and high ethical standards, and will stand up
 I show **CARE** when I think of others and put others before self.
 <br><br>
 I value **HARMONY** by valuing and maintaining good relationships with others regardless of background.
-<br><br><br><br>
+<br><br>
 <table class="ive_eobj_center iveo_table ives_tab_blue" style="width: 100%; height: 744px;">
 <tbody>
 <tr>

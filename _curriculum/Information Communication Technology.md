@@ -8,10 +8,10 @@ description: ""
 <img src="/images/ict.jpg" style="width:65%">
 
 #### **Vision**
-An IT-enriched learning environment that transforms & enhances learning for all.
+Future ready and responsible digital learners
 
 #### **Mission**
-We leverage on technology to empower the students with the knowledge, skills and values to help them become critical thinkers as well as confident, self-directed and collaborative learners.
+Quality learning in the hands of every learner - empowered with technology
 
 #### **Name of Programmes**
 

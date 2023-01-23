@@ -3,8 +3,7 @@ title: School History
 permalink: /about-tkps/school-history/
 description: ""
 ---
-### **School History**
-#### **The Beginning**
+### **The Beginning**
 Telok Kurau English School started in 1926. It was situated at Telok Kurau Road from which it derived its name. The words “telok kurau” is Malay for “mango fish bay” – “telok” means “bay” and “kurau” is “mango fish”.  
 
 The school was set up to cater to a thriving population eager to be educated in English. Lessons started for a dozen students who were all boys.
@@ -15,41 +14,43 @@ The school was a simple two-storey wooden structure set amidst a vast coconut pl
 
 In 1958, a new wing was added to accommodate more students. During this period, two other schools bearing the name "Telok Kurau" were built; the Telok Kurau Malay Girls’ School in 1960 and the Telok Kurau West School in 1962. These were built to cater to the growth of the school-going population within the Telok Kurau and Joo Chiat estates. Telok Kurau English School then became known as Telok Kurau East School.
 
-#### **The Transition**
+### **The Transition**
 In 1967, a new school building was constructed at 408 Joo Chiat Place. This replaced the old wooden building fronting Lorong J and was officially opened in 1968. For the first time, girls were enrolled in Telok Kurau East School. By 1969, the school population had risen to 2500.
 
 In 1983, Telok Kurau Malay Girl's School merged with Telok Kurau West School. It then joined Telok Kurau East School in 1985 and was renamed Telok Kurau Primary School.
 
-#### **The Merger**
+### **The Merger**
 In 2001, the school merged with Bedok Town Primary School and moved to its present site at 50 Bedok Reservoir Road.
 
 <img src="/images/history2.png">
 
-#### **Telok Kurau Primary School Today**
+### **Telok Kurau Primary School Today**
 Throughout its history, TKPS braved several difficult periods and emerged stronger each time. TKPS stands as an educational cornerstone in the Bedok Reservoir neighbourhood. Besides offering a holistic education, it also provides opportunities for its students to take on greater challenges in the future.  
 
 In 2014, the school leveraged its strong history of team sports to offer as its Learning for Life Programme (LLP), Character Development through Team Sports. Following that, the school designated as its Applied Learning Programme (ALP), Innovative Thinking through Coding and Robotics, in 2017.
 
-#### **Telok Kurau Primary School Mural (1926 to 2022)**
+### **Telok Kurau Primary School Mural (1926 to 2022)**
 
 <img src="/images/TKPSMural3x2m%20010821.jpg">
 Moving through its 95 year history, multiple locations and mergers, the 95th anniversary mural tells you about our students and their experiences in primary school.
 
-#### **The Beginning of Eunos Primary School**
+### **The Beginning of Eunos Primary School**
 Eunos Primary School is locate at the junction of Jalan Eunos an Pan Island Expressway, occupying the former site of Jalan Eunos and Jalan Daud Primary Schools. The school started functioning on 3 January 1984 le by then Principal Mrs Salmah Yunos. The school was officially opened on 4 September 1985. In December 2002, the school was relocate to its holding area at Chai Chee Lane for PRIME for a period of 3 years. In December 2004, the school then returned to its current location.
 
-#### **The Transition**
+### **The Transition**
 Throughout its short history, Eunos primary has gone through a transformation and progress to offer a wide range of programmes which support holistic education and cater to the needs of all Eunosians, preparing them to meet the demands of the 21st century. Through their participation in these programmes, students build precious bonds of friendship with their peers, develop their characters, learned values and deepened their sense of belonging to the school and community. Through the Learning for Life Programme, the students were offered a broad-based programmes to encourage the Eunosians to discover their interests, pursue their diverse talents and strive for their personal best.
 
 The school soared high, just like the kite, exploring opportunities, knowing that the sky is the limit. Through this, the students became confident, self-directed learners, active contributors and concerned citizens. Like the strings of the kite, the heartstrings reminded them to remain rooted to their homeland and not to forget their humble beginnings, their culture and their heritage.
 <img src="/images/eunos_history.jpg">
 
 
-#### **Eunos Primary School Mural (2004 - 2022)**
+### **Eunos Primary School Mural (2004 - 2022)**
 This beautiful mural which was commissioned in 2022 depicts the schools’ signature programs and the different scenes in Eunos Primary that invoke fond memories of students’ shared experiences.
-<img src="/images/eps-mural.jpg">
+<img src="/images/eps-mural.jpg"><br>
+Check out Eunos Primary School Commemorative Publication for 2022: 
+[Click Here](https://issuu.com/eunosps/docs/eunos_primary_school_-_commemorative_book_2022)
 
-#### **The Merger**
+### **The Merger**
 In April 2021, MOE announced Telok Kurau Primary School - which marks its 96th anniversary highlight will retain its name in its merger with Eunos Primary School. The merged school is located at the current site of Telok Kurau Primary School at Bedok Reservoir Road. After the merger, the merged school’s English name is Telok Kurau Primary School while her Chinese name is, 友诺小学, which symbolizes the promise of friendship. The merger has given rise to more vibrant learning experiences for our students and allow for a wider range of educational programs and co-curricular activities (CCAs). The school also prioritises a smooth transition for all stakeholders, staff and students to forge a common identity as we move forward together.
 
 It is a new beginning for our stakeholders, staff and students. Shared memories will be specially curated through school experiences as one Telok Kurau Primary School, 友诺小学,  from 2023 onwards.
