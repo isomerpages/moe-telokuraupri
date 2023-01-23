@@ -25,10 +25,21 @@ Drive: Share and collaborate on documents with your teachers and classmates easi
 
 Student iCON also includes Google Contacts, Google Calendar, Google Keep, Google Meet, Google Sites, Google Forms, Google Docs, YouTube and many other Google Apps and Services.
 
+
 #### Zoom Account
+Students can login to their Zoom accounts *(40 min limit when hosting)* using Student iCON login. The account comes with MOE central management of video conferencing settings. This will allow authentication when students take part in the school's zoom meetings.
+
+Refer to this guide for the steps to login student iCON zoom. [Student Zoom Guide](/files/PDF/zoom-guide.pdf)
 
 
 #### MS Office 365
+![](/images/Student%20Portals/Student%20Icon/ms-office.png)
+
+Please read these [Important information](/files/PDF/office365info.pdf) before installing the microsoft office apps on your personal devices.
+
+To download and install the Office applications on your laptop or desktop, go to [aka.ms/office-install ](http://www.google.com/url?q=http%3A%2F%2Faka.ms%2Foffice-install&sa=D&sntz=1&usg=AOvVaw2GWyQg7WPqfmpWiaJI4vPG) and login with Student iCON ID and password. Refer to these [instructions](https://www.google.com/url?q=https%3A%2F%2Fsupport.microsoft.com%2Fen-us%2Foffice%2Fdownload-and-install-or-reinstall-microsoft-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658&sa=D&sntz=1&usg=AOvVaw2scEj5ta5uBzWnrd3YxskQ) for more details.
+
+Student can install and activate Microsoft Pro Plus on up to 5 desktops/laptops, 5 tablets, and 5 mobile devices.
 
 #### Personal Data & Privacy 
 
@@ -45,4 +56,3 @@ In addition, the commercial providers of these Digital Tools (i.e., Google, Micr
 * Zoom: https://zoom.us/docs/en-us/schools-privacy-statement.html
 
 All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection
-
