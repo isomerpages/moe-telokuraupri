@@ -78,7 +78,7 @@ You can refer to the following table for the Operating Systems /browsers that ar
 
 **Q3.	What is the naming convention for Student iCON email address?**
 
-* The student’s email address will be based on @students.edu.sg.
+* The student’s email address will be based on *(Full Name)@students.edu.sg*.
 * Any space in the full name will be replaced with an underscore.
 * Should the student’s full name have words such as “Bte” and “s/o”, they will not appear in the email address.
 * For cases where students share the same full name, we have added a numerical number (e.g. Jon_Tan_1, Jon_Tan_2) to differentiate their email addresses.
