@@ -8,10 +8,10 @@ description: ""
 <img src="/images/ict.jpg" style="width:65%">
 
 #### **Vision**
-Future ready and responsible digital learners.
+Future ready and responsible digital learners
 
 #### **Mission**
-Quality learning in the hands of every learner - empowered with technology.
+Quality learning in the hands of every learner - empowered with technology
 
 #### **Name of Programmes**
 
