@@ -64,3 +64,14 @@ In addition, the commercial providers of these Digital Tools (i.e., Google, Micr
 * Zoom: https://zoom.us/docs/en-us/schools-privacy-statement.html
 
 All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection
+
+#### FAQ 
+
+**Q1.	How can my child log in to Student iCON?**
+
+Student iCON is web-based. Students can use their web browser in their internet- enabled computing or mobile devices to visit https://workspace.google.com/dashboard to access Student iCON
+
+**Q2.	Which Operating System or browser to use?**
+
+You can refer to the following table for the Operating Systems /browsers that are compatible.
+
