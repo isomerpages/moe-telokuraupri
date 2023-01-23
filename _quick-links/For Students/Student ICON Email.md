@@ -45,11 +45,11 @@ Refer to this guide for the steps to login student iCON zoom. [Student Zoom Guid
 
 Please read these [Important information](/files/PDF/office365info.pdf) before installing the microsoft office apps on your personal devices.
 
-To download and install the Office applications on your laptop or desktop, go to [aka.ms/office-install ](http://www.google.com/url?q=http%3A%2F%2Faka.ms%2Foffice-install&sa=D&sntz=1&usg=AOvVaw2GWyQg7WPqfmpWiaJI4vPG) and login with Student iCON ID and password. Refer to these [instructions](https://www.google.com/url?q=https%3A%2F%2Fsupport.microsoft.com%2Fen-us%2Foffice%2Fdownload-and-install-or-reinstall-microsoft-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658&sa=D&sntz=1&usg=AOvVaw2scEj5ta5uBzWnrd3YxskQ) for more details.
+To download and install the Office applications on your laptop or desktop, go to [aka.ms/office-install ](http://www.google.com/url?q=http%3A%2F%2Faka.ms%2Foffice-install&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2GWyQg7WPqfmpWiaJI4vPG) and login with Student iCON ID and password. Refer to these [instructions](https://www.google.com/url?q=https%3A%2F%2Fsupport.microsoft.com%2Fen-us%2Foffice%2Fdownload-and-install-or-reinstall-microsoft-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2scEj5ta5uBzWnrd3YxskQ) for more details.
 
 Student can install and activate Microsoft Pro Plus on up to 5 desktops/laptops, 5 tablets, and 5 mobile devices.
 
-#### Personal Data & Privacy 
+#### Personal Data &amp; Privacy 
 
 Parents will need to give consent for the student's use of MOE’s Centralised ICT Systems.
 
@@ -74,4 +74,26 @@ Student iCON is web-based. Students can use their web browser in their internet-
 **Q2.	Which Operating System or browser to use?**
 
 You can refer to the following table for the Operating Systems /browsers that are compatible.
+![](/images/Student%20Portals/Student%20Icon/sys-req.png)
 
+**Q3.	What is the naming convention for Student iCON email address?**
+
+* The student’s email address will be based on @students.edu.sg.
+* Any space in the full name will be replaced with an underscore.
+* Should the student’s full name have words such as “Bte” and “s/o”, they will not appear in the email address.
+* For cases where students share the same full name, we have added a numerical number (e.g. Jon_Tan_1, Jon_Tan_2) to differentiate their email addresses.
+	
+**Q4.	What is the password requirement?**
+
+* Password must be 8-24 characters long.
+* Password must contain at least 1 lowercase letter(s). 
+* Password must contain at least 1 numeric character(s). 
+* Password must contain at least 1 uppercase letter(s). 
+* Password must contain at least 2 alphabetic character(s). 
+* Password must not be one of 3 previous passwords. 
+* Password must not match or contain first name. 
+* Password must not match or contain last name. 
+* Password must not match or contain user ID.
+* Password expires every 360 days for primary school students. Users will be alerted via email 7 days before the expiry date.
+* Maximum of 5 login attempts are allowed.
+* The password has to be changed after subsequent password resets.
