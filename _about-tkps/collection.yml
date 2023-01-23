@@ -2,7 +2,6 @@ collections:
   about-tkps:
     output: true
     order:
-      - Use of Mobile Devices.md
       - Principal's Message.md
       - Our Mission and Vision.md
       - School Core Values.md
@@ -24,6 +23,7 @@ collections:
       - School Song.md
       - Students' Pledge.md
       - Homework Policy.md
+      - Use of Mobile Devices.md
       - School Mascot.md
       - School Information/.keep
       - School Information/Contact Us.md
