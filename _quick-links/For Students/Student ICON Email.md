@@ -27,6 +27,7 @@ Student iCON also includes Google Contacts, Google Calendar, Google Keep, Google
 
 
 #### Zoom Account
+
 Students can login to their Zoom accounts *(40 min limit when hosting)* using Student iCON login. The account comes with MOE central management of video conferencing settings. This will allow authentication when students take part in the school's zoom meetings.
 
 Refer to this guide for the steps to login student iCON zoom. [Student Zoom Guide](/files/PDF/zoom-guide.pdf)
