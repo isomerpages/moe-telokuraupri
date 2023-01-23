@@ -4,7 +4,7 @@ permalink: /quick-links/For-Students/student-icon/
 description: ""
 third_nav_title: For Students
 ---
-### STUDENT ICON LOGIN
+### LOGIN
 
 **Click here : [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)**
 
