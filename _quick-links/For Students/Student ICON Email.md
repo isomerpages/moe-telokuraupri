@@ -97,3 +97,28 @@ You can refer to the following table for the Operating Systems /browsers that ar
 * Password expires every 360 days for primary school students. Users will be alerted via email 7 days before the expiry date.
 * Maximum of 5 login attempts are allowed.
 * The password has to be changed after subsequent password resets.
+
+**Q5.	How do I download Microsoft Office to my personal devices?**
+
+* Please read these [Important information](/files/PDF/office365info.pdf) before you install the microsoft office apps on your personal devices.
+* After you log in to student icon, go to https://portal.office.com/account/ and follow the instructions on the link to download and install on your computer.
+* Student can install and activate Microsoft Pro Plus on up to 5 desktops/laptops, 5 tablets, and 5 mobile devices.
+
+**Q6.	What should I do when I have encountered one of the following problems:**
+
+* Error AADSTS900561 given by the Google website.
+* Website does not load.
+* Website keeps refreshing between two sites without loading any page.
+* Website keeps refreshing itself without loading the page.?
+
+1. Check that the browser is supported by Student iCON by referring to the Operating System / Browser table in Q2. Close the browser and reopen it. Navigate to https://workspace.google.com/dashboard and repeat the logging in procedure.
+
+2. If the above does not work, use Incognito mode on your browser to login. Upon activating Incognito mode, proceed to https://workspace.google.com/dashboard and repeat the logging in procedure.
+
+**Q7.	What should I do when I have encountered one of the following problems:**
+
+* My account is temporarily locked to prevent unauthorized use. 
+* I forgot my student icon password and need to reset it.
+
+1. Inform the Form Teacher
+2. Call the General Office at 6244 1600 who will log the case on your behalf
