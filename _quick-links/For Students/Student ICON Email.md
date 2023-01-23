@@ -4,6 +4,10 @@ permalink: /quick-links/For-Students/student-icon/
 description: ""
 third_nav_title: For Students
 ---
+### STUDENT ICON LOGIN
+
+Click here : [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
+
 #### What is Student iCON?
 
 Student iCON is a suite of Google apps including email and other app services such as Google Classroom and Docs that helps to better support your learning in the following ways:
@@ -16,6 +20,7 @@ Student iCON is a suite of Google apps including email and other app services su
 These useful applications will be provided progressively and will follow you throughout your learning journey from Primary School to Junior Colleges.
 
 #### Student iCON Google apps
+
 ![](/images/Student%20Portals/Student%20Icon/google-apps.png)
 Jamboard and Meet: Brainstorm with your teachers and  classmates on a virtual whiteboard over video conferencing.
 
@@ -28,12 +33,14 @@ Student iCON also includes Google Contacts, Google Calendar, Google Keep, Google
 
 #### Zoom Account
 
+![](/images/Student%20Portals/Student%20Icon/zoom2.png)
 Students can login to their Zoom accounts *(40 min limit when hosting)* using Student iCON login. The account comes with MOE central management of video conferencing settings. This will allow authentication when students take part in the school's zoom meetings.
 
 Refer to this guide for the steps to login student iCON zoom. [Student Zoom Guide](/files/PDF/zoom-guide.pdf)
 
 
 #### MS Office 365
+
 ![](/images/Student%20Portals/Student%20Icon/ms-office.png)
 
 Please read these [Important information](/files/PDF/office365info.pdf) before installing the microsoft office apps on your personal devices.
