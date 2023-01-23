@@ -6,7 +6,7 @@ third_nav_title: For Students
 ---
 ### STUDENT ICON LOGIN
 
-Click here : [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
+**Click here : [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)**
 
 #### What is Student iCON?
 
