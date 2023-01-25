@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Students/Koobits.md
       - For Students/Student Learning Space.md
       - For Students/Student ICON Email.md
       - For Students/.keep
