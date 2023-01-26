@@ -6,7 +6,7 @@ third_nav_title: For Students
 ---
 ### LOGIN
 
-**Click here : https://member.koobits.com/**
+**Click here : [https://member.koobits.com/](https://member.koobits.com/)**
 
 #### What is kooBits?
 
