@@ -4,10 +4,8 @@ permalink: /typing-club/
 description: ""
 third_nav_title: For Students
 ---
-
-### LOGIN
-
-Click here : https://telokkurau.typingclub.com/
+### LOGIN 
+**Click here : https://telokkurau.typingclub.com/ *(For P1 & P2 students only)***
 
 #### What is Typingclub?
 ##### TypingClub is the most effective way to learn how to type.
