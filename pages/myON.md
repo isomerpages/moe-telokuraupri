@@ -3,7 +3,6 @@ title: myON
 permalink: /myon/
 description: ""
 ---
-
 ### LOGIN
 
-Click here :
+Click here :    [https://www.myon.com.sg/login/index.html](https://www.myon.com.sg/login/index.html)
