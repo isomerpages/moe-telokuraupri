@@ -39,8 +39,7 @@ You may [click here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 7.	Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
-		
-At Telok Kurau Primary School, the following Sexuality Education lessons will be taught in 2023:
+**At Telok Kurau Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
 #### Primary 5
 | CCE(FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD<br>(e.g. Term 1 Week 2) |
