@@ -42,7 +42,7 @@ You may [click here](https://go.gov.sg/moe-sexuality-education) for more informa
 **At Telok Kurau Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
 #### Primary 5
-| CCE(FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+| CCE(FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD (e.g. Term 1 Week 2) |
 | -------- | -------- | -------- | -------- |
 | Growing Years   | The Changes in Me (60 min)   | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     | Term 2<br>Week 2 |
 | Growing Years   |  Did You Know? (60 min)   | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **‘Stop-Think-Do’**. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 2<br>Week 4    |
