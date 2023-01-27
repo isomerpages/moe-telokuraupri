@@ -43,11 +43,10 @@ You may [click here](https://go.gov.sg/moe-sexuality-education) for more informa
 **At Telok Kurau Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
 #### Primary 5
-
-
+![](/images/Curriculum/SEd/P5-SEd.jpg)
 
 #### Primary 6
-
+![](/images/Curriculum/SEd/P6-SEd.jpg)
 
 #### Information for Parents
 
