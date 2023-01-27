@@ -68,4 +68,3 @@ You may [click here](https://go.gov.sg/moe-sexuality-education) for more informa
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
