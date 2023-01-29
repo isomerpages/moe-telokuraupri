@@ -8,9 +8,9 @@ The core values in TKPS reflect those of the Character and Citizenship Education
 <br><br>
 I show **RESPECT** when I value and show consideration for self and others.
 <br><br>
-I am **RESPONSIBLE** when I know an do what is right.
+I am **RESPONSIBLE** when I know and do what is right.
 <br><br>
-I am **RESILIENT** as I have courage an I do not give up in the face of challenges,
+I am **RESILIENT** as I have courage and I do not give up in the face of challenges,
 <br><br>
 I am a person with **INTEGRITY** and high ethical standards, and will stand up for what is right.
 <br><br>

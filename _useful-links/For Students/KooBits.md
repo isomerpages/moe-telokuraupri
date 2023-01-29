@@ -8,7 +8,7 @@ third_nav_title: For Students
 
 **Click here : [https://member.koobits.com/](https://member.koobits.com/)**
 
-#### What is kooBits?
+#### What is KooBits?
 
 A mathematics learning portal for students that allows students to learn independently with minimal teacher supervision.
 ![](/images/Student%20Portals/Koobits/koobits01.png)

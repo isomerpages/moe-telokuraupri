@@ -7,7 +7,7 @@ description: ""
 
 <img src="/images/Grace_Leong%20edv2.jpg" style="width:25%" align = "left">
 
-<br><br><br><br><br><br>Mrs Grace Leong
+<br><br><br><br><br>Mrs Grace Leong
 <br>Principal
 
 Telok Kurau Primary, 友诺小学，welcomes all of you!
