@@ -51,5 +51,5 @@ You may [click here](https://go.gov.sg/moe-sexuality-education) for more informa
 #### Information for Parents
 
 8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
-9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. More information will be shared with parents via Parents Gateway.
+9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. More information has been shared with parents via Parents Gateway.
 10.	Parents can contact the school at 62441600, telokkuraups@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
