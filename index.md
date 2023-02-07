@@ -2,7 +2,7 @@
 layout: homepage
 title: Telok Kurau Primary School
 description: Brief site description here
-image: /images/logo.png
+image: /images/About TKPS/tkps-logo.png
 permalink: /
 notification: ""
 sections:
@@ -27,3 +27,5 @@ sections:
       button: click here
       url: https://www.instagram.com/telokkuraupri.official/
 ---
+
+

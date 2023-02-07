@@ -1,6 +1,6 @@
 title: Telok Kurau Primary School
 url: https://telokkuarupri.edu.sg
-favicon: /images/logo.png
+favicon: /images/About TKPS/tkps-logo.png
 colors:
   primary-color: "#00205b"
   secondary-color: "#0b93da"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2rlcod8p8kwg8.amplifyapp.com
 prod: https://master.d2rlcod8p8kwg8.amplifyapp.com
-shareicon: /images/logo.png
+shareicon: /images/About TKPS/tkps-logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
