@@ -11,8 +11,8 @@ third_nav_title: School Staff
 | Designation | Name | Email Address |
 |---|---|---|
 | Principal | Mrs Grace Leong | [telokkuraups@moe.edu.sg](mailto:telokkuraups@moe.edu.sg) |
-| Vice Principal (Academic)| Mdm Irene Chua Wan Ling | [telokkuraups@moe.edu.sg](mailto:telokkuraups@moe.edu.sg) |
-| Vice Principal (Academic) | Mrs Chu-Tan Kim Yan | [telokkuraups@moe.edu.sg](mailto:telokkuraups@moe.edu.sg) |
+| Vice Principal (Academic)| Mrs Chu-Tan Kim Yan | [telokkuraups@moe.edu.sg](mailto:telokkuraups@moe.edu.sg) |
+| Vice Principal (Academic) | Mdm Irene Chua Wan Ling | [telokkuraups@moe.edu.sg](mailto:telokkuraups@moe.edu.sg) |
 | VicePrincipal (Administration) | Mr Kwan Wan Hor | [telokkuraups@moe.edu.sg](mailto:telokkuraups@moe.edu.sg) |
 |
 
