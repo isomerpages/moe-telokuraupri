@@ -6,7 +6,7 @@ description: ""
 ### **Principal's Message**
 
 <img src="/images/Grace_Leong%20edv2.jpg" style="width:25%" align = "left">
-
+<br><br><br><br><br>
 <br><br><br><br><br>Mrs Grace Leong
 <br>Principal
 
