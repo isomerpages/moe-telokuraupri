@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - Cyberwellness.md
       - For Students/.keep
       - For Students/Student Learning Space.md
       - For Students/Student iCON.md
