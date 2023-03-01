@@ -44,7 +44,7 @@ See you there!
 |  Committee Members |  Mdm Puteri Fatia<br> Mdm Fay Wee<br>Mdm Nur Hafizah Bte Umar<br>Ms Jenny Sim<br> Mdm Sirajudeen Ruwais Farwana<br>Mdm Aisyah Binte Mohamed Amir<br>Ms Hafidah Binte Abdul<br>Mr Alan Choo<br>Mr Hla Myo Min<br>Mdm Aslin Wahab<br>Mdm Mardiana Jamil (EPS)<br>Mdm Siti Raudah (EPS)<br> Mr Mohd Nazzer (EPS)
 |
 
-<img src="/images/psg3.jpg" style="width:65%">
+<img src="/images/psg3.jpg" style="width:85%">
 
 #### **Membership**
 The membership is renewable yearly.
