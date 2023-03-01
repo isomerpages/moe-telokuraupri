@@ -53,4 +53,4 @@ All parent/guardian of students currently studying in TKPS are welcomed to join 
 
 Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSfsCQqATQWpMZ49ld7YQt26U8Xn2JMXY2aqC4AYJYDsl_N5iQ/viewform) to register.
 
-<img src="/images/psg4.jpeg" style="width:25%" align=left>
+<img src="/images/psg4.jpeg" style="width:40%" align=left>
