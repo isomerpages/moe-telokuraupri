@@ -34,11 +34,14 @@ See you there!
 
 | Roles | Names |
 |:---:|---|
-| Chairman |  Mdm Siti Aishah |
-| Vice Chairman |  Mrs Jesian Alam |
+| Chairperson |  Mdm Siti Aishah Bte Abdullah |
+| 1st Vice Chairperson |  Mrs Jesian Alam |
+| 2nd Vice Chairperson |  Mr Ashim Saha (EPS) |
 | Secretary |  Mdm Mahendran Mangayarkarasi |
-| Assistant Secretary |  Mdm Dety Rinavani |
-|  Members |  Mdm Puteri Fatia<br> Mdm Nur Hafizah Bte Umar<br> Mr Suhail Bin A Hamid<br> Ms Jenny Sim<br> Mr Alan Choo<br> Mdm Fay Wee<br> Mdm Foo Siew Chin<br> Mdm Nurhidayah Md Kamal<br> Mdm Sirajudeen Ruwais Farwana<br> Mdm Shintya Law<br> Mr Pawan Kumar<br> Mr Hla Myo Min |
+| Asst Secretary |  Mdm Dety Rinavani |
+| Treasurer |  Mdm Ranjini Padattil |
+| Asst Treasurer |  Mdm Siti Faridah Binte Ibrahim |
+|  Committee Members |  Mdm Puteri Fatia<br> Mdm Fay Wee<br>Mdm Nur Hafizah Bte Umar<br>Ms Jenny Sim<br> Mdm Sirajudeen Ruwais Farwana<br>Mdm Aisyah Binte Mohamed Amir<br>Ms Hafidah Binte Abdul<br>Mr Alan Choo<br>Mr Hla Myo Min<br>Mdm Aslin Wahab<br>Mdm Mardiana Jamil (EPS)<br>Mdm Siti Raudah (EPS)<br> Mr Mohd Nazzer (EPS)
 |
 
 <img src="/images/psg3.jpg" style="width:65%">
