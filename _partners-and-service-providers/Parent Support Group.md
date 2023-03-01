@@ -23,9 +23,9 @@ As Telok Kurau Primary School Parent Support Group, we believe that no matter wh
 #### **Mother and Child Bonding Activity**
 Mummies, join us in a baking session to bond with your child!
 
-<img src="/images/psg1.jpeg" style="width:35%">
+<img src="/images/psg1.jpeg" style="width:60%">
 
-<img src="/images/psg2.jpeg" style="width:30%">
+<img src="/images/psg2.jpeg" style="width:40%">
 
 Sign up via the QR code above or through this link:  [https://forms.gle/pZSu14JRrRnexvpm8](https://forms.gle/pZSu14JRrRnexvpm8)<br>
 See you there!
