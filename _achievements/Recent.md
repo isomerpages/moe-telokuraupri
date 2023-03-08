@@ -26,4 +26,4 @@ description: ""
 | Category | Competition / Event | Achievement |
 |:---:|---|---|
 | Uniform Groups | **Red Cross Youth** - Red Cross Excellent Unit Award 2022 | Gold Award |
-| Uniform Groups | **Red Cross Youth** - Red Cross Disaster Risk Reduction Championship competition | 1st Runner Up | 
+| Uniform Groups | **Red Cross Youth** - Red Cross Disaster Risk Reduction Championship competition | 1st Runner Up |
