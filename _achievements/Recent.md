@@ -20,3 +20,10 @@ description: ""
 | Category | Competition / Event | Achievement |
 |:---:|---|---|
 | Clubs & Societies | **Robotics** - Hack@Code - National Online Coding Competition 2022 | **Merit Award** - Manan Gupta, Loke Chiu Yu<br>**Judges Award** - Zhu Cheng Yi, Jadon Quek, Das Yash Narayan, Jayvius Chin<br>**Best Presentation Award** - Akshit Nanda<br>**Best Coding Award** - Keerthivasan Yokesh<br>**Interactive Design Award** - Gupta Sara, Samim Rai, Morier Patrice<br>**2nd Runner Up Award** - Jeremiah Lee, Xing Junming<br>**Champion** - Mohammed Fazl, Kuppusamy Shivshankar, Joshua Jeffereson |
+
+<br><br>
+
+| Category | Competition / Event | Achievement |
+|:---:|---|---|
+| Uniform Groups | **Red Cross Youth** - Red Cross Excellent Unit Award 2022 | Gold Award |
+| Uniform Groups | **Red Cross Youth** - Red Cross Disaster Risk Reduction Championship competition | 1st Runner Up | 
