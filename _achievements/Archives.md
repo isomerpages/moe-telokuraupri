@@ -100,6 +100,10 @@ description: ""
 
 | Competition / Event | Achievement |
 |:---:|---|
+| Community in Nature (CIN) Schools Award (2020) | School of the Year<br>(Primary Schools) |
+| School Green Award (2018) <br> | Vanda Miss Joaquim Award  |
+| SEC – Starhub School Green Awards (2017) | Lotus Award |
+| TKPS Outstanding Contribution Award (2017) | Team Award: Earth Week |
 | SEC – Starhub School Green Awards (2016) | Orchid Award |
 | Green Carpet School Award (2015) | Merit |
 | School Green Awards Lotus (2015) | Sustained Achievement Award |
