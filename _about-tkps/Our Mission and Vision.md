@@ -7,6 +7,6 @@ description: ""
 To nurture every child in a values-driven environment to achieve excellence and contribute actively to the society.
 
 ### **Our Vision**
-Confident Learners  
+Confident Leaders  
 Resilient Learners  
 Caring Citizens
