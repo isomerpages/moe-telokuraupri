@@ -21,8 +21,9 @@ Please also engage your child / ward at home on cyber wellness using the followi
 * The Age of Digital Parenting
 
 There is also a recently published Schoolbag article – 13 and ready for social media… or not?
-(https://go.gov.sg/13-and-ready-for-social-media-or-not)
+([https://go.gov.sg/13-and-ready-for-social-media-or-not](https://go.gov.sg/13-and-ready-for-social-media-or-not))
 
 Thank you & best wishes
 
 CW Team @ TKPS
+
