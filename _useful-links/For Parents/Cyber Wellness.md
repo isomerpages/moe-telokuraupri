@@ -27,3 +27,9 @@ Thank you & best wishes
 
 CW Team @ TKPS
 
+PDF files:<br>
+1.[Parent Guide – 5 Tips to Ensure Your Child Stays Safe & Happy Online ](/files/PDF/Parent%20Guide%20-%205%20Tips%20to%20Ensure%20Your%20Child%20Stays%20Safe%20&%20Happy%20Online_For%20Schools.pdf)
+
+2.[Student Kit for Cyber Wellness and Learning with a Learning Device](/files/PDF/Student%20Kit%20for%20Cyber%20Wellness%20and%20Learning%20with%20a%20Learning%20Device%20For%20Schools.pdf)
+
+3.[The Age of Digital Parenting](/files/PDF/The%20Age%20Of%20Digital%20Parenting_For%20Schools.pdf)
