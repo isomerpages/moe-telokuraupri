@@ -12,9 +12,6 @@ Curious Science Inquirers; Engaged Science Learners
 To inculcate a spirit of Science Inquiry in our students so as to engage their Heads (Knowledge), Hands (Skills) and Hearts (Values).
 
 #### **Key Programmes**
-##### **P1 and P2 Modular Science Programme**
-While Science is not taught at lower primary, students who show keen interest in Science may be selected to attend the in-house programme. It is never too early to arouse students’ interest and develop curious minds through exploration and understanding of phenomena observed in their daily lives.
-
 ##### **Infusion of Science with English’s STELLAR Programme**
 The Science in STELLAR Programme is a collaboration with the English department to infuse Science with learning English. Themes include “A Butterfly is Born”, “What Will the Weather Be Like Today?”, and “The Enormous Watermelon”. Cross-disciplinary activities are used to engage learners in the classroom and arouse their interests in Science.
 
