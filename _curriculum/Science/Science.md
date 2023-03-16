@@ -6,10 +6,10 @@ third_nav_title: Science
 ---
 ### **Science**
 #### **Vision**
-Curious Science Inquirers; Engaged Science Learners
+Curious Science Inquirers. Engaged Science Learners for Life and Society.
 
 #### **Mission**
-To inculcate a spirit of Science Inquiry in our students so as to engage their Heads (Knowledge), Hands (Skills) and Hearts (Values).
+To inculcate a spirit of Science inquiry in our students so as to engage their Head (core ideas), Hands (practices) and Hearts (values, ethics and attitudes).
 
 #### **Key Programmes**
 
@@ -20,6 +20,10 @@ Our school offers the **EXCELLENCE 2000 (E2K) SCIENCE PROGRAMME** to selected pr
 Through this E2K Programme, we hope that pupils will develop scientific inquiry process skills, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills. 
 
 Pupils will learn Science by going through the same process that scientists use to generate knowledge in Science. Just as practising scientists make mistakes in the real world, pupils are allowed to make mistakes in E2K and teachers facilitate pupils to learn from the mistakes. Through collaborative learning and guidance provided by the teacher, pupils practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
+
+![](/images/Curriculum/Science/science-e2k-01.jpg)<br>
+![](/images/Curriculum/Science/science-e2k-02.jpg)
+
 
 ##### **Infusion of Science with English’s STELLAR Programme**
 The Science in STELLAR Programme is a collaboration with the English department to infuse Science with learning English. Themes include “A Butterfly is Born”, “What Will the Weather Be Like Today?”, and “The Enormous Watermelon”. Cross-disciplinary activities are used to engage learners in the classroom and arouse their interests in Science.
