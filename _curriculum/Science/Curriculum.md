@@ -12,8 +12,8 @@ third_nav_title: Science
 |:---:|:---:|---|
 | Term 1 | Diversity | Diversity of Living and Non-living Things (General characteristics and classification) |
 | Term 2 | Diversity | Diversity of Materials |
-| Term 3 | Interactions | Cycles in Plants and Animals (Life Cycles) |
-| Term 4 | Systems | Human System (Digestive) and Plant System (Parts and Functions) |
+| Term 3 | Cycles | Cycles in Plants and Animals (Life Cycles) |
+| Term 4 | Systems | Magnets |
 |
 
 #### **P4**
