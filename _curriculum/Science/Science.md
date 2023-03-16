@@ -6,14 +6,24 @@ third_nav_title: Science
 ---
 ### **Science**
 #### **Vision**
-Curious Science Inquirers; Engaged Science Learners
+Curious Science Inquirers. Engaged Science Learners for Life and Society.
 
 #### **Mission**
-To inculcate a spirit of Science Inquiry in our students so as to engage their Heads (Knowledge), Hands (Skills) and Hearts (Values).
+To inculcate a spirit of Science inquiry in our students so as to engage their Head (core ideas), Hands (practices) and Hearts (values, ethics and attitudes).
 
 #### **Key Programmes**
-##### **P1 and P2 Modular Science Programme**
-While Science is not taught at lower primary, students who show keen interest in Science may be selected to attend the in-house programme. It is never too early to arouse students’ interest and develop curious minds through exploration and understanding of phenomena observed in their daily lives.
+
+##### E2K Science Programme
+
+Our school offers the **EXCELLENCE 2000 (E2K) SCIENCE PROGRAMME** to selected primary 4 students. This is a science inquiry-based programme aimed to stretch primary pupils who have demonstrated strong interest and ability in science. It is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE). We have modified this enrichment programme to integrate technology where teachers use e-pedagogy to create a more participatory, connected and reflective classroom to nurture future-ready learners. 
+
+Through this E2K Programme, we hope that pupils will develop scientific inquiry process skills, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills. 
+
+Pupils will learn Science by going through the same process that scientists use to generate knowledge in Science. Just as practising scientists make mistakes in the real world, pupils are allowed to make mistakes in E2K and teachers facilitate pupils to learn from the mistakes. Through collaborative learning and guidance provided by the teacher, pupils practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
+
+![](/images/Curriculum/Science/science-e2k-01.jpg)<br>
+![](/images/Curriculum/Science/science-e2k-02.jpg)
+
 
 ##### **Infusion of Science with English’s STELLAR Programme**
 The Science in STELLAR Programme is a collaboration with the English department to infuse Science with learning English. Themes include “A Butterfly is Born”, “What Will the Weather Be Like Today?”, and “The Enormous Watermelon”. Cross-disciplinary activities are used to engage learners in the classroom and arouse their interests in Science.
@@ -29,14 +39,8 @@ Do you know the school has a Rain Garden and a Butterfly Garden? The school’s 
   
 Students work in teams to find out how Singapore obtains its supply, and will visit the school’s rain garden and rooftop garden to understand the collection of rainwater runoff. Basic water quality tests are also introduced to engage students in understanding the standards of potable water.
 
-<img src="/images/science1.jpg" style="width:85%">
-
-<img src="/images/science2.jpg" style="width:61.5%" align=left>
-<img src="/images/science3.jpg" style="width:36.5%" align=right>
-
-<br clear="left">
-
-<img src="/images/science4.jpg" style="width:25%;margin-left:175px;" align = "left">
-<img src="/images/science5.jpg" style="width:33%;margin-left:25px;" align = "left">
-
-<br clear="left">
+<img src="/images/science1.jpg" ><br>
+<img src="/images/science2.jpg"><br>
+<img src="/images/science3.jpg"><br>
+<img src="/images/science4.jpg"><br>
+<img src="/images/science5.jpg">
