@@ -12,6 +12,15 @@ Curious Science Inquirers; Engaged Science Learners
 To inculcate a spirit of Science Inquiry in our students so as to engage their Heads (Knowledge), Hands (Skills) and Hearts (Values).
 
 #### **Key Programmes**
+
+##### E2K Science Programme
+
+Our school offers the **EXCELLENCE 2000 (E2K) SCIENCE PROGRAMME** to selected primary 4 students. This is a science inquiry-based programme aimed to stretch primary pupils who have demonstrated strong interest and ability in science. It is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE). We have modified this enrichment programme to integrate technology where teachers use e-pedagogy to create a more participatory, connected and reflective classroom to nurture future-ready learners. 
+
+Through this E2K Programme, we hope that pupils will develop scientific inquiry process skills, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills. 
+
+Pupils will learn Science by going through the same process that scientists use to generate knowledge in Science. Just as practising scientists make mistakes in the real world, pupils are allowed to make mistakes in E2K and teachers facilitate pupils to learn from the mistakes. Through collaborative learning and guidance provided by the teacher, pupils practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
+
 ##### **Infusion of Science with English’s STELLAR Programme**
 The Science in STELLAR Programme is a collaboration with the English department to infuse Science with learning English. Themes include “A Butterfly is Born”, “What Will the Weather Be Like Today?”, and “The Enormous Watermelon”. Cross-disciplinary activities are used to engage learners in the classroom and arouse their interests in Science.
 
@@ -27,13 +36,9 @@ Do you know the school has a Rain Garden and a Butterfly Garden? The school’s 
 Students work in teams to find out how Singapore obtains its supply, and will visit the school’s rain garden and rooftop garden to understand the collection of rainwater runoff. Basic water quality tests are also introduced to engage students in understanding the standards of potable water.
 
 <img src="/images/science1.jpg" style="width:85%">
-
 <img src="/images/science2.jpg" style="width:61.5%" align=left>
 <img src="/images/science3.jpg" style="width:36.5%" align=right>
-
 <br clear="left">
-
 <img src="/images/science4.jpg" style="width:25%;margin-left:175px;" align = "left">
 <img src="/images/science5.jpg" style="width:33%;margin-left:25px;" align = "left">
-
 <br clear="left">
