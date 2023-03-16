@@ -35,10 +35,8 @@ Do you know the school has a Rain Garden and a Butterfly Garden? The school’s 
   
 Students work in teams to find out how Singapore obtains its supply, and will visit the school’s rain garden and rooftop garden to understand the collection of rainwater runoff. Basic water quality tests are also introduced to engage students in understanding the standards of potable water.
 
-<img src="/images/science1.jpg" style="width:85%">
-<img src="/images/science2.jpg" style="width:61.5%" align=left>
-<img src="/images/science3.jpg" style="width:36.5%" align=right>
-<br clear="left">
-<img src="/images/science4.jpg" style="width:25%;margin-left:175px;" align = "left">
-<img src="/images/science5.jpg" style="width:33%;margin-left:25px;" align = "left">
-<br clear="left">
+<img src="/images/science1.jpg" ><br>
+<img src="/images/science2.jpg"><br>
+<img src="/images/science3.jpg"><br>
+<img src="/images/science4.jpg"><br>
+<img src="/images/science5.jpg">
