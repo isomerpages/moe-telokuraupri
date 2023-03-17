@@ -31,8 +31,15 @@ The Science in STELLAR Programme is a collaboration with the English department 
 ##### **Inquiry Based Learning (IBL) Approach**
 For the Primary 3 to Primary 6 students, the school uses the Inquiry Based Learning (IBL) Approach to arouse students’ interests in Science and engage their curious minds through questioning. The IBL approach encourages questioning by students and teachers. Through IBL, students learn to make connections between what they have learnt from prior experiences and what they are learning at present.
 
+![](/images/Curriculum/Science/sci-ibl-01.jpeg)<br>
+![](/images/Curriculum/Science/sci-ibl-02.jpeg)<br>
+![](/images/Curriculum/Science/sci-ibl-03.jpeg)<br>
+![](/images/Curriculum/Science/sci-ibl-04.jpeg)
+
 ##### **Learning Journeys**
 Science learning takes place beyond the classroom. Besides opportunities to observe and make comparisons between the different gardens in school, students also explore other habitats and communities such as the Sungei Buloh Wetland Reserve, Singapore Zoo and the Singapore Science Centre. Learning Journeys aim to foster stronger connections between real-life experiences and its application in Science questions.
+
+![](/images/Curriculum/Science/sci-slj-01.jpeg)
 
 ##### **TKPS Water Learning Trail**
 Do you know the school has a Rain Garden and a Butterfly Garden? The school’s water learning trail aims to increase appreciation and awareness of water as a precious resource by learning the story of Singapore Water through various activities. The trail is facilitated by the school’s Green Ambassadors and teachers.
