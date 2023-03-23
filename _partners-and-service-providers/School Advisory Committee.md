@@ -13,7 +13,7 @@ description: ""
 |  Mr Jimmy Ho J Meng|  Member |
 |  Mdm Grace Cheah |  Member |
 |  Mrs Monique Viengkhou Li |  Member |
-|  Dr Mustafa Izzudin |  Member |
+|  Dr Mustafa Izzuddin |  Member |
 |  Dr Eric Ng Eng Seng|  Member |
 |  Mr Joseph Loh Kum Hoong |  Member |
 |
