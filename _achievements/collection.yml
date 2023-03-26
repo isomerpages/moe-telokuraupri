@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Recent.md
+      - Archives/Archives.md
       - Archives/.keep
       - Archives/2022.md
