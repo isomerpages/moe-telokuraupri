@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - 2022.md
       - Recent.md
       - Archives.md
