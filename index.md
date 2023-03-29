@@ -14,7 +14,7 @@ sections:
         - title: Useful Links
           description: ""
           url: quick-links/For-Students/student-icon/
-        - title: Events
+        - title: Gallery
           description: ""
           url: /events-and-notices/events/tkps-open-house-2022/
         - title: Notices
