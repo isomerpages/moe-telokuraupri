@@ -2,7 +2,6 @@ collections:
   about-tkps:
     output: true
     order:
-      - Gallery.md
       - Principal's Message.md
       - Our Mission and Vision.md
       - School Core Values.md
@@ -30,3 +29,4 @@ collections:
       - School Information/Contact Us.md
       - School Information/School Terms and Holidays.md
       - School Information/School Rules.md
+      - Gallery.md
