@@ -11,7 +11,7 @@ sections:
       background: /images/new-tkps-bg.gif
       url: /contact-us/
       key_highlights:
-        - title: Achievements
+        - title: Useful Links
           description: ""
           url: /achievements/recent/
         - title: Events
@@ -27,6 +27,3 @@ sections:
       button: click here
       url: https://www.instagram.com/telokkuraupri.official/
 ---
-
-
-
