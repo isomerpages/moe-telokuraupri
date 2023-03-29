@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Useful Links
           description: ""
-          url: /useful-links/
+          url: quick-links/For-Students/student-icon/
         - title: Events
           description: ""
           url: /events-and-notices/events/tkps-open-house-2022/
