@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Useful Links
           description: ""
-          url: /achievements/recent/
+          url: /useful-links/
         - title: Events
           description: ""
           url: /events-and-notices/events/tkps-open-house-2022/
