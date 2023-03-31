@@ -11,12 +11,12 @@ sections:
       background: /images/new-tkps-bg.gif
       url: /contact-us/
       key_highlights:
-        - title: Achievements
+        - title: Useful Links
           description: ""
-          url: /achievements/recent/
-        - title: Events
+          url: quick-links/For-Students/student-icon/
+        - title: Gallery
           description: ""
-          url: /events-and-notices/events/tkps-open-house-2022/
+          url: /about-tkps/gallery/
         - title: Notices
           description: ""
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
@@ -27,6 +27,3 @@ sections:
       button: click here
       url: https://www.instagram.com/telokkuraupri.official/
 ---
-
-
-

@@ -2,7 +2,7 @@ collections:
   achievements:
     output: true
     order:
-      - Recent.md
+      - 2023.md
       - Archives/.keep
       - Archives/Older Data.md
       - Archives/2020.md
