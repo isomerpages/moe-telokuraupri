@@ -2,4 +2,4 @@ collections:
   gallery:
     output: true
     order:
-      - gallery.md
+      - 2023 Gallery.md
