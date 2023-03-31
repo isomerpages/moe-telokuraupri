@@ -1,5 +1,0 @@
-collections:
-  gallery:
-    output: true
-    order:
-      - 2023 Gallery.md
