@@ -2,7 +2,7 @@ collections:
   partners-and-service-providers:
     output: true
     order:
-      - Associate Parent Volunteer.md
+      - Associate Parent Volunteer @TKPS.md
       - School Advisory Committee.md
       - Parent Support Group.md
       - TKPS Alumni/.keep
