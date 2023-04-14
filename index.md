@@ -33,4 +33,5 @@ sections:
       button: CLICK HERE
       url: https://www.facebook.com/telokkuraupri.official/
       alt: Image alt text
+      image: /images/officialfb.JPG
 ---
