@@ -10,7 +10,7 @@ description: ""
 |  Mdm Catherine Loh|  Chairperson |
 |  Ms Yeo Seow Wei |  Member |
 |  Dr Lim Seok Lai |  Member |
-|  Mr Jimmy Ho J Meng|  Member |
+|  Mr Jimmy Ho Ji Meng|  Member |
 |  Mdm Grace Cheah |  Member |
 |  Mrs Monique Viengkhou Li |  Member |
 |  Dr Mustafa Izzuddin |  Member |
