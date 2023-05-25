@@ -11,5 +11,7 @@ third_nav_title: For Students
 #### What is eZhiShi (知识网)?
 
 eZhiShi (知识网), an online version of Chinese Newsletters for students’ self-directed learning at home.
-
+![](/images/Student%20Portals/Ezhishi/ezhizhi-2.PNG)
 The interactive website will develop students’ listening and speaking skills. Students will be able to watch the videos prepared by their teachers and answer to the questions iteratively till they get them all correct. The website also has games which will further engage the students beyond the classrooms.
+
+![](/images/Student%20Portals/Ezhishi/ezhizhi.png)
