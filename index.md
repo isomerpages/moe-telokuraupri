@@ -34,4 +34,8 @@ sections:
       url: https://www.facebook.com/telokkuraupri.official/
       alt: Image alt text
       image: /images/officialfb.JPG
+  - resources:
+      title: "@telokkuraupri.official"
+      subtitle: TKPS Social Media
+      button: click here
 ---
