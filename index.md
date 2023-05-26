@@ -34,4 +34,12 @@ sections:
       url: https://www.facebook.com/telokkuraupri.official/
       alt: tkps-fb
       image: /images/officialfb.JPG
+  - infopic:
+      title: "@telokkuraupri.official"
+      subtitle: Find us on Instagram
+      description: Keep in touch with us!
+      button: Click here
+      url: https://www.instagram.com/telokkuraupri.official/
+      image: /images/tkps-insta.PNG
+      alt: tkps-insta
 ---
