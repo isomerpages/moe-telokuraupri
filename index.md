@@ -27,11 +27,11 @@ sections:
       button: click here
       url: https://www.instagram.com/telokkuraupri.official/
   - infopic:
-      title: TKPS Facebook
-      subtitle: TELOK KURAU PRIMARY SCHOOL
+      title: "@telokkuraupri.official"
+      subtitle: Find us on Facebook
       description: Welcome to our official facebook!
       button: CLICK HERE
       url: https://www.facebook.com/telokkuraupri.official/
-      alt: Image alt text
+      alt: tkps-fb
       image: /images/officialfb.JPG
 ---
