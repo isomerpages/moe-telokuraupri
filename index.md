@@ -41,7 +41,7 @@ sections:
       subtitle: Upcoming event in June 2023
       description: Experience the Joy of Learning with our exciting line-up of activities.
       button: Click here
-      url: s
+      url: https://drive.google.com/file/d/1YayZu_Y5ABMpzw_FlWp0CisDuIx2L3sF/view?usp=sharing
       image: /images/tkps-open-house-23.jpg
       alt: Image alt text
 ---
