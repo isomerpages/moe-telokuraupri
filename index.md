@@ -20,12 +20,6 @@ sections:
         - title: Notices
           description: ""
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
-  - infobar:
-      title: TKPS Instagram
-      subtitle: Telok Kurau Primary School
-      description: Keep in touch with us!
-      button: click here
-      url: https://www.instagram.com/telokkuraupri.official/
   - infopic:
       title: "@telokkuraupri.official"
       subtitle: Find us on Facebook
@@ -42,4 +36,12 @@ sections:
       url: https://www.instagram.com/telokkuraupri.official/
       image: /images/tkps-insta.PNG
       alt: tkps-insta
+  - infopic:
+      title: Open House 2023
+      subtitle: Upcoming event in June 2023
+      description: Experience the Joy of Learning with our exciting line-up of activities.
+      button: Click here
+      url: s
+      image: /images/tkps-open-house-23.jpg
+      alt: Image alt text
 ---
