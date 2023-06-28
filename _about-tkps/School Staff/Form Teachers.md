@@ -23,7 +23,7 @@ third_nav_title: School Staff
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
 | P2 Care |  Mr Robin Lim Heng Hock<br>Mdm Teo Cheng Yim |  robin_lim_heng_hock@moe.edu.sg<br>teo_cheng_yim@moe.edu.sg  |221<br>218
-| P2 Harmony |  Mdm Kua Shimin<br>Ms Nur Hafizah Bte Ismail <br>Ms Goh Jook Kin Susan | kua_shimin_ke_shimin@moe.edu.sg<br>nur_hafizah_ismail_b@moe.edu.sg <br>goh_jook_kin@moe.edu.sg   |220<br>261<br>224
+| P2 Harmony |  Mdm Kua Shimin<br>Ms Nur Hafizah Bte Ismail | kua_shimin_ke_shimin@moe.edu.sg<br>nur_hafizah_ismail_b@moe.edu.sg |220<br>261
 | P2 Integrity |  Mdm Goh Beng Lay (Mrs Veronica Tan)<br>Mdm Tan Suat Hoon |  goh_beng_lay@moe.edu.sg<br>tan_suat_hoon@moe.edu.sg |216<br>272
 | P2 Resilience |  Mdm Chan Sau Man Mandy<br>Ms Parvathy d/o Balakrisnan | chan_sau_man@moe.edu.sg<br>parvathy_balakrisnan@moe.edu.sg  |289<br>217
 | P2 Respect | Ms Soh Hui Shian Sandy<br>Mdm Amalina Binte Abdul Razak | soh_hui_shian_sandy@moe.edu.sg<br>amalina_abdul_razak@moe.edu.sg | 215<br>219
@@ -85,5 +85,5 @@ third_nav_title: School Staff
 | P6 Respect | Mr Ng Ying Hui<br>Mr Amarjit Singh Sewa Singh<br> | ng_ying_hui_a@moe.edu.sg<br>amarjit_singh_sewa_singh@moe.edu.sg<br> | 341<br>302
 | P6 Responsibility | Mdm Seah Xuyu Faith<br>Dr Teo Bee Lin<br> | seah_xuyu@moe.edu.sg<br>teo_bee_lin@moe.edu.sg<br> | 288<br>296
 | P6 Sincerity | Mr Shaharzad B Kasman<br>Mr Firouk Bin Mohamed Mydin<br> | shaharzad_b_kasman@moe.edu.sg<br>firouk_mohamed_mydin@moe.edu.sg<br> | 303<br>339
-| P6 Unity | Mdm Edith Ang Sian Hong<br>Mr Ahmad Tarmidzi Bin Mohd Kassim | ang_sian_hong_edith@moe.edu.sg<br>ahmad_tarmidzi_mohd_kassim@moe.edu.sg  | 348<br>345<br>346
+| P6 Unity | Mdm Edith Ang Sian Hong<br>Mr Ahmad Tarmidzi Bin Mohd Kassim | ang_sian_hong_edith@moe.edu.sg<br>ahmad_tarmidzi_mohd_kassim@moe.edu.sg  | 345<br>346
 |
