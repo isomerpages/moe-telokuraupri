@@ -23,7 +23,7 @@ third_nav_title: School Staff
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
 | P2 Care |  Mr Robin Lim Heng Hock<br>Mdm Teo Cheng Yim |  robin_lim_heng_hock@moe.edu.sg<br>teo_cheng_yim@moe.edu.sg  |221<br>218
-| P2 Harmony |  Mdm Kua Shimin<br>Ms Nur Hafizah Bte Ismail <br>Ms Goh Jook Kin Susan | kua_shimin_ke_shimin@moe.edu.sg<br>nur_hafizah_ismail_b@moe.edu.sg <br>goh_jook_kin@moe.edu.sg   |220<br>261<br>224
+| P2 Harmony |  Mdm Kua Shimin<br>Ms Nur Hafizah Bte Ismail | kua_shimin_ke_shimin@moe.edu.sg<br>nur_hafizah_ismail_b@moe.edu.sg |220<br>261
 | P2 Integrity |  Mdm Goh Beng Lay (Mrs Veronica Tan)<br>Mdm Tan Suat Hoon |  goh_beng_lay@moe.edu.sg<br>tan_suat_hoon@moe.edu.sg |216<br>272
 | P2 Resilience |  Mdm Chan Sau Man Mandy<br>Ms Parvathy d/o Balakrisnan | chan_sau_man@moe.edu.sg<br>parvathy_balakrisnan@moe.edu.sg  |289<br>217
 | P2 Respect | Ms Soh Hui Shian Sandy<br>Mdm Amalina Binte Abdul Razak | soh_hui_shian_sandy@moe.edu.sg<br>amalina_abdul_razak@moe.edu.sg | 215<br>219
@@ -52,7 +52,7 @@ third_nav_title: School Staff
 |---|---|---|---|
 | P4 Care | Mr Faizal Bin Mohamed Yusoff<br>Mr Wong Li Hao James<br> | faizal_b_mohamed_yusoff@moe.edu.sg<br>wong_li_hao_james@moe.edu.sg<br> | 282<br>238
 | P4 Harmony | Mr Muhd Reza Bin Daud<br>Ms Teo Tian Ki Tammy<br> | muhammad_reza@moe.edu.sg<br>teo_tian_ki@moe.edu.sg<br> | 295<br>237
-| P4 Integrity | Mr Chua Cheow Teck<br>Mdm Hajra Maideen<br> | chua_cheow_teck@moe.edu.sg<br>hajra_maideen@moe.edu.sg<br> |242<br>248
+| P4 Integrity | Mr Chua Cheow Teck<br>Ms Ng Bao Lin<br>Mdm Hajra Maideen<br> | chua_cheow_teck@moe.edu.sg<br>ng_bao_lin@moe.edu.sg<br>hajra_maideen@moe.edu.sg<br> |242<br><br>248
 | P4 Resilience | Mr Kenneth Wong Cher Jian<br>Mdm Vijayalekshmi d/o Mariappan<br> | kenneth_wong_cher_jian@moe.edu.sg<br>vijayalekshmi_mariappan@moe.edu.sg<br> |241<br>257
 | P4 Respect | Mrs Ong Wan Sien<br>Mr Joe Ang Choon Hai<br> | kow_wan_sien@moe.edu.sg<br>ang_choon_hai@moe.edu.sg<br> |271<br>251
 | P4 Responsibility | Mdm Sathyajothi D/o Selvandran<br>Mr Kwek Wenhong Shane<br> | sathyajothi_selvandran@moe.edu.sg<br>kwek_wenhong_shane@moe.edu.sg<br> | 280<br>247
@@ -69,7 +69,7 @@ third_nav_title: School Staff
 | P5 Resilience | Mdm Kartini Bte Mohamed Ramli<br>Mr Aw Yang Ming<br> | kartini_mohamed_ramli@moe.edu.sg<br>aw_yang_ming@moe.edu.sg<br> |267<br>320
 | P5 Respect | Mdm Tan Jin Jun Stephanie<br>Mr Teo Ser Leng<br> | tan_jin_jun@moe.edu.sg<br>teo_ser_leng@moe.edu.sg<br> | 321<br>317
 | P5 Responsibility | Woo Shan Shan Karen (Mrs Oh)<br>Ms Lisa Chi Li Shan<br> | woo_shan_shan_karen@moe.edu.sg<br>lisa_chi_li_shan@moe.edu.sg<br> | 286<br>316
-| P5 Sincerity | Mdm Yip Weng Ee<br>Ms Tan Wan Lee<br> | yip_weng_ee@moe.edu.sg<br>tan_wan_lee@moe.edu.sg<br> | 316<br>315
+| P5 Sincerity | Mdm Yip Weng Ee<br>Ms Tan Wan Lee<br>Ms Lu Ting Ting | yip_weng_ee@moe.edu.sg<br>tan_wan_lee@moe.edu.sg<br>lu_ting_ting@moe.edu.sg | 316<br>315
 | P5 Unity | Mr Tan Yew Heng<br>Ms Tan Zhao Lin<br> | tan_yew_heng@moe.edu.sg<br>tan_zhao_lin@moe.edu.sg<br> | 334<br>314
 | P5 Valour | Mdm Kwek Li Hiang Linda @ Nadia Kwek<br>Ms Salmah Bee Bte Abu Bakar<br>Mdm Jayanthi d/o Retnam | kwek_li_hiang_linda@moe.edu.sg<br>salmah_bee_abu_bakar@moe.edu.sg<br>jayanthi_retnam@moe.edu.sg | 318<br>263<br>313
 |
@@ -85,5 +85,5 @@ third_nav_title: School Staff
 | P6 Respect | Mr Ng Ying Hui<br>Mr Amarjit Singh Sewa Singh<br> | ng_ying_hui_a@moe.edu.sg<br>amarjit_singh_sewa_singh@moe.edu.sg<br> | 341<br>302
 | P6 Responsibility | Mdm Seah Xuyu Faith<br>Dr Teo Bee Lin<br> | seah_xuyu@moe.edu.sg<br>teo_bee_lin@moe.edu.sg<br> | 288<br>296
 | P6 Sincerity | Mr Shaharzad B Kasman<br>Mr Firouk Bin Mohamed Mydin<br> | shaharzad_b_kasman@moe.edu.sg<br>firouk_mohamed_mydin@moe.edu.sg<br> | 303<br>339
-| P6 Unity | Mdm Soh Hwee Choo (Mrs Lim Yew Hock)<br>Mdm Edith Ang Sian Hong<br>Mr Ahmad Tarmidzi Bin Mohd Kassim | lim_yew_hock@moe.edu.sg<br>ang_sian_hong_edith@moe.edu.sg<br>ahmad_tarmidzi_mohd_kassim@moe.edu.sg  | 348<br>345<br>346
+| P6 Unity | Mdm Edith Ang Sian Hong<br>Mr Ahmad Tarmidzi Bin Mohd Kassim | ang_sian_hong_edith@moe.edu.sg<br>ahmad_tarmidzi_mohd_kassim@moe.edu.sg  | 345<br>346
 |
