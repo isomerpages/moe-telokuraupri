@@ -14,9 +14,6 @@ sections:
         - title: Useful Links
           description: ""
           url: quick-links/For-Students/student-icon/
-        - title: Gallery
-          description: ""
-          url: /about-tkps/gallery/
         - title: Notices
           description: ""
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
