@@ -7,10 +7,11 @@ third_nav_title: For Parents
 ##### CW Article - 7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special
 
 Read about how four fathers who work in the technology industry share tried-and-tested ways to keep their children safe on cyber space:  [Click Here](https://www.schoolbag.edu.sg/story/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special?utm_source=newsletter+sb+article&amp;utm_medium=newsletter&amp;utm_campaign=june+2023+edm)
+![](/images/CW/cyberdads-collage-for-main-photo.jpg)
 
 ##### CW Pledge
 
-Dear Parents / Guardians<br>
+Dear Parents / Guardians<br><br>
 During Assembly (P1 – P4 on 30 Jan while P5 &amp; 6 on 6 Feb), the students have pledged to uphold the following cyber wellness principles as an Internet user:<br>
 * Respect for Self and Others
 * Safe and Responsible Use, and 
