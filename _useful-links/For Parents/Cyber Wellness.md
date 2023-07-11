@@ -6,9 +6,7 @@ third_nav_title: For Parents
 ---
 ##### CW Article - 7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special
 
-Read about how four fathers who work in the technology industry share tried-and-tested ways to keep their children safe on cyber space: 
-
-[Click Here](https://www.schoolbag.edu.sg/story/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special?utm_source=newsletter+sb+article&amp;utm_medium=newsletter&amp;utm_campaign=june+2023+edm)
+Read about how four fathers who work in the technology industry share tried-and-tested ways to keep their children safe on cyber space:  [Click Here](https://www.schoolbag.edu.sg/story/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special?utm_source=newsletter+sb+article&amp;utm_medium=newsletter&amp;utm_campaign=june+2023+edm)
 
 ##### CW Pledge
 
