@@ -4,7 +4,7 @@ permalink: /about-tkps/school-staff/counsellors-admin-staff/
 description: ""
 third_nav_title: School Staff
 ---
-### **Counsellors, Allied Educators & Executive and Administrative Staff**
+### **Counsellors, Allied Educators &amp; Executive and Administrative Staff**
 
 | Position | Name | Email | Ext |
 |---|---|---|---|
@@ -18,5 +18,5 @@ third_nav_title: School Staff
 | Librarian |  Ms Saraswathi <br> Mdm Munifah Surip | |307<br>307
 | Teacher Aide |  Mdm Julie Chan Sock Fang |
 | Science Lab Assistant |  Mdm Zaidah Bte Ahmad |
-| Operations Support Officer |  Mdm Annie Goh Koon Yen<br>Mdm Feng Yidan<br>Mr Mohd Salleh Bin Rahmad<br>Mr Soh Hoe Poh<br>Mdm Tay Seok Ching<br>Mdm Zeng Guiying |
+| Operations Support Officer |  Mdm Annie Goh Koon Yen<br>Mdm Feng Yidan<br>Mr Soh Hoe Poh<br>Mdm Tay Seok Ching<br>Mdm Zeng Guiying |
 |
