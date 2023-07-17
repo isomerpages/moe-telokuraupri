@@ -7,14 +7,14 @@ description: ""
 
 | Name | Designation |
 |---|---|
-|  Mdm Catherine Loh|  Chairperson |
-|  Mrs Grace Goh|  Vice-Chairperson |
-|  Mrs Grace Leong|  Hononary Secretary |
+|  Mdm Catherine Loh |  Chairperson |
+|  Mrs Grace Goh |  Vice-Chairperson |
+|  Mrs Grace Leong |  Hononary Secretary |
 |  Ms Yeo Seow Wei |  Member |
 |  Dr Lim Seok Lai |  Member |
-|  Mr Jimmy Ho Ji Meng|  Member |
+|  Mr Jimmy Ho Ji Meng |  Member |
 |  Mrs Monique Viengkhou Li |  Member |
 |  Dr Mustafa Izzuddin |  Member |
-|  Dr Eric Ng Eng Seng|  Member |
+|  Dr Eric Ng Eng Seng |  Member |
 |  Mr Joseph Loh Kum Hoong |  Member |
 |
