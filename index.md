@@ -41,4 +41,9 @@ sections:
       url: https://www.instagram.com/telokkuraupri.official/
       image: /images/tkps-insta.PNG
       alt: tkps-insta
+  - infobar:
+      title: Non-Halal Asian Cuisine (Japanese, Korean, Thai) Food Stall
+      subtitle: Vacancy for
+      description: "Application Forms are available at General Office (Closing Date:
+        Wednesday, 02 August 2023)"
 ---
