@@ -17,14 +17,11 @@ sections:
         - title: Notices
           description: ""
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
-  - infopic:
-      title: Open House 2023
-      subtitle: Upcoming event in July 2023
-      description: Experience the Joy of Learning with our exciting line-up of activities.
-      button: Click here
-      url: https://drive.google.com/file/d/1YayZu_Y5ABMpzw_FlWp0CisDuIx2L3sF/view?usp=sharing
-      image: /images/tkps-open-house-23.jpg
-      alt: Image alt text
+  - infobar:
+      title: Non-Halal Asian Cuisine (Japanese, Korean, Thai) Food Stall
+      subtitle: Vacancy for
+      description: "Application Forms are available at General Office (Closing Date:
+        Wednesday, 02 August 2023)"
   - infopic:
       title: "@telokkuraupri.official"
       subtitle: Find us on Facebook
@@ -41,4 +38,6 @@ sections:
       url: https://www.instagram.com/telokkuraupri.official/
       image: /images/tkps-insta.PNG
       alt: tkps-insta
+  - infopic:
+      image: /images/tkps-open-house-23.jpg
 ---
