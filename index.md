@@ -17,6 +17,11 @@ sections:
         - title: Notices
           description: ""
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
+  - infobar:
+      title: Non-Halal Asian Cuisine (Japanese, Korean, Thai) Food Stall
+      subtitle: Vacancy for
+      description: "Application Forms are available at General Office (Closing Date:
+        Wednesday, 02 August 2023)"
   - infopic:
       title: Open House 2023
       subtitle: Upcoming event in July 2023
@@ -41,9 +46,4 @@ sections:
       url: https://www.instagram.com/telokkuraupri.official/
       image: /images/tkps-insta.PNG
       alt: tkps-insta
-  - infobar:
-      title: Non-Halal Asian Cuisine (Japanese, Korean, Thai) Food Stall
-      subtitle: Vacancy for
-      description: "Application Forms are available at General Office (Closing Date:
-        Wednesday, 02 August 2023)"
 ---
