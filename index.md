@@ -39,9 +39,5 @@ sections:
       image: /images/tkps-insta.PNG
       alt: tkps-insta
   - infopic:
-      title: Open House 2023
-      subtitle: Upcoming event in July 2023
-      description: Experience the Joy of Learning with our exciting line-up of activities.
-      url: https://drive.google.com/file/d/1YayZu_Y5ABMpzw_FlWp0CisDuIx2L3sF/view?usp=sharing
       image: /images/tkps-open-house-23.jpg
 ---
