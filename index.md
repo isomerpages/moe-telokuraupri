@@ -38,6 +38,4 @@ sections:
       url: https://www.instagram.com/telokkuraupri.official/
       image: /images/tkps-insta.PNG
       alt: tkps-insta
-  - infopic:
-      image: /images/tkps-open-house-23.jpg
 ---
