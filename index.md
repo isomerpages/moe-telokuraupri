@@ -38,4 +38,10 @@ sections:
       url: https://www.instagram.com/telokkuraupri.official/
       image: /images/tkps-insta.PNG
       alt: tkps-insta
+  - infobar:
+      title: Mother Tongue Languages Symposium (MTLS) 2023
+      subtitle: "MTL Symposium "
+      description: 26 August 2023, Suntec Convention Centre, Hall 404-405
+      button: Click Here for more Info
+      url: a
 ---
