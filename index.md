@@ -14,7 +14,7 @@ sections:
         - title: Useful Links
           description: ""
           url: quick-links/For-Students/student-icon/
-        - title: Notices
+        - title: Events & Notices
           description: ""
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
   - infobar:
