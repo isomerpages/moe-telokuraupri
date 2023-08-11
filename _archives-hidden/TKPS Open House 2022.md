@@ -2,9 +2,7 @@
 title: TKPS Open House 2022
 permalink: /tkps-open-house-2022/
 description: ""
-third_nav_title: Events
 ---
-
 ### **TKPS Open House 2022**
 
 <figure><figcaption><strong>  
@@ -23,14 +21,14 @@ TKPS Corporate Video
 </strong></figcaption>  
 </figure>
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/JFL835e4olI" title="TKPS Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/JFL835e4olI" title="TKPS Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <figure><figcaption><strong>  
 A Day in the Life of a P1 Child in TKPS
 </strong></figcaption>  
 </figure>
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/urVvMVgo8nM" title="A Day in the Life of a P1 Child in TKPS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/urVvMVgo8nM" title="A Day in the Life of a P1 Child in TKPS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Find out more about our school by clicking on the links below.
 
@@ -41,22 +39,22 @@ _Last updated on 03 June 2022_
 ### **Useful Information**
 #### **Primary 1 Registration and Phases (MOE)**
 **2022 P1 Registration Exercise (For Admission to P1 in 2023)**<br>
-Children born between 2 January 2016 and 1 January 2017 (both dates inclusive) can participate in the 2022 P1 Registration Exercise for admission to P1 classes in 2023. Parents of Singapore Citizen (SC)/ Singapore Permanent Resident (SPR) children may proceed to the school of choice during their eligible phase to register their child for the P1 Registration Exercise.
+Children born between 2 January 2016 and 1 January 2017 (both dates&nbsp;inclusive) can participate in the 2022 P1 Registration Exercise for admission to&nbsp;P1 classes in 2023. Parents of Singapore Citizen (SC)/ Singapore Permanent Resident (SPR) children may proceed to the school of choice during their eligible&nbsp;phase to register their child for the P1 Registration Exercise.
 
 <p><a href="https://www.moe.gov.sg/primary/p1-registration">  
-<img style="width:25%" src="/images/pinkfindoutmore.jpg" align=left> 
+<img style="width:25%" src="/images/pinkfindoutmore.jpg" align="left"> 
 </a></p>
 
 <br clear="left">
 
 **Primary 1 FAQs (MOE)**<br>
 <p><a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=3583">  
-<img style="width:25%" src="/images/pinkfindoutmore.jpg" align=left> 
+<img style="width:25%" src="/images/pinkfindoutmore.jpg" align="left"> 
 </a></p>
 <br clear="left">
 
 #### **Curriculum Timing (For 2023)**
-All students are to report to the school by 7.30 a.m. on school days. The flag raising ceremony will be conducted at 7.30 a.m. Your child must have a storybook for silent reading daily.
+All students are to report to the school by 7.30 a.m. on school days. The flag raising ceremony will be conducted at 7.30 a.m.&nbsp;Your child must have a storybook for silent reading daily.
  
 #### **Recess (For 2023)**
 
@@ -72,7 +70,7 @@ We strongly encourage our students to choose water over sugared beverages.
 #### **Dismissal Timings**
 To ensure the safety and security of our students during dismissal, parents are only allowed limited access to fetch their child from the school canteen. Primary 1 students will not be allowed to leave on their own unless accompanied by a parent/guardian/authorized caregiver.
 
-Primary 1 students taking the school bus will be guided to board their school buses from the school foyer before the teachers send the rest of the class to the canteen.
+Primary 1&nbsp;students taking the school bus will be guided to board their school buses from the school foyer before the teachers send the rest of the class to the canteen.
 
 Primary 1 students attending Student Care Centre (SCC) after school will be guided to walk to the SCC before the teachers send the rest of the class to the canteen.
 
@@ -85,14 +83,14 @@ Primary 1 students attending Student Care Centre (SCC) after school will be guid
 #### **Service Providers**
 *   Student Care Centre ([link](https://telokkuraupri.moe.edu.sg/partners-and-service-providers/service-providers/student-care-centre))
 *   School Bus Service ([link](https://telokkuraupri.moe.edu.sg/partners-and-service-providers/service-providers/school-bus-service))
-*   School Bookshop ([link](https://telokkuraupri.moe.edu.sg/partners-and-service-providers/service-providers/school-bookshop))
-*   Uniform Shop ([link](https://telokkuraupri.moe.edu.sg/partners-and-service-providers/service-providers/uniform-shop))
-*   Dental Service ([link](https://telokkuraupri.moe.edu.sg/partners-and-service-providers/service-providers/uniform-shop))
+*   School Bookshop&nbsp;([link](https://telokkuraupri.moe.edu.sg/partners-and-service-providers/service-providers/school-bookshop))
+*   Uniform Shop&nbsp;([link](https://telokkuraupri.moe.edu.sg/partners-and-service-providers/service-providers/uniform-shop))
+*   Dental Service&nbsp;([link](https://telokkuraupri.moe.edu.sg/partners-and-service-providers/service-providers/uniform-shop))
 
 #### **Parent Support Group**
 
 <p><a href="https://telokkuraupri.moe.edu.sg/partners-and-service-providers/parent-support-group">  
-<img style="width:25%" src="/images/pinkfindoutmore.jpg" align=left> 
+<img style="width:25%" src="/images/pinkfindoutmore.jpg" align="left"> 
 </a></p>
 
 <br clear="left">
@@ -111,4 +109,4 @@ Primary 1 students attending Student Care Centre (SCC) after school will be guid
 
 #### **Questions**
 Do you still have questions unanswered?<br>
-If you have further questions about the school, you may email us at [telokkuraups@moe.edu.sg](mailto:telokkuraups@moe.edu.sg).
+If you have further questions about the school, you may email us at&nbsp;[telokkuraups@moe.edu.sg](mailto:telokkuraups@moe.edu.sg).

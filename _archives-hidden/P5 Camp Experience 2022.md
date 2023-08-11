@@ -2,7 +2,6 @@
 title: P5 Camp Experience 2022
 permalink: /events-and-notices/events/p5-camp-experience-2022/
 description: ""
-third_nav_title: Events
 ---
 ### **P5 Camp Experience 2022**
 <img src="/images/p5camp1.jpg" style="width:85%">

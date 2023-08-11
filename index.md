@@ -14,14 +14,15 @@ sections:
         - title: Useful Links
           description: ""
           url: quick-links/For-Students/student-icon/
-        - title: Notices
+        - title: Events & Notices
           description: ""
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
   - infobar:
-      title: Non-Halal Asian Cuisine (Japanese, Korean, Thai) Food Stall
-      subtitle: Vacancy for
-      description: "Application Forms are available at General Office (Closing Date:
-        Wednesday, 02 August 2023)"
+      title: Mother Tongue Languages Symposium (MTLS) 2023
+      subtitle: MTL Symposium
+      description: 26 August 2023, Suntec Convention Centre, Hall 404-405
+      button: Click Here for more Info
+      url: /events-and-notices/events/mtls23/
   - infopic:
       title: "@telokkuraupri.official"
       subtitle: Find us on Facebook
