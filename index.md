@@ -22,7 +22,7 @@ sections:
       subtitle: MTL Symposium
       description: 26 August 2023, Suntec Convention Centre, Hall 404-405
       button: Click Here for more Info
-      url: a
+      url: /events-and-notices/events/mtls23/
   - infobar:
       title: Non-Halal Asian Cuisine (Japanese, Korean, Thai) Food Stall
       subtitle: Vacancy for
