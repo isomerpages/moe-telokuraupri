@@ -23,11 +23,6 @@ sections:
       description: 26 August 2023, Suntec Convention Centre, Hall 404-405
       button: Click Here for more Info
       url: /events-and-notices/events/mtls23/
-  - infobar:
-      title: Non-Halal Asian Cuisine (Japanese, Korean, Thai) Food Stall
-      subtitle: Vacancy for
-      description: "Application Forms are available at General Office (Closing Date:
-        Wednesday, 02 August 2023)"
   - infopic:
       title: "@telokkuraupri.official"
       subtitle: Find us on Facebook
