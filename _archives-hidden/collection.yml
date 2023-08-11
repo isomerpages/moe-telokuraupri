@@ -2,6 +2,7 @@ collections:
   archives-hidden:
     output: true
     order:
+      - Mother and Child Bonding.md
       - P5 Camp Experience 2022.md
       - P1 Orientation 2022.md
       - TKPS Open House 2022.md
