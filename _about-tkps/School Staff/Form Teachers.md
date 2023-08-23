@@ -22,7 +22,7 @@ third_nav_title: School Staff
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P2 Care |  Mr Robin Lim Heng Hock<br>Mdm Teo Cheng Yim |  robin_lim_heng_hock@moe.edu.sg<br>teo_cheng_yim@moe.edu.sg  |221<br>218
+| P2 Care |  Mr Robin Lim Heng Hock<br>Mdm Teo Cheng Yim<br>Mr Lucas Tang |  robin_lim_heng_hock@moe.edu.sg<br>teo_cheng_yim@moe.edu.sg<br>tang_yu_hung_lucas@moe.edu.sg |221<br>218
 | P2 Harmony |  Mdm Kua Shimin<br>Ms Nur Hafizah Bte Ismail | kua_shimin_ke_shimin@moe.edu.sg<br>nur_hafizah_ismail_b@moe.edu.sg |220<br>261
 | P2 Integrity |  Mdm Goh Beng Lay (Mrs Veronica Tan)<br>Mdm Tan Suat Hoon |  goh_beng_lay@moe.edu.sg<br>tan_suat_hoon@moe.edu.sg |216<br>272
 | P2 Resilience |  Mdm Chan Sau Man Mandy<br>Ms Parvathy d/o Balakrisnan | chan_sau_man@moe.edu.sg<br>parvathy_balakrisnan@moe.edu.sg  |289<br>217
@@ -43,7 +43,7 @@ third_nav_title: School Staff
 | P3 Responsibility | Mdm Felicia Goh Xiu Xian (Mrs Ling)<br>Mdm Patricia Lim Chiu Yen (Mrs Chew)<br>Mdm Abigail Choo Ru Yi (Mrs Liau) | felicia_goh_xiu_xian@moe.edu.sg<br>patricia_lim_chiu_yen@moe.edu.sg<br>abigail_choo_ru_yi@moe.edu.sg | 235<br>299<br>234
 | P3 Sincerity | Mdm Arni Binte Johan<br>Ms Tan Hui Ling<br> | arni_johan@moe.edu.sg<br>tan_hui_ling@moe.edu.sg<br> |270<br>230
 | P3 Unity | Mrs Ramesh Eswari<br>Mdm Tan Choon Jhet<br> | ramesh_eswari@moe.edu.sg<br>tan_choon_jhet@moe.edu.sg<br> | 260<br>233
-| P3 Valour | Mdm Liew Mee Lee (Mrs Lee)<br>Mdm Khaziah Bte Yem<br> | liew_mee_lee@moe.edu.sg<br>khaziah_yem@moe.edu.sg<br> | 240<br>284
+| P3 Valour | Mdm Liew Mee Lee (Mrs Lee)<br>Mdm Khaziah Bte Yem<br>Mdm Chin Chwee Kim | liew_mee_lee@moe.edu.sg<br>khaziah_yem@moe.edu.sg<br>chin_chwee_kim@moe.edu.sg | 240<br>284
 |
 
 #### **Primary 4**
