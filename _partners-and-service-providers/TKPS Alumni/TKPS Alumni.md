@@ -22,8 +22,6 @@ How to join?<br>
 Recruitment done all year round. Interested members will have to fill the registration form below.
 
 
-
-
-<p><a href="[https://docs.google.com/forms/d/e/1FAIpQLScHfovO4Pf_jwCjchiCBTon_LTdBrgU671szUu4FFAKo4qjsg/viewform](https://docs.google.com/forms/d/e/1FAIpQLScHfovO4Pf_jwCjchiCBTon_LTdBrgU671szUu4FFAKo4qjsg/viewform)">  
+<p>
 <img src="/images/alumni.jpg" style="width:45%">   
-</a></p>
+</p>
