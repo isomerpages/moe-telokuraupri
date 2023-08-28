@@ -17,12 +17,6 @@ sections:
         - title: Events & Notices
           description: ""
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
-  - infobar:
-      title: Mother Tongue Languages Symposium (MTLS) 2023
-      subtitle: MTL Symposium
-      description: 26 August 2023, Suntec Convention Centre, Hall 404-405
-      button: Click Here for more Info
-      url: /events-and-notices/events/mtls23/
   - infopic:
       title: "@telokkuraupri.official"
       subtitle: Find us on Facebook
