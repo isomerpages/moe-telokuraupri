@@ -19,7 +19,7 @@ sections:
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
   - infobar:
       title: Asian Cuisine Food Stalls (Japanese, Korean, Thai & Chinese)
-      subtitle: Vacancy for
+      subtitle: Vacancy @TKPS
       description: "Application Forms are availale at the General Office (Closing
         Date: Friday, 15 September 2023)"
   - infopic:
