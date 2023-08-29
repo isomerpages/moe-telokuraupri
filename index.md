@@ -22,8 +22,6 @@ sections:
       subtitle: Vacancy for
       description: "Application Forms are availale at the General Office (Closing
         Date: Friday, 15 September 2023)"
-      button: Button Text
-      url: s
   - infopic:
       title: "@telokkuraupri.official"
       subtitle: Find us on Facebook
