@@ -17,11 +17,6 @@ sections:
         - title: Events & Notices
           description: ""
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
-  - infobar:
-      title: Asian Cuisine Food Stalls (Japanese, Korean, Thai & Chinese)
-      subtitle: Vacancy @TKPS
-      description: "Application Forms are availale at the General Office (Closing
-        Date: Friday, 15 September 2023)"
   - infopic:
       title: "@telokkuraupri.official"
       subtitle: Find us on Facebook
