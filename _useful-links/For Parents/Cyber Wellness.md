@@ -4,10 +4,6 @@ permalink: /useful-links/cyber-wellness/
 description: ""
 third_nav_title: For Parents
 ---
-##### CW Updates
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="TKPS - Cyber Wellness 2023" src="https://www.youtube.com/embed/Cy-JPDUD4po" height="480" width="853"></iframe>
-
-
 ##### CW Article - 7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special
 
 Read about how four fathers who work in the technology industry share tried-and-tested ways to keep their children safe on cyber space:  [Click Here](https://www.schoolbag.edu.sg/story/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special?utm_source=newsletter+sb+article&amp;utm_medium=newsletter&amp;utm_campaign=june+2023+edm)
