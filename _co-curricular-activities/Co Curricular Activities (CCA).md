@@ -21,7 +21,7 @@ At TKPS, we have 18 CCAs which are forward-looking and caters to the varied need
 With our diverse yet balanced offering of 4 Physical Sports (PS), 3 Uniformed Groups (UG), 7 Visual and Performing Arts (VPA), and 4 Clubs And Societies (CS) CCA options, students will get to discover their passion, build friendships, cultivate leadership skills and acquire values such as teamwork and resilience in a vibrant environment.
 
 
-| PHYSICAL SPORTS (PS) | VISUAL AND PERFORMING ARTS (VPA)| CLUBS AND SOCIETIES (CS) | UNIFORMED GROUPS (UG) |
+| PHYSICAL SPORTS (PS) | VISUAL & PERFORMING ARTS (VPA)| CLUBS & SOCIETIES (CS) | UNIFORMED GROUPS (UG) |
 | -------- | -------- | -------- | -------- |
 | Basketball#  | Art and Crafts#   | Debating and Public Speaking | Brownies |
 | Bowling#  | Choir  | Environment Club | Red Cross Youth |
