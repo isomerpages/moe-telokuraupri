@@ -18,22 +18,21 @@ CCAs are an integral part of the holistic development and learning experiences f
 
 At TKPS, we have 18 CCAs which are forward-looking and caters to the varied needs and interests of our students. 
 
-With our diverse yet balanced offering of 4 Physical Sports (PS), 3 Uniformed Groups (UG), 7 Visual and Performing Arts (VPA), and 4 Clubs And Societies (CS) CCA options, students will get to discover their passion, build friendships, cultivate leadership skills and acquire values such as teamwork and resilience in a vibrant environment.
+With our diverse yet balanced offering of 4 Physical Sports (PS), 3 Uniformed Groups (UG), 7 Visual and Performing Arts (VPA), and 4 Clubs And Societies (CS) CCA options, students will get to discover their passion, build friendships, cultivate leadership skills and acquire values such as teamwork and resilience in a vibrant environment. 
+
 
 
 | PHYSICAL SPORTS (PS) | VISUAL & PERFORMING ARTS (VPA)| CLUBS & SOCIETIES (CS) | UNIFORMED GROUPS (UG) |
 | -------- | -------- | -------- | -------- |
-| Basketball#  | Art and Crafts#   | Debating and Public Speaking | Brownies |
-| Bowling#  | Choir  | Environment Club | Red Cross Youth |
-| Football#  | Guheng Ensemble  | Robotics# | Scouts |
+| Basketball  | Art and Crafts   | Debating and Public Speaking | Brownies |
+| Bowling  | Choir  | Environment Club | Red Cross Youth |
+| Football  | Guheng Ensemble  | Robotics | Scouts |
 | Wushu  | Lion &amp; Dragon Dance  | Strategy Games Club |  |
 | | Chinese Dance| |
 | | Indian Dance| |
 | | Malay Dance| |
 
-   
 
-\# CCAs that require trials in the selection process
 
 #### **CCAs@TKPS Policy**
 
