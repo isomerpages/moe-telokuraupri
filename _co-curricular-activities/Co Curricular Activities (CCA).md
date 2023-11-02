@@ -43,9 +43,9 @@ With our diverse yet balanced offering of 4 Physical Sports (PS), 3 Uniformed Gr
 
 ####  **CCAs@TKPS Workflow for Recruitment/Transfer**
 
-1. The recruitment of CCA members will be opened to the 2024 Primary 3 cohort and a transfer exercise will be opened to the 2024 Primary 4 cohort in Term 1 2024. 
+1. The recruitment of CCA members will be opened to the **2024 Primary 3** cohort and a transfer exercise will be opened to the **2024 Primary 4 cohort** in **Term 1 2024**. 
 
-2. Students will indicate their top three CCA choices in rank order. If there is no choice/single choice exercised, the school will then make the final decision in allocating a CCA. 
+2. Students will **indicate their top three CCA choices in rank order**. If there is no choice/single choice exercised, the school will then make the final decision in allocating a CCA. 
 
 3. There are membership caps for selected CCAs. Students who apply for these CCAs will need to fulfill the conditions in order to be considered for final selection.
 
