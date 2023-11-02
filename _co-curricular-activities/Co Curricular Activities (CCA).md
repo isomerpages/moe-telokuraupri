@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/
 description: ""
 ---
 ### **Co-Curricular Activities (CCA)**
-<img src="/images/cca1.jpg" style="width:65%">
+![](/images/cca1.jpg)
 
 #### **Vision**
 Character and Confidence Actualisation
@@ -48,4 +48,7 @@ With our diverse yet balanced offering of 4 Physical Sports (PS), 3 Uniformed Gr
 
 2. Students will indicate their top three CCA choices in rank order. If there is no choice/single choice exercised, the school will then make the final decision in allocating a CCA. 
 
-3. There are membership caps for selected CCAs. Students who apply for these CCAs will need to fulfill the conditions in order to be considered for final selection. 
+3. There are membership caps for selected CCAs. Students who apply for these CCAs will need to fulfill the conditions in order to be considered for final selection.
+
+
+![](/images/2023%20CCA/cca24-timeline.png)
