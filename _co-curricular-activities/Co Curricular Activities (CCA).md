@@ -44,7 +44,8 @@ With our diverse yet balanced offering of 4 Physical Sports (PS), 3 Uniformed Gr
 
 ####  **CCAs@TKPS Workflow for Recruitment/Transfer**
 
-1. New CCAs are opened only to 2023 P3 and P4 students.
-2. In consideration of the merger in 2023, the recruitment of CCA members will be opened to the 2023 Primary 3 cohort and a transfer exercise for the 2023 Primary 4 cohort in Term 1 2023.
-3. Students will indicate their top three CCA choices in rank order. If there is no choice/single choice exercised, the school will then make the final decision in allocating a CCA. After the deadline, the CCA teachers, together with the CCA Committee, will allocate students to the respective CCAs.&nbsp;
-4. Trials will also be conducted for selected CCAs. Students who apply for these CCAs will need to fulfill the conditions in order to be considered for final selection. Table 1 indicates the CCAs that require trials (#).
+1. The recruitment of CCA members will be opened to the 2024 Primary 3 cohort and a transfer exercise will be opened to the 2024 Primary 4 cohort in Term 1 2024. 
+
+2. Students will indicate their top three CCA choices in rank order. If there is no choice/single choice exercised, the school will then make the final decision in allocating a CCA. 
+
+3. There are membership caps for selected CCAs. Students who apply for these CCAs will need to fulfill the conditions in order to be considered for final selection. 
