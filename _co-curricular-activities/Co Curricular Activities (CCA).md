@@ -24,9 +24,9 @@ With our diverse yet balanced offering of 4 Physical Sports (PS), 3 Uniformed Gr
 | PHYSICAL SPORTS (PS) | VISUAL AND PERFORMING ARTS (VPA)| CLUBS AND SOCIETIES (CS) | UNIFORMED GROUPS (UG) |
 | -------- | -------- | -------- | -------- |
 | Basketball#  | Art and Crafts#   | Debating and Public Speaking* | Brownies |
-| Bowling*#  | Choir  | Environmental Club | Red Cross Youth |
+| Bowling*#  | Choir  | Environment Club | Red Cross Youth |
 | Football#  | Guheng Ensemble  | Robotics# | Scouts |
-| Wushu  | Lion Dance  | Strategy Games Club* |  |
+| Wushu  | Lion &amp; Dragon Dance  | Strategy Games Club* |  |
 | | Chinese Dance| |
 | | Indian Dance| |
 | | Malay Dance| |
