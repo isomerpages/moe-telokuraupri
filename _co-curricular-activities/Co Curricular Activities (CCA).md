@@ -7,7 +7,7 @@ description: ""
 <img src="/images/cca1.jpg" style="width:65%">
 
 #### **Vision**
-Character and Confidence Actualization
+Character and Confidence Actualisation
 
 #### **Mission**
 To implement a well-structured co-curricular programme which encourages mass participation in Co-Curricular Activities (CCAs) as well as discover and develop talents.
@@ -16,10 +16,9 @@ To implement a well-structured co-curricular programme which encourages mass par
 
 CCAs are an integral part of the holistic development and learning experiences for our students. It allows them to discover their interests and talents; and develop CCA-specific knowledge, skills and values. Through authentic and experiential learning, CCAs provide excellent platforms for the development of values, social-emotional (SE) competencies and 21st Century Competencies (21CC).
 
-The merger of Telok Kurau Primary (TKPS) and Eunos Primary (EPS) in 2023 puts us in a better position to offer a more diverse yet balanced options for our students. We have thus curated a list of 18 CCAs which are forward-looking, relevant and will cater to their interests and needs. 
+At TKPS, we have 18 CCAs which are forward-looking and caters to the varied needs and interests of our students. 
 
-With these 4 physical sports, 3 uniformed groups, 7 visual and performing arts, and 4 clubs and societies CCA options,  students will get to discover their passion, build friendships, cultivate leadership skills and acquire values such as teamwork and resilience in a vibrant environment. 
-
+With our diverse yet balanced offering of 4 Physical Sports (PS), 3 Uniformed Groups (UG), 7 Visual and Performing Arts (VPA), and 4 Clubs And Societies (CS) CCA options, students will get to discover their passion, build friendships, cultivate leadership skills and acquire values such as teamwork and resilience in a vibrant environment.
 
 
 | PHYSICAL SPORTS (PS) | VISUAL AND PERFORMING ARTS (VPA)| CLUBS AND SOCIETIES (CS) | UNIFORMED GROUPS (UG) |
@@ -48,5 +47,5 @@ With these 4 physical sports, 3 uniformed groups, 7 visual and performing arts, 
 
 1. New CCAs are opened only to 2023 P3 and P4 students.
 2. In consideration of the merger in 2023, the recruitment of CCA members will be opened to the 2023 Primary 3 cohort and a transfer exercise for the 2023 Primary 4 cohort in Term 1 2023.
-3. Students will indicate their top three CCA choices in rank order. If there is no choice/single choice exercised, the school will then make the final decision in allocating a CCA. After the deadline, the CCA teachers, together with the CCA Committee, will allocate students to the respective CCAs. 
+3. Students will indicate their top three CCA choices in rank order. If there is no choice/single choice exercised, the school will then make the final decision in allocating a CCA. After the deadline, the CCA teachers, together with the CCA Committee, will allocate students to the respective CCAs.&nbsp;
 4. Trials will also be conducted for selected CCAs. Students who apply for these CCAs will need to fulfill the conditions in order to be considered for final selection. Table 1 indicates the CCAs that require trials (#).
