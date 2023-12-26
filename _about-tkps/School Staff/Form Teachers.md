@@ -56,9 +56,9 @@ variant: markdown
 | P4 Innovator | Mr Muhammad Naqib Bin Ismail<br>Ms Choo Siok Hui | muhammad_naqib_ismail@moe.edu.sg<br>choo_siok_hui@moe.edu.sg | Ext1<br>Ext2
 | P4 Learner | Mdm Fatimah Azzahra Bte Hasnordin<br>Ms Loh Chai Na | fatimah_azzahra_hasnordin@moe.edu.sg<br>loh_chai_na@moe.edu.sg | Ext1<br>Ext2
 | P4 Inquirer | Mr Ng Ying Hui<br>Mdm Kelli Goh Chun Ling<br>Mdm Nalaniammah Rajenthiran (Mrs Raj) | ng_ying_hui_a@moe.edu.sg<br>goh_chun_ling@moe.edu.sg<br>nalaniammah_rajenthiran@moe.edu.sg | Ext1<br>Ext2<br>Ext3
-| P4 Explorer | Mrs Lee Mee Lee<br>Ms Nur'ain Binte Saiman<br>Mdm Jayanthi d/o Retnam | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P4 Navigator | Mdm Tan Choon Jhet<br>Mdm Chan Sau Man Mandy<br>Mr Muhd Reza Bin Daud | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P4 Trailblazer | Mr Kwek Wenhong Shane<br>Ms Kasturi d/o Gnanachegaran | Email1<br>Email2 | Ext1<br>Ext2
+| P4 Explorer | Mrs Lee Mee Lee<br>Ms Nur'ain Binte Saiman<br>Mdm Jayanthi d/o Retnam | liew_mee_lee@moe.edu.sg<br>nurain_saiman@moe.edu.sg<br>jayanthi_retnam@moe.edu.sg | Ext1<br>Ext2<br>Ext3
+| P4 Navigator | Mdm Tan Choon Jhet<br>Mdm Chan Sau Man Mandy<br>Mr Muhd Reza Bin Daud | tan_choon_jhet@moe.edu.sg<br>chan_sau_man@moe.edu.sg<br>muhammad_reza@moe.edu.sg | Ext1<br>Ext2<br>Ext3
+| P4 Trailblazer | Mr Kwek Wenhong Shane<br>Ms Kasturi d/o Gnanachegaran | kwek_wenhong_shane@moe.edu.sg<br>kasturi_gnanachegaran@moe.edu.sg | Ext1<br>Ext2
 |
 
 
