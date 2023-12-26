@@ -24,12 +24,12 @@ variant: markdown
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P2 Reflector | Ms Hwee Yuet Ying<br>Ms Norita Binti Rahmad | Email1<br>Email2 | 216<br>219
-| P2 Encourager | Mrs Jennifer Loy<br>Mrs Elnie Tryana Dridi | Email1<br>Email2 | 217<br>220
-| P2 Synergiser | Mdm Irwani Bte Ahmad<br>Mdm Yeow Yun Hui  | Email1<br>Email2 | 218<br>221
-| P2 Innovator | Mr Marcus Ang Gee Kai<br>Mrs Liew-Sim Ai Ling | Email1<br>Email2 | 260<br>262
-| P2 Learner | Ms Haryati Bte Mohamed<br>Mdm Juhaidah Binte Mohamed Amin | Email1<br>Email2 | 215<br>264
-| P2 Inquirer | Mdm Yeo Hwee Bin<br>Ms Loy Qian Yin | Email1<br>Email2 | 222<br>226
+| P2 Reflector | Ms Hwee Yuet Ying<br>Ms Norita Binti Rahmad | hwee_yuet_ying@moe.edu.sg<br>norita_rahmad@moe.edu.sg | 216<br>219
+| P2 Encourager | Mrs Jennifer Loy<br>Mrs Elnie Tryana Dridi | jennifer_lee_peck_guek@moe.edu.sg<br>elnie_tryana_dridi@moe.edu.sg | 217<br>220
+| P2 Synergiser | Mdm Irwani Bte Ahmad<br>Mdm Yeow Yun Hui  | irwani_ahmad@moe.edu.sg<br>yeow_yun_hui@moe.edu.sg | 218<br>221
+| P2 Innovator | Mr Marcus Ang Gee Kai<br>Mrs Liew-Sim Ai Ling | ang_gee_kai@moe.edu.sg<br>sim_ai_ling_a@moe.edu.sg | 260<br>262
+| P2 Learner | Ms Haryati Bte Mohamed<br>Mdm Juhaidah Binte Mohamed Amin | haryati_mohamed@moe.edu.sg<br>juhaidah_amin@moe.edu.sg | 215<br>264
+| P2 Inquirer | Mdm Yeo Hwee Bin<br>Ms Loy Qian Yin | yeo_hwee_bin@moe.edu.sg<br>loy_qian_yin@moe.edu.sg | 222<br>226
 |
 
 
