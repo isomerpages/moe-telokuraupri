@@ -42,7 +42,7 @@ variant: markdown
 | P3 Synergiser | Mdm Abigail Liau Ru Yi<br>Mdm Arni Binte Johan | abigail_choo_ru_yi@moe.edu.sg<br>arni_johan@moe.edu.sg | Ext1<br>Ext2
 | P3 Innovator | Mdm Sharinah Bte Samshudin<br>Ms Chin Chwee Kim | sharinah_samshudin@moe.edu.sg<br>chin_chwee_kim@moe.edu.sg | Ext1<br>Ext2
 | P3 Learner | Mdm Kua Shimin<br>Ms Han Jing  | kua_shimin_ke_shimin@moe.edu.sg<br>han_jing@moe.edu.sg | Ext1<br>Ext2
-| P3 Inquirer | Ms Tammy Teo Tian Ki<br>Mr Firouk Bin Mohamed Mydin | Email1<br>Email2 | Ext1<br>Ext2
+| P3 Inquirer | Ms Tammy Teo Tian Ki<br>Mr Firouk Bin Mohamed Mydin | teo_tian_ki@moe.edu.sg<br>firouk_mohamed_mydin@moe.edu.sg | Ext1<br>Ext2
 |
 
 
