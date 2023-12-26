@@ -37,9 +37,9 @@ variant: markdown
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P3 Reflector | Ms Sin Yoke Jing Mavis<br>Mr Chua Yew Cheong Rodger | Email1<br>Email2 | 223<br>227
-| P3 Encourager | Ms Ng Bao Lin<br>Mdm Salehati Bte Md Salleh | Email1<br>Email2 | Ext1<br>Ext2
-| P3 Synergiser | Mdm Abigail Liau Ru Yi<br>Mdm Arni Binte Johan | Email1<br>Email2 | Ext1<br>Ext2
+| P3 Reflector | Ms Sin Yoke Jing Mavis<br>Mr Chua Yew Cheong Rodger | sin_yoke_jing_mavis@moe.edu.sg<br>chua_yew_cheong_rodger@moe.edu.sg | 223<br>227
+| P3 Encourager | Ms Ng Bao Lin<br>Mdm Salehati Bte Md Salleh | ng_bao_lin@moe.edu.sg<br>salehati_md_salleh@moe.edu.sg | Ext1<br>Ext2
+| P3 Synergiser | Mdm Abigail Liau Ru Yi<br>Mdm Arni Binte Johan | abigail_choo_ru_yi@moe.edu.sg<br>arni_johan@moe.edu.sg | Ext1<br>Ext2
 | P3 Innovator | Mdm Sharinah Bte Samshudin<br>Ms Chin Chwee Kim | Email1<br>Email2 | Ext1<br>Ext2
 | P3 Learner | Mdm Kua Shimin<br>Ms Han Jing  | Email1<br>Email2 | Ext1<br>Ext2
 | P3 Inquirer | Ms Tammy Teo Tian Ki<br>Mr Firouk Bin Mohamed Mydin | Email1<br>Email2 | Ext1<br>Ext2
