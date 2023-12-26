@@ -50,12 +50,12 @@ variant: markdown
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P4 Reflector | Ms Seah Xing Fen <br>Ms Goh Ya Li | Email1<br>Email2 | Ext1<br>Ext2
-| P4 Encourager | Mrs Felicia Ling Xiu Xian<br>Mr Mohamed Hisham Bin Salim | Email1<br>Email2 | Ext1<br>Ext2
-| P4 Synergiser | Mdm Randeep Kaur Bath<br>Ms Ang Ming'en | Email1<br>Email2 | Ext1<br>Ext2
-| P4 Innovator | Mr Muhammad Naqib Bin Ismail<br>Ms Choo Siok Hui | Email1<br>Email2 | Ext1<br>Ext2
-| P4 Learner | Mdm Fatimah Azzahra Bte Hasnordin<br>Ms Loh Chai Na | Email1<br>Email2 | Ext1<br>Ext2
-| P4 Inquirer | Mr Ng Ying Hui<br>Mdm Kelli Goh Chun Ling<br>Mdm Nalaniammah Rajenthiran (Mrs Raj) | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
+| P4 Reflector | Ms Seah Xing Fen <br>Ms Goh Ya Li | seah_xing_fen@moe.edu.sg<br>goh_ya_li@moe.edu.sg | Ext1<br>Ext2
+| P4 Encourager | Mdm Felicia Goh Xiu Xian (Mrs Ling)<br>Mr Mohamed Hisham Bin Salim | felicia_goh_xiu_xian@moe.edu.sg<br>mohamed_hisham_salim@moe.edu.sg | Ext1<br>Ext2
+| P4 Synergiser | Mdm Randeep Kaur Bath<br>Ms Ang Ming'en | randeep_kaur_bath@moe.edu.sg<br>ang_mingen@moe.edu.sg | Ext1<br>Ext2
+| P4 Innovator | Mr Muhammad Naqib Bin Ismail<br>Ms Choo Siok Hui | muhammad_naqib_ismail@moe.edu.sg<br>choo_siok_hui@moe.edu.sg | Ext1<br>Ext2
+| P4 Learner | Mdm Fatimah Azzahra Bte Hasnordin<br>Ms Loh Chai Na | fatimah_azzahra_hasnordin@moe.edu.sg<br>loh_chai_na@moe.edu.sg | Ext1<br>Ext2
+| P4 Inquirer | Mr Ng Ying Hui<br>Mdm Kelli Goh Chun Ling<br>Mdm Nalaniammah Rajenthiran (Mrs Raj) | ng_ying_hui_a@moe.edu.sg<br>goh_chun_ling@moe.edu.sg<br>nalaniammah_rajenthiran@moe.edu.sg | Ext1<br>Ext2<br>Ext3
 | P4 Explorer | Mrs Lee Mee Lee<br>Ms Nur'ain Binte Saiman<br>Mdm Jayanthi d/o Retnam | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
 | P4 Navigator | Mdm Tan Choon Jhet<br>Mdm Chan Sau Man Mandy<br>Mr Muhd Reza Bin Daud | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
 | P4 Trailblazer | Mr Kwek Wenhong Shane<br>Ms Kasturi d/o Gnanachegaran | Email1<br>Email2 | Ext1<br>Ext2
