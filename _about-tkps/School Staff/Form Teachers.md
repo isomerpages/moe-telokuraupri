@@ -66,9 +66,9 @@ variant: markdown
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P5 Reflector | Mr James Wong Li Hao<br>Mdm Arafah Bte Tajudin | Email1<br>Email2 | Ext1<br>Ext2
-| P5 Encourager | Mdm Shen Huijie<br>Mdm Edith Ang Sian Hong (Mrs Satish) | Email1<br>Email2 | Ext1<br>Ext2
-| P5 Synergiser | Mdm Aznizah Bte Aris<br>Mrs Ramesh Eswari<br>Mr Kenneth Wong Cher Jian | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
+| P5 Reflector | Mr James Wong Li Hao<br>Mdm Arafah Bte Tajudin | wong_li_hao_james@moe.edu.sg<br>arafah_tajudin@moe.edu.sg | Ext1<br>Ext2
+| P5 Encourager | Mdm Shen Huijie<br>Mdm Edith Ang Sian Hong (Mrs Satish) | shen_huijie@moe.edu.sg<br>ang_sian_hong_edith@moe.edu.sg | Ext1<br>Ext2
+| P5 Synergiser | Mdm Aznizah Bte Aris<br>Mrs Ramesh Eswari<br>Mr Kenneth Wong Cher Jian | aznizah_aris@moe.edu.sg<br>ramesh_eswari@moe.edu.sg<br>kenneth_wong_cher_jian@moe.edu.sg | Ext1<br>Ext2<br>Ext3
 | P5 Innovator | Ms Amelia Binte Othman<br>Mdm Yap-Eng Shuen Yin | Email1<br>Email2 | Ext1<br>Ext2
 | P5 Learner | Mr Sung Voon Tet Peter<br>Ms Salmah Bee Bte Abu Bakar | Email1<br>Email2 | Ext1<br>Ext2
 | P5 Inquirer | Ms Tham Sau Ngor<br>Ms Nazihah Binti Na'amsah<br>Dr Teo Bee Lin | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
