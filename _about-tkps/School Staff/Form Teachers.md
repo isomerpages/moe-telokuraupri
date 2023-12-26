@@ -50,15 +50,15 @@ variant: markdown
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P4 Reflector | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P4 Encourager | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P4 Synergiser | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P4 Innovator | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P4 Learner | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P4 Inquirer | Teacher Name1<br>Teacher Name2<br>Teacher Name3 | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P4 Explorer | Teacher Name1<br>Teacher Name2<br>Teacher Name3 | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P4 Navigator | Teacher Name1<br>Teacher Name2<br>Teacher Name3 | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P4 Trailblazer | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
+| P4 Reflector | Ms Seah Xing Fen <br>Ms Goh Ya Li | Email1<br>Email2 | Ext1<br>Ext2
+| P4 Encourager | Mrs Felicia Ling Xiu Xian<br>Mr Mohamed Hisham Bin Salim | Email1<br>Email2 | Ext1<br>Ext2
+| P4 Synergiser | Mdm Randeep Kaur Bath<br>Ms Ang Ming'en | Email1<br>Email2 | Ext1<br>Ext2
+| P4 Innovator | Mr Muhammad Naqib Bin Ismail<br>Ms Choo Siok Hui | Email1<br>Email2 | Ext1<br>Ext2
+| P4 Learner | Mdm Fatimah Azzahra Bte Hasnordin<br>Ms Loh Chai Na | Email1<br>Email2 | Ext1<br>Ext2
+| P4 Inquirer | Mr Ng Ying Hui<br>Mdm Kelli Goh Chun Ling<br>Mdm Nalaniammah Rajenthiran (Mrs Raj) | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
+| P4 Explorer | Mrs Lee Mee Lee<br>Ms Nur'ain Binte Saiman<br>Mdm Jayanthi d/o Retnam | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
+| P4 Navigator | Mdm Tan Choon Jhet<br>Mdm Chan Sau Man Mandy<br>Mr Muhd Reza Bin Daud | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
+| P4 Trailblazer | Mr Kwek Wenhong Shane<br>Ms Kasturi d/o Gnanachegaran | Email1<br>Email2 | Ext1<br>Ext2
 |
 
 
@@ -66,13 +66,13 @@ variant: markdown
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P5 Reflector | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P5 Encourager | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P5 Synergiser | Teacher Name1<br>Teacher Name2<br>Teacher Name3 | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P5 Innovator | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P5 Learner | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P5 Inquirer | Teacher Name1<br>Teacher Name2<br>Teacher Name3 | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P5 Explorer | Teacher Name1<br>Teacher Name2<br>Teacher Name3 | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
+| P5 Reflector | Mr James Wong Li Hao<br>Mdm Arafah Bte Tajudin | Email1<br>Email2 | Ext1<br>Ext2
+| P5 Encourager | Mdm Shen Huijie<br>Mdm Edith Ang Sian Hong (Mrs Satish) | Email1<br>Email2 | Ext1<br>Ext2
+| P5 Synergiser | Mdm Aznizah Bte Aris<br>Mrs Ramesh Eswari<br>Mr Kenneth Wong Cher Jian | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
+| P5 Innovator | Ms Amelia Binte Othman<br>Mdm Yap-Eng Shuen Yin | Email1<br>Email2 | Ext1<br>Ext2
+| P5 Learner | Mr Sung Voon Tet Peter<br>Ms Salmah Bee Bte Abu Bakar | Email1<br>Email2 | Ext1<br>Ext2
+| P5 Inquirer | Ms Tham Sau Ngor<br>Ms Nazihah Binti Na'amsah<br>Dr Teo Bee Lin | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
+| P5 Explorer | Mr Joe Ang Choon Hai <br>Ms Wu Ling<br>Ms Tan Zhao Lin | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
 |
 
 
