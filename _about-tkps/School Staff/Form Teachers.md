@@ -80,13 +80,13 @@ variant: markdown
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P6 Reflector | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P6 Encourager | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P6 Synergiser | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P6 Innovator | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P6 Learner | Teacher Name1<br>Teacher Name2<br>Teacher Name3 | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P6 Inquirer | Teacher Name1<br>Teacher Name2<br>Teacher Name3 | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P6 Explorer | Teacher Name1<br>Teacher Name2<br>Teacher Name3 | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P6 Navigator | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P6 Trailblazer | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
+| P6 Reflector | Mr Shawn Lee Shi Yang<br>Ms Siti Dzhawieyah Binte Suja'ee | Email1<br>Email2 | Ext1<br>Ext2
+| P6 Encourager | Mdm Noraida Yasmin Bte Abd Jabbar<br>Mdm Tan Suat Hoon | Email1<br>Email2 | Ext1<br>Ext2
+| P6 Synergiser | Mrs Tan Wei Ling<br>Mr Lee Chee Hao | Email1<br>Email2 | Ext1<br>Ext2
+| P6 Innovator | Mr Aw Yang Ming<br>Mdm Kartini Bte Mohamed Ramli | Email1<br>Email2 | Ext1<br>Ext2
+| P6 Learner | Mdm Vijayalekshmi d/o Mariappan<br>Mr Teo Ser Leng<br>Mdm Stephanie Tan Jin Jun | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
+| P6 Inquirer | Ms Nur Hafizah Bte Ismail<br>Ms Soh Hui Shian Sandy<br>Mr Tan Yew Heng | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
+| P6 Explorer | Ms Lu Ting Ting Claire<br>Mdm Kow Wan Sien (Mrs Ong) | Email1<br>Email2<br>Email3 | Ext1<br>Ext2
+| P6 Navigator | Mdm Yip Weng Ee<br>Mr Shaharzad B Kasman | Email1<br>Email2 | Ext1<br>Ext2
+| P6 Trailblazer | Mdm Kwek Li Hiang Linda<br>Mr Ahmad Tarmidzi Bin Mohd Kassim | Email1<br>Email2 | Ext1<br>Ext2
 |
