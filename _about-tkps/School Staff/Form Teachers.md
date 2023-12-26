@@ -10,8 +10,8 @@ variant: markdown
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P1 Reflector | Mr Lucas Tang Yu Hung<br>Mdm Siti Nurulhuda Binte Said   | Email1<br>Email2 | 203<br>207
-| P1 Encourager | Mr Mark Chang Mao Chiao<br>Mdm Wiwiek Bte Sulaiman<br>Mr Robin Lim Heng Hock | Email1<br>Email2<br>Email3 | 206<br>202<br>2011
+| P1 Reflector | Mr Lucas Tang Yu Hung<br>Mdm Siti Nurulhuda Binte Said   | tang_yu_hung_lucas@moe.edu.sg<br>siti_nurulhuda_said@moe.edu.sg | 203<br>207
+| P1 Encourager | Mr Mark Chang Mao Chiao<br>Mdm Wiwiek Bte Sulaiman<br>Mr Robin Lim Heng Hock | Email1<br>Email2<br>robin_lim_heng_hock@moe.edu.sg | 206<br>202<br>2011
 | P1 Synergiser | Mrs Veronica Tan<br>Mr Ng Gerald | Email1<br>Email2 | 201<br>205
 | P1 Innovator | Mdm Kasrina Rahaini Binte Rahmat<br>Mdm Tan Puay Oon Melody | Email1<br>Email2 | 204<br>291
 | P1 Learner | Mdm Parvathy d/o Balakrisnan<br>Ms Eunice Ng Si Ling | Email1<br>Email2 | 208<br>212
