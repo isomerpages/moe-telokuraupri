@@ -80,10 +80,10 @@ variant: markdown
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P6 Reflector | Mr Shawn Lee Shi Yang<br>Ms Siti Dzhawieyah Binte Suja'ee | Email1<br>Email2 | Ext1<br>Ext2
-| P6 Encourager | Mdm Noraida Yasmin Bte Abd Jabbar<br>Mdm Tan Suat Hoon | Email1<br>Email2 | Ext1<br>Ext2
-| P6 Synergiser | Mrs Tan Wei Ling<br>Mr Lee Chee Hao | Email1<br>Email2 | Ext1<br>Ext2
-| P6 Innovator | Mr Aw Yang Ming<br>Mdm Kartini Bte Mohamed Ramli | Email1<br>Email2 | Ext1<br>Ext2
+| P6 Reflector | Mr Shawn Lee Shi Yang<br>Ms Siti Dzhawieyah Binte Suja'ee | shawn_lee_shiyang@moe.edu.sg<br>siti_dzhawieyah@moe.edu.sg | Ext1<br>Ext2
+| P6 Encourager | Mdm Noraida Yasmin Bte Abd Jabbar<br>Mdm Tan Suat Hoon | noraida_yasmin_abdul_jabbar@moe.edu.sg<br>tan_suat_hoon@moe.edu.sg | Ext1<br>Ext2
+| P6 Synergiser | Mrs Tan Wei Ling<br>Mr Lee Chee Hao | tan_wei_ling@moe.edu.sg<br>lee_chee_hao@moe.edu.sg | Ext1<br>Ext2
+| P6 Innovator | Mr Aw Yang Ming<br>Mdm Kartini Bte Mohamed Ramli | aw_yang_ming@moe.edu.sg<br>kartini_mohamed_ramli@moe.edu.sg | Ext1<br>Ext2
 | P6 Learner | Mdm Vijayalekshmi d/o Mariappan<br>Mr Teo Ser Leng<br>Mdm Stephanie Tan Jin Jun | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
 | P6 Inquirer | Ms Nur Hafizah Bte Ismail<br>Ms Soh Hui Shian Sandy<br>Mr Tan Yew Heng | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
 | P6 Explorer | Ms Lu Ting Ting Claire<br>Mdm Kow Wan Sien (Mrs Ong) | Email1<br>Email2<br>Email3 | Ext1<br>Ext2
