@@ -16,7 +16,7 @@ variant: markdown
 | P1 Innovator | Mdm Kasrina Rahaini Binte Rahmat<br>Mdm Tan Puay Oon Melody | kasrina_rahaini_rahmat@moe.edu.sg<br>tan_puay_oon_melody@moe.edu.sg | 204<br>291
 | P1 Learner | Mdm Parvathy d/o Balakrisnan<br>Ms Eunice Ng Si Ling | parvathy_balakrisnan@moe.edu.sg<br>ng_si_ling_eunice@moe.edu.sg | 208<br>212
 | P1 Inquirer | Mdm Elisha Bte Jaafar<br>Mrs Watt Siu Yee <br>Mrs Phoon Poh Yen Doreen | elisha_jaafar@moe.edu.sg<br>ong_siu_yee@moe.edu.sg<br>lim_poh_yen_doreen@moe.edu.sg | 213<br>209<br>258
-| P1 Explorer | Ms Tan Hui Ling<br>Mdm Sathyajothi D/o Selvandran | Email1<br>Email2 | 210<br>214
+| P1 Explorer | Ms Tan Hui Ling<br>Mdm Sathyajothi D/o Selvandran | tan_hui_ling@moe.edu.sg<br>sathyajothi_selvandran@moe.edu.sg | 210<br>214
 |
 
 
