@@ -10,13 +10,13 @@ variant: markdown
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P1 Reflector | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P1 Encourager | Teacher Name1<br>Teacher Name2<br>Teacher Name3 | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P1 Synergiser | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P1 Innovator | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P1 Learner | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P1 Inquirer | Teacher Name1<br>Teacher Name2<br>Teacher Name3 | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P1 Explorer | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
+| P1 Reflector | Mr Lucas Tang Yu Hung<br>Mdm Siti Nurulhuda Binte Said   | Email1<br>Email2 | 203<br>207
+| P1 Encourager | Mr Mark Chang Mao Chiao<br>Mdm Wiwiek Bte Sulaiman<br>Mr Robin Lim Heng Hock | Email1<br>Email2<br>Email3 | 206<br>202<br>2011
+| P1 Synergiser | Mrs Veronica Tan<br>Mr Ng Gerald | Email1<br>Email2 | 201<br>205
+| P1 Innovator | Mdm Kasrina Rahaini Binte Rahmat<br>Mdm Tan Puay Oon Melody | Email1<br>Email2 | 204<br>291
+| P1 Learner | Mdm Parvathy d/o Balakrisnan<br>Ms Eunice Ng Si Ling | Email1<br>Email2 | 208<br>212
+| P1 Inquirer | Mdm Elisha Bte Jaafar<br>Mrs Watt Siu Yee <br>Mrs Phoon Poh Yen Doreen | Email1<br>Email2<br>Email3 | 213<br>209<br>258
+| P1 Explorer | Ms Tan Hui Ling<br>Mdm Sathyajothi D/o Selvandran | Email1<br>Email2 | 210<br>214
 |
 
 
@@ -24,12 +24,12 @@ variant: markdown
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P2 Reflector | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P2 Encourager | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P2 Synergiser | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P2 Innovator | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P2 Learner | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P2 Inquirer | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
+| P2 Reflector | Ms Hwee Yuet Ying<br>Ms Norita Binti Rahmad | Email1<br>Email2 | 216<br>219
+| P2 Encourager | Mrs Jennifer Loy<br>Mrs Elnie Tryana Dridi | Email1<br>Email2 | 217<br>220
+| P2 Synergiser | Mdm Irwani Bte Ahmad<br>Mdm Yeow Yun Hui  | Email1<br>Email2 | 218<br>221
+| P2 Innovator | Mr Marcus Ang Gee Kai<br>Mrs Liew-Sim Ai Ling | Email1<br>Email2 | 260<br>262
+| P2 Learner | Ms Haryati Bte Mohamed<br>Mdm Juhaidah Binte Mohamed Amin | Email1<br>Email2 | 215<br>264
+| P2 Inquirer | Mdm Yeo Hwee Bin<br>Ms Loy Qian Yin | Email1<br>Email2 | 222<br>226
 |
 
 
@@ -37,12 +37,12 @@ variant: markdown
 
 | Class | Name | Email Address | Ext |
 |---|---|---|---|
-| P3 Reflector | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P3 Encourager | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P3 Synergiser | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P3 Innovator | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P3 Learner | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
-| P3 Inquirer | Teacher Name1<br>Teacher Name2 | Email1<br>Email2 | Ext1<br>Ext2
+| P3 Reflector | Ms Sin Yoke Jing Mavis<br>Mr Chua Yew Cheong Rodger | Email1<br>Email2 | 223<br>227
+| P3 Encourager | Ms Ng Bao Lin<br>Mdm Salehati Bte Md Salleh | Email1<br>Email2 | Ext1<br>Ext2
+| P3 Synergiser | Mdm Abigail Liau Ru Yi<br>Mdm Arni Binte Johan | Email1<br>Email2 | Ext1<br>Ext2
+| P3 Innovator | Mdm Sharinah Bte Samshudin<br>Ms Chin Chwee Kim | Email1<br>Email2 | Ext1<br>Ext2
+| P3 Learner | Mdm Kua Shimin<br>Ms Han Jing  | Email1<br>Email2 | Ext1<br>Ext2
+| P3 Inquirer | Ms Tammy Teo Tian Ki<br>Mr Firouk Bin Mohamed Mydin | Email1<br>Email2 | Ext1<br>Ext2
 |
 
 
