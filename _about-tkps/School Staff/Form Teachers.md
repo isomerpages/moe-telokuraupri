@@ -71,8 +71,8 @@ variant: markdown
 | P5 Synergiser | Mdm Aznizah Bte Aris<br>Mrs Ramesh Eswari<br>Mr Kenneth Wong Cher Jian | aznizah_aris@moe.edu.sg<br>ramesh_eswari@moe.edu.sg<br>kenneth_wong_cher_jian@moe.edu.sg | Ext1<br>Ext2<br>Ext3
 | P5 Innovator | Ms Amelia Binte Othman<br>Mdm Yap-Eng Shuen Yin | amelia_othman@moe.edu.sg<br>eng_shuen_yin@moe.edu.sg | Ext1<br>Ext2
 | P5 Learner | Mr Sung Voon Tet Peter<br>Ms Salmah Bee Bte Abu Bakar | sung_voon_tet_peter@moe.edu.sg<br>salmah_bee_abu_bakar@moe.edu.sg | Ext1<br>Ext2
-| P5 Inquirer | Ms Tham Sau Ngor<br>Ms Nazihah Binti Na'amsah<br>Dr Teo Bee Lin | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P5 Explorer | Mr Joe Ang Choon Hai <br>Ms Wu Ling<br>Ms Tan Zhao Lin | tham_sau_ngor@moe.edu.sg<br>yvonne_wu_ling@moe.edu.sg<br>tan_zhao_lin@moe.edu.sg | Ext1<br>Ext2<br>Ext3
+| P5 Inquirer | Ms Tham Sau Ngor<br>Ms Nazihah Binti Na'amsah<br>Dr Teo Bee Lin | tham_sau_ngor@moe.edu.sg<br>nazihah_naamsah@moe.edu.sg<br>teo_bee_lin@moe.edu.sg | Ext1<br>Ext2<br>Ext3
+| P5 Explorer | Mr Joe Ang Choon Hai <br>Ms Wu Ling<br>Ms Tan Zhao Lin | ang_choon_hai@moe.edu.sg<br>yvonne_wu_ling@moe.edu.sg<br>tan_zhao_lin@moe.edu.sg | Ext1<br>Ext2<br>Ext3
 |
 
 
