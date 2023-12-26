@@ -13,9 +13,9 @@ variant: markdown
 | P1 Reflector | Mr Lucas Tang Yu Hung<br>Mdm Siti Nurulhuda Binte Said   | tang_yu_hung_lucas@moe.edu.sg<br>siti_nurulhuda_said@moe.edu.sg | 203<br>207
 | P1 Encourager | Mr Mark Chang Mao Chiao<br>Mdm Wiwiek Bte Sulaiman<br>Mr Robin Lim Heng Hock | chang_mao_chiao@moe.edu.sg<br>wiwiek_sulaiman@moe.edu.sg<br>robin_lim_heng_hock@moe.edu.sg | 206<br>202<br>2011
 | P1 Synergiser | Mdm Goh Beng Lay (Mrs Veronica Tan)<br>Mr Ng Gerald | goh_beng_lay@moe.edu.sg<br>gerald_ng@moe.edu.sg | 201<br>205
-| P1 Innovator | Mdm Kasrina Rahaini Binte Rahmat<br>Mdm Tan Puay Oon Melody | Email1<br>Email2 | 204<br>291
-| P1 Learner | Mdm Parvathy d/o Balakrisnan<br>Ms Eunice Ng Si Ling | Email1<br>Email2 | 208<br>212
-| P1 Inquirer | Mdm Elisha Bte Jaafar<br>Mrs Watt Siu Yee <br>Mrs Phoon Poh Yen Doreen | Email1<br>Email2<br>Email3 | 213<br>209<br>258
+| P1 Innovator | Mdm Kasrina Rahaini Binte Rahmat<br>Mdm Tan Puay Oon Melody | kasrina_rahaini_rahmat@moe.edu.sg<br>tan_puay_oon_melody@moe.edu.sg | 204<br>291
+| P1 Learner | Mdm Parvathy d/o Balakrisnan<br>Ms Eunice Ng Si Ling | parvathy_balakrisnan@moe.edu.sg<br>ng_si_ling_eunice@moe.edu.sg | 208<br>212
+| P1 Inquirer | Mdm Elisha Bte Jaafar<br>Mrs Watt Siu Yee <br>Mrs Phoon Poh Yen Doreen | elisha_jaafar@moe.edu.sg<br>ong_siu_yee@moe.edu.sg<br>lim_poh_yen_doreen@moe.edu.sg | 213<br>209<br>258
 | P1 Explorer | Ms Tan Hui Ling<br>Mdm Sathyajothi D/o Selvandran | Email1<br>Email2 | 210<br>214
 |
 
