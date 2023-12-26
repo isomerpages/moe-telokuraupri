@@ -84,9 +84,9 @@ variant: markdown
 | P6 Encourager | Mdm Noraida Yasmin Bte Abd Jabbar<br>Mdm Tan Suat Hoon | noraida_yasmin_abdul_jabbar@moe.edu.sg<br>tan_suat_hoon@moe.edu.sg | Ext1<br>Ext2
 | P6 Synergiser | Mrs Tan Wei Ling<br>Mr Lee Chee Hao | tan_wei_ling@moe.edu.sg<br>lee_chee_hao@moe.edu.sg | Ext1<br>Ext2
 | P6 Innovator | Mr Aw Yang Ming<br>Mdm Kartini Bte Mohamed Ramli | aw_yang_ming@moe.edu.sg<br>kartini_mohamed_ramli@moe.edu.sg | Ext1<br>Ext2
-| P6 Learner | Mdm Vijayalekshmi d/o Mariappan<br>Mr Teo Ser Leng<br>Mdm Stephanie Tan Jin Jun | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P6 Inquirer | Ms Nur Hafizah Bte Ismail<br>Ms Soh Hui Shian Sandy<br>Mr Tan Yew Heng | Email1<br>Email2<br>Email3 | Ext1<br>Ext2<br>Ext3
-| P6 Explorer | Ms Lu Ting Ting Claire<br>Mdm Kow Wan Sien (Mrs Ong) | Email1<br>Email2<br>Email3 | Ext1<br>Ext2
-| P6 Navigator | Mdm Yip Weng Ee<br>Mr Shaharzad B Kasman | Email1<br>Email2 | Ext1<br>Ext2
-| P6 Trailblazer | Mdm Kwek Li Hiang Linda<br>Mr Ahmad Tarmidzi Bin Mohd Kassim | Email1<br>Email2 | Ext1<br>Ext2
+| P6 Learner | Mdm Vijayalekshmi d/o Mariappan<br>Mr Teo Ser Leng<br>Mdm Stephanie Tan Jin Jun | vijayalekshmi_mariappan@moe.edu.sg<br>teo_ser_leng@moe.edu.sg<br>tan_jin_jun@moe.edu.sg | Ext1<br>Ext2<br>Ext3
+| P6 Inquirer | Ms Nur Hafizah Bte Ismail<br>Ms Soh Hui Shian Sandy<br>Mr Tan Yew Heng | nur_hafizah_ismail_b@moe.edu.sg<br>soh_hui_shian_sandy@moe.edu.sg<br>tan_yew_heng@moe.edu.sg | Ext1<br>Ext2<br>Ext3
+| P6 Explorer | Ms Lu Ting Ting Claire<br>Mdm Kow Wan Sien (Mrs Ong) | lu_ting_ting@moe.edu.sg<br>kow_wan_sien@moe.edu.sg | Ext1<br>Ext2
+| P6 Navigator | Mdm Yip Weng Ee<br>Mr Shaharzad B Kasman | yip_weng_ee@moe.edu.sg<br>shaharzad_b_kasman@moe.edu.sg | Ext1<br>Ext2
+| P6 Trailblazer | Mdm Kwek Li Hiang Linda<br>Mr Ahmad Tarmidzi Bin Mohd Kassim | kwek_li_hiang_linda@moe.edu.sg<br>ahmad_tarmidzi_mohd_kassim@moe.edu.sg | Ext1<br>Ext2
 |
