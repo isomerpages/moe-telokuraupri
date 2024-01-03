@@ -15,7 +15,7 @@ The SLS is MOE's core platform for teaching and learning and is one of MOE’s k
 
 Click [here](https://www.learning.moe.edu.sg/) for more info on SLS.
 
-For SLS Annex A &amp; Annex B - 
+For SLS,  **Annex A** &amp; **Annex B** - 
 [Click here](/files/PDF/SLS_ANNEX_A___B.pdf)
 
 #### Accounts and Login Troubleshooting
