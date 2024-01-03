@@ -3,6 +3,7 @@ title: Student Learning Space
 permalink: /quick-links/For-Students/SLS/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 ### LOGIN
 **Click here : [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)**
@@ -12,7 +13,10 @@ third_nav_title: For Students
 <br>
 The SLS is MOE's core platform for teaching and learning and is one of MOE’s key initiatives to transform the learning experiences of Singaporean students through the purposeful use of technology to enable students to engage in different learning modes.
 
-Click [here](https://www.learning.moe.edu.sg/sls/index.html) for more info on SLS.
+Click [here](https://www.learning.moe.edu.sg/) for more info on SLS.
+
+For SLS Annex A &amp; Annex B - 
+[Click here](/files/PDF/SLS_ANNEX_A___B.pdf)
 
 #### Accounts and Login Troubleshooting
 
