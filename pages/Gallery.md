@@ -82,7 +82,7 @@ description: ""
           <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa6.jpg" id="picture3">
         </div>
         <div>
-          <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa5.jpg" alt="Large house 4" id="picture4">
+          <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa5.jpg" id="picture4">
         </div>
       </div>
     </div>
