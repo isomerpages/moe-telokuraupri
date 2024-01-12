@@ -2,22 +2,6 @@
 title: Information Communication Technology
 permalink: /curriculum/information-communication-technology/
 description: ""
+variant: tiptap
 ---
-### **Information Communication Technology**
-
-<img src="/images/ict.jpg" style="width:65%">
-
-#### **Vision**
-Future ready and responsible digital&nbsp;learners
-
-#### **Mission**
-Quality learning in the hands of every learner - empowered&nbsp;with&nbsp;technology
-
-#### **Name of Programmes**
-
-| Level: | ICT Skills: | School- Wide Programmes |
-|:---:|---|---|
-| Primary 1<br><br><br>Primary 2<br><br><br>Primary 3<br><br>Primary 4<br><br>Primary 5<br><br>Primary 6 | Moo-O<br>Touch Typing<br><br>Moo-O<br>Touch Typing<br><br>Ms Word<br><br>Ms PowerPoint<br><br>Ms Excel<br><br>Ms Excel | <br><br><br><br>Coding<br>Cyberwellness<br>Use of Student Learning Space for Teaching and Learning |
-|
-##### Updates on Cyber Wellness
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="TKPS - Cyber Wellness 2023" src="https://www.youtube.com/embed/Cy-JPDUD4po" height="480" width="853"></iframe>
+<h3><strong>Information Communication Technology</strong></h3><div class="isomer-image-wrapper"><img style="width:65%" height="auto" width="100%" src="/images/ict.jpg"></div><h4><strong>Vision</strong></h4><p>Future ready and responsible digital&nbsp;learners</p><h4><strong>Mission</strong></h4><p>Quality learning in the hands of every learner - empowered&nbsp;with&nbsp;technology</p><h4><strong>Name of Programmes</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Level:</p></th><th rowspan="1" colspan="1"><p>ICT Skills:</p></th><th rowspan="1" colspan="1"><p>School- Wide Programmes</p></th></tr><tr><td rowspan="1" colspan="1"><p>Primary 1<br><br><br>Primary 2<br><br><br>Primary 3<br><br>Primary 4<br><br>Primary 5<br><br>Primary 6</p></td><td rowspan="1" colspan="1"><p>Moo-O<br>Touch Typing<br><br>Moo-O<br>Touch Typing<br><br>MS Word<br><br>MS PowerPoint<br><br>MS Excel<br><br>MS Excel</p></td><td rowspan="1" colspan="1"><p>Coding<br>Cyberwellness<br>Use of Student Learning Space for Teaching and Learning</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h5>Updates on Cyber Wellness</h5><div class="iframe-wrapper"><iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Cy-JPDUD4po"></iframe></div><p></p>
