@@ -52,7 +52,7 @@ description: ""
       <ul id="navigation">
         <li>
           <a href="#picture1">
-            <img src="https://www.telokkuraupri.moe.edu.sg/images/officialfb.JPG">
+            <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa4.jpg">
           </a>
         </li>
         <li>
@@ -67,13 +67,13 @@ description: ""
         </li>
         <li>
           <a href="#picture4">
-            <img src="/uploads/media/default/0001/03/3eb4eb89e69c353ce1305a2c545aa1d08f811952.jpeg" alt="small house 4">
+            <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa5.jpg" alt="small house 4">
           </a>
         </li>
       </ul>
       <div id="full-picture">
         <div>
-          <img src="https://www.telokkuraupri.moe.edu.sg/images/officialfb.JPG" id="picture1">
+          <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa4.jpg" id="picture1">
         </div>
         <div>
           <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa7.jpg" id="picture2">
@@ -82,7 +82,7 @@ description: ""
           <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa6.jpg" id="picture3">
         </div>
         <div>
-          <img src="/uploads/media/default/0001/03/efcd4eae59c19e488249be1872a3aca00d81d545.jpeg" alt="Large house 4" id="picture4">
+          <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa5.jpg" alt="Large house 4" id="picture4">
         </div>
       </div>
     </div>
