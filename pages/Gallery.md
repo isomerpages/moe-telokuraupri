@@ -7,7 +7,7 @@ description: ""
 
 
   
-    <title>Title of the document</title>
+    <title>Prize Giving Day</title>
     <style>
       #gallery {
         width: 600px;
@@ -52,17 +52,17 @@ description: ""
       <ul id="navigation">
         <li>
           <a href="#picture1">
-            <img src="/uploads/media/default/0001/03/22586f08ef509e3fd151d7a923f7f2c5997f0b07.jpeg" alt="small house 1">
+            <img src="https://www.telokkuraupri.moe.edu.sg/images/officialfb.JPG">
           </a>
         </li>
         <li>
           <a href="#picture2">
-            <img src="/uploads/media/default/0001/03/103116629234462f05410cb6d43ed08065e3d4de.jpeg" alt="small house 2">
+            <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa7.jpg">
           </a>
         </li>
         <li>
           <a href="#picture3">
-            <img src="/uploads/media/default/0001/03/3d9718da65fc51d97aac4c6d762af5439cf91502.jpeg" alt="small house 3">
+            <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa6.jpg" alt="small house 3">
           </a>
         </li>
         <li>
@@ -73,13 +73,13 @@ description: ""
       </ul>
       <div id="full-picture">
         <div>
-          <img src="/uploads/media/default/0001/03/0fa4b71d43929b2df12e076e56c1977be75dfbb8.jpeg" alt="Large house 1" id="picture1">
+          <img src="https://www.telokkuraupri.moe.edu.sg/images/officialfb.JPG" id="picture1">
         </div>
         <div>
-          <img src="/uploads/media/default/0001/03/825a2070e85851f240a3e3159ce14a209ec09ef4.jpeg" alt="Large house 2" id="picture2">
+          <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa7.jpg" id="picture2">
         </div>
         <div>
-          <img src="/uploads/media/default/0001/03/50e11aad0765f04983e42cb992fbda3ba39322f5.jpeg" alt="Large house 3" id="picture3">
+          <img src="https://www.telokkuraupri.moe.edu.sg/images/vpa6.jpg" id="picture3">
         </div>
         <div>
           <img src="/uploads/media/default/0001/03/efcd4eae59c19e488249be1872a3aca00d81d545.jpeg" alt="Large house 4" id="picture4">
