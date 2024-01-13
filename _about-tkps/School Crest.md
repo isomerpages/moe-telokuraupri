@@ -2,6 +2,7 @@
 title: School Crest
 permalink: /about-tkps/school-crest/
 description: ""
+variant: markdown
 ---
 ### **School Crest**
 
@@ -14,3 +15,5 @@ Aligned to this belief, the letter ‘T’ at the heart of the school crest is s
 The crest is bounded by two rings, symbolising a well-rounded and holistic education within a caring and nurturing environment.
 
 The logo comprises 3 main colours; Blue conveys discipline and stability. White is the colour of equality and honesty while yellow signifies creativity and curiosity.
+
+友诺小学 - the Chinese name of Telok Kurau Primary School symbolises the promise of friendship, uniting the two schools as one.
