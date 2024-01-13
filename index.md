@@ -19,18 +19,16 @@ sections:
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
       variant: image
   - infopic:
-      title: "@telokkuraupri.official"
       subtitle: Find us on Facebook
-      description: Welcome to our official facebook!
-      button: CLICK HERE
+      description: "Click on the link below to connect with us on Facebook:"
+      button: "@telokkuraupri.official"
       url: https://www.facebook.com/telokkuraupri.official/
       alt: tkps-fb
       image: /images/officialfb.JPG
   - infopic:
-      title: "@telokkuraupri.official"
       subtitle: Find us on Instagram
-      description: Keep in touch with us!
-      button: Click here
+      description: "Click on the link below to connect with us on Instagram:"
+      button: "@telokkuraupri.official"
       url: https://www.instagram.com/telokkuraupri.official/
       image: /images/tkps-insta.PNG
       alt: tkps-insta
