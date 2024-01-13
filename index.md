@@ -17,6 +17,7 @@ sections:
         - title: Events & Notices
           description: ""
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
+      variant: image
   - infopic:
       title: "@telokkuraupri.official"
       subtitle: Find us on Facebook
