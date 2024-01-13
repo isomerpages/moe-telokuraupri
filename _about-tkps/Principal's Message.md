@@ -20,13 +20,13 @@ variant: markdown
 <br>There is a tendency to define success in schools by how well the students perform at the PSLE. However, success is not just about grades and stellar performances. Success is about deriving the innate joy of learning and developing the courage to adapt, learn and grow. In the midst, it involves a self-discovery process of one’s unique strengths. The definition of success is broadened within the daily curriculum the students experienced at school. We believe that every student possesses great potential to excel; every child wants to learn and achieve (School Philosophy). We remain dedicated to strengthening character development, all-round holistic education and student well-being. It is important that our students be motivated and taste success in the various domains. 
 <br>
 <br>In 2024, we aspire to develop our students to:
-<ul>
+<ol>
 <li>Be Positive Influencers where they discover their unique strengths, be optimistic and exert positive influences on the people around them. </li>
 
 <li>Discover the Power of Yet where we deepen growth mindset and instill the belief of effort and perseverance can turn “I cannot” to “I can”. </li>
 
 <li>Strive for Excellence in their pursuit for personal best. Discovering that diligence and resilience are essential elements for success and growth. </li>
 
-<li>Make a Difference not only for themselves but for the common good. Deepening the sense of purpose and beliefs in our students as contributing members of the school and citizens of Singapore. </li></ul>
+<li>Make a Difference not only for themselves but for the common good. Deepening the sense of purpose and beliefs in our students as contributing members of the school and citizens of Singapore. </li>
 
-<br>My colleagues and I are committed to provide a vibrant and joyful learning environment and experiences to our students as we nurture them to become Confident Leaders, Resilient Learners and Caring Citizens (School Vision). Together, Telok Kurau Primary, 友诺小学 (#OneTKPS) starts a new chapter.</div>
+<br>My colleagues and I are committed to provide a vibrant and joyful learning environment and experiences to our students as we nurture them to become Confident Leaders, Resilient Learners and Caring Citizens (School Vision). Together, Telok Kurau Primary, 友诺小学 (#OneTKPS) starts a new chapter.</ol></div>
