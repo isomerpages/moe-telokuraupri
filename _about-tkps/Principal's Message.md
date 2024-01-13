@@ -2,33 +2,31 @@
 title: Principal's Message
 permalink: /about-tkps/principals-message/
 description: ""
+variant: markdown
 ---
 ### **Principal's Message**
 
-<img src="/images/Grace_Leong%20edv2.jpg" style="width:25%" align = "left">
-<br><br><br><br><br>
-<br><br><br><br><br>Mrs Grace Leong
+<img src="/images/Mrs_Grace_Leong.jpg" style="width:25%" align="left">
+<br><br><br><br><br><br><br><br><br><br>
+<br>Mrs Grace Leong
 <br>Principal
 
-Telok Kurau Primary, 友诺小学，welcomes all of you!
-<br><br>
-2023 is going to be an exciting year! The merger of Telok Kurau Primary and Eunos Primary presents us with vast opportunities and possibilities to co-create an even better future for all of us. My staff and I are committed to partner you in nurturing and developing our children to enjoy learning and be future-ready. Our school envisions our students to be confident leaders, resilient learners and caring citizens.  We believe that all our students can learn and want to excel. As such, we seek to grow our students in a values-driven environment to achieve excellence and contribute actively to the society. 
-<br><br>
-Our school curriculum is designed to bring forth a student-centric, values-driven holistic education where students develop 21st century competencies that are essential to thrive and flourish in the globalised world. The learning experiences and programmes curated are age-appropriate, vibrant and promote curiosity, joy of learning and student agency.
-<br><br>
-Our school places great emphasis on student character development. One of the platforms is our Learning for Life Programme (LLP), Character Development through Team Sports. It offers students opportunities to strengthen their growing minds and to test their mettle as they enjoy the physical sports and games through our Physical and Health Education (PHE), Programme for Active Learning (PAL) and our wide array of Co-Curricular Activities (CCAs). In 2023, we have 18 CCAs ranging from physical sports to visual and performing arts, clubs and societies, as well as uniform groups. Our CCAs are weaved into curriculum time to ensure balanced and conducive learning opportunities for all our children. 
-<br><br>
-Our students are also provided with authentic, relevant and applicable learning opportunities within and outside of school.  Our Applied Learning Programme (ALP), Critical and Innovative Thinking in Coding and Robotics, develops in our students logical thinking, problem-solving and communication skills. Through block-based programming, our students deepen their ability to think creatively and to collaborate in teams. They aspire to apply their knowledge and skills to benefit others in the Bedok community as active contributors. 
-<br><br>
-Our school has grown in capacity and capabilities with the two schools coming together as one. It takes a village to grow a child and we have expanded our “village”. We are confident that the transition experience of the merger will be a smooth one with the strong support of all stakeholders. We are thankful for the unwavering support, love and commitment given to our staff and students. We are ready to embark on our new journey as one. 
-<br><br>
-#OneTKPS unites!
-<br><br>
-<img src="/images/img-Z06094031-0001.jpg" style="width:100%" align = "Centre">
-<br>
-<Strong>Artists: </strong>
-<br>
-Ye Xinyan (TKPS P5 Care 2022)  
-Mohamad Qayyim Khan Bin Mohamad Ridzwan Khan (EPS P5 Integrity 2022)
-<br><br>
-The drawing depicts members of the two schools coming together as a big family in Telok Kurau Primary School. The torch symbolises knowledge and the book represents the key to learning and attaining knowledge. Education is a lifelong endeavour in the pursuit of excellence. The everlasting glow from the torch symbolises staff and students continuously learning together as one, striving to achieve our personal best.
+<u>**Theme for 2024: Embracing Change, Redefining Success**</u>
+<br>The merger of two accomplished schools in 2023, Telok Kurau Primary and Eunos Primary, served as a launch pad for our renewed vision and mission of our Telok Kurau Primary, 友诺小学 (#OneTKPS). Our commitment to advance and be united in purpose and vision as OneTKPS presents us with great possibilities for the future ahead. My colleagues and I are excited to take you through the new phase of school development as a merged school. 
+
+We are grateful for the enduring love our stakeholders (the Community, our School Advisory Committee, Alumni members, Staff and Parents) have for the school and students. You have displayed the traits of tenacity and resilience as we embrace change positively and explore new possibilities. 
+
+Embracing change is akin to embracing the adventure of life. It requires one to be proactive and courageous to try out new experiences and to optimise opportunities offered. We have journeyed well as OneTKPS in 2023 and we are confident that we will continue to be positive agents of change.  
+
+There is a tendency to define success in schools by how well the students perform at the PSLE. However, success is not just about grades and stellar performances. Success is about deriving the innate joy of learning and developing the courage to adapt, learn and grow. In the midst, it involves a self-discovery process of one’s unique strengths. The definition of success is broadened within the daily curriculum the students experienced at school. We believe that every student possesses great potential to excel; every child wants to learn and achieve (School Philosophy). We remain dedicated to strengthening character development, all-round holistic education and student well-being. It is important that our students be motivated and taste success in the various domains. 
+
+In 2024, we aspire to develop our students to:
+*  Be Positive Influencers where they discover their unique strengths, be optimistic and exert positive influences on the people around them. 
+
+*  Discover the Power of Yet where we deepen growth mindset and instill the belief of effort and perseverance can turn “I cannot” to “I can”. 
+
+*  Strive for Excellence in their pursuit for personal best. Discovering that diligence and resilience are essential elements for success and growth.
+
+* Make a Difference not only for themselves but for the common good. Deepening the sense of purpose and beliefs in our students as contributing members of the school and citizens of Singapore. 
+	
+My colleagues and I are committed to provide a vibrant and joyful learning environment and experiences to our students as we nurture them to become Confident Leaders, Resilient Learners and Caring Citizens (School Vision). Together, Telok Kurau Primary, 友诺小学 (#OneTKPS) starts a new chapter.
