@@ -8,7 +8,7 @@ variant: markdown
 
 <div class="container">
 <div class="image">
-<img src="/images/Mrs_Grace_Leong___With_Name.png" style="width:25vw"></div>
+<img src="/images/Mrs_Grace_Leong___With_Name.png" style="width:30vh"></div>
 
 <u><b>Theme for 2024: Embracing Change, Redefining Success</b></u>
 <br>The merger of two accomplished schools in 2023, Telok Kurau Primary and Eunos Primary, served as a launch pad for our renewed vision and mission of our Telok Kurau Primary, 友诺小学 (#OneTKPS). Our commitment to advance and be united in purpose and vision as OneTKPS presents us with great possibilities for the future ahead. My colleagues and I are excited to take you through the new phase of school development as a merged school. 
