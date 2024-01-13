@@ -2,21 +2,22 @@
 title: School Core Values
 permalink: /about-tkps/school-core-values/
 description: ""
+variant: markdown
 ---
 ### **School Core Values**
 The core values in TKPS reflect those of the Character and Citizenship Education syllabus. “The core values (Respect, Responsibility, Resilience, Integrity, Care and Harmony) are fundamental for a person of good character and a useful citizen of Singapore. They guide students to discern between right and wrong, help them to make responsible choices and become more aware of their roles in society.”<br>(CCE Syllabus 2014 p. 2)
 <br><br>
-I show **RESPECT** when I value and show consideration for self and others.
+I show <b>RESPECT</b> when I am polite and accept everyone for who they are.
 <br><br>
-I am **RESPONSIBLE** when I know and do what is right.
+I show <b>RESPONSIBILITY</b> when I carry out my duties well.
 <br><br>
-I am **RESILIENT** as I have courage and I do not give up in the face of challenges,
+I show <b>RESILIENCE</b> when I do not give up in the face of challenges.
 <br><br>
-I am a person with **INTEGRITY** and high ethical standards, and will stand up for what is right.
+I show <b>INTEGRITY</b> when I tell the truth and do what is right.
 <br><br>
-I show **CARE** when I think of others and put others before self.
+I show <b>CARE</b> when I understand the needs of others and offer help to those in need.
 <br><br>
-I value **HARMONY** by valuing and maintaining good relationships with others regardless of background.
+I show <b>HARMONY</b> when I value and build good relationships with everyone.
 <br><br>
 <table class="ive_eobj_center iveo_table ives_tab_blue" style="width: 100%; height: 744px;">
 <tbody>
