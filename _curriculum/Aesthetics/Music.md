@@ -3,32 +3,6 @@ title: Music
 permalink: /curriculum/aesthetics/music/
 description: ""
 third_nav_title: Aesthetics
+variant: tiptap
 ---
-### **Music**
-#### **Vision**
-Creative learners, Appreciative Audience of the Arts
-
-#### **Mission**
-To develop pupils’ ability in communicating thoughts, ideas or feelings through visual and performing arts
-
-#### **Key Programmes**
-
-| 4 “E”s | Music |
-|:---:|---|
-| **Exposure** | - Assembly programmes<br>- Recess concert |
-| **Experience** | 1. School based Music Curriculum<br>2. Enrichment programmes<br><br>- P4 – Basic Ukulele<br>- P5 – Basic Beatboxing<br>- P6 – Ethnic Percussion |
-| **Excursion** | LJ to Esplanade (P3) |
-| **Expertise** | - Talented Development Programme (Intermediate Beatboxing)<br>- Competitions e.g. EZ Music Warriors.; EZ music competition<br>- Talented pupils (Music Elective Programme) |
-|
-
-#### **Curriculum**
-
-| Levels | Music |
-|:---:|---|
-| **P1** | Singing & movement<br>Classroom Instruments |
-| **P2** | Singing & movement<br>Classroom Instruments |
-| **P3** | Recorder<br>Ukulele |
-| **P4** | Recorder<br>Ukulele<br>Orff ensemble |
-| **P5** | Beatboxing<br>Pen tapping<br>Recorder Ensemble |
-| **P6** | Garage Band<br>Ethnic Percussion |
-|
+<h3><strong>Music</strong></h3><h4><strong>Vision</strong></h4><p>Creative learners, Appreciative Audience of the Arts</p><h4><strong>Mission</strong></h4><p>To develop pupils’ ability in communicating thoughts, ideas or feelings through visual and performing arts</p><h4><strong>Curriculum</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Levels</p></th><th rowspan="1" colspan="1"><p>Music</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>P1</strong></p></td><td rowspan="1" colspan="1"><p>Singing &amp; movement<br>Classroom Instruments</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>P2</strong></p></td><td rowspan="1" colspan="1"><p>Singing &amp; movement<br>Classroom Instruments</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>P3</strong></p></td><td rowspan="1" colspan="1"><p>Recorder<br>Ukulele<br>Soundscape Creation (BandLab)</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>P4</strong></p></td><td rowspan="1" colspan="1"><p>Recorder<br>Ukulele<br>Orff ensemble<br>Digital Music Creation (Flat)</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>P5</strong></p></td><td rowspan="1" colspan="1"><p>Song Cover (BandLab)</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>P6</strong></p></td><td rowspan="1" colspan="1"><p>Songwriting (BandLab)</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
