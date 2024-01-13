@@ -6,12 +6,11 @@ variant: markdown
 ---
 ### **Principal's Message**
 
-<img src="/images/Mrs_Grace_Leong.jpg" style="width:25%" align="left">
-<br><br><br><br><br><br><br><br><br><br>
-<br>Mrs Grace Leong
-<br>Principal
+<div class="container">
+<div class="image">
+<img src="/images/Mrs_Grace_Leong___With_Name.png" style="width:25vw"></div>
 
-<u>**Theme for 2024: Embracing Change, Redefining Success**</u>
+<u><b>Theme for 2024: Embracing Change, Redefining Success</b></u>
 <br>The merger of two accomplished schools in 2023, Telok Kurau Primary and Eunos Primary, served as a launch pad for our renewed vision and mission of our Telok Kurau Primary, 友诺小学 (#OneTKPS). Our commitment to advance and be united in purpose and vision as OneTKPS presents us with great possibilities for the future ahead. My colleagues and I are excited to take you through the new phase of school development as a merged school. 
 
 We are grateful for the enduring love our stakeholders (the Community, our School Advisory Committee, Alumni members, Staff and Parents) have for the school and students. You have displayed the traits of tenacity and resilience as we embrace change positively and explore new possibilities. 
@@ -29,4 +28,4 @@ In 2024, we aspire to develop our students to:
 
 * Make a Difference not only for themselves but for the common good. Deepening the sense of purpose and beliefs in our students as contributing members of the school and citizens of Singapore. 
 	
-My colleagues and I are committed to provide a vibrant and joyful learning environment and experiences to our students as we nurture them to become Confident Leaders, Resilient Learners and Caring Citizens (School Vision). Together, Telok Kurau Primary, 友诺小学 (#OneTKPS) starts a new chapter.
+My colleagues and I are committed to provide a vibrant and joyful learning environment and experiences to our students as we nurture them to become Confident Leaders, Resilient Learners and Caring Citizens (School Vision). Together, Telok Kurau Primary, 友诺小学 (#OneTKPS) starts a new chapter.</div>
