@@ -2,6 +2,7 @@ collections:
   archives-hidden:
     output: true
     order:
+      - Curriculum (Tamil).md
       - Curriculum (Malay).md
       - Curriculum (Chinese).md
       - Curriculum.md
