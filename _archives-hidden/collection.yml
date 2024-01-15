@@ -2,6 +2,10 @@ collections:
   archives-hidden:
     output: true
     order:
+      - Curriculum (Tamil).md
+      - Curriculum (Malay).md
+      - Curriculum (Chinese).md
+      - Curriculum.md
       - Sample.md
       - TKPS Alumni.md
       - School Opening Hours on 28 Nov 2022.md

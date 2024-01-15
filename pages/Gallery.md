@@ -1,7 +1,6 @@
 ---
 title: Gallery
 permalink: /tkps-gallery/
-variant: tiptap
+variant: markdown
 description: ""
 ---
-<p></p>
