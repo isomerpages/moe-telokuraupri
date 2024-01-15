@@ -2,6 +2,7 @@ collections:
   archives-hidden:
     output: true
     order:
+      - Curriculum.md
       - Sample.md
       - TKPS Alumni.md
       - School Opening Hours on 28 Nov 2022.md
