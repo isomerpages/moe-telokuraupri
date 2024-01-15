@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2rlcod8p8kwg8.amplifyapp.com
 prod: https://master.d2rlcod8p8kwg8.amplifyapp.com
 shareicon: /images/About TKPS/tkps_logo-new.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
