@@ -30,6 +30,6 @@ sections:
       description: "Click on the link below to connect with us on Instagram:"
       button: "@telokkuraupri.official"
       url: https://www.instagram.com/telokkuraupri.official/
-      image: /images/tkps-insta.PNG
+      image: /images/newIG.JPG
       alt: tkps-insta
 ---
