@@ -32,8 +32,4 @@ sections:
       url: https://www.instagram.com/telokkuraupri.official/
       image: /images/newIG.JPG
       alt: tkps-insta
-  - resources:
-      title: FIND US ON SOCIAL MEDIA
-      subtitle: Telok Kurau Primary School
-      id: resources
 ---
