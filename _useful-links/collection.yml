@@ -2,8 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - For Parents/Cyber Wellness.md
       - For Parents/.keep
+      - For Parents/Cyber Wellness.md
+      - For Parents/Media Literacy Council's Resources.md
       - For Students/.keep
       - For Students/Student iCON.md
       - For Students/Student Learning Space.md

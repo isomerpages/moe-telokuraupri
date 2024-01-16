@@ -17,8 +17,8 @@ In Telok Kurau Primary School, lessons on the following topics are incorporated 
 
 Through interactive activities during FTGP and 1 to 1 interaction time, form teachers strengthen their relationship with the students. Students are also encouraged to pen down their thoughts and reflection in journals to consolidate their learning at the end of these lessons.
 
-<img src="/images/ftgp1.jpeg" style="width:49%" align=left>
-<img src="/images/ftgp2.jpeg" style="width:49%" align=right>
+<img src="/images/ftgp1.jpeg" style="width:49%" align="left">
+<img src="/images/ftgp2.jpeg" style="width:49%" align="right">
 
 <br clear="left">
 
@@ -26,8 +26,8 @@ Through interactive activities during FTGP and 1 to 1 interaction time, form tea
 |---|---|
 | Students learning about teamwork and making appropriate and responsible decisions while playing | Students engaging in a card game to learn ways to work with their peers |
 
-<img src="/images/ftgp3.jpeg" style="width:62.5%" align=left>
-<img src="/images/ftgp4.jpg" style="width:35.5%" align=right>
+<img src="/images/ftgp3.jpeg" style="width:62.5%" align="left">
+<img src="/images/ftgp4.jpg" style="width:35.5%" align="right">
 
 <br clear="left">
 
