@@ -36,5 +36,4 @@ sections:
       title: FIND US ON SOCIAL MEDIA
       subtitle: Telok Kurau Primary School
       id: resources
-      button: Facebook
 ---
