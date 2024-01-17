@@ -24,12 +24,12 @@ sections:
       button: "@telokkuraupri.official"
       url: https://www.facebook.com/telokkuraupri.official/
       alt: tkps-fb
-      image: /images/officialfb.JPG
+      image: /images/newFB.JPG
   - infopic:
       subtitle: Find us on Instagram
       description: "Click on the link below to connect with us on Instagram:"
       button: "@telokkuraupri.official"
       url: https://www.instagram.com/telokkuraupri.official/
-      image: /images/tkps-insta.PNG
+      image: /images/newIG.JPG
       alt: tkps-insta
 ---
