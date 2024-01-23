@@ -2,11 +2,11 @@ collections:
   useful-links:
     output: true
     order:
-      - For Parents/IMDA DigitalAccess@Home.md
-      - For Parents/Parents Gateway.md
       - For Parents/.keep
+      - For Parents/Parents Gateway.md
       - For Parents/Cyber Wellness.md
       - For Parents/Media Literacy Council's Resources.md
+      - For Parents/IMDA DigitalAccess@Home.md
       - For Students/Student MIMS Portal.md
       - For Students/.keep
       - For Students/Student iCON.md
