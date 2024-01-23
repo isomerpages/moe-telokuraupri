@@ -1,6 +1,6 @@
 ---
-title: Parent Gateway
-permalink: /useful-links/for-parents/parent-gateway/
+title: Parents Gateway
+permalink: /useful-links/for-parents/parents-gateway/
 variant: tiptap
 description: ""
 third_nav_title: For Parents
