@@ -1,0 +1,11 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - 2023.md
+      - Archives/.keep
+      - Archives/Older Data.md
+      - Archives/2020.md
+      - Archives/2019.md
+      - Archives/2018.md
+      - Archives/2017.md

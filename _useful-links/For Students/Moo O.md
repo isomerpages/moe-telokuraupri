@@ -1,0 +1,8 @@
+---
+title: Moo O
+permalink: /moo-o/
+description: ""
+third_nav_title: For Students
+variant: tiptap
+---
+<h3>LOGIN</h3><p><strong>Click here : <a href="https://plus.moo-o.com/accounts/login" rel="noopener noreferrer nofollow" target="_blank">https://plus.moo-o.com/accounts/login</a> <em>(For P1 &amp; P2 students only)</em></strong></p><h4>What is Moo-O?</h4><p>Moo-O is an app that provides children a meaningful, engaging and fun way to master their language skills, with special focus on reading fluency and speaking skills. It transforms children’s learning experience by making them become the story characters in real-time and letting them produce videos to tell their stories.</p><p>Through the Moo-O Learning Cycle, children are supported in their learning and then through the spelling games and the videos they produce, the children demonstrate the language skills they have acquired. Moo-O is suitable for 5 to 9 year-olds and is ideal to be used in schools and homes.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Portals/MooO/MooO-1.jpg"></div><p><br></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Portals/MooO/MooO-2.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Portals/MooO/MooO-3.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Portals/MooO/MooO-4.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Portals/MooO/MooO-5.jpg"></div><p></p>
