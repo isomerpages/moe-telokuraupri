@@ -2,6 +2,9 @@ collections:
   archives-hidden:
     output: true
     order:
+      - Gallery/Prize Giving Day 2023.md
+      - Gallery/.keep
+      - Mother Tongue Languages Symposium (MTLS) 2023.md
       - Form Teacher Guidance Period (FTGP).md
       - Curriculum (CCE).md
       - Curriculum (Tamil).md

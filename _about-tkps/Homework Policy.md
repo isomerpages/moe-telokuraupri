@@ -2,23 +2,6 @@
 title: Homework Policy
 permalink: /homework-policy/
 description: ""
+variant: tiptap
 ---
-####  **Homework Policy**
-
-At Telok Kurau Primary School, we give due consideration to how much time is appropriate for students to complete their homework at each level, according to their aptitude. The responsibilities of the each TKPS student include the following:
-
-1. Listen to homework instructions in class.<br><br>
-2. Copy down instructions for the task and deadline date into their Student Handbook.<br><br>
-3. Ensure that homework is completed and handed in by the deadline.<br><br>
-4. Attempt all work and give his/her best to each piece of assignment.<br><br>
-5. Inform the subject teacher of any difficulties in doing them.
-
-#### **Our school’s recommendations are as follows:-**
-
-The approximate time allocation during school term per day / week and holidays are stipulated in the table below.
-
-| Level | Approximate time  allocation during school term per day | Approximate time  allocation during school term per week | Approximate time allocation during school  holidays per day |
-|---|---|---|---|
-|Primary 1 & 2|1 to 1.5 hrs|7.5 to 9 hrs|30 to 45 mins|
-|Primary 3 & 4|1.5 to 2 hrs|10 to 12 hrs|45 mins to 1 hr|
-|Primary 5 & 6|2 to 3 hrs|12.5 to 14 hrs| 1 to 1.5 hrs|
+<h4><strong>Homework Policy</strong></h4><p>At Telok Kurau Primary School, we give due consideration to how much time is appropriate for students to complete their homework at each level, according to their aptitude. The responsibilities of the each TKPS student include the following:</p><ul data-tight="true" class="tight"><li><p>Listen to homework instructions in class.</p></li><li><p>Copy down instructions for the task and deadline date into their Student Handbook.</p></li><li><p>Ensure that homework is completed and handed in by the deadline.</p></li><li><p>Attempt all work and give his/her best to each piece of assignment.</p></li><li><p>Inform the subject teacher of any difficulties in doing them.</p></li></ul><h4><strong>Our school’s recommendations are as follows:-</strong></h4><p>The approximate time allocation during school term per day / week and holidays are stipulated in the table below.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Level</p></th><th rowspan="1" colspan="1"><p>Approximate time allocation during school term per day</p></th><th rowspan="1" colspan="1"><p>Approximate time allocation during school term per week</p></th><th rowspan="1" colspan="1"><p>Approximate time allocation during school holidays per day</p></th></tr><tr><td rowspan="1" colspan="1"><p>Primary 1 &amp; 2</p></td><td rowspan="1" colspan="1"><p>1 to 1.5 hrs</p></td><td rowspan="1" colspan="1"><p>7.5 to 9 hrs</p></td><td rowspan="1" colspan="1"><p>30 to 45 mins</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 3 &amp; 4</p></td><td rowspan="1" colspan="1"><p>1.5 to 2 hrs</p></td><td rowspan="1" colspan="1"><p>10 to 12 hrs</p></td><td rowspan="1" colspan="1"><p>45 mins to 1 hr</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 5 &amp; 6</p></td><td rowspan="1" colspan="1"><p>2 to 3 hrs</p></td><td rowspan="1" colspan="1"><p>12.5 to 14 hrs</p></td><td rowspan="1" colspan="1"><p>1 to 1.5 hrs</p></td></tr></tbody></table><p></p>

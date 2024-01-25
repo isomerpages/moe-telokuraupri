@@ -2,8 +2,7 @@ collections:
   events-and-notices:
     output: true
     order:
-      - Events/Mother Tongue Languages Symposium (MTLS) 2023.md
       - Events/.keep
       - Notices/Use of Images and Videos in Publication.md
-      - Notices/Name Tags 2023.md
+      - Notices/Name Tags.md
       - Notices/.keep
