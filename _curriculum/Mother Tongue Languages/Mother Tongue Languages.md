@@ -36,6 +36,14 @@ the habit of reading for pleasure by exposing them to a variety of storybooks
 in Mother Tongue Language. Activities are designed to encourage students
 to review and talk about the books that they have read. These activities
 include story-telling by authors and manga drawing workshop.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/Reading_Prog.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/Manga_Workshop_Pic_1.JPG">
+</div>
 <h5><strong>Festive Celebrations</strong></h5>
 <p>The school celebrates Chinese New Year, Hari Raya Puasa and Deepavali
 as a community. We encourage our students to celebrate their own traditions
