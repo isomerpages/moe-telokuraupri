@@ -108,7 +108,7 @@ including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.
 <br>
-<br><strong><u>Primary 5</u></strong>
+<br><strong><u>Primary 5</u></strong> 
 <br>
 </p>
 <table>
@@ -164,7 +164,7 @@ affected, even when one’s body is experiencing changes due to puberty.
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong> 
 <br>
 </p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
@@ -197,7 +197,7 @@ and how to seek help for themselves and their friends.
 </table>
 <p>
 <br>
-<br><strong><u>Primary 6</u></strong>
+<br><strong><u>Primary 6</u></strong> 
 <br>
 </p>
 <table>
@@ -276,7 +276,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable below. The
-completed opt-out form is to be submitted by <strong>05/02/2024.</strong>
+completed opt-out form is to be submitted by <strong>05/02/2024.</strong> 
 <br>
 <br><a href="/files/2024/SEd_Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SEd Opt Out Form (2024)</a>
 </p>
