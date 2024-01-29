@@ -32,6 +32,18 @@ include story-telling by authors and manga drawing workshop.</p>
 as a community. We encourage our students to celebrate their own traditions
 while promoting the understanding and respect of different cultures amongst
 our students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/CNY_2023_Pic_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/Hari_Raya_Assembly_Show_Pic_1.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/Deepavali__2_.jpg">
+</div>
 <h5><strong>MTL Learning Journey</strong></h5>
 <p>Learning goes beyond the classrooms. The school organises drama appreciation
 excursion for selected pupils offering Chinese Language, Malay Language
