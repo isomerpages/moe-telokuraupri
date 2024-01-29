@@ -32,5 +32,10 @@ include story-telling by authors and manga drawing workshop.</p>
 as a community. We encourage our students to celebrate their own traditions
 while promoting the understanding and respect of different cultures amongst
 our students.</p>
-<h5><strong>Parent Workshops</strong></h5>
+<h5><strong>MTL Learning Journey</strong></h5>
+<p>Learning goes beyond the classrooms. The school organises drama appreciation
+excursion for selected pupils offering Chinese Language, Malay Language
+and Tamil Language as their Mother Tongue Language. The purpose of these
+excursions is to expose our pupils to performing arts as well as to promote
+greater interest in the learning of different mother tongue languages.</p>
 <p></p>
