@@ -33,8 +33,4 @@ as a community. We encourage our students to celebrate their own traditions
 while promoting the understanding and respect of different cultures amongst
 our students.</p>
 <h5><strong>Parent Workshops</strong></h5>
-<p>We are firm believers that parents play a vital role in the development
-and education of children. Parent Workshops are organised for parents to
-gain a deeper understanding of what their child is learning during MTL
-lessons and how they can work hand in hand with the school to better support
-the learning of their child.</p>
+<p></p>
