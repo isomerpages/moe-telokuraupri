@@ -20,6 +20,15 @@ These activities include performing arts such as drama, cross talk, and
 learning journeys, as well as introductions to facets of Chinese, Malay
 and Indian culture. Students are exposed to a variety of activities to
 enable them to learn and use MTL beyond the classroom.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_Fortnight_Activity__2_.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_Fortnight_Activity__1_.jpeg">
+</div>
+<p></p>
 <h5><strong>Reading Programme</strong></h5>
 <p>Developing an effective reading program is vital to teaching literacy
 from an early age. The reading programme aims to help students develop
