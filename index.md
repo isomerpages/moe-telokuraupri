@@ -26,4 +26,10 @@ sections:
       url: https://www.telokkuraupri.moe.edu.sg/useful-links/for-students/student-mims/
       image: /images/HOME/tkps_learningportals.jpg
       alt: TKPS
+  - infobar:
+      title: TKPS Social Media
+      id: infobar
+      description: Connect with us on FB & IG
+      button: Click Here
+      url: a
 ---
