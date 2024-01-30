@@ -7,6 +7,9 @@ variant: tiptap
 ---
 <h4><strong>A School’s Story Set To Music</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/tkpsfeatured5.png">
+</div>
 <p>Straits Times featured Telok Kurau Primary School’s 90th Anniversary Musical
 titled ‘My Telok Kurau, My Home’, highlighting the behind-the-scenes story
 of how the musical came together. The 90th Anniversary musical was held
