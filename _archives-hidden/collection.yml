@@ -2,6 +2,7 @@ collections:
   archives-hidden:
     output: true
     order:
+      - Tackling Soccer With Grit and Fearlessness.md
       - CATalytics.md
       - Mother Tongue Languages Symposium (MTLS) 2023.md
       - Form Teacher Guidance Period (FTGP).md
