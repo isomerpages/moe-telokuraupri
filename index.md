@@ -31,5 +31,5 @@ sections:
       id: infobar
       description: Connect with us on FB & IG
       button: Click Here
-      url: https://telokkuraupri.edu.sg/useful-links/social-media/
+      url: https://telokkuraupri.moe.edu.sg/useful-links/social-media/
 ---
