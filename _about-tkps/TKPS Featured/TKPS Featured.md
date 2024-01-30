@@ -22,13 +22,6 @@ variant: tiptap
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/tkpsfeatured3.png">
-</div>
-<p><a href="/about-tkps/tkps-featured/tackling-soccer-with-grit-and-fearlessness/" rel="noopener noreferrer nofollow" target="_blank">Tackling soccer with grit and fearlessness (Schoolbag.sg, 7 September, 2017)</a> 
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/tkpsfeatured4.jpg">
 </div>
 <p><a href="/about-tkps/tkps-featured/conversational-chi-and-malay-prog/" rel="noopener noreferrer nofollow" target="_blank">Conversational Chinese and Malay programme (LianHeZaoBao, 15 August, 2017)</a> 
