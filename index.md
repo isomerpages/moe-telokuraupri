@@ -19,7 +19,7 @@ sections:
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
         - title: Gallery
           description: ""
-          url: ""
+          url: /photogallery/
       variant: image
   - infopic:
       title: For Students
