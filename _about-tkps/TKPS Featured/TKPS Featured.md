@@ -5,7 +5,7 @@ description: ""
 third_nav_title: TKPS Featured
 variant: tiptap
 ---
-<h3><strong>TKPS Featured</strong></h3>
+<h4><strong>TKPS Featured</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/tkpsfeatured1.png">
 </div>
