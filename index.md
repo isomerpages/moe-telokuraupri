@@ -19,17 +19,17 @@ sections:
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
       variant: image
   - infopic:
-      subtitle: Find us on Facebook
-      description: "Click on the link below to connect with us on Facebook:"
-      button: "@telokkuraupri.official"
-      url: https://www.facebook.com/telokkuraupri.official/
-      alt: tkps-fb
-      image: /images/newFB.JPG
-  - infopic:
-      subtitle: Find us on Instagram
-      description: "Click on the link below to connect with us on Instagram:"
-      button: "@telokkuraupri.official"
-      url: https://www.instagram.com/telokkuraupri.official/
-      image: /images/newIG.JPG
-      alt: tkps-insta
+      title: For Students
+      id: infopic
+      description: All student learning portals
+      button: Go to For Students
+      url: https://www.telokkuraupri.moe.edu.sg/useful-links/for-students/student-mims/
+      image: /images/HOME/tkps_learningportals.jpg
+      alt: TKPS
+  - infobar:
+      title: TKPS Social Media
+      id: infobar
+      description: Connect with us on FB & IG
+      button: Click Here
+      url: https://telokkuraupri.moe.edu.sg/useful-links/social-media/
 ---
