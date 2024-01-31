@@ -17,13 +17,16 @@ sections:
         - title: Events & Notices
           description: ""
           url: /events-and-notices/notices/use-of-images-and-videos-in-publication/
+        - title: Gallery
+          description: ""
+          url: /photogallery/
       variant: image
   - infopic:
       title: For Students
       id: infopic
       description: All student learning portals
       button: Go to For Students
-      url: https://www.telokkuraupri.moe.edu.sg/useful-links/for-students/student-mims/
+      url: /useful-links/for-students/student-mims/
       image: /images/HOME/tkps_learningportals.jpg
       alt: TKPS
   - infobar:
@@ -31,5 +34,5 @@ sections:
       id: infobar
       description: Connect with us on FB & IG
       button: Click Here
-      url: https://telokkuraupri.moe.edu.sg/useful-links/social-media/
+      url: /useful-links/social-media/
 ---
