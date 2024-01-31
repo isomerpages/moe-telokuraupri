@@ -4,7 +4,7 @@ permalink: /curriculum/sexuality-education/
 description: ""
 variant: tiptap
 ---
-<h3><strong>MOE Sexuality Education in Schools</strong></h3>
+<h4><strong>MOE Sexuality Education in Schools</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -16,9 +16,7 @@ family as the basic unit of society. This means encouraging healthy, heterosexua
 marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues.
-<br>
-</p>
+on sexuality issues.</p>
 <p></p>
 </li>
 <li>
@@ -39,7 +37,6 @@ develop a moral compass and respect for themselves and others by having
 positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.
 <br>
-<br>
 </p>
 </li>
 <li>
@@ -59,6 +56,8 @@ Casual sex can harm and hurt you and your loved ones.
 <br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.
 <br>
+</p>
+<p><strong>OVERVIEW OF TELOK KURAU PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong> 
 <br>
 </p>
 </li>
@@ -66,9 +65,8 @@ more information on MOE Sexuality Education.
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Sexual Behaviour, and Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.
-<br>
 <br>
 </p>
 </li>
@@ -79,8 +77,7 @@ more information on the scope of Sexuality Education in the school curriculum.
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)
 <br>
-<br>
-<br><strong><u>Sexuality Education Lessons</u></strong>:
+<br><strong>SEXUALITY EDUCATION LESSONS </strong>:
 <br>
 </p>
 </li>
@@ -95,7 +92,6 @@ our young are also exposed to a wide range of influences that could endanger
 health and undermine the integrity of the family. Our students require
 close guidance so that they can respond with discernment to the sexual
 messages in the media and other sources.
-<br>
 <br>
 </p>
 </li>
@@ -123,7 +119,7 @@ from sexuality-related risks.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Lesson OVERVIEW</u></strong>
+<p><strong><u>LESSON OVERVIEW</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -212,7 +208,7 @@ and how to seek help for themselves and their friends.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Lesson OVERVIEW</u></strong>
+<p><strong><u>LESSON OVERVIEW</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -276,9 +272,9 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable below. The
-completed opt-out form is to be submitted by <strong>05/02/2024.</strong> 
+completed opt-out form is to be submitted by <strong>5 February 2024.</strong> 
 <br>
-<br><a href="/files/2024/SEd_Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SEd Opt Out Form (2024)</a>
+<br>Opt-out Form: <a href="/files/2024/SEd_Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SEd Opt Out Form (2024)</a>
 </p>
 <p></p>
 </li>
