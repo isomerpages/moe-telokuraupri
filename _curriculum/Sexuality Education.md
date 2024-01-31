@@ -57,7 +57,7 @@ Casual sex can harm and hurt you and your loved ones.
 more information on MOE Sexuality Education.
 <br>
 </p>
-<p><strong>OVERVIEW OF TELOK KURAU PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
+<p><strong>OVERVIEW OF TELOK KURAU PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong> 
 <br>
 </p>
 </li>
