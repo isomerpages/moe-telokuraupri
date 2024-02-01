@@ -4,8 +4,6 @@ permalink: /useful-links/social-media/
 variant: tiptap
 description: ""
 ---
-<h4>Connect with us on Social Media</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/HOME/TKPSFollow.png">
 </div>
