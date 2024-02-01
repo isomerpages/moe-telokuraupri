@@ -4,7 +4,7 @@ permalink: /useful-links/for-students/catalytics/
 variant: tiptap
 description: ""
 ---
-<h4>Primary 6 Standard Mathematics (1 Feb 2024)</h4>
+<h4>Primary 6 Standard Mathematics (5 Feb 2024)</h4>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
