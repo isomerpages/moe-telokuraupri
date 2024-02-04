@@ -29,10 +29,12 @@ sections:
       url: /useful-links/for-students/student-mims/
       image: /images/HOME/tkps_learningportals.jpg
       alt: TKPS
-  - infobar:
-      title: TKPS Social Media
-      id: infobar
-      description: Connect with us on FB & IG
+  - infopic:
+      title: Facebook & Instagram
+      subtitle: Connect with us on
+      id: infopic
       button: Click Here
       url: /useful-links/social-media/
+      image: /images/HOME/TKPSFollow.png
+      alt: Image alt text
 ---
