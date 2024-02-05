@@ -3,7 +3,6 @@ title: CATalytics
 permalink: /useful-links/for-students/catalytics/
 variant: tiptap
 description: ""
-third_nav_title: For Students
 ---
 <h4>Primary 6 Standard Mathematics (5 Feb 2024)</h4>
 <p></p>
