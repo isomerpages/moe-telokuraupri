@@ -28,8 +28,8 @@ sections:
       announcement_items:
         - title: The age of Digital Parenting
           date: 06 February 2024
-          announcement: "Addressing some questions on parenting your child in the digital
-            world. "
+          announcement: Addressing some questions on parenting your child in the digital
+            world.
           link_text: CLICK HERE
           link_url: /useful-links/for-parents/digi-parenting/
   - infopic:
