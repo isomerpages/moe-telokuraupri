@@ -76,7 +76,7 @@ and analytical skills. Through cooperative learning, students stretch their
 imagination to generate innovative solutions to solve the problems of emerging
 realities.
 <br>
-<br><strong><u>Objective of the programme: </u></strong>
+<br><strong><u>Objective of the programme:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
