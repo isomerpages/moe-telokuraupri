@@ -10,7 +10,7 @@ variant: tiptap
 <h4><strong>Mission</strong></h4>
 <p>To nurture our students to become effective problem solvers with a passion
 for Mathematics</p>
-<h4><strong>Key Programmes</strong></h4>
+<h4><strong><u>Key Programmes</u></strong></h4>
 <h5><strong>Programmes to ENRICH learning</strong></h5>
 <p><strong>Learning of logic and reasoning games (Online)</strong>
 </p>
