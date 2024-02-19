@@ -13,7 +13,7 @@ Communicators.</p>
 <p>To nurture every learner to be confident in using the English Language
 through providing an engaging language-rich learning environment.</p>
 <p></p>
-<h4><strong>Key Programmes</strong></h4>
+<h4><strong><u>Key Programmes</u></strong></h4>
 <h4>Reading for Life@TKPS</h4>
 <p>The Reading for Life @ TKPS Programme aims to build a strong reading culture
 to support students' lifelong learning. Reading broadens students' knowledge
