@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
-<h3><strong>Mathematics</strong></h3>
 <h4><strong>Vision</strong></h4>
 <p>Every Student a Creative Problem Solver with a Lifelong Interest in Mathematics</p>
 <h4><strong>Mission</strong></h4>
