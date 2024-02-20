@@ -5,4 +5,96 @@ description: ""
 third_nav_title: English Language
 variant: tiptap
 ---
-<h3><strong>English Language</strong></h3><h4><strong>Vision</strong></h4><p>Confident and Effective Communicators</p><h4><strong>Mission</strong></h4><p>Creating a rich learning environment for students to enjoy language learning and develop language skills</p><h4><strong>Key Programmes</strong></h4><h5><strong>A. STELLAR Programme</strong></h5><p>STELLAR (<strong>S</strong>trategies for&nbsp;<strong>E</strong>nglish&nbsp;<strong>L</strong>anguage&nbsp;<strong>L</strong>earning and&nbsp;<strong>R</strong>eading) is an English Language instructional programme adopted at all levels in Telok Kurau Primary School. Students are immersed in language learning and are exposed to a variety of genres that are engaging and age-appropriate. The use of different strategies and pedagogies with explicit instruction in all language skills, as well as enriching language experiences, allow our students to appreciate the language within and beyond the classrooms.</p><div class="isomer-image-wrapper"><img style="width:35%" height="auto" width="100%" src="/images/eng1.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%;" height="auto" width="100%" src="/images/eng2.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width:62%" height="auto" width="100%" src="/images/eng3.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width:35%" height="auto" width="100%" src="/images/eng4.jpg"></div><p></p><p>Shared experiences such as sandwich-making and bubble-blowing activities provide the context and content for the students to think and talk about.</p><div class="isomer-image-wrapper"><img style="width:63.5%" height="auto" width="100%" src="/images/eng5.png"></div><p></p><div class="isomer-image-wrapper"><img style="width:34.35%" height="auto" width="100%" src="/images/eng6.jpg"></div><p><br>As part of the language experience, lower primary students also go on learning journeys. These authentic experiences help students communicate what they have gone through before embarking on writing.</p><p></p><div class="isomer-image-wrapper"><img style="width:35%" height="auto" width="100%" src="/images/eng7.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width:62%" height="auto" width="100%" src="/images/eng8.jpg"></div><p></p><p>As students move on to the upper primary levels, they learn to make the transition from learning to read, to reading to learn. Students are eased into reading silently as well as reading longer texts without visual support. Teachers continue to provide students with guidance in the processes of planning, writing and reviewing before they apply these skills in writing, independently.</p><h5><strong>Reading Programme</strong></h5><p>We believe that reading is the foundation for effective language literacy acquisition. Through meaningful and exciting activities, we aim to build a community of engaged and lifelong readers.</p><p><strong>i. Book Buzz</strong><br>Book Buzz are assembly talks aimed at introducing students current reading trends and good reads. This is a platform to acquaint students with the various genres ranging from fantasy fiction to mystery and adventure. To cater to the different profiles of readers, Book Buzz is delivered through enjoyable elements such as movie trailers, games and quizzes.</p><p><strong>ii. Weekly Library Lesson</strong><br>Weekly library lessons are more than just about borrowing books from the Media Resource Library (MRL). EL teachers conduct focused lessons to equip students with simple yet handy tips in selecting suitable and age-appropriate books that meet their interests. These lessons also provide students greater opportunities to interact around books as they make connections between what they read and the real world. Opportunities are also provided for them to share and recommend what they have read with their classmates during these lessons.</p><div class="isomer-image-wrapper"><img style="width:48%" height="auto" width="100%" src="/images/eng9.png"></div><p></p><div class="isomer-image-wrapper"><img style="width:49.5%" height="auto" width="100%" src="/images/eng10.jpg"></div><p><br></p><p>Lower primary students learning the 5-finger rule in selecting suitable books for themselves.</p><div class="isomer-image-wrapper"><img style="width:39.5%" height="auto" width="100%" src="/images/eng11.png"></div><p></p><div class="isomer-image-wrapper"><img style="width:58.5%" height="auto" width="100%" src="/images/eng12.jpg"></div><p><br></p><p>Students sharing and recommending what they have read with the peers during library lessons.</p><div class="isomer-image-wrapper"><img style="width:70%" height="auto" width="100%" src="/images/eng13.jpg"></div><p>&nbsp; Mobile library at the school canteen every Thursday &nbsp;</p><p><strong>iii. What’s Up Newspapers (P4 – P6)</strong><br>Primary 4, 5 and 6 students subscribe to What’s Up yearly. It is to inculcate the habit of reading newspapers from young and to expose students to news and current events. Articles from What’s Up are used to connect our upper primary students to the world. Teachers use these authentic recounts as well as the use of thinking routines such as See-Think-Wonder (STW) and Circle of Viewpoints (COV) to lead the class in discussion. As students think about the values that are reflected in the articles, they also develop critical and empathetic views about the world around them.</p><div class="isomer-image-wrapper"><img style="width:65%" height="auto" width="100%" src="/images/eng14.png"></div><h5><strong>Moo-O Plus (P1 &amp; P2)</strong></h5><p>In developing reading fluency and speaking skills, students use an interactive tool that seamlessly supports the core curriculum called Moo-O plus. As they immerse themselves in the stories, students are transformed into story book characters before putting their reading and speaking skills to practice.</p><div class="isomer-image-wrapper"><img style="width:52%" height="auto" width="100%" src="/images/eng15.png"></div><div class="isomer-image-wrapper"><img style="width:46%" height="auto" width="100%" src="/images/eng16.png"></div><p><br></p><div class="isomer-image-wrapper"><img style="width:60.5%" height="auto" width="100%" src="/images/eng17.png"></div><div class="isomer-image-wrapper"><img style="width:37.5%" height="auto" width="100%" src="/images/eng18.png"></div><p><br></p><h5><strong>Support Programmes</strong></h5><p><strong>i. Learning Support Programme</strong><br>The Learning Support Programme (LSP) is an MOE-initiated programme which aims to provide early intervention and support for selected Primary 1 and Primary 2 students in their learning. The objective of LSP is to equip students with basic literacy skills so that they can access learning in the regular classroom. These lessons are conducted in small groups daily during school curriculum hours by a trained Learning Support Coordinator (LSC).</p><p><strong>ii. School-based Dyslexia Remediation</strong><br>The School-based Dyslexia Remediation (SDR) programme aims to provide support for Primary 3 and Primary 4 students who have been identified through a systematic screening process for dyslexia conducted at the end of Primary 2. This programme seeks to enable the selected students to acquire coping strategies in reading so that they will be better able to cope with their learning in school. The programme relies on a systematic set of strategies and activities which have been carefully designed by MOE.</p><p><strong>iii. Reading Remediation Programme</strong><br>The Reading Remediation Programme (RRP) aims to provide support for Primary 3 and Primary 4 students who face consistent difficulty in reading despite having completed the Learning Support Programme in P1 and P2. This MOE-initiated programme exposes students to a range of coping strategies for reading comprehension which will enable them to better support their learning in the regular classroom.</p>
+<h4><strong>Vision</strong></h4>
+<p>Confident Language Users. Thinking Listeners &amp; Readers. Empathetic
+Communicators.</p>
+<p></p>
+<h4><strong>Mission</strong></h4>
+<p>To nurture every learner to be confident in using the English Language
+through providing an engaging language-rich learning environment.</p>
+<p></p>
+<h4><strong><u>Key Programmes</u></strong></h4>
+<h4>Reading for Life@TKPS</h4>
+<p>The Reading for Life @ TKPS Programme aims to build a strong reading culture
+to support students' lifelong learning. Reading broadens students' knowledge
+by empowering them to learn about the world around them. The programme
+consists of an eclectic variety of engaging events and activities that
+encourage students to read by exposing them to a wide range of genres.</p>
+<h4>Reading for Life@TKPS: Library Activities</h4>
+<p>Students have regular scheduled library visits to provide the, the opportunity
+to borrow books and participate in the library activities. To encourage
+student to read widely from various genres, they are given a 'Reading Passport'
+where they can record the books they have read and written book reviews
+for. Throughout the year, the School Library has different thematic displays
+and engaging activities to promote books related to genres, events and
+celebrations.</p>
+<h4>Reading for Life@TKPS: Book Sharing Tuesdays</h4>
+<p>Every Tuesday before morning assembly, teachers model the way by sharing
+books that they have read from the School Library or from MyON (an online
+reading platform). The book sharing garners students' interest in the featured
+books and exposes them to a wide range of genres.</p>
+<h4>Reading for Life@TKPS: Extensive Reading (Moo-O)</h4>
+<p>Moo-O is an online interactive tool that supports reading fluency and
+speaking skills. Students immerse themselves in a range of stories as they
+take on the roles of the characters in the stories that they have read.</p>
+<h4>Reading for Life@TKPS: Extensive Reading (myON)</h4>
+<p>myON is a student-centred, personalise online digital library that gives
+students access to more than 7,000 enhanced digital books. The book titles
+are dynamically matched to each individual's students interests, grade
+and reading level. Teachers are also able to assign books and reading activities
+for students to engage in to develop their reading comprehension skills.</p>
+<h4>Reading for Life@TKPS: Extensive Reading (Newspaper Subscriptions)</h4>
+<p>To promote extensive reading in English Language, student subscribe to
+newspapers for students. P4 and P5 students subscribe to Little Red Dot
+Newspaper while P6 students subscribe to What's Up Newspaper. These publications
+covers news that is presented in a way that would appeal to young readers
+and help them keep abreast of current affairs to gain more knowledge in
+various areas of interest.</p>
+<h4>Interdisciplinary Learning Journeys</h4>
+<p>In collaboration with other departments, Interdisciplinary Learning Journeys
+are organised for the following levels and locations:
+<br>
+<br>P1 Singapore Zoo
+<br>P2 Singapore Orchid Garden
+<br>P3 Changi Studio Experience
+<br>
+<br>Through the Learning Journeys, students broaden their experiences and
+build their vocabulary. This will support them in writing of compositions
+and conversational skills.</p>
+<h4>Future Problem Solving Programme</h4>
+<p>The Future Problem Solving Programme (FPSP) is a dynamic international
+programme developed in 1974 by creativity pioneer, Dr. E. Paul Torrance.
+It comprises several components, both competitive and non-competitive,
+which aims to develop creative and critical thinking, problem solving and
+decision making skills.
+<br>
+<br>Telok Kurau Primary School participates in the Global Issues Problem Solving
+(GIPS) component as a team. Students will learn the six-step creative problem
+solving process and use it to respond to a Future Scene provided for each
+topic. At Primary 5, an emphasis is placed on developing their research
+and analytical skills. Through cooperative learning, students stretch their
+imagination to generate innovative solutions to solve the problems of emerging
+realities.
+<br>
+<br><strong><u>Objective of the programme:</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>S</strong>trengthen critical and creative thinking skills</p>
+</li>
+<li>
+<p><strong>H</strong>eighten students’ awareness of global challenges</p>
+</li>
+<li>
+<p><strong>I</strong>nspire students to become responsible and self-directed
+learners</p>
+</li>
+<li>
+<p><strong>N</strong>urture individuals with robust research and analytical
+skills</p>
+</li>
+<li>
+<p><strong>E</strong>nable collaborative and interpersonal skills to be bolstered</p>
+</li>
+</ul>
+<p></p>

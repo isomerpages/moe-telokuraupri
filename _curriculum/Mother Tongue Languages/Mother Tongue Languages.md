@@ -5,14 +5,11 @@ description: ""
 third_nav_title: Mother Tongue Languages
 variant: tiptap
 ---
-<h3><strong>Mother Tongue Languages</strong></h3>
-<h4><strong>Vision </strong></h4>
+<h4><strong>Vision</strong></h4>
 <p>Every Child An Engaged Mother Tongue Language Learner</p>
-<p></p>
 <h4><strong>Mission</strong></h4>
 <p>To cultivate effective and confident communicators in Mother Tongue Language
 with a passion for Mother Tongue culture.</p>
-<p></p>
 <h4><strong><u>Key Programmes</u></strong></h4>
 <h5><strong>Mother Tongue Language (MTL) Fortnight</strong></h5>
 <p>This annual programme provides opportunities to learn more about their
@@ -22,7 +19,6 @@ These activities include performing arts such as drama, cross talk, and
 learning journeys, as well as introductions to facets of Chinese, Malay
 and Indian culture. Students are exposed to a variety of activities to
 enable them to learn and use MTL beyond the classroom.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_Fortnight_Activity__2_.jpeg">
 </div>
@@ -30,7 +26,6 @@ enable them to learn and use MTL beyond the classroom.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_Fortnight_Activity__1_.jpeg">
 </div>
-<p></p>
 <h5><strong>Reading Programme</strong></h5>
 <p>Developing an effective reading program is vital to teaching literacy
 from an early age. The reading programme aims to help students develop
@@ -38,7 +33,6 @@ the habit of reading for pleasure by exposing them to a variety of storybooks
 in Mother Tongue Language. Activities are designed to encourage students
 to review and talk about the books that they have read. These activities
 include story-telling by authors and manga drawing workshop.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/Reading_Prog.JPG">
 </div>
@@ -51,7 +45,6 @@ include story-telling by authors and manga drawing workshop.</p>
 as a community. We encourage our students to celebrate their own traditions
 while promoting the understanding and respect of different cultures amongst
 our students.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/CNY_2023_Pic_2.jpg">
 </div>
