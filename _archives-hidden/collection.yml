@@ -2,7 +2,6 @@ collections:
   archives-hidden:
     output: true
     order:
-      - CATalytics.md
       - Community in Nature (CIN) Schools Award 2020.md
       - Tackling Soccer With Grit and Fearlessness.md
       - Mother Tongue Languages Symposium (MTLS) 2023.md
