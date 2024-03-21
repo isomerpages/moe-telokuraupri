@@ -1,10 +1,11 @@
 ---
-title: "2024"
-permalink: /achievements/2024/
+title: Student Achievements
+permalink: /achievements/2024/stud-achievements/
 variant: tiptap
 description: ""
+third_nav_title: "2024"
 ---
-<h4><strong>Student Achievements</strong></h4>
+<h3><strong><u>2024</u></strong></h3>
 <table>
 <tbody>
 <tr>
