@@ -75,7 +75,7 @@ third_nav_title: "2023"
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>MOE Service Excellence Award (MSEA)</strong>
 </p>
 </td>
@@ -86,17 +86,11 @@ third_nav_title: "2023"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Manju Chatlani Murli (Administration Manager) <em>- Silver</em>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Kian Yeow (Operations Manager) <em>- Silver</em>
 </p>
@@ -104,26 +98,17 @@ third_nav_title: "2023"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Ahmad Dzulkifli Bin Zarinal (ICT Manager) <em>- Silver</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Neeta Naraindas Ramchandani (Senior SEN Officer) <em>- Silver</em>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Najib Bin Abdul Halim (Senior SEN Officer) <em>- Silver</em>
 </p>
