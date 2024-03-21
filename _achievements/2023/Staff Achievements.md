@@ -114,6 +114,62 @@ third_nav_title: "2023"
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>Outstanding Contribution Award (Individual)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Kian Yeow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jose Paolo T. Boquiren</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Edith And Sian Hong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>Outstanding Contribution Award (Team)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math &amp; Science Exploration Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time-tabling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P.O.I.S.Ed to Serve</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Admin Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
