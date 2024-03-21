@@ -5,3 +5,88 @@ variant: tiptap
 description: ""
 third_nav_title: "2023"
 ---
+<h3><strong><u>2023</u></strong></h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Day Commendation Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sarah Zheng Hui Min (HOD/CCE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Goh Ya Li (ST/Science)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Commendation Medal (COVID-19)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Grace Leong (Principal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>COVID-19 Resilience MEdal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chu-Tan Kim Yan (Vice-Principal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Khong Hui Jeffrey (HOD/PE &amp; CCA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Matthew Toh Kheng Guan (Administration Manager)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad Dzulkifli Bin Zarinal (ICT Manager)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
