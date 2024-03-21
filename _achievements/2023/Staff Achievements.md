@@ -56,8 +56,8 @@ third_nav_title: "2023"
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>COVID-19 Resilience MEdal</p>
+<td rowspan="4" colspan="1">
+<p>COVID-19 Resilience Medal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Chu-Tan Kim Yan (Vice-Principal)</p>
@@ -65,26 +65,34 @@ third_nav_title: "2023"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Khong Hui Jeffrey (HOD/PE &amp; CCA)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Matthew Toh Kheng Guan (Administration Manager)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ahmad Dzulkifli Bin Zarinal (ICT Manager)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Dzulkifli Bin Zarinal (ICT Manager)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day Long Service Award and Associate of Academy of Singapore
+Teachers Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Quek Sr Ling (LT/SEN)</p>
 </td>
 </tr>
 </tbody>
