@@ -52,7 +52,7 @@ third_nav_title: "2023"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Khong Hui Jeffrey (HOD/PE &amp; CCA)</p>
+<p>Mr Tan Kong Hui Jeffrey (HOD/PE &amp; CCA)</p>
 </td>
 </tr>
 <tr>
