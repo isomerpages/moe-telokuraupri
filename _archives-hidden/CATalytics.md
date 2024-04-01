@@ -4,9 +4,7 @@ permalink: /catalytics/
 variant: tiptap
 description: ""
 ---
-<h3>Primary 5 Standard Mathematics (02 Apr 2024)</h3>
-<p><strong>Classes: 5 Amber / 5 Coral / 5 Diamond</strong>
-</p>
+<h3>Primary 5 Standard Mathematics (02 Apr 2024 - 03 Apr 2024)</h3>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
