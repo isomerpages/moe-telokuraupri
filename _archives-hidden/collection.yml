@@ -2,6 +2,7 @@ collections:
   archives-hidden:
     output: true
     order:
+      - CATalytics.md
       - 2023.md
       - Community in Nature (CIN) Schools Award 2020.md
       - Tackling Soccer With Grit and Fearlessness.md
