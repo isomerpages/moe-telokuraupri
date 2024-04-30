@@ -28,8 +28,8 @@ where they can record the books they have read and written book reviews
 for. Throughout the year, the School Library has different thematic displays
 and engaging activities to promote books related to genres, events and
 celebrations.</p>
-<h4>Reading for Life@TKPS: Book Sharing Tuesdays</h4>
-<p>Every Tuesday before morning assembly, teachers model the way by sharing
+<h4>Reading for Life@TKPS: Book Sharing Wednesday</h4>
+<p>Every Wednesday before morning assembly, teachers model the way by sharing
 books that they have read from the School Library or from MyON (an online
 reading platform). The book sharing garners students' interest in the featured
 books and exposes them to a wide range of genres.</p>
