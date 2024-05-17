@@ -24,8 +24,9 @@ contacts:
       - other: ""
     title: General Office
   - content:
-      - phone: +65 6224 2182
+      - phone: +65 6244 2182
       - email: ""
       - other: ""
     title: Fax
+feedback: ""
 ---
