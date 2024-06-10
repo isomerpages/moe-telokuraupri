@@ -38,7 +38,7 @@ sections:
       id: infopic
       description: 28 June 2024
       button: Click Here
-      url: https://www.telokkuraupri.moe.edu.sg/open-house-2024/
+      url: /events-and-notices/events/open-house-2024/
       image: /images/Events/TKPS_Open_House_2024.jpg
   - infopic:
       title: For Students
