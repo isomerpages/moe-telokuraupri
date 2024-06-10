@@ -2,7 +2,7 @@ collections:
   events-and-notices:
     output: true
     order:
-      - Events/TKPS Open House 2024.md
+      - Events/Open House 2024.md
       - Events/.keep
       - Notices/Use of Images and Videos in Publication.md
       - Notices/Name Tags.md
