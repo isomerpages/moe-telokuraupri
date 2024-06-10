@@ -33,6 +33,14 @@ sections:
           link_text: CLICK HERE
           link_url: /useful-links/for-parents/digi-parenting/
   - infopic:
+      title: Open House 2024
+      subtitle: join us
+      id: infopic
+      description: 28 June 2024
+      button: Click Here
+      url: https://www.telokkuraupri.moe.edu.sg/open-house-2024/
+      image: /images/Events/TKPS_Open_House_2024.jpg
+  - infopic:
       title: For Students
       id: infopic
       description: All student learning portals
