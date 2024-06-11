@@ -24,14 +24,7 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Telok KUrau Primary SCHOOL
-      announcement_items:
-        - title: The age of Digital Parenting
-          date: 06 February 2024
-          announcement: Addressing some questions on parenting your child in the digital
-            world.
-          link_text: CLICK HERE
-          link_url: /useful-links/for-parents/digi-parenting/
+      subtitle: Telok Kurau Primary SCHOOL
   - infopic:
       title: Open House 2024
       subtitle: join us
@@ -40,7 +33,7 @@ sections:
       button: Click Here
       url: /events-and-notices/events/open-house-2024/
       image: /images/Events/TKPS_Open_House_2024.jpg
-      alt: tkps open house 2024
+      alt: TKPS
   - infopic:
       title: For Students
       id: infopic
