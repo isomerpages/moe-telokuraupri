@@ -5,25 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Events
 ---
-<p><strong>Welcome to Telok Kurau Primary School Open House 2024!</strong>
-</p>
-<p>We're thrilled to invite you to join us for an unforgettable exploration
-of learning and community at our annual Open House event on June 28, 2024.</p>
-<p>At TKPS, we believe in the power of education to transform lives and shape
-futures. Our Open House is a celebration of this belief, offering you a
-firsthand glimpse into the vibrant tapestry of experiences and opportunities
-that await within our walls.</p>
-<p><strong>Date:</strong> 28 June 2024
-<br><strong>Time:</strong> 2pm to 5pm
-<br><strong>Location:</strong> 50 Bedok Reservoir Rd, Singapore 479239</p>
-<p>Whether you're a prospective student, a proud parent, or a curious community
-member, our Open House promises something for everyone. Come discover why
-TKPS is more than just an educational institution – it's a place where
-passions are ignited, potentials are realized, and lifelong connections
-are forged.</p>
-<p>Save the date, mark your calendars, and get ready to embark on an inspiring
-journey with us. We can't wait to welcome you to Telok Kurau Primary School
-Open House 2024!</p>
+<p>Hello everyone! We are pleased to share with you our upcoming TKPS Open
+House scheduled on <strong>Friday, 28 June 2024</strong>, from <strong>2 - 5 pm</strong>.</p>
+<p>The theme of the Open House is <strong>Join Our Journey, Share Our Joy</strong>.
+Our students will be sharing their learning experiences with prospective
+students and parents who will get to interact with our school leaders,
+teachers, parent volunteers and students.</p>
+<p>Don’t miss out this opportunity to get to know the school! Scan the QR
+code above or click the link in our bio to register.</p>
+<p>We look forward to welcoming you!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/TKPS_Open_House_2024.jpg">
 </div>
