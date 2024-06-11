@@ -40,7 +40,7 @@ sections:
       button: Click Here
       url: /events-and-notices/events/open-house-2024/
       image: /images/Events/TKPS_Open_House_2024.jpg
-      alt: tkps open house 2024
+      alt: TKPS
   - infopic:
       title: For Students
       id: infopic
