@@ -2,6 +2,7 @@
 title: TKPS Open House 2022
 permalink: /tkps-open-house-2022/
 description: ""
+variant: markdown
 ---
 ### **TKPS Open House 2022**
 
@@ -47,11 +48,7 @@ Children born between 2 January 2016 and 1 January 2017 (both dates&nbsp;inclusi
 
 <br clear="left">
 
-**Primary 1 FAQs (MOE)**<br>
-<p><a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=3583">  
-<img style="width:25%" src="/images/pinkfindoutmore.jpg" align="left"> 
-</a></p>
-<br clear="left">
+
 
 #### **Curriculum Timing (For 2023)**
 All students are to report to the school by 7.30 a.m. on school days. The flag raising ceremony will be conducted at 7.30 a.m.&nbsp;Your child must have a storybook for silent reading daily.
