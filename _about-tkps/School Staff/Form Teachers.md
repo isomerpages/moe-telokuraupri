@@ -541,15 +541,13 @@ variant: tiptap
 <p>P3 Synergiser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Abigail Choo Ru Yi</p>
+<p>Mdm Hajra Maideen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>abigail_choo_ru_yi@moe.edu.sg</p>
+<p>hajra_maideen@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>229
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
