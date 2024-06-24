@@ -61,7 +61,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P1 Encourager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,17 +83,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>202</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Robin Lim Heng Hock</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>robin_lim_heng_hock@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>211</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +173,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P1 Inquirer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,17 +195,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>209</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Phoon Poh Yen Doreen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_poh_yen_doreen@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>258</p>
 </td>
 </tr>
 <tr>
@@ -843,7 +821,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P4 Explorer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -865,17 +843,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>328</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Jayanthi d/o Retnam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jayanthi_retnam@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>326</p>
 </td>
 </tr>
 <tr>
