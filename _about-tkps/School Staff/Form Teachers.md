@@ -7,7 +7,13 @@ variant: tiptap
 ---
 <h3><strong>Form Teachers</strong></h3>
 <h4><strong>Primary 1</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -55,7 +61,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P1 Encourager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,17 +83,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>202</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Robin Lim Heng Hock</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>robin_lim_heng_hock@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>211</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +173,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P1 Inquirer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,17 +195,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>209</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Phoon Poh Yen Doreen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_poh_yen_doreen@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>258</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +245,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 2</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -299,13 +289,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norita Binti Rahmad</p>
+<p>Mdm Lim Poh Yen Doreen (Mrs Phoon)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norita_rahmad@moe.edu.sg</p>
+<p>lim_poh_yen_dorren@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>219</p>
+<p>258</p>
 </td>
 </tr>
 <tr>
@@ -452,7 +442,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 3</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -523,15 +519,13 @@ variant: tiptap
 <p>P3 Synergiser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Abigail Choo Ru Yi</p>
+<p>Mdm Hajra Maideen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>abigail_choo_ru_yi@moe.edu.sg</p>
+<p>hajra_maideen@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>229
-<br>
-</p>
+<p>229</p>
 </td>
 </tr>
 <tr>
@@ -643,7 +637,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 4</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -739,13 +739,13 @@ variant: tiptap
 <p>P4 Innovator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Naqib Bin Ismail</p>
+<p>Ms Kimbery Moey Yen Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_naqib_ismail@moe.edu.sg</p>
+<p>moey_yen_hong_kimberly@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>237</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -821,7 +821,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P4 Explorer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -846,18 +846,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Jayanthi d/o Retnam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jayanthi_retnam@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>326</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P4 Navigator</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -868,17 +857,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>332</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chan Sau Man Mandy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chan_sau_man@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>335</p>
 </td>
 </tr>
 <tr>
@@ -934,7 +912,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 5</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1177,7 +1161,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 6</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
