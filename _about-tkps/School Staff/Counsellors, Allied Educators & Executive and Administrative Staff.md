@@ -47,14 +47,10 @@ variant: tiptap
 <p>Senior Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Najib Bin Abdul Halim
-<br>
-</p>
+<p>Mr Mohamed Najib Bin Abdul Halim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamed_najib_abdul_halim@moe.edu.sg
-<br>
-</p>
+<p>mohamed_najib_abdul_halim@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>251
@@ -78,22 +74,13 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zarina Bte Abdul Karim
-<br>
-<br>
-</p>
+<p>Mdm Zarina Bte Abdul Karim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zarina_abdul_karim@moe.edu.sg
-<br>
-<br>
-</p>
+<p>zarina_abdul_karim@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>246
-<br>
-<br>
-</p>
+<p>246</p>
 </td>
 </tr>
 <tr>
