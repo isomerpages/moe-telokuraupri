@@ -7,7 +7,13 @@ variant: tiptap
 ---
 <h3><strong>Form Teachers</strong></h3>
 <h4><strong>Primary 1</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -261,7 +267,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 2</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -299,13 +311,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norita Binti Rahmad</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norita_rahmad@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>219</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -452,7 +464,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 3</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -643,7 +661,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 4</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -739,13 +763,13 @@ variant: tiptap
 <p>P4 Innovator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Naqib Bin Ismail</p>
+<p>Ms Kimbery Moey Yen Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_naqib_ismail@moe.edu.sg</p>
+<p>moey_yen_hong_kimberly@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>237</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -857,7 +881,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P4 Navigator</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -868,17 +892,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>332</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chan Sau Man Mandy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chan_sau_man@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>335</p>
 </td>
 </tr>
 <tr>
@@ -934,7 +947,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 5</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1177,7 +1196,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 6</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
