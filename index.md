@@ -26,15 +26,6 @@ sections:
       id: announcements
       subtitle: Telok Kurau Primary SCHOOL
   - infopic:
-      title: Open House 2024
-      subtitle: join us
-      id: infopic
-      description: 28 June 2024
-      button: Click Here
-      url: /events-and-notices/events/open-house-2024/
-      image: /images/Events/TKPS_Open_House_2024.jpg
-      alt: TKPS
-  - infopic:
       title: For Students
       id: infopic
       description: All student learning portals
