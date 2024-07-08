@@ -259,6 +259,71 @@ Solving Category</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Vrishalie D/O Ramendran</p>
+</li>
+<li>
+<p>Suresh Rasmitha</p>
+</li>
+<li>
+<p>Venkatachalam Prashitha</p>
+</li>
+<li>
+<p>Arul Selvamony Jenolin</p>
+</li>
+<li>
+<p>Tamilselvam Satheertha</p>
+</li>
+<li>
+<p>S Ezafia Nikaayla</p>
+</li>
+<li>
+<p>Zaara Kiran Umer D/O Jagtar Singh</p>
+</li>
+<li>
+<p>Tissera Jaid Ellisha Amindhri</p>
+</li>
+<li>
+<p>Senthi Kaaviya Throwpathi</p>
+</li>
+<li>
+<p>Alagappan Mahathi Sri</p>
+</li>
+<li>
+<p>Muhammad Mikhail Daniyal Bin Hazali</p>
+</li>
+<li>
+<p>Shafana Sherin Mansor Ali</p>
+</li>
+<li>
+<p>Norathirah Ellmeera Binte Mohamed Abdul Kader</p>
+</li>
+<li>
+<p>Anushka Rai</p>
+</li>
+<li>
+<p>Valiveti Siddharth Sharma</p>
+</li>
+<li>
+<p>Ammarah Binte Mohd Alias</p>
+</li>
+<li>
+<p>Soundarajan Yashne</p>
+</li>
+<li>
+<p>M. Vaishnavi Raj</p>
+</li>
+<li>
+<p>Krishnan Shweta</p>
+</li>
+<li>
+<p>Meyyappan Hansikasri</p>
+</li>
+<li>
+<p>K Rithiga</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -270,6 +335,7 @@ Solving Category</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -338,4 +404,5 @@ Solving Category</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
