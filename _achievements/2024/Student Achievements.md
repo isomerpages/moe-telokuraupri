@@ -6,7 +6,12 @@ description: ""
 third_nav_title: "2024"
 ---
 <h3><strong><u>2024</u></strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -107,13 +112,13 @@ Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cognitive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Future Problem Solving Programme International Conference 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10th Place Internationally</p>
 </td>
 </tr>
 </tbody>
@@ -121,7 +126,12 @@ Category</p>
 <h4><strong>CCA Achievements</strong></h4>
 <p><strong><u>Uniformed Group</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -208,7 +218,12 @@ Category</p>
 <p></p>
 <p><strong><u>Others</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
