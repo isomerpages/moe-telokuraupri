@@ -6,7 +6,12 @@ description: ""
 third_nav_title: "2024"
 ---
 <h3><strong><u>2024</u></strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -70,8 +75,8 @@ Solving Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Champion for the Junior Division</strong> Action Plan Presentation
-Category</p>
+<p><strong>2nd Place for the Junior Division</strong> Global Issue Problem
+Solving Category</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Keerthivasan Yokesh(6 EC)</p>
@@ -107,21 +112,149 @@ Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cognitive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Future Problem Solving Programme International Conference 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>10th Place for Junior Category Internationally</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Valiveti Siddharth Sharma (6 EC)</p>
+</li>
+<li>
+<p>Sumaiya Maryum Alam (6 RF)</p>
+</li>
+<li>
+<p>Izag Ziyik Lam (6 RF)</p>
+</li>
+<li>
+<p>Wu Siyuan (6 RF)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>CCA Achievements</strong></h4>
+<p><strong>Physical Sports</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competiton / Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPSSC Basketball Senior Division Boys League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Champion</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Senior Boys</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bowling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Quartets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4th Place</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Junior Girls</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPSCC Football Senior Division Girls League B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Champion</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Senior Girls</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bendemeer Secondary School Football Fiesta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2nd Place</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Senior Boys</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5-Duan Sword</p>
+<p>5-Duan Cudgel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4th Place</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Yu Xuan</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>Uniformed Group</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -194,6 +327,30 @@ Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross Excellent Unit Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross First Aid Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -205,10 +362,380 @@ Category</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Visual and Performing Arts</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition / Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation for Instrument Ensemble (Choir)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Accomplishment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guzheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation for Instrument Ensemble (Guzheng)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Accomplishment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lion &amp; Dragon Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTU Institutional Lion Dance Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver</strong>
+</p>
+<p><strong>Bronze</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Accomplishment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Indian Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Distinction</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Vrishalie D/O Ramendran</p>
+</li>
+<li>
+<p>Suresh Rasmitha</p>
+</li>
+<li>
+<p>Venkatachalam Prashitha</p>
+</li>
+<li>
+<p>Arul Selvamony Jenolin</p>
+</li>
+<li>
+<p>Tamilselvam Satheertha</p>
+</li>
+<li>
+<p>S Ezafia Nikaayla</p>
+</li>
+<li>
+<p>Zaara Kiran Umer D/O Jagtar Singh</p>
+</li>
+<li>
+<p>Tissera Jaid Ellisha Amindhri</p>
+</li>
+<li>
+<p>Senthi Kaaviya Throwpathi</p>
+</li>
+<li>
+<p>Alagappan Mahathi Sri</p>
+</li>
+<li>
+<p>Muhammad Mikhail Daniyal Bin Hazali</p>
+</li>
+<li>
+<p>Shafana Sherin Mansor Ali</p>
+</li>
+<li>
+<p>Norathirah Ellmeera Binte Mohamed Abdul Kader</p>
+</li>
+<li>
+<p>Anushka Rai</p>
+</li>
+<li>
+<p>Valiveti Siddharth Sharma</p>
+</li>
+<li>
+<p>Ammarah Binte Mohd Alias</p>
+</li>
+<li>
+<p>Soundarajan Yashne</p>
+</li>
+<li>
+<p>M. Vaishnavi Raj</p>
+</li>
+<li>
+<p>Krishnan Shweta</p>
+</li>
+<li>
+<p>Meyyappan Hansikasri</p>
+</li>
+<li>
+<p>K Rithiga</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance at Pongal Celebration organised by Eunos Community Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Appreciation</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Alagappan Mahathi Sri</p>
+</li>
+<li>
+<p>Senthi Kaaviya Throwpathi</p>
+</li>
+<li>
+<p>Muhammad Mikhail Daniyal</p>
+</li>
+<li>
+<p>Norathirah Ellmeera</p>
+</li>
+<li>
+<p>Anushka Rai</p>
+</li>
+<li>
+<p>Valiveti Siddharth Sharma</p>
+</li>
+<li>
+<p>M. Vashnavi Raj</p>
+</li>
+<li>
+<p>Soundarajan Yashne</p>
+</li>
+<li>
+<p>K Rithiga</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aisya Humaira Binte Mohamad Zaki</p>
+</li>
+<li>
+<p>Nur A'syurah Binte Ibrahim</p>
+</li>
+<li>
+<p>Zerina Binte Norhesham</p>
+</li>
+<li>
+<p>Siti Faatimah Ninte Bambang Hermanto</p>
+</li>
+<li>
+<p>Nur Aqilah Binte Nordin</p>
+</li>
+<li>
+<p>De'melda Sheryna Binte Syamil Mateen</p>
+</li>
+<li>
+<p>Allyna Mansuri Loong</p>
+</li>
+<li>
+<p>Nur Elly Natalia Binte Mohammad Ramadan</p>
+</li>
+<li>
+<p>Auni Binte Asri</p>
+</li>
+<li>
+<p>Nur Myisha Danisha Binte Noor Hidayat</p>
+</li>
+<li>
+<p>Nur Maisarah Binte Mohamad Shafiee</p>
+</li>
+<li>
+<p>Nurul Jannah Binte Abdul Jalil</p>
+</li>
+<li>
+<p>Dhia Qalesya Binte Ahmad Dhafeer</p>
+</li>
+<li>
+<p>Siti Aishah Maisarah Binte Ruslighani Iskandar</p>
+</li>
+<li>
+<p>Natasha Nadya Binte Muhammad Firdaus</p>
+</li>
+<li>
+<p>Noor Sakina Alisha Binte Abdul Halim</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Clubs and Societies</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition / Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vex Category Team Alliance Challenge - 1st and 2nd place</p>
+<p>Vex Category Autonomous Challenge - 1st place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Arush Oberoi</p>
+</li>
+<li>
+<p>Teotico Robert Matheus Soriano</p>
+</li>
+<li>
+<p>Liew Hui En Jolie</p>
+</li>
+<li>
+<p>Macayana Zuleika Summer Agamata</p>
+</li>
+<li>
+<p>Zhu Chengyi</p>
+</li>
+<li>
+<p>Xu Weiyue</p>
+</li>
+<li>
+<p>Loke Chiu Yu</p>
+</li>
+<li>
+<p>Contreras Kyle Zachary Pardo</p>
+</li>
+<li>
+<p>Chan Chiu Hang</p>
+</li>
+<li>
+<p>Nur Jian Binte Mohammed Ilmifidri</p>
+</li>
+<li>
+<p>Nur Tiara Eryna Binte Mohammad Afandi</p>
+</li>
+<li>
+<p>Keerthivasan Yokesh</p>
+</li>
+<li>
+<p>Lee Minh Zed</p>
+</li>
+<li>
+<p>Gupta Sara</p>
+</li>
+<li>
+<p>Xing Junming</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Info-Communication Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Platinum</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Woo Yi Kai</p>
+</li>
+</ul>
+<p><strong>Bronze</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Weiyue</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>Others</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -265,4 +792,10 @@ Category</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
 <p></p>
