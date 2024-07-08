@@ -442,71 +442,6 @@ Solving Category</p>
 <td rowspan="1" colspan="1">
 <p><strong>Distinction</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Vrishalie D/O Ramendran</p>
-</li>
-<li>
-<p>Suresh Rasmitha</p>
-</li>
-<li>
-<p>Venkatachalam Prashitha</p>
-</li>
-<li>
-<p>Arul Selvamony Jenolin</p>
-</li>
-<li>
-<p>Tamilselvam Satheertha</p>
-</li>
-<li>
-<p>S Ezafia Nikaayla</p>
-</li>
-<li>
-<p>Zaara Kiran Umer D/O Jagtar Singh</p>
-</li>
-<li>
-<p>Tissera Jaid Ellisha Amindhri</p>
-</li>
-<li>
-<p>Senthi Kaaviya Throwpathi</p>
-</li>
-<li>
-<p>Alagappan Mahathi Sri</p>
-</li>
-<li>
-<p>Muhammad Mikhail Daniyal Bin Hazali</p>
-</li>
-<li>
-<p>Shafana Sherin Mansor Ali</p>
-</li>
-<li>
-<p>Norathirah Ellmeera Binte Mohamed Abdul Kader</p>
-</li>
-<li>
-<p>Anushka Rai</p>
-</li>
-<li>
-<p>Valiveti Siddharth Sharma</p>
-</li>
-<li>
-<p>Ammarah Binte Mohd Alias</p>
-</li>
-<li>
-<p>Soundarajan Yashne</p>
-</li>
-<li>
-<p>M. Vaishnavi Raj</p>
-</li>
-<li>
-<p>Krishnan Shweta</p>
-</li>
-<li>
-<p>Meyyappan Hansikasri</p>
-</li>
-<li>
-<p>K Rithiga</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -517,36 +452,8 @@ Solving Category</p>
 <p>Performance at Pongal Celebration organised by Eunos Community Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Appreciation</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Alagappan Mahathi Sri</p>
-</li>
-<li>
-<p>Senthi Kaaviya Throwpathi</p>
-</li>
-<li>
-<p>Muhammad Mikhail Daniyal</p>
-</li>
-<li>
-<p>Norathirah Ellmeera</p>
-</li>
-<li>
-<p>Anushka Rai</p>
-</li>
-<li>
-<p>Valiveti Siddharth Sharma</p>
-</li>
-<li>
-<p>M. Vashnavi Raj</p>
-</li>
-<li>
-<p>Soundarajan Yashne</p>
-</li>
-<li>
-<p>K Rithiga</p>
-</li>
-</ul>
+<p><strong>Certificate of Appreciation</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -557,67 +464,8 @@ Solving Category</p>
 <p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Aisya Humaira Binte Mohamad Zaki</p>
-</li>
-<li>
-<p>Nur A'syurah Binte Ibrahim</p>
-</li>
-<li>
-<p>Zerina Binte Norhesham</p>
-</li>
-<li>
-<p>Siti Faatimah Ninte Bambang Hermanto</p>
-</li>
-<li>
-<p>Nur Aqilah Binte Nordin</p>
-</li>
-<li>
-<p>De'melda Sheryna Binte Syamil Mateen</p>
-</li>
-<li>
-<p>Allyna Mansuri Loong</p>
-</li>
-<li>
-<p>Nur Elly Natalia Binte Mohammad Ramadan</p>
-</li>
-<li>
-<p>Auni Binte Asri</p>
-</li>
-<li>
-<p>Nur Myisha Danisha Binte Noor Hidayat</p>
-</li>
-<li>
-<p>Nur Maisarah Binte Mohamad Shafiee</p>
-</li>
-<li>
-<p>Nurul Jannah Binte Abdul Jalil</p>
-</li>
-<li>
-<p>Dhia Qalesya Binte Ahmad Dhafeer</p>
-</li>
-<li>
-<p>Siti Aishah Maisarah Binte Ruslighani Iskandar</p>
-</li>
-<li>
-<p>Natasha Nadya Binte Muhammad Firdaus</p>
-</li>
-<li>
-<p>Noor Sakina Alisha Binte Abdul Halim</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p><strong>Distinction</strong>
+</p>
 <p></p>
 </td>
 </tr>
@@ -651,8 +499,10 @@ Solving Category</p>
 <p>IDE Challenge 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vex Category Team Alliance Challenge - 1st and 2nd place</p>
-<p>Vex Category Autonomous Challenge - 1st place</p>
+<p><strong>Vex Category Team Alliance Challenge - 1st and 2nd place</strong>
+</p>
+<p><strong>Vex Category Autonomous Challenge - 1st place</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Arush Oberoi</p>
@@ -793,9 +643,4 @@ Solving Category</p>
 </tbody>
 </table>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 <p></p>
