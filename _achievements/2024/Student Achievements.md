@@ -389,6 +389,111 @@ Solving Category</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Clubs and Societies</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition / Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vex Category Team Alliance Challenge - 1st and 2nd place</p>
+<p>Vex Category Autonomous Challenge - 1st place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Arush Oberoi</p>
+</li>
+<li>
+<p>Teotico Robert Matheus Soriano</p>
+</li>
+<li>
+<p>Liew Hui En Jolie</p>
+</li>
+<li>
+<p>Macayana Zuleika Summer Agamata</p>
+</li>
+<li>
+<p>Zhu Chengyi</p>
+</li>
+<li>
+<p>Xu Weiyue</p>
+</li>
+<li>
+<p>Loke Chiu Yu</p>
+</li>
+<li>
+<p>Contreras Kyle Zachary Pardo</p>
+</li>
+<li>
+<p>Chan Chiu Hang</p>
+</li>
+<li>
+<p>Nur Jian Binte Mohammed Ilmifidri</p>
+</li>
+<li>
+<p>Nur Tiara Eryna Binte Mohammad Afandi</p>
+</li>
+<li>
+<p>Keerthivasan Yokesh</p>
+</li>
+<li>
+<p>Lee Minh Zed</p>
+</li>
+<li>
+<p>Gupta Sara</p>
+</li>
+<li>
+<p>Xing Junming</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Info-Communication Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Platinum</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Woo Yi Kai</p>
+</li>
+</ul>
+<p><strong>Bronze</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Weiyue</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>Others</u></strong>
 </p>
 <table style="minWidth: 75px">
