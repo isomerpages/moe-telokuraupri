@@ -139,6 +139,114 @@ Solving Category</p>
 </tbody>
 </table>
 <h4><strong>CCA Achievements</strong></h4>
+<p><strong>Physical Sports</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competiton / Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPSSC Basketball Senior Division Boys League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Champion</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Senior Boys</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bowling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Quartets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4th Place</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Junior Girls</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPSCC Football Senior Division Girls League B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Champion</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Senior Girls</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bendemeer Secondary School Football Fiesta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2nd Place</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Senior Boys</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5-Duan Sword</p>
+<p>5-Duan Cudgel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4th Place</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Yu Xuan</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>Uniformed Group</u></strong>
 </p>
 <table style="minWidth: 75px">
@@ -252,13 +360,64 @@ Solving Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation for Instrument Ensemble (Choir)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Accomplishment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guzheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation for Instrument Ensemble (Guzheng)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Accomplishment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lion &amp; Dragon Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTU Institutional Lion Dance Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver</strong>
+</p>
+<p><strong>Bronze</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Accomplishment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Indian Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction</p>
+<p><strong>Distinction</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Vrishalie D/O Ramendran</p>
@@ -328,6 +487,46 @@ Solving Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance at Pongal Celebration organised by Eunos Community Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Appreciation</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Alagappan Mahathi Sri</p>
+</li>
+<li>
+<p>Senthi Kaaviya Throwpathi</p>
+</li>
+<li>
+<p>Muhammad Mikhail Daniyal</p>
+</li>
+<li>
+<p>Norathirah Ellmeera</p>
+</li>
+<li>
+<p>Anushka Rai</p>
+</li>
+<li>
+<p>Valiveti Siddharth Sharma</p>
+</li>
+<li>
+<p>M. Vashnavi Raj</p>
+</li>
+<li>
+<p>Soundarajan Yashne</p>
+</li>
+<li>
+<p>K Rithiga</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Malay Dance</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -385,6 +584,17 @@ Solving Category</p>
 <p>Noor Sakina Alisha Binte Abdul Halim</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
