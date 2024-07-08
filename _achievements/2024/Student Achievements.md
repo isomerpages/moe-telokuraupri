@@ -327,6 +327,30 @@ Solving Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross Excellent Unit Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross First Aid Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
