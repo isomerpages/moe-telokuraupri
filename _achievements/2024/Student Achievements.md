@@ -643,9 +643,4 @@ Solving Category</p>
 </tbody>
 </table>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 <p></p>
