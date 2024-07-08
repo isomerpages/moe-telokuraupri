@@ -75,8 +75,8 @@ Solving Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Champion for the Junior Division</strong> Action Plan Presentation
-Category</p>
+<p><strong>2nd Place for the Junior Division</strong> Global Issue Problem
+Solving Category</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Keerthivasan Yokesh(6 EC)</p>
@@ -118,7 +118,22 @@ Category</p>
 <p>Future Problem Solving Programme International Conference 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10th Place Internationally</p>
+<p><strong>10th Place for Junior Category Internationally</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Valiveti Siddharth Sharma (6 EC)</p>
+</li>
+<li>
+<p>Sumaiya Maryum Alam (6 RF)</p>
+</li>
+<li>
+<p>Izag Ziyik Lam (6 RF)</p>
+</li>
+<li>
+<p>Wu Siyuan (6 RF)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
