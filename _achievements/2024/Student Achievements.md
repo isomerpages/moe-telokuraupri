@@ -499,8 +499,10 @@ Solving Category</p>
 <p>IDE Challenge 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vex Category Team Alliance Challenge - 1st and 2nd place</p>
-<p>Vex Category Autonomous Challenge - 1st place</p>
+<p><strong>Vex Category Team Alliance Challenge - 1st and 2nd place</strong>
+</p>
+<p><strong>Vex Category Autonomous Challenge - 1st place</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Arush Oberoi</p>
