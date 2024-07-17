@@ -136,6 +136,61 @@ Solving Category</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cognitive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Science Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Award</strong>
+</p>
+<p>Amolik Prasann</p>
+<p><strong>Bronze Award</strong>
+</p>
+<p>Kaung Khant Min</p>
+<p><strong>Merit Award</strong>
+</p>
+<p>Keshav Nair</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cognitive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+<p>Amolik Prasann</p>
+<p><strong>Silver Award</strong>
+</p>
+<p>Kumar Bhavineshwaran</p>
+<p><strong>Bronze Award</strong>
+</p>
+<p>Huang Ziying</p>
+<p>Kaung Khant Min</p>
+<p>Zequitta Bijay Limbu</p>
+<p><strong>Merit Award</strong>
+</p>
+<p>Ameen Al Anas</p>
+<p>Anahat Singh</p>
+<p>Arvin Chhantyl</p>
+<p>Damien Tan Jun Liang</p>
+<p>Lee Juan Gabriel Pascual</p>
+<p>Liu Chengyi Irene</p>
+<p>Shivaan Jain</p>
+<p>Shreyansh Ranjan</p>
+<p>Singupalli Manjiri</p>
+<p>Sushen Gurung</p>
+<p>Teo Yu Yao Branson</p>
+<p>Teotico Robert Matheus Soriano</p>
+<p>Wu Jingyao</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>CCA Achievements</strong></h4>
