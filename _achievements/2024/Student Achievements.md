@@ -163,8 +163,6 @@ Solving Category</p>
 <p>Singapore Primary Science Olympiad 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Gold Award</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -172,8 +170,6 @@ Solving Category</p>
 <p>Amolik Prasann</p>
 </li>
 </ul>
-</li>
-<li>
 <p><strong>Silver Award</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -181,8 +177,6 @@ Solving Category</p>
 <p>Kumar Bhavineshwaran</p>
 </li>
 </ul>
-</li>
-<li>
 <p><strong>Bronze Award</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -196,11 +190,9 @@ Solving Category</p>
 <p>Zequitta Bijay Limbu</p>
 </li>
 </ul>
-</li>
-<li>
 <p><strong>Merit Award</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Ameen Al Anas</p>
 </li>
