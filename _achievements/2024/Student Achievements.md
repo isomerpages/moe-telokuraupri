@@ -146,13 +146,25 @@ Solving Category</p>
 <td rowspan="1" colspan="1">
 <p><strong>Silver Award</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Amolik Prasann</p>
+</li>
+</ul>
 <p><strong>Bronze Award</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Kaung Khant Min</p>
+</li>
+</ul>
 <p><strong>Merit Award</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Keshav Nair</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
