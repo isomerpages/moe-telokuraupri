@@ -146,13 +146,24 @@ Solving Category</p>
 <td rowspan="1" colspan="1">
 <p><strong>Silver Award</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Amolik Prasann</p>
+</li>
+</ul>
 <p><strong>Bronze Award</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Kaung Khant Min</p>
-<p><strong>Merit Award</strong>
-</p>
+</li>
+<li>
+<p>Merit Award</p>
+</li>
+<li>
 <p>Keshav Nair</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -165,30 +176,74 @@ Solving Category</p>
 <td rowspan="1" colspan="1">
 <p><strong>Gold Award</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Amolik Prasann</p>
+</li>
+</ul>
 <p><strong>Silver Award</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Kumar Bhavineshwaran</p>
+</li>
+</ul>
 <p><strong>Bronze Award</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Huang Ziying</p>
+</li>
+<li>
 <p>Kaung Khant Min</p>
+</li>
+<li>
 <p>Zequitta Bijay Limbu</p>
+</li>
+</ul>
 <p><strong>Merit Award</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Ameen Al Anas</p>
+</li>
+<li>
 <p>Anahat Singh</p>
+</li>
+<li>
 <p>Arvin Chhantyl</p>
+</li>
+<li>
 <p>Damien Tan Jun Liang</p>
+</li>
+<li>
 <p>Lee Juan Gabriel Pascual</p>
+</li>
+<li>
 <p>Liu Chengyi Irene</p>
+</li>
+<li>
 <p>Shivaan Jain</p>
+</li>
+<li>
 <p>Shreyansh Ranjan</p>
+</li>
+<li>
 <p>Singupalli Manjiri</p>
+</li>
+<li>
 <p>Sushen Gurung</p>
+</li>
+<li>
 <p>Teo Yu Yao Branson</p>
+</li>
+<li>
 <p>Teotico Robert Matheus Soriano</p>
+</li>
+<li>
 <p>Wu Jingyao</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
