@@ -157,10 +157,9 @@ Solving Category</p>
 <li>
 <p>Kaung Khant Min</p>
 </li>
-</ul>
-<p><strong>Merit Award</strong>
-</p>
-<ul data-tight="true" class="tight">
+<li>
+<p>Merit Award</p>
+</li>
 <li>
 <p>Keshav Nair</p>
 </li>
