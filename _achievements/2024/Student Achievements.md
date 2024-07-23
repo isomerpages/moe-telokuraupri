@@ -381,7 +381,7 @@ Solving Category</p>
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -428,11 +428,32 @@ Solving Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Puan Noor Aishah Award 2023</p>
+<p>Puan Noor Aishah Award 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold</strong>
 </p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner's Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Badges</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ahamed Abeera Jessy</p>
+</li>
+<li>
+<p>Britney Lee</p>
+</li>
+<li>
+<p>Sarah Banu Muhammad Wassim</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
