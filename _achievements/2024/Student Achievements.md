@@ -381,7 +381,7 @@ Solving Category</p>
 </th>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -405,23 +405,6 @@ Solving Category</p>
 </li>
 <li>
 <p>Hajarah Fathimah</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wee Kim Wee Challenge 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Third Place</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Britney Lee</p>
-</li>
-<li>
-<p>Ho Ping Tenzin Lhamo</p>
 </li>
 </ul>
 </td>
