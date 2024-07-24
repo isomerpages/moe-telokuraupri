@@ -6,7 +6,12 @@ description: ""
 third_nav_title: "2023"
 ---
 <h3><strong><u>2023</u></strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -699,7 +704,12 @@ Ang Yui Nya</p>
 </tbody>
 </table>
 <h4><strong>CCA Achievements</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -785,7 +795,12 @@ Girls</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -853,7 +868,12 @@ Jeffereson</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -943,16 +963,30 @@ competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Brownies </strong>- Wee Kim Wee Challenge 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Third Place -</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Britney Lee</p>
+</li>
+<li>
+<p>Ho Ping Tenzin Lhamo</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
