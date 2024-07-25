@@ -2,15 +2,15 @@ collections:
   partners-and-service-providers:
     output: true
     order:
-      - School Bus Advertisement (2024).md
       - School Advisory Committee.md
       - Parent Support Group.md
       - TKPS Alumni/.keep
       - TKPS Alumni/Teachers' Day Well Wishes.md
-      - Service Providers/Canteen Vendors.md
       - Service Providers/.keep
+      - Service Providers/Canteen Vendors.md
       - Service Providers/Student Care Centre.md
       - Service Providers/School Bookshop.md
       - Service Providers/Uniform Shop.md
       - Service Providers/School Bus Service.md
       - Service Providers/Dental Service.md
+      - School Bus Advertisement (2024).md
