@@ -43,7 +43,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Senior Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,9 +70,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>Special Education Needs Officer</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zarina Bte Abdul Karim</p>
 </td>
@@ -85,6 +82,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Special Education Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Nuraini Nordin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,17 +92,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>250</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Raelene Lee Shu Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>raelene_lee_shu_xuan@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>248</p>
 </td>
 </tr>
 <tr>
