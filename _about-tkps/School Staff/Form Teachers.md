@@ -1096,7 +1096,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P5 Explorer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1120,17 +1120,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>349</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Zhao Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_zhao_lin@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>348</p>
 </td>
 </tr>
 <tr>
