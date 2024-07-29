@@ -785,20 +785,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P4 Inquirer</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Ying Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_ying_hui_a@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>325</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Kelli Goh Chun Ling</p>
 </td>
@@ -825,13 +814,13 @@ variant: tiptap
 <p>P4 Explorer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Mee Lee</p>
+<p>Mr Ng Ying Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liew_mee_lee@moe.edu.sg</p>
+<p>ng_ying_hui_a@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>329</p>
+<p>325</p>
 </td>
 </tr>
 <tr>
