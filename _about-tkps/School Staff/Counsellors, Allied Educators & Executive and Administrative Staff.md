@@ -29,7 +29,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,6 +40,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>245</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Choy Poh Chun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>choy_poh_chun@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>249</p>
 </td>
 </tr>
 <tr>
