@@ -690,6 +690,48 @@ Solving Category</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSTA-DSO-VJC Robotics Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st place</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Anton Munoz Martin</p>
+</li>
+<li>
+<p>Contreras Kyle Zachary Pardo</p>
+</li>
+<li>
+<p>Shaik Arhaan Ahammad</p>
+</li>
+</ul>
+<p></p>
+<p>2nd place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Macayana Maverick Zeroun Agamata</p>
+</li>
+<li>
+<p>Nirvaan Soni</p>
+</li>
+<li>
+<p>Arush Oberoi</p>
+</li>
+<li>
+<p>Teotico Robert Matheus Soriano</p>
+</li>
+<li>
+<p>Teo Yu Yao Branson</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>Others</u></strong>
