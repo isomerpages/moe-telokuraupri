@@ -712,7 +712,8 @@ Solving Category</p>
 </li>
 </ul>
 <p></p>
-<p>2nd place</p>
+<p><strong>2nd place</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Macayana Maverick Zeroun Agamata</p>
