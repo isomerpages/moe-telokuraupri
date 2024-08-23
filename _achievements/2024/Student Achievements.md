@@ -157,9 +157,10 @@ Solving Category</p>
 <li>
 <p>Kaung Khant Min</p>
 </li>
-<li>
-<p>Merit Award</p>
-</li>
+</ul>
+<p><strong>Merit Award</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Keshav Nair</p>
 </li>
@@ -248,7 +249,7 @@ Solving Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cognitive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore &amp; Asian Schools Math Olympiad 2024</p>
@@ -392,7 +393,7 @@ Solving Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cognitive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asia Pacific Mathematical Olympiad For Primary Schools 2024</p>
@@ -413,7 +414,7 @@ Solving Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cognitive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Mathematical Olympiad of Singapore 2024</p>
