@@ -182,27 +182,30 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Amolik Prasann</p>
+<p>Amolik Prasann (P5 RF)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Silver Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kumar Bhavineshwaran</p>
+<p>Kumar Bhavineshwaran (P5 EC)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Bronze Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Huang Ziying</p>
+<p>Huang Ziying (P5 EC)</p>
 </li>
 <li>
-<p>Kaung Khant Min</p>
+<p>Kaung Khant Min (P5 RF)</p>
 </li>
 <li>
-<p>Zequitta Bijay Limbu</p>
+<p>Zequitta Bijay Limbu (P5 RF)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Merit Award</strong>
