@@ -428,6 +428,65 @@ Solving Category</p>
 <p>National Mathematical Olympiad of Singapore 2024</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Amolik Prasann</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Bronze Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Anahat Singh</p>
+</li>
+<li>
+<p>Keshav Nair</p>
+</li>
+<li>
+<p>Shreyansh Ranjan</p>
+</li>
+<li>
+<p>Teotico Robert Matheus Soriano</p>
+</li>
+<li>
+<p>Ameen Al Anas</p>
+</li>
+<li>
+<p>Kaung Khant Min</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Honorable Mention</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Arulkumaran Vasudev</p>
+</li>
+<li>
+<p>Azlan Ahamed Bin Umaral Hameed</p>
+</li>
+<li>
+<p>Dhruv Deep</p>
+</li>
+<li>
+<p>Kumar Bhavineshwaran</p>
+</li>
+<li>
+<p>Saanvi Sharma</p>
+</li>
+<li>
+<p>Wu Jingyao</p>
+</li>
+<li>
+<p>Jeremy Loh Kai Kit</p>
+</li>
+<li>
+<p>Singh Amish Kumar</p>
+</li>
+</ul>
 <p></p>
 </td>
 </tr>
