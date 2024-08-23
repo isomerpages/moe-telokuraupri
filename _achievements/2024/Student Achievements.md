@@ -399,6 +399,27 @@ Solving Category</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asia Pacific Mathematical Olympiad For Primary Schools 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tang Haokai</p>
+</li>
+<li>
+<p>Zhu Chengyi</p>
+</li>
+</ul>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>CCA Achievements</strong></h4>
