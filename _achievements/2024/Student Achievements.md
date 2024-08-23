@@ -304,6 +304,49 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Kamya Thakur (P6 IQ)</p>
+</li>
+<li>
+<p>Shi Yaoxiong (P6 EC)</p>
+</li>
+<li>
+<p>Ye Zhi Yan Pansy (P6 EC)</p>
+</li>
+<li>
+<p>Wang Guanlin (P6 RF)</p>
+</li>
+<li>
+<p>Zhu Chengyi (P6 EC)</p>
+</li>
+<li>
+<p>Gupta Sara (P6 RF)</p>
+</li>
+<li>
+<p>Wu Siyuan (P6 RF)</p>
+</li>
+<li>
+<p>Khalif Arka Waluya (P6 EC)</p>
+</li>
+<li>
+<p>Pan Yifei (P5 RF)</p>
+</li>
+<li>
+<p>Kumar Bhavineshwaran (P5 EC)</p>
+</li>
+<li>
+<p>Shivaan Jain (P5 EC)</p>
+</li>
+<li>
+<p>Shah Sparsh Shoureen (P4 RF)</p>
+</li>
+<li>
+<p>Chavez See (P4 LN)</p>
+</li>
+<li>
+<p>Hua Puze (P4 RF)</p>
+</li>
+<li>
+<p>Peng Ziqi (P4 RF)</p>
 <p></p>
 <p></p>
 </li>
