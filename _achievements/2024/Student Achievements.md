@@ -454,28 +454,28 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Arulkumaran Vasudev</p>
+<p>Arulkumaran Vasudev (P5 EC)</p>
 </li>
 <li>
-<p>Azlan Ahamed Bin Umaral Hameed</p>
+<p>Azlan Ahamed Bin Umaral Hameed (P5 EC)</p>
 </li>
 <li>
-<p>Dhruv Deep</p>
+<p>Dhruv Deep (P5 EC)</p>
 </li>
 <li>
-<p>Kumar Bhavineshwaran</p>
+<p>Kumar Bhavineshwaran (P5 EC)</p>
 </li>
 <li>
-<p>Saanvi Sharma</p>
+<p>Saanvi Sharma (P5 RF)</p>
 </li>
 <li>
-<p>Wu Jingyao</p>
+<p>Wu Jingyao (P5 RF)</p>
 </li>
 <li>
-<p>Jeremy Loh Kai Kit</p>
+<p>Jeremy Loh Kai Kit (P5 RF)</p>
 </li>
 <li>
-<p>Singh Amish Kumar</p>
+<p>Singh Amish Kumar (P5 RF)</p>
 </li>
 </ul>
 <p></p>
