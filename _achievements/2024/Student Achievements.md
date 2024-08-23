@@ -251,7 +251,7 @@ Solving Category</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore &amp; Asian Schools Math Olympiad 2024</p>
+<p>Singapore &amp; Asian Schools Math Olympiad 2024 (P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold Award</strong>
@@ -312,6 +312,24 @@ Solving Category</p>
 <p>Xu Weiyue</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore &amp; Asian Schools Math Olympiad 2024 (P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+<p><strong>SIlver Award</strong>
+</p>
+<p><strong>Bronze Award</strong>
+</p>
+<p><strong>Honorable Mention</strong>
+</p>
 </td>
 </tr>
 </tbody>
