@@ -39,16 +39,16 @@ third_nav_title: "2024"
 Category</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Keerthivasan Yokesh(6 EC)</p>
+<p>Keerthivasan Yokesh (P6 EC)</p>
 </li>
 <li>
-<p>Xing Junming (6 RF)</p>
+<p>Xing Junming (P6 RF)</p>
 </li>
 <li>
-<p>Akshit Nanda (6 SN)</p>
+<p>Akshit Nanda (P6 SN)</p>
 </li>
 <li>
-<p>Ashton Teo Zhi Han (6 SN)</p>
+<p>Ashton Teo Zhi Han (P6 SN)</p>
 </li>
 </ul>
 </td>
@@ -59,16 +59,16 @@ Category</p>
 Solving Category</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Valiveti Siddharth Sharma (6 EC)</p>
+<p>Valiveti Siddharth Sharma (P6 EC)</p>
 </li>
 <li>
-<p>Sumaiya Maryum Alam (6 RF)</p>
+<p>Sumaiya Maryum Alam (P6 RF)</p>
 </li>
 <li>
-<p>Izag Ziyik Lam (6 RF)</p>
+<p>Izag Ziyik Lam (P6 RF)</p>
 </li>
 <li>
-<p>Wu Siyuan (6 RF)</p>
+<p>Wu Siyuan (P6 RF)</p>
 </li>
 </ul>
 </td>
@@ -79,16 +79,16 @@ Solving Category</p>
 Solving Category</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Keerthivasan Yokesh(6 EC)</p>
+<p>Keerthivasan Yokesh(P6 EC)</p>
 </li>
 <li>
-<p>Xing Junming (6 RF)</p>
+<p>Xing Junming (P6 RF)</p>
 </li>
 <li>
-<p>Akshit Nanda (6 SN)</p>
+<p>Akshit Nanda (P6 SN)</p>
 </li>
 <li>
-<p>Ashton Teo Zhi Han (6 SN)</p>
+<p>Ashton Teo Zhi Han (P6 SN)</p>
 </li>
 </ul>
 </td>
@@ -105,7 +105,7 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chen Zexu 陈泽旭 (6 IQ)</p>
+<p>Chen Zexu 陈泽旭 (P6 IQ)</p>
 </li>
 </ul>
 </td>
@@ -122,16 +122,16 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Valiveti Siddharth Sharma (6 EC)</p>
+<p>Valiveti Siddharth Sharma (P6 EC)</p>
 </li>
 <li>
-<p>Sumaiya Maryum Alam (6 RF)</p>
+<p>Sumaiya Maryum Alam (P6 RF)</p>
 </li>
 <li>
-<p>Izag Ziyik Lam (6 RF)</p>
+<p>Izag Ziyik Lam (P6 RF)</p>
 </li>
 <li>
-<p>Wu Siyuan (6 RF)</p>
+<p>Wu Siyuan (P6 RF)</p>
 </li>
 </ul>
 </td>
@@ -148,21 +148,24 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Amolik Prasann</p>
+<p>Amolik Prasann (P5 RF)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Bronze Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kaung Khant Min</p>
+<p>Kaung Khant Min (P5 RF)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Merit Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Keshav Nair</p>
+<p>Keshav Nair (P5 EC)</p>
+<p></p>
 </li>
 </ul>
 </td>
