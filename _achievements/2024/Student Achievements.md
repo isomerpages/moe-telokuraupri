@@ -212,43 +212,43 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ameen Al Anas</p>
+<p>Ameen Al Anas (P5 RF)</p>
 </li>
 <li>
-<p>Anahat Singh</p>
+<p>Anahat Singh (P5 EC)</p>
 </li>
 <li>
-<p>Arvin Chhantyl</p>
+<p>Arvin Chhantyl (P5 EC)</p>
 </li>
 <li>
-<p>Damien Tan Jun Liang</p>
+<p>Damien Tan Jun Liang (P5 RF)</p>
 </li>
 <li>
-<p>Lee Juan Gabriel Pascual</p>
+<p>Lee Juan Gabriel Pascual (P5 RF)</p>
 </li>
 <li>
-<p>Liu Chengyi Irene</p>
+<p>Liu Chengyi Irene (P5 EC)</p>
 </li>
 <li>
-<p>Shivaan Jain</p>
+<p>Shivaan Jain (P5 EC)</p>
 </li>
 <li>
-<p>Shreyansh Ranjan</p>
+<p>Shreyansh Ranjan (P5 EC)</p>
 </li>
 <li>
-<p>Singupalli Manjiri</p>
+<p>Singupalli Manjiri (P5 RF)</p>
 </li>
 <li>
-<p>Sushen Gurung</p>
+<p>Sushen Gurung (P5 RF)</p>
 </li>
 <li>
-<p>Teo Yu Yao Branson</p>
+<p>Teo Yu Yao Branson (P5 RF)</p>
 </li>
 <li>
-<p>Teotico Robert Matheus Soriano</p>
+<p>Teotico Robert Matheus Soriano (P5 EC)</p>
 </li>
 <li>
-<p>Wu Jingyao</p>
+<p>Wu Jingyao (P5 RF)</p>
 </li>
 </ul>
 </td>
