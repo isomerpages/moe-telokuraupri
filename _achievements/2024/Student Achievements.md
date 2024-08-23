@@ -670,13 +670,13 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ahamed Abeera Jessy</p>
+<p>Ahamed Abeera Jessy (P6 EC)</p>
 </li>
 <li>
-<p>Britney Lee</p>
+<p>Britney Lee (P6 IQ)</p>
 </li>
 <li>
-<p>Sarah Banu Muhammad Wassim</p>
+<p>Sarah Banu Muhammad Wassim (P6 IQ)</p>
 </li>
 </ul>
 </td>
