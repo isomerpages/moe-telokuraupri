@@ -348,13 +348,43 @@ Solving Category</p>
 <li>
 <p>Peng Ziqi (P4 RF)</p>
 <p></p>
-<p></p>
 </li>
 </ul>
 <p><strong>Honorable Mention</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Xu Weiyue (P6 RF)</p>
+</li>
+<li>
+<p>Liau Yi Hsuen (P5 SN)</p>
+</li>
+<li>
+<p>Dhruv Deep (P5 EC)</p>
+</li>
+<li>
+<p>Arulkumaran Vasudev (P5 EC)</p>
+</li>
+<li>
+<p>Damien Tan Jun Liang (P5 RF)</p>
+</li>
+<li>
+<p>Teo Yu Yao Branson (P5 RF)</p>
+</li>
+<li>
+<p>Calen Seet Ti Seng (P4 EC)</p>
+</li>
+<li>
+<p>Airyl Firdaus Bin Fairul Affandy (P4 RF)</p>
+</li>
+<li>
+<p>Prajwal Nandy (P4 SN)</p>
+</li>
+<li>
+<p>Muruganandam Krishwin (P4 EC)</p>
+</li>
+<li>
+<p>Mirza Huzaifa Bin Muhammad Raffi (P4 SN)</p>
 <p></p>
 <p></p>
 </li>
