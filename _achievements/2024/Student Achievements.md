@@ -260,6 +260,25 @@ Solving Category</p>
 <li>
 <p>Tang Haokai</p>
 </li>
+<li>
+<p>Amolik Prasann</p>
+</li>
+<li>
+<p>Keshav Nair</p>
+</li>
+<li>
+<p>Kaung Khant Min</p>
+</li>
+<li>
+<p>Anahat Singh</p>
+</li>
+<li>
+<p>Li Mingxuan</p>
+</li>
+<li>
+<p>Dong Xiyao</p>
+<p></p>
+</li>
 </ul>
 <p><strong>Silver Award</strong>
 </p>
@@ -275,6 +294,19 @@ Solving Category</p>
 </li>
 <li>
 <p>Hong Deqin</p>
+</li>
+<li>
+<p>Keshav Nair</p>
+</li>
+<li>
+<p>Kaung Khant Min</p>
+</li>
+<li>
+<p>Anahat Singh</p>
+</li>
+<li>
+<p>Kaung Khant Ko</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Bronze Award</strong>
@@ -304,6 +336,28 @@ Solving Category</p>
 <li>
 <p>Khalif Arka Waluya</p>
 </li>
+<li>
+<p>Pan Yifei</p>
+</li>
+<li>
+<p>Kumar Bhavineshwaran</p>
+</li>
+<li>
+<p>Shivaan Jain</p>
+</li>
+<li>
+<p>Shah Sparsh Shoureen</p>
+</li>
+<li>
+<p>Chavez See</p>
+</li>
+<li>
+<p>Hua Puze</p>
+</li>
+<li>
+<p>Peng Ziqi</p>
+<p></p>
+</li>
 </ul>
 <p><strong>Honorable Mention</strong>
 </p>
@@ -312,24 +366,6 @@ Solving Category</p>
 <p>Xu Weiyue</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore &amp; Asian Schools Math Olympiad 2024 (P5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold Award</strong>
-</p>
-<p><strong>SIlver Award</strong>
-</p>
-<p><strong>Bronze Award</strong>
-</p>
-<p><strong>Honorable Mention</strong>
-</p>
 </td>
 </tr>
 </tbody>
