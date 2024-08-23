@@ -402,10 +402,10 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tang Haokai</p>
+<p>Tang Haokai (P6 SN)</p>
 </li>
 <li>
-<p>Zhu Chengyi</p>
+<p>Zhu Chengyi (P6 EC)</p>
 </li>
 </ul>
 <p></p>
@@ -423,7 +423,7 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Amolik Prasann</p>
+<p>Amolik Prasann (P5 RF)</p>
 </li>
 </ul>
 <p></p>
@@ -431,22 +431,22 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Anahat Singh</p>
+<p>Anahat Singh (P5 EC)</p>
 </li>
 <li>
-<p>Keshav Nair</p>
+<p>Keshav Nair (P5 EC)</p>
 </li>
 <li>
-<p>Shreyansh Ranjan</p>
+<p>Shreyansh Ranjan (P5 EC)</p>
 </li>
 <li>
-<p>Teotico Robert Matheus Soriano</p>
+<p>Teotico Robert Matheus Soriano (P5 EC)</p>
 </li>
 <li>
-<p>Ameen Al Anas</p>
+<p>Ameen Al Anas (P5 RF)</p>
 </li>
 <li>
-<p>Kaung Khant Min</p>
+<p>Kaung Khant Min (P5 RF)</p>
 </li>
 </ul>
 <p></p>
