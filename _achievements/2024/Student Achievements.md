@@ -251,32 +251,23 @@ Solving Category</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore &amp; Asian Schools Math Olympiad 2024 (P6)</p>
+<p>Singapore &amp; Asian Schools Math Olympiad 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tang Haokai</p>
+<p>Tang Haokai (P6 SN)</p>
 </li>
 <li>
-<p>Amolik Prasann</p>
+<p>Amolik Prasann (P5 RF)</p>
 </li>
 <li>
-<p>Keshav Nair</p>
+<p>Li Mingxuan (P4 SN)</p>
 </li>
 <li>
-<p>Kaung Khant Min</p>
-</li>
-<li>
-<p>Anahat Singh</p>
-</li>
-<li>
-<p>Li Mingxuan</p>
-</li>
-<li>
-<p>Dong Xiyao</p>
+<p>Dong Xiyao (P4 EC)</p>
 <p></p>
 </li>
 </ul>
@@ -284,28 +275,28 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Izag Ziyik Lam</p>
+<p>Izag Ziyik Lam (P6 RF)</p>
 </li>
 <li>
-<p>Wang Siran</p>
+<p>Wang Siran (P6 SN)</p>
 </li>
 <li>
-<p>Fang Junhao</p>
+<p>Fang Junhao (P6 EC)</p>
 </li>
 <li>
-<p>Hong Deqin</p>
+<p>Hong Deqin (P6 SN)</p>
 </li>
 <li>
-<p>Keshav Nair</p>
+<p>Keshav Nair (P5 EC)</p>
 </li>
 <li>
-<p>Kaung Khant Min</p>
+<p>Kaung Khant Min (P5 RF)</p>
 </li>
 <li>
-<p>Anahat Singh</p>
+<p>Anahat Singh (P5 EC)</p>
 </li>
 <li>
-<p>Kaung Khant Ko</p>
+<p>Kaung Khant Ko (P4 SN)</p>
 <p></p>
 </li>
 </ul>
@@ -313,49 +304,7 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kamya Thakur</p>
-</li>
-<li>
-<p>Shi Yaoxiong</p>
-</li>
-<li>
-<p>Ye Zhi Yan Pansy</p>
-</li>
-<li>
-<p>Wang Guanlin</p>
-</li>
-<li>
-<p>Zhu Chengyi</p>
-</li>
-<li>
-<p>Gupta Sara</p>
-</li>
-<li>
-<p>Wu Siyuan</p>
-</li>
-<li>
-<p>Khalif Arka Waluya</p>
-</li>
-<li>
-<p>Pan Yifei</p>
-</li>
-<li>
-<p>Kumar Bhavineshwaran</p>
-</li>
-<li>
-<p>Shivaan Jain</p>
-</li>
-<li>
-<p>Shah Sparsh Shoureen</p>
-</li>
-<li>
-<p>Chavez See</p>
-</li>
-<li>
-<p>Hua Puze</p>
-</li>
-<li>
-<p>Peng Ziqi</p>
+<p></p>
 <p></p>
 </li>
 </ul>
@@ -363,37 +312,7 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Xu Weiyue</p>
-</li>
-<li>
-<p>Liau Yi Hsuen</p>
-</li>
-<li>
-<p>Dhruv Deep</p>
-</li>
-<li>
-<p>Arulkumaran Vasudev</p>
-</li>
-<li>
-<p>Damien Tan Jun Liang</p>
-</li>
-<li>
-<p>Teo Yu Yao Branson</p>
-</li>
-<li>
-<p>Calen Seet Ti Seng</p>
-</li>
-<li>
-<p>Airyl Firdaus Bin Fairul Affandy</p>
-</li>
-<li>
-<p>Prajwal Nandy</p>
-</li>
-<li>
-<p>Muruganandam Krishwin</p>
-</li>
-<li>
-<p>Mirza Huzaifa Bin Muhammad Raffi</p>
+<p></p>
 <p></p>
 </li>
 </ul>
