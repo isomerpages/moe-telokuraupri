@@ -246,6 +246,250 @@ Solving Category</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore &amp; Asian Schools Math Olympiad 2024 (P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tang Haokai</p>
+</li>
+<li>
+<p>Amolik Prasann</p>
+</li>
+<li>
+<p>Keshav Nair</p>
+</li>
+<li>
+<p>Kaung Khant Min</p>
+</li>
+<li>
+<p>Anahat Singh</p>
+</li>
+<li>
+<p>Li Mingxuan</p>
+</li>
+<li>
+<p>Dong Xiyao</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Silver Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Izag Ziyik Lam</p>
+</li>
+<li>
+<p>Wang Siran</p>
+</li>
+<li>
+<p>Fang Junhao</p>
+</li>
+<li>
+<p>Hong Deqin</p>
+</li>
+<li>
+<p>Keshav Nair</p>
+</li>
+<li>
+<p>Kaung Khant Min</p>
+</li>
+<li>
+<p>Anahat Singh</p>
+</li>
+<li>
+<p>Kaung Khant Ko</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Bronze Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kamya Thakur</p>
+</li>
+<li>
+<p>Shi Yaoxiong</p>
+</li>
+<li>
+<p>Ye Zhi Yan Pansy</p>
+</li>
+<li>
+<p>Wang Guanlin</p>
+</li>
+<li>
+<p>Zhu Chengyi</p>
+</li>
+<li>
+<p>Gupta Sara</p>
+</li>
+<li>
+<p>Wu Siyuan</p>
+</li>
+<li>
+<p>Khalif Arka Waluya</p>
+</li>
+<li>
+<p>Pan Yifei</p>
+</li>
+<li>
+<p>Kumar Bhavineshwaran</p>
+</li>
+<li>
+<p>Shivaan Jain</p>
+</li>
+<li>
+<p>Shah Sparsh Shoureen</p>
+</li>
+<li>
+<p>Chavez See</p>
+</li>
+<li>
+<p>Hua Puze</p>
+</li>
+<li>
+<p>Peng Ziqi</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Honorable Mention</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Weiyue</p>
+</li>
+<li>
+<p>Liau Yi Hsuen</p>
+</li>
+<li>
+<p>Dhruv Deep</p>
+</li>
+<li>
+<p>Arulkumaran Vasudev</p>
+</li>
+<li>
+<p>Damien Tan Jun Liang</p>
+</li>
+<li>
+<p>Teo Yu Yao Branson</p>
+</li>
+<li>
+<p>Calen Seet Ti Seng</p>
+</li>
+<li>
+<p>Airyl Firdaus Bin Fairul Affandy</p>
+</li>
+<li>
+<p>Prajwal Nandy</p>
+</li>
+<li>
+<p>Muruganandam Krishwin</p>
+</li>
+<li>
+<p>Mirza Huzaifa Bin Muhammad Raffi</p>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asia Pacific Mathematical Olympiad For Primary Schools 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tang Haokai</p>
+</li>
+<li>
+<p>Zhu Chengyi</p>
+</li>
+</ul>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Mathematical Olympiad of Singapore 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Amolik Prasann</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Bronze Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Anahat Singh</p>
+</li>
+<li>
+<p>Keshav Nair</p>
+</li>
+<li>
+<p>Shreyansh Ranjan</p>
+</li>
+<li>
+<p>Teotico Robert Matheus Soriano</p>
+</li>
+<li>
+<p>Ameen Al Anas</p>
+</li>
+<li>
+<p>Kaung Khant Min</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Honorable Mention</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Arulkumaran Vasudev</p>
+</li>
+<li>
+<p>Azlan Ahamed Bin Umaral Hameed</p>
+</li>
+<li>
+<p>Dhruv Deep</p>
+</li>
+<li>
+<p>Kumar Bhavineshwaran</p>
+</li>
+<li>
+<p>Saanvi Sharma</p>
+</li>
+<li>
+<p>Wu Jingyao</p>
+</li>
+<li>
+<p>Jeremy Loh Kai Kit</p>
+</li>
+<li>
+<p>Singh Amish Kumar</p>
+</li>
+</ul>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>CCA Achievements</strong></h4>
