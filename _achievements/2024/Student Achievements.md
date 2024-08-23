@@ -386,7 +386,6 @@ Solving Category</p>
 <li>
 <p>Mirza Huzaifa Bin Muhammad Raffi (P4 SN)</p>
 <p></p>
-<p></p>
 </li>
 </ul>
 </td>
