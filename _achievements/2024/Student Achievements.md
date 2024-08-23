@@ -365,6 +365,37 @@ Solving Category</p>
 <li>
 <p>Xu Weiyue</p>
 </li>
+<li>
+<p>Liau Yi Hsuen</p>
+</li>
+<li>
+<p>Dhruv Deep</p>
+</li>
+<li>
+<p>Arulkumaran Vasudev</p>
+</li>
+<li>
+<p>Damien Tan Jun Liang</p>
+</li>
+<li>
+<p>Teo Yu Yao Branson</p>
+</li>
+<li>
+<p>Calen Seet Ti Seng</p>
+</li>
+<li>
+<p>Airyl Firdaus Bin Fairul Affandy</p>
+</li>
+<li>
+<p>Prajwal Nandy</p>
+</li>
+<li>
+<p>Muruganandam Krishwin</p>
+</li>
+<li>
+<p>Mirza Huzaifa Bin Muhammad Raffi</p>
+<p></p>
+</li>
 </ul>
 </td>
 </tr>
