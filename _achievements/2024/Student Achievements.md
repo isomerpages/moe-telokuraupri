@@ -246,6 +246,74 @@ Solving Category</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore &amp; Asian Schools Math Olympiad 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tang Haokai</p>
+</li>
+</ul>
+<p><strong>Silver Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Izag Ziyik Lam</p>
+</li>
+<li>
+<p>Wang Siran</p>
+</li>
+<li>
+<p>Fang Junhao</p>
+</li>
+<li>
+<p>Hong Deqin</p>
+</li>
+</ul>
+<p><strong>Bronze Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kamya Thakur</p>
+</li>
+<li>
+<p>Shi Yaoxiong</p>
+</li>
+<li>
+<p>Ye Zhi Yan Pansy</p>
+</li>
+<li>
+<p>Wang Guanlin</p>
+</li>
+<li>
+<p>Zhu Chengyi</p>
+</li>
+<li>
+<p>Gupta Sara</p>
+</li>
+<li>
+<p>Wu Siyuan</p>
+</li>
+<li>
+<p>Khalif Arka Waluya</p>
+</li>
+</ul>
+<p><strong>Honorable Mention</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Weiyue</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>CCA Achievements</strong></h4>
