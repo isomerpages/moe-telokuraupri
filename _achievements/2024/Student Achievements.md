@@ -39,16 +39,16 @@ third_nav_title: "2024"
 Category</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Keerthivasan Yokesh(6 EC)</p>
+<p>Keerthivasan Yokesh (P6 EC)</p>
 </li>
 <li>
-<p>Xing Junming (6 RF)</p>
+<p>Xing Junming (P6 RF)</p>
 </li>
 <li>
-<p>Akshit Nanda (6 SN)</p>
+<p>Akshit Nanda (P6 SN)</p>
 </li>
 <li>
-<p>Ashton Teo Zhi Han (6 SN)</p>
+<p>Ashton Teo Zhi Han (P6 SN)</p>
 </li>
 </ul>
 </td>
@@ -59,16 +59,16 @@ Category</p>
 Solving Category</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Valiveti Siddharth Sharma (6 EC)</p>
+<p>Valiveti Siddharth Sharma (P6 EC)</p>
 </li>
 <li>
-<p>Sumaiya Maryum Alam (6 RF)</p>
+<p>Sumaiya Maryum Alam (P6 RF)</p>
 </li>
 <li>
-<p>Izag Ziyik Lam (6 RF)</p>
+<p>Izag Ziyik Lam (P6 RF)</p>
 </li>
 <li>
-<p>Wu Siyuan (6 RF)</p>
+<p>Wu Siyuan (P6 RF)</p>
 </li>
 </ul>
 </td>
@@ -79,16 +79,16 @@ Solving Category</p>
 Solving Category</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Keerthivasan Yokesh(6 EC)</p>
+<p>Keerthivasan Yokesh(P6 EC)</p>
 </li>
 <li>
-<p>Xing Junming (6 RF)</p>
+<p>Xing Junming (P6 RF)</p>
 </li>
 <li>
-<p>Akshit Nanda (6 SN)</p>
+<p>Akshit Nanda (P6 SN)</p>
 </li>
 <li>
-<p>Ashton Teo Zhi Han (6 SN)</p>
+<p>Ashton Teo Zhi Han (P6 SN)</p>
 </li>
 </ul>
 </td>
@@ -105,7 +105,7 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chen Zexu 陈泽旭 (6 IQ)</p>
+<p>Chen Zexu 陈泽旭 (P6 IQ)</p>
 </li>
 </ul>
 </td>
@@ -122,16 +122,16 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Valiveti Siddharth Sharma (6 EC)</p>
+<p>Valiveti Siddharth Sharma (P6 EC)</p>
 </li>
 <li>
-<p>Sumaiya Maryum Alam (6 RF)</p>
+<p>Sumaiya Maryum Alam (P6 RF)</p>
 </li>
 <li>
-<p>Izag Ziyik Lam (6 RF)</p>
+<p>Izag Ziyik Lam (P6 RF)</p>
 </li>
 <li>
-<p>Wu Siyuan (6 RF)</p>
+<p>Wu Siyuan (P6 RF)</p>
 </li>
 </ul>
 </td>
@@ -148,20 +148,24 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Amolik Prasann</p>
+<p>Amolik Prasann (P5 RF)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Bronze Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kaung Khant Min</p>
+<p>Kaung Khant Min (P5 RF)</p>
+<p></p>
 </li>
+</ul>
+<p><strong>Merit Award</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Merit Award</p>
-</li>
-<li>
-<p>Keshav Nair</p>
+<p>Keshav Nair (P5 EC)</p>
+<p></p>
 </li>
 </ul>
 </td>
@@ -178,105 +182,99 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Amolik Prasann</p>
+<p>Amolik Prasann (P5 RF)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Silver Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kumar Bhavineshwaran</p>
+<p>Kumar Bhavineshwaran (P5 EC)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Bronze Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Huang Ziying</p>
+<p>Huang Ziying (P5 EC)</p>
 </li>
 <li>
-<p>Kaung Khant Min</p>
+<p>Kaung Khant Min (P5 RF)</p>
 </li>
 <li>
-<p>Zequitta Bijay Limbu</p>
+<p>Zequitta Bijay Limbu (P5 RF)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Merit Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ameen Al Anas</p>
+<p>Ameen Al Anas (P5 RF)</p>
 </li>
 <li>
-<p>Anahat Singh</p>
+<p>Anahat Singh (P5 EC)</p>
 </li>
 <li>
-<p>Arvin Chhantyl</p>
+<p>Arvin Chhantyl (P5 EC)</p>
 </li>
 <li>
-<p>Damien Tan Jun Liang</p>
+<p>Damien Tan Jun Liang (P5 RF)</p>
 </li>
 <li>
-<p>Lee Juan Gabriel Pascual</p>
+<p>Lee Juan Gabriel Pascual (P5 RF)</p>
 </li>
 <li>
-<p>Liu Chengyi Irene</p>
+<p>Liu Chengyi Irene (P5 EC)</p>
 </li>
 <li>
-<p>Shivaan Jain</p>
+<p>Shivaan Jain (P5 EC)</p>
 </li>
 <li>
-<p>Shreyansh Ranjan</p>
+<p>Shreyansh Ranjan (P5 EC)</p>
 </li>
 <li>
-<p>Singupalli Manjiri</p>
+<p>Singupalli Manjiri (P5 RF)</p>
 </li>
 <li>
-<p>Sushen Gurung</p>
+<p>Sushen Gurung (P5 RF)</p>
 </li>
 <li>
-<p>Teo Yu Yao Branson</p>
+<p>Teo Yu Yao Branson (P5 RF)</p>
 </li>
 <li>
-<p>Teotico Robert Matheus Soriano</p>
+<p>Teotico Robert Matheus Soriano (P5 EC)</p>
 </li>
 <li>
-<p>Wu Jingyao</p>
+<p>Wu Jingyao (P5 RF)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cognitive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore &amp; Asian Schools Math Olympiad 2024 (P6)</p>
+<p>Singapore &amp; Asian Schools Math Olympiad 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tang Haokai</p>
+<p>Tang Haokai (P6 SN)</p>
 </li>
 <li>
-<p>Amolik Prasann</p>
+<p>Amolik Prasann (P5 RF)</p>
 </li>
 <li>
-<p>Keshav Nair</p>
+<p>Li Mingxuan (P4 SN)</p>
 </li>
 <li>
-<p>Kaung Khant Min</p>
-</li>
-<li>
-<p>Anahat Singh</p>
-</li>
-<li>
-<p>Li Mingxuan</p>
-</li>
-<li>
-<p>Dong Xiyao</p>
+<p>Dong Xiyao (P4 EC)</p>
 <p></p>
 </li>
 </ul>
@@ -284,28 +282,28 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Izag Ziyik Lam</p>
+<p>Izag Ziyik Lam (P6 RF)</p>
 </li>
 <li>
-<p>Wang Siran</p>
+<p>Wang Siran (P6 SN)</p>
 </li>
 <li>
-<p>Fang Junhao</p>
+<p>Fang Junhao (P6 EC)</p>
 </li>
 <li>
-<p>Hong Deqin</p>
+<p>Hong Deqin (P6 SN)</p>
 </li>
 <li>
-<p>Keshav Nair</p>
+<p>Keshav Nair (P5 EC)</p>
 </li>
 <li>
-<p>Kaung Khant Min</p>
+<p>Kaung Khant Min (P5 RF)</p>
 </li>
 <li>
-<p>Anahat Singh</p>
+<p>Anahat Singh (P5 EC)</p>
 </li>
 <li>
-<p>Kaung Khant Ko</p>
+<p>Kaung Khant Ko (P4 SN)</p>
 <p></p>
 </li>
 </ul>
@@ -313,49 +311,49 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kamya Thakur</p>
+<p>Kamya Thakur (P6 IQ)</p>
 </li>
 <li>
-<p>Shi Yaoxiong</p>
+<p>Shi Yaoxiong (P6 EC)</p>
 </li>
 <li>
-<p>Ye Zhi Yan Pansy</p>
+<p>Ye Zhi Yan Pansy (P6 EC)</p>
 </li>
 <li>
-<p>Wang Guanlin</p>
+<p>Wang Guanlin (P6 RF)</p>
 </li>
 <li>
-<p>Zhu Chengyi</p>
+<p>Zhu Chengyi (P6 EC)</p>
 </li>
 <li>
-<p>Gupta Sara</p>
+<p>Gupta Sara (P6 RF)</p>
 </li>
 <li>
-<p>Wu Siyuan</p>
+<p>Wu Siyuan (P6 RF)</p>
 </li>
 <li>
-<p>Khalif Arka Waluya</p>
+<p>Khalif Arka Waluya (P6 EC)</p>
 </li>
 <li>
-<p>Pan Yifei</p>
+<p>Pan Yifei (P5 RF)</p>
 </li>
 <li>
-<p>Kumar Bhavineshwaran</p>
+<p>Kumar Bhavineshwaran (P5 EC)</p>
 </li>
 <li>
-<p>Shivaan Jain</p>
+<p>Shivaan Jain (P5 EC)</p>
 </li>
 <li>
-<p>Shah Sparsh Shoureen</p>
+<p>Shah Sparsh Shoureen (P4 RF)</p>
 </li>
 <li>
-<p>Chavez See</p>
+<p>Chavez See (P4 LN)</p>
 </li>
 <li>
-<p>Hua Puze</p>
+<p>Hua Puze (P4 RF)</p>
 </li>
 <li>
-<p>Peng Ziqi</p>
+<p>Peng Ziqi (P4 RF)</p>
 <p></p>
 </li>
 </ul>
@@ -363,37 +361,37 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Xu Weiyue</p>
+<p>Xu Weiyue (P6 RF)</p>
 </li>
 <li>
-<p>Liau Yi Hsuen</p>
+<p>Liau Yi Hsuen (P5 SN)</p>
 </li>
 <li>
-<p>Dhruv Deep</p>
+<p>Dhruv Deep (P5 EC)</p>
 </li>
 <li>
-<p>Arulkumaran Vasudev</p>
+<p>Arulkumaran Vasudev (P5 EC)</p>
 </li>
 <li>
-<p>Damien Tan Jun Liang</p>
+<p>Damien Tan Jun Liang (P5 RF)</p>
 </li>
 <li>
-<p>Teo Yu Yao Branson</p>
+<p>Teo Yu Yao Branson (P5 RF)</p>
 </li>
 <li>
-<p>Calen Seet Ti Seng</p>
+<p>Calen Seet Ti Seng (P4 EC)</p>
 </li>
 <li>
-<p>Airyl Firdaus Bin Fairul Affandy</p>
+<p>Airyl Firdaus Bin Fairul Affandy (P4 RF)</p>
 </li>
 <li>
-<p>Prajwal Nandy</p>
+<p>Prajwal Nandy (P4 SN)</p>
 </li>
 <li>
-<p>Muruganandam Krishwin</p>
+<p>Muruganandam Krishwin (P4 EC)</p>
 </li>
 <li>
-<p>Mirza Huzaifa Bin Muhammad Raffi</p>
+<p>Mirza Huzaifa Bin Muhammad Raffi (P4 SN)</p>
 <p></p>
 </li>
 </ul>
@@ -401,7 +399,7 @@ Solving Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cognitive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asia Pacific Mathematical Olympiad For Primary Schools 2024</p>
@@ -411,10 +409,10 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tang Haokai</p>
+<p>Tang Haokai (P6 SN)</p>
 </li>
 <li>
-<p>Zhu Chengyi</p>
+<p>Zhu Chengyi (P6 EC)</p>
 </li>
 </ul>
 <p></p>
@@ -422,7 +420,7 @@ Solving Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cognitive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Mathematical Olympiad of Singapore 2024</p>
@@ -432,7 +430,7 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Amolik Prasann</p>
+<p>Amolik Prasann (P5 RF)</p>
 </li>
 </ul>
 <p></p>
@@ -440,22 +438,22 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Anahat Singh</p>
+<p>Anahat Singh (P5 EC)</p>
 </li>
 <li>
-<p>Keshav Nair</p>
+<p>Keshav Nair (P5 EC)</p>
 </li>
 <li>
-<p>Shreyansh Ranjan</p>
+<p>Shreyansh Ranjan (P5 EC)</p>
 </li>
 <li>
-<p>Teotico Robert Matheus Soriano</p>
+<p>Teotico Robert Matheus Soriano (P5 EC)</p>
 </li>
 <li>
-<p>Ameen Al Anas</p>
+<p>Ameen Al Anas (P5 RF)</p>
 </li>
 <li>
-<p>Kaung Khant Min</p>
+<p>Kaung Khant Min (P5 RF)</p>
 </li>
 </ul>
 <p></p>
@@ -463,28 +461,28 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Arulkumaran Vasudev</p>
+<p>Arulkumaran Vasudev (P5 EC)</p>
 </li>
 <li>
-<p>Azlan Ahamed Bin Umaral Hameed</p>
+<p>Azlan Ahamed Bin Umaral Hameed (P5 EC)</p>
 </li>
 <li>
-<p>Dhruv Deep</p>
+<p>Dhruv Deep (P5 EC)</p>
 </li>
 <li>
-<p>Kumar Bhavineshwaran</p>
+<p>Kumar Bhavineshwaran (P5 EC)</p>
 </li>
 <li>
-<p>Saanvi Sharma</p>
+<p>Saanvi Sharma (P5 RF)</p>
 </li>
 <li>
-<p>Wu Jingyao</p>
+<p>Wu Jingyao (P5 RF)</p>
 </li>
 <li>
-<p>Jeremy Loh Kai Kit</p>
+<p>Jeremy Loh Kai Kit (P5 RF)</p>
 </li>
 <li>
-<p>Singh Amish Kumar</p>
+<p>Singh Amish Kumar (P5 RF)</p>
 </li>
 </ul>
 <p></p>
@@ -672,13 +670,13 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ahamed Abeera Jessy</p>
+<p>Ahamed Abeera Jessy (P6 EC)</p>
 </li>
 <li>
-<p>Britney Lee</p>
+<p>Britney Lee (P6 IQ)</p>
 </li>
 <li>
-<p>Sarah Banu Muhammad Wassim</p>
+<p>Sarah Banu Muhammad Wassim (P6 IQ)</p>
 </li>
 </ul>
 </td>
