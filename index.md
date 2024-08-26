@@ -28,10 +28,11 @@ sections:
       announcement_items:
         - title: Teachers Day
           date: 26 August 2024
-          announcement: To show your gratitude, consider sending your messages through the
-            link provided link below.   Your words of appreciation will be the
-            most meaningful gift for them.  Thank you for remembering your
-            teachers.
+          announcement: Dear Ex-Students, with Teachers' Day approaching, please note that
+            TKPS teachers will be attending a celebratory lunch.  You can show
+            your appreciation by sending a message through the link below. Your
+            words of appreciation will be the best gift for them.  Thank you for
+            remembering your teachers.
           link_text: CLICK HERE
           link_url: https://onetkps.padlet.org/tkpssci/tkps-teachers-day-2024-n4cuv2o9y3msd2xu
   - infopic:
