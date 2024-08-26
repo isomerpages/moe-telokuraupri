@@ -24,13 +24,16 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Telok Kurau Primary SCHOOL
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Teachers Day
+          date: 26 August 2024
+          announcement: To show your gratitude, consider sending your messages through the
+            link provided link below.   Your words of appreciation will be the
+            most meaningful gift for them.  Thank you for remembering your
+            teachers.
+          link_text: CLICK HERE
+          link_url: https://onetkps.padlet.org/tkpssci/tkps-teachers-day-2024-n4cuv2o9y3msd2xu
   - infopic:
       title: For Students
       id: infopic
