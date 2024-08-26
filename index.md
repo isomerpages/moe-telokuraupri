@@ -24,7 +24,7 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
+      subtitle: Telok Kurau Primary School
       announcement_items:
         - title: Teachers Day
           date: 26 August 2024
