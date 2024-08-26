@@ -24,7 +24,17 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Telok Kurau Primary SCHOOL
+      subtitle: Telok Kurau Primary School
+      announcement_items:
+        - title: Teachers Day
+          date: 26 August 2024
+          announcement: Dear Ex-Students, with Teachers' Day approaching, please note that
+            TKPS teachers will be attending a celebratory lunch.  You can show
+            your appreciation by sending a message through the link below. Your
+            words of appreciation will be the best gift for them.  Thank you for
+            remembering your teachers.
+          link_text: CLICK HERE
+          link_url: https://onetkps.padlet.org/tkpssci/tkps-teachers-day-2024-n4cuv2o9y3msd2xu
   - infopic:
       title: For Students
       id: infopic
