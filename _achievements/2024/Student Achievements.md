@@ -920,14 +920,14 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Woo Yi Kai</p>
+<p>Woo Yi Kai (P6 SN)</p>
 </li>
 </ul>
 <p><strong>Bronze</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Xu Weiyue</p>
+<p>Xu Weiyue (P6 RF)</p>
 </li>
 </ul>
 </td>
@@ -944,13 +944,16 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Anton Munoz Martin</p>
+<p>Anton Munoz Martin (P4 EC)</p>
 </li>
 <li>
-<p>Contreras Kyle Zachary Pardo</p>
+<p>Contreras Kyle Zachary Pardo (P4 EC)</p>
 </li>
 <li>
-<p>Shaik Arhaan Ahammad</p>
+<p>Shaik Arhaan Ahammad (P4 EC)</p>
+</li>
+<li>
+<p>Chan Chiu Hang (P4 SN)</p>
 </li>
 </ul>
 <p></p>
@@ -958,19 +961,19 @@ Solving Category</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Macayana Maverick Zeroun Agamata</p>
+<p>Macayana Maverick Zeroun Agamata (P4 EC)</p>
 </li>
 <li>
-<p>Nirvaan Soni</p>
+<p>Nirvaan Soni (P4 IQ)</p>
 </li>
 <li>
-<p>Arush Oberoi</p>
+<p>Arush Oberoi (P4 RF)</p>
 </li>
 <li>
-<p>Teotico Robert Matheus Soriano</p>
+<p>Teotico Robert Matheus Soriano (P5 EC)</p>
 </li>
 <li>
-<p>Teo Yu Yao Branson</p>
+<p>Teo Yu Yao Branson (P5 RF)</p>
 </li>
 </ul>
 </td>
