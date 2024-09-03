@@ -13,7 +13,12 @@ variant: tiptap
 <h4><strong>Mission</strong></h4>
 <p>Quality learning in the hands of every learner - empowered&nbsp;with&nbsp;technology</p>
 <h4><strong>Name of Programmes</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -82,7 +87,11 @@ variant: tiptap
 </div>
 <p><strong>Cyber Wellness Themes and Corresponding topics*</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -144,7 +153,11 @@ reduce screen time and do other activities instead</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -183,7 +196,11 @@ reduce screen time and do other activities instead</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -219,7 +236,11 @@ reduce screen time and do other activities instead</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -252,4 +273,10 @@ reduce screen time and do other activities instead</p>
 <p></p>
 <p><em>* The topics are accompanied by SLS assignments as well as semesterly whole-school quizzes.</em>
 </p>
+<p></p>
+<p><strong>Term 3 Cyber Wellness update</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DOSyHnIe56k?si=6objHEc2o8bkEe0y"></iframe>
+</div>
 <p></p>
