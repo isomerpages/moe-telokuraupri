@@ -276,5 +276,7 @@ reduce screen time and do other activities instead</p>
 <p></p>
 <p><strong>Term 3 Cyber Wellness update</strong>
 </p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DOSyHnIe56k?si=6objHEc2o8bkEe0y"></iframe>
+</div>
 <p></p>
