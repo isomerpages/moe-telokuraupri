@@ -2,8 +2,8 @@
 title: English Language
 permalink: /curriculum/english/
 description: ""
-third_nav_title: English Language
 variant: tiptap
+third_nav_title: English Language
 ---
 <h4><strong>Vision</strong></h4>
 <p>Confident Language Users. Thinking Listeners &amp; Readers. Empathetic

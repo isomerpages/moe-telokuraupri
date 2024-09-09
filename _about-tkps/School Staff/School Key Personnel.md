@@ -198,21 +198,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jose Paolo Boquiren</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jose_paolo_t_boquiren@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jose_paolo_t_boquiren@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>110</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
