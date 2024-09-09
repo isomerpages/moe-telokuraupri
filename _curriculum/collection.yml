@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - English Language.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - English Language/.keep
