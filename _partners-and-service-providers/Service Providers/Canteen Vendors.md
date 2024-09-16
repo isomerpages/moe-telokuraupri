@@ -41,12 +41,14 @@ groups- brown rice, wholemeal bread, meat and others, vegetable and fruit</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen/Stall_3_SPICE_KITCHEN.jpg">
 </div>
-<p>Stall 3 :</p>
+<p>Stall 3 : <a href="/files/Canteen2024/Stall_3_2024.pdf" rel="noopener nofollow" target="_blank">Click Here To View</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen/Stall_4_LOTUS_GARDEN.jpg">
 </div>
-<p>Stall 4 :</p>
+<p>Stall 4 : <a href="/files/Canteen2024/Stall_4_Displayed_2024.pdf" rel="noopener nofollow" target="_blank">Click Here To View</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen/Stall_5_PANDAN_GROVE.jpg">
