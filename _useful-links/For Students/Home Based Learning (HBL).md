@@ -26,17 +26,6 @@ third_nav_title: For Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 Sep 2024 to 25 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Self study week</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>26 Sep 2024 to 27 Sep 2024</p>
 </td>
 <td rowspan="1" colspan="1">
