@@ -3,7 +3,6 @@ title: CATalytics
 permalink: /catalytics/
 variant: tiptap
 description: ""
-third_nav_title: For Students
 ---
 <h3>Primary 5 Standard Mathematics (02 Apr 2024 - 04 Apr 2024)</h3>
 <p></p>
