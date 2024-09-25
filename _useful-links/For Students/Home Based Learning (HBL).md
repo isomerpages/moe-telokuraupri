@@ -50,5 +50,10 @@ third_nav_title: For Students
 </table>
 <p></p>
 <h4>Assignments</h4>
-<p>Coming soon</p>
+<p>Primary 2: <a href="/files/PDF/P2HBLSep2024.pdf" rel="noopener nofollow" target="_blank">Primary 2 HBL (26/09/2024 - 27/09/2024)</a>
+<br>Primary 4: <a href="/files/PDF/P4HBLSep2024.pdf" rel="noopener nofollow" target="_blank">Primary 4 HBL (26/09/2024 - 27/09/2024)</a>
+</p>
+<p></p>
+<p>Primary 1: Coming Soon
+<br>Primary 3: Coming Soon</p>
 <p></p>
