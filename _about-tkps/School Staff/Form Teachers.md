@@ -1059,7 +1059,7 @@ variant: tiptap
 <p>tham_sau_ngor@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>345</p>
 </td>
 </tr>
 <tr>
@@ -1096,8 +1096,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>
-</p>
+<br>350</p>
 </td>
 </tr>
 <tr>
@@ -1296,7 +1295,7 @@ variant: tiptap
 <p>soh_hui_shian_sandy@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>302</p>
 </td>
 </tr>
 <tr>
