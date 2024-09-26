@@ -580,13 +580,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Han Jing</p>
+<p>Mrs Ramesh Eswari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>han_jing@moe.edu.sg</p>
+<p>ramesh_eswari@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>231</p>
+<p>336</p>
 </td>
 </tr>
 <tr>
@@ -974,7 +974,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P5 Synergiser</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -985,17 +985,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>340</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ramesh Eswari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ramesh_eswari@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>336</p>
 </td>
 </tr>
 <tr>
@@ -1341,13 +1330,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kow Wan Sien (Mrs Ong)</p>
+<p>Ms Han Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kow_wan_sien@moe.edu.sg</p>
+<p>han_jing@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>269</p>
+<p>231</p>
 </td>
 </tr>
 <tr>
