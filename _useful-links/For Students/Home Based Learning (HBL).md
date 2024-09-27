@@ -54,6 +54,7 @@ third_nav_title: For Students
 <br>Primary 4: <a href="/files/PDF/P4HBLSep2024.pdf" rel="noopener nofollow" target="_blank">Primary 4 HBL (26/09/2024 - 27/09/2024)</a>
 </p>
 <p></p>
-<p>Primary 1: Coming Soon
-<br>Primary 3: Coming Soon</p>
+<p>Primary 1: <a href="/files/PDF/P1HBL_30Sep_01Oct_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 HBL (30/09/2024 - 01/10/2024)</a>
+<br>Primary 3: <a href="/files/PDF/P3HBL_30Sep_01Oct_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 HBL (30/09/2024 - 01/10/2024)</a>
+</p>
 <p></p>
