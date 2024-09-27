@@ -26,6 +26,12 @@ sections:
       id: announcements
       subtitle: Telok Kurau Primary School
       announcement_items:
+        - title: HBL for Primary 1 to Primary 4 Students
+          date: 25 September 2024
+          announcement: Click the link below for more details on HBL for P2 & P4
+            (26/09/2024-27/09/2024) and P1 & P3 (30/09/2024-01/10/2024).
+          link_text: CLICK HERE
+          link_url: /home-based-learning/
         - title: Teachers Day
           date: 26 August 2024
           announcement: Dear Ex-Students, with Teachers' Day approaching, please note that
