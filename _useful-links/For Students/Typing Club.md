@@ -6,7 +6,7 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h3>LOGIN</h3>
-<p><strong>Click here : <a href="https://telokkurau.typingclub.com/" rel="noopener noreferrer nofollow" target="_blank">https://telokkurau.typingclub.com/</a> </strong>
+<p><strong>Click here : <a href="https://telokkurau.typingclub.com/" rel="noopener noreferrer nofollow" target="_blank">https://telokkurau.typingclub.com/</a></strong>
 </p>
 <h4>What is Typingclub?</h4>
 <h5>TypingClub is the most effective way to learn how to type.</h5>
