@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Form Teacher Guidance Period (FTGP).md
-      - Curriculum (Tamil).md
       - Curriculum (Malay).md
       - Curriculum (Chinese).md
       - Mother and Child Bonding.md
