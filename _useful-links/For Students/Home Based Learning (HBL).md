@@ -26,21 +26,10 @@ third_nav_title: For Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Sep 2024 to 27 Sep 2024</p>
+<p>14 Oct 2024 to 16 Oct 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 2 and Primary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 Sep 2024 to 1 Oct 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 1 and Primary 3</p>
+<p>Primary 1 to Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -50,11 +39,13 @@ third_nav_title: For Students
 </table>
 <p></p>
 <h4>Assignments</h4>
-<p>Primary 2: <a href="/files/PDF/P2HBLSep2024.pdf" rel="noopener nofollow" target="_blank">Primary 2 HBL (26/09/2024 - 27/09/2024)</a>
-<br>Primary 4: <a href="/files/PDF/P4HBLSep2024.pdf" rel="noopener nofollow" target="_blank">Primary 4 HBL (26/09/2024 - 27/09/2024)</a>
-</p>
+<p>Primary 1:
+<br>Primary 2:
+<br>Primary 3:
+<br>Primary 4:
+<br>Primary 5:</p>
 <p></p>
-<p>Primary 1: <a href="/files/PDF/P1HBL_30Sep_01Oct_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 HBL (30/09/2024 - 01/10/2024)</a>
-<br>Primary 3: <a href="/files/PDF/P3HBL_30Sep_01Oct_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 HBL (30/09/2024 - 01/10/2024)</a>
+<p>
+<br>
 </p>
 <p></p>
