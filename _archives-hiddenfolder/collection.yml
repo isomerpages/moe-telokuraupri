@@ -1,5 +1,5 @@
 collections:
-  archives-hidden:
+  archives-hiddenfolder:
     output: true
     order:
       - 2023.md
