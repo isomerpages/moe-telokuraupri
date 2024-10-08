@@ -1,7 +1,8 @@
 ---
 title: P1 Orientation 2022
-permalink: /events-and-notices/Events/p1-orientation-2022/
+permalink: /xxp1-orientation-2022xx/
 description: ""
+variant: tiptap
 ---
 ### **21 November 2022**
 

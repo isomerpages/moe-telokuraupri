@@ -1,6 +1,6 @@
 ---
 title: TKPS Open House 2022
-permalink: /tkps-open-house-2022/
+permalink: /xxtkps-open-house-2022xx/
 description: ""
 variant: markdown
 ---
