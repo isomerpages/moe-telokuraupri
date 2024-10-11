@@ -39,11 +39,13 @@ third_nav_title: For Students
 </table>
 <p></p>
 <h4>Assignments</h4>
-<p>Primary 1:
-<br>Primary 2:
-<br>Primary 3:
-<br>Primary 4:
-<br>Primary 5:</p>
+<p>Primary 1: <a href="/files/PDF/P1_HBL_PSLEMarking2024.pdf" rel="noopener nofollow" target="_blank">P1 HBL PSLE Marking Days (14-16 Oct 2024)</a>
+<br>Primary 2: <a href="/files/PDF/P2_HBL_PSLEMarking2024.pdf" rel="noopener nofollow" target="_blank">P2 HBL PSLE Marking Days (14-16 Oct 2024)</a>
+<br>Primary 3: <a href="/files/PDF/P3_HBL_PSLEMarking2024.pdf" rel="noopener nofollow" target="_blank">P3 HBL PSLE Marking Days (14-16 Oct 2024)</a>
+<br>Primary 4: <a href="/files/PDF/P4_HBL_PSLEMarking2024.pdf" rel="noopener nofollow" target="_blank">P4 HBL PSLE Marking Days (14-16 Oct 2024)</a>
+<br>Primary 5 (Standard): <a href="/files/PDF/P5Std_HBL_PSLEMarking2024.pdf" rel="noopener nofollow" target="_blank">P5 Standard HBL PSLE Marking Days (14-16 Oct 2024)</a>
+<br>Primary 5 (Foundation): <a href="/files/PDF/P5Fdn_HBL_PSLEMarking2024.pdf" rel="noopener nofollow" target="_blank">P5 Foundation HBL PSLE Marking Days (14-16 Oct 2024)</a>
+</p>
 <p></p>
 <p>
 <br>
