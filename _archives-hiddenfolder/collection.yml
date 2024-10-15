@@ -2,5 +2,4 @@ collections:
   archives-hiddenfolder:
     output: true
     order:
-      - P1 Orientation 2024.md
       - TKPS Open House 2022.md
