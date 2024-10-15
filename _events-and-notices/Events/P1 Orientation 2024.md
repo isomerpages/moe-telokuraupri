@@ -29,8 +29,8 @@ third_nav_title: Events
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Registration and submission of forms
-<br>P1 parents and students report to the hall</p>
+<p>Registration and submission of forms.
+<br>P1 parents and students report to the hall.</p>
 </td>
 </tr>
 <tr>
@@ -39,12 +39,12 @@ third_nav_title: Events
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Parents Engagement at the hall by School Leader, Year Head &amp; SCC</p>
+<p>Parents Engagement at the hall by School Leader, Year Head and SCC.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Students Engagement at the P1 classrooms</p>
+<p>Students Engagement at the P1 classrooms.</p>
 </td>
 </tr>
 <tr>
@@ -54,12 +54,12 @@ third_nav_title: Events
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Continuation of submission of forms/School Tour
-<br>Dismissal
-<br>P1 parent and students will leave the hall for purchase of books (bookshop),
-uniforms(canteen).
-<br>Parents may also register for Parent Support Group (hall), School Bus
-Service (foyer) and/or Student Care Services (Heritage Lane)</p>
+<p>Continuation of submission of forms/School Tour.
+<br>Dismissal.
+<br>P1 parent and students will leave the hall for purchase of books and school
+uniforms.
+<br>Parents may also register for Parent Support Group, School Bus Service
+and/or Student Care Services.</p>
 </td>
 </tr>
 </tbody>
