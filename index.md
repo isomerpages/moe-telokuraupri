@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: Useful Links
           description: ""
-          url: quick-links/For-Students/student-icon/
+          url: quick-links/For-Students/
         - title: Events & Notices
           description: ""
-          url: /events-and-notices/events/
+          url: /events-and-notices/
         - title: Gallery
           description: ""
           url: /photogallery/
