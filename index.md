@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Useful Links
           description: ""
-          url: quick-links/For-Students/
+          url: quick-links/For-Students/student-mims/
         - title: Events & Notices
           description: ""
           url: /events-and-notices/
