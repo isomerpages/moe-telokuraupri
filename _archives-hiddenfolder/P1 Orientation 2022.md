@@ -197,16 +197,16 @@ or email HOD Mother Tongue, Mdm Pamela Leck at leck_hwee_huan@moe.edu.sg.</p>
 <h4><strong>Partners and Service Providers</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>School Bus Service ()</p>
+<p>School Bus Service (<a href="/partners-and-service-providers/school-bus-service/" rel="noopener nofollow" target="_blank">Link</a>)</p>
 </li>
 <li>
-<p>School Bookshop ()</p>
+<p>School Bookshop (<a href="/partners-and-service-providers/school-bookshop/" rel="noopener nofollow" target="_blank">Link</a>)</p>
 </li>
 <li>
-<p>Uniform Shop ()</p>
+<p>Uniform Shop (<a href="/partners-and-service-providers/school-bus-service/" rel="noopener nofollow" target="_blank">Link</a>)</p>
 </li>
 <li>
-<p>Parent Support Group ()</p>
+<p>Parent Support Group (<a href="/partners-and-service-providers/psg/" rel="noopener nofollow" target="_blank">Link</a>)</p>
 </li>
 </ul>
 <p></p>
