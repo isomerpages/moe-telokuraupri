@@ -76,7 +76,7 @@ Service (foyer) and/or Student Care Services (Heritage Lane)</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Time</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Programme</p>
@@ -99,7 +99,7 @@ Service (foyer) and/or Student Care Services (Heritage Lane)</p>
 <p>All parents/ guardians</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents are to submit/verify their child/ward’s particulars on the <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDF Portal</a> from
+<p>Parents are to submit/verify their child particulars on the <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDF Portal</a> from
 25 Nov 2024 at 10am till 31 Dec 2024.</p>
 </td>
 </tr>
@@ -114,9 +114,8 @@ Service (foyer) and/or Student Care Services (Heritage Lane)</p>
 <p>All parents/ guardians</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/guardians can apply to use Edusave funds for payment of school
-fees and charges via Parents Gateway (under Services tab) or the online
-<a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>.</p>
+<p>Parents can apply to use Edusave funds for payment of school fees and
+charges via Parents Gateway (under Services tab) or the online <a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>.</p>
 </td>
 </tr>
 <tr>
@@ -164,8 +163,8 @@ at the General Office.</p>
 <p>If applicable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/guardians who require these forms may collect them from our General
-Office. Completed forms with the required supporting documents can be submitted
+<p>Parents who require these forms may collect them from our General Office.
+Completed forms with the required supporting documents can be submitted
 to General Office as well.</p>
 <p></p>
 <p>For any further queries, please call 62441600 or email HOD Mother Tongue,
