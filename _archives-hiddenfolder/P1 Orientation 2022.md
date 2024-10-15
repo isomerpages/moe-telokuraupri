@@ -188,10 +188,7 @@ or email HOD Mother Tongue, Mdm Pamela Leck at leck_hwee_huan@moe.edu.sg.</p>
 <p>P1 2025 Booklist ()</p>
 </li>
 <li>
-<p>What to bring on First Day of School ()</p>
-</li>
-<li>
-<p>Parent-Child Activity Book by MOE ()</p>
+<p>Parent-Child Activity Book by MOE (<a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" rel="noopener nofollow" target="_blank">Link</a>)</p>
 </li>
 </ul>
 <h4><strong>Partners and Service Providers</strong></h4>
