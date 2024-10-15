@@ -40,7 +40,7 @@ third_nav_title: Events
 </td>
 <td rowspan="1" colspan="2">
 <p>Parents Engagement at the hall
-<br>(School Leaders, Year Head (Lower Primary) &amp; SCC)</p>
+<br>(School Leader, Year Head (Lower Primary) &amp; SCC)</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +197,7 @@ Mdm Pamela Leck at leck_hwee_huan@moe.edu.sg.</p>
 <p>P1 2025 Booklist (<em>coming soon</em>)</p>
 </li>
 <li>
-<p>Information Booklet for Parents (<em>coming soon</em>)</p>
+<p>Information Booklet for P1 Parents (<em>coming soon</em>)</p>
 </li>
 <li>
 <p>Student MIMS Portal (<a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">Link</a>)</p>
