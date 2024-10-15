@@ -6,6 +6,7 @@ variant: tiptap
 third_nav_title: Events
 ---
 <h3><strong>14 November 2024</strong></h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -17,10 +18,7 @@ third_nav_title: Events
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Programme</p>
 </th>
 </tr>
@@ -28,10 +26,7 @@ third_nav_title: Events
 <td rowspan="1" colspan="1">
 <p>08.00 am</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Registration and submission of forms
 <br>P1 parents and students report to the hall</p>
 </td>
@@ -40,19 +35,13 @@ third_nav_title: Events
 <td rowspan="2" colspan="1">
 <p>08.30 am</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Parents Engagement at the hall
 <br>(School Leaders, Year Head (Lower Primary) &amp; SCC)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Students Engagement at the P1 classrooms</p>
 </td>
 </tr>
@@ -60,26 +49,13 @@ third_nav_title: Events
 <td rowspan="1" colspan="1">
 <p>09.30 am</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Continuation of submission of forms/School Tour
 <br>Dismissal
 <br>P1 parent and students will leave the hall for purchase of books (bookshop),
-uniforms(canteen). Parents may also register for Parent Support Group (hall),
-School Bus Service (foyer) and/or Student Care Services (Heritage Lane)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+uniforms(canteen).
+<br>Parents may also register for Parent Support Group (hall), School Bus
+Service (foyer) and/or Student Care Services (Heritage Lane)</p>
 </td>
 </tr>
 </tbody>
@@ -166,7 +142,10 @@ deduction in Feb 2025.</p>
 <p>If applicable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More information will be available in due course.</p>
+<p>Parents may apply for MOE Financial Assistance Scheme if they meet the
+income criteria of Gross Household Income (GHI) of $3,000 or below or Per
+Capita Income of $750 or below. MOE FAS Application Forms are available
+at the General Office.</p>
 </td>
 </tr>
 <tr>
@@ -182,8 +161,10 @@ deduction in Feb 2025.</p>
 <td rowspan="1" colspan="1">
 <p>Parents/guardians who require these forms may collect them from our General
 Office. Completed forms with the required supporting documents can be submitted
-to General Office as well. For any further queries, please call 62441600
-or email HOD Mother Tongue, Mdm Pamela Leck at leck_hwee_huan@moe.edu.sg.</p>
+to General Office as well.</p>
+<p></p>
+<p>For any further queries, please call 62441600 or email HOD Mother Tongue,
+Mdm Pamela Leck at leck_hwee_huan@moe.edu.sg.</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +210,13 @@ or email HOD Mother Tongue, Mdm Pamela Leck at leck_hwee_huan@moe.edu.sg.</p>
 <p>School Bookshop (<a href="/partners-and-service-providers/school-bookshop/" rel="noopener nofollow" target="_blank">Link</a>)</p>
 </li>
 <li>
-<p>Uniform Shop (<a href="/partners-and-service-providers/school-bus-service/" rel="noopener nofollow" target="_blank">Link</a>)</p>
+<p>School Uniform Shop (<a href="/partners-and-service-providers/school-bus-service/" rel="noopener nofollow" target="_blank">Link</a>)</p>
+</li>
+<li>
+<p>School Dental Clinic (<a href="/partners-and-service-providers/dental-service/" rel="noopener nofollow" target="_blank">Link</a>)</p>
+</li>
+<li>
+<p>Student Care Centre (<a href="/partners-and-service-providers/student-care-centre/" rel="noopener nofollow" target="_blank">Link</a>)</p>
 </li>
 <li>
 <p>Parent Support Group (<a href="/partners-and-service-providers/psg/" rel="noopener nofollow" target="_blank">Link</a>)</p>
