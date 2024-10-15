@@ -16,7 +16,7 @@ sections:
           url: quick-links/For-Students/student-icon/
         - title: Events & Notices
           description: ""
-          url: /events-and-notices/events/open-house-2024/
+          url: /events-and-notices/events/
         - title: Gallery
           description: ""
           url: /photogallery/
