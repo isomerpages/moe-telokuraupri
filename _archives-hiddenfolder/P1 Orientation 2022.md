@@ -51,7 +51,7 @@ variant: tiptap
 <br>Dismissal
 <br>P1 parent and students will leave the hall for purchase of books (bookshop),
 uniforms(canteen). Parents may also register for Parent Support Group (hall),
-School Busr Service (foyer) and/or Student Care Services (Heritage Lane)</p>
+School Bus Service (foyer) and/or Student Care Services (Heritage Lane)</p>
 </td>
 </tr>
 <tr>
