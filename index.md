@@ -16,7 +16,7 @@ sections:
           url: quick-links/For-Students/student-mims/
         - title: Events & Notices
           description: ""
-          url: /events-and-notices/
+          url: events-and-notices/events/p1-orientation/
         - title: Gallery
           description: ""
           url: /photogallery/
