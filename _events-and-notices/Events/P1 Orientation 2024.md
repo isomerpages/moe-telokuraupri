@@ -6,8 +6,9 @@ variant: tiptap
 third_nav_title: Events
 ---
 <h3><strong>14 November 2024</strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -17,12 +18,18 @@ third_nav_title: Events
 <p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Programme</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.00 a.m.</p>
+<p>08.00 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration and submission of forms
@@ -31,7 +38,10 @@ third_nav_title: Events
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>8.30 a.m.</p>
+<p>08.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents Engagement at the hall
@@ -40,12 +50,18 @@ third_nav_title: Events
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Students Engagement at the P1 classrooms</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09.30 a.m.</p>
+<p>09.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Continuation of submission of forms/School Tour
@@ -56,6 +72,9 @@ School Bus Service (foyer) and/or Student Care Services (Heritage Lane)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -189,7 +208,16 @@ or email HOD Mother Tongue, Mdm Pamela Leck at leck_hwee_huan@moe.edu.sg.</p>
 <p>P1 2025 Booklist (<em>coming soon</em>)</p>
 </li>
 <li>
+<p>Information Booklet for Parents (<em>coming soon</em>)</p>
+</li>
+<li>
+<p>Student MIMS Portal (<a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">Link</a>)</p>
+</li>
+<li>
 <p>Parent-Child Activity Book by MOE (<a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" rel="noopener nofollow" target="_blank">Link</a>)</p>
+</li>
+<li>
+<p>DigitalAccess@Home by IMDA (<a href="/useful-links/for-parents/imda-digihome/" rel="noopener nofollow" target="_blank">Link</a>)</p>
 </li>
 </ul>
 <h4><strong>Partners and Service Providers</strong></h4>
