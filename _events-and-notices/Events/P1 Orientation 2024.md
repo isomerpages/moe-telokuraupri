@@ -57,11 +57,8 @@ third_nav_title: Events
 <td rowspan="1" colspan="2">
 <p>Continuation of submission of forms/School Tour
 <br>Dismissal
-<br>
-</p>
-<p>P1 parent and students will leave the hall for purchase of books (bookshop),
+<br>P1 parent and students will leave the hall for purchase of books (bookshop),
 uniforms(canteen).
-<br>
 <br>Parents may also register for Parent Support Group (hall), School Bus
 Service (foyer) and/or Student Care Services (Heritage Lane)</p>
 </td>
