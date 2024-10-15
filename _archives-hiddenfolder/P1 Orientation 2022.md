@@ -185,7 +185,7 @@ or email HOD Mother Tongue, Mdm Pamela Leck at leck_hwee_huan@moe.edu.sg.</p>
 <h4><strong>Useful Links</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>P1 2025 Booklist ()</p>
+<p>P1 2025 Booklist (<em>coming soon</em>)</p>
 </li>
 <li>
 <p>Parent-Child Activity Book by MOE (<a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" rel="noopener nofollow" target="_blank">Link</a>)</p>
