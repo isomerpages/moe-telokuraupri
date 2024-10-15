@@ -39,8 +39,7 @@ third_nav_title: Events
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Parents Engagement at the hall by School Leader, Year Head (Lower Primary)
-&amp; SCC</p>
+<p>Parents Engagement at the hall by School Leader, Year Head &amp; SCC</p>
 </td>
 </tr>
 <tr>
