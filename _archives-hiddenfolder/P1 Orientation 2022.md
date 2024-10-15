@@ -98,8 +98,8 @@ School Busr Service (foyer) and/or Student Care Services (Heritage Lane)</p>
 <p>All parents/ guardians</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents are to submit/verify their child/ward’s particulars on the <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDF Portal</a> from <strong><em>Pending date</em></strong>
-</p>
+<p>Parents are to submit/verify their child/ward’s particulars on the <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDF Portal</a> from
+25 Nov 2024 at 10am till 31 Dec 2024.</p>
 </td>
 </tr>
 <tr>
