@@ -24,7 +24,9 @@ third_nav_title: Events
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>08.00 am</p>
+<p>08.00 am
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Registration and submission of forms
@@ -34,6 +36,7 @@ third_nav_title: Events
 <tr>
 <td rowspan="2" colspan="1">
 <p>08.30 am</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Parents Engagement at the hall
@@ -48,12 +51,17 @@ third_nav_title: Events
 <tr>
 <td rowspan="1" colspan="1">
 <p>09.30 am</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Continuation of submission of forms/School Tour
 <br>Dismissal
-<br>P1 parent and students will leave the hall for purchase of books (bookshop),
+<br>
+</p>
+<p>P1 parent and students will leave the hall for purchase of books (bookshop),
 uniforms(canteen).
+<br>
 <br>Parents may also register for Parent Support Group (hall), School Bus
 Service (foyer) and/or Student Care Services (Heritage Lane)</p>
 </td>
