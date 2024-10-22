@@ -26,13 +26,6 @@ sections:
       id: announcements
       subtitle: Telok Kurau Primary School
       announcement_items:
-        - title: Home Base Learning
-          date: 11 October 2024
-          announcement: Dear Students & Parents/Guardians, please click on the link below
-            for more information on HBL during PSLE Marking Days (14 Oct 2024 to
-            16 Oct 2024).
-          link_text: CLICK HERE
-          link_url: /home-based-learning/
         - title: Teachers Day
           date: 26 August 2024
           announcement: Dear Ex-Students, with Teachers' Day approaching, please note that
