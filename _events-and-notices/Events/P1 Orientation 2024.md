@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Events
 ---
-<h3><strong>14 November 2024</strong></h3>
-<p></p>
+<h4><strong>14 November 2024</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
