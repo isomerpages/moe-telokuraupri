@@ -166,7 +166,7 @@ Completed forms with the required supporting documents can be submitted
 to General Office as well.</p>
 <p></p>
 <p>For any further queries, please call 62441600 or email HOD Mother Tongue,
-Mdm Pamela Leck at leck_hwee_huan@moe.edu.sg.</p>
+Mdm Pamela Leck at <a href="mailto:leck_hwee_huan@moe.edu.sg" rel="noopener nofollow" target="_blank">leck_hwee_huan@moe.edu.sg</a>.</p>
 </td>
 </tr>
 <tr>
