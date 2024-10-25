@@ -1,5 +1,5 @@
 ---
-title: P1 Orientation 2024
+title: P1 Orientation for 2025 Cohort
 permalink: /events-and-notices/events/p1-orientation/
 description: ""
 variant: tiptap
@@ -188,7 +188,7 @@ Mdm Pamela Leck at <a href="mailto:leck_hwee_huan@moe.edu.sg" rel="noopener nofo
 <h4><strong>Useful Links</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>P1 2025 Booklist (<em>coming soon</em>)</p>
+<p>P1 2025 Booklist (<a href="/files/PDF/Telok_Kurau_Booklist_2025_Primary_1_final_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Link</a>)</p>
 </li>
 <li>
 <p>Information Booklet for P1 Parents (<em>coming soon</em>)</p>

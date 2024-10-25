@@ -2,7 +2,7 @@ collections:
   events-and-notices:
     output: true
     order:
-      - Events/P1 Orientation 2024.md
+      - Events/P1 Orientation for 2025 Cohort.md
       - Events/Open House 2024.md
       - Events/.keep
       - Notices/Use of Images and Videos in Publication.md
