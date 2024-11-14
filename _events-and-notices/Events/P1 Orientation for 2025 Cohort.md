@@ -191,7 +191,7 @@ Mdm Pamela Leck at <a href="mailto:leck_hwee_huan@moe.edu.sg" rel="noopener nofo
 <p>P1 2025 Booklist (<a href="/files/PDF/Telok_Kurau_Booklist_2025_Primary_1_final_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Link</a>)</p>
 </li>
 <li>
-<p>Information Booklet for P1 Parents (Link)</p>
+<p>Information Booklet for P1 Parents (<a href="/files/PDF/Information_Booklet_for_P1_Parents_14Nov2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Link</a>)</p>
 </li>
 <li>
 <p>Student MIMS Portal (<a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">Link</a>)</p>
