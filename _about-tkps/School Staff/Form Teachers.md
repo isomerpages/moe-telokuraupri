@@ -90,9 +90,7 @@ variant: tiptap
 <p>P1 Synergiser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Beng Lay (Mrs Veronica Tan)
-<br>
-</p>
+<p>Mdm Goh Beng Lay (Mrs Veronica Tan)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_beng_lay@moe.edu.sg
@@ -121,9 +119,7 @@ variant: tiptap
 <p>P1 Innovator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kasrina Rahaini Binte Rahmat
-<br>
-</p>
+<p>Mdm Kasrina Rahaini Binte Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kasrina_rahaini_rahmat@moe.edu.sg
@@ -207,9 +203,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_hui_ling@moe.edu.sg
-<br>
-</p>
+<p>tan_hui_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>210
@@ -272,14 +266,10 @@ variant: tiptap
 <p>P2 Reflector</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hwee Yuet Ying
-<br>
-</p>
+<p>Ms Hwee Yuet Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hwee_yuet_ying@moe.edu.sg
-<br>
-</p>
+<p>hwee_yuet_ying@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>216
@@ -594,14 +584,10 @@ variant: tiptap
 <p>P3 Inquirer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tammy Teo Tian Ki
-<br>
-</p>
+<p>Ms Tammy Teo Tian Ki</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_tian_ki@moe.edu.sg
-<br>
-</p>
+<p>teo_tian_ki@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>232
