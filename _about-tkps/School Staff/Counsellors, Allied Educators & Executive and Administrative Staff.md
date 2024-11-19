@@ -174,9 +174,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Sufyan Bin Omar
-<br>
-</p>
+<p>Mr Muhammad Sufyan Bin Omar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
