@@ -34,14 +34,10 @@ variant: tiptap
 <p>P1 Reflector</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lucas Tang Yu Hung
-<br>
-</p>
+<p>Mr Lucas Tang Yu Hung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tang_yu_hung_lucas@moe.edu.sg
-<br>
-</p>
+<p>tang_yu_hung_lucas@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>203
@@ -122,9 +118,7 @@ variant: tiptap
 <p>Mdm Kasrina Rahaini Binte Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kasrina_rahaini_rahmat@moe.edu.sg
-<br>
-</p>
+<p>kasrina_rahaini_rahmat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>204
@@ -1260,7 +1254,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P6 Inquirer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1285,24 +1279,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yew Heng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_yew_heng@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>284</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
 <p>P6 Explorer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Claire Lu Ting Ting
-<br>
-</p>
+<p>Ms Claire Lu Ting Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>claire_lu_ting_ting@moe.edu.sg
