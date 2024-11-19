@@ -34,14 +34,10 @@ variant: tiptap
 <p>P1 Reflector</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lucas Tang Yu Hung
-<br>
-</p>
+<p>Mr Lucas Tang Yu Hung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tang_yu_hung_lucas@moe.edu.sg
-<br>
-</p>
+<p>tang_yu_hung_lucas@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>203
@@ -90,9 +86,7 @@ variant: tiptap
 <p>P1 Synergiser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Beng Lay (Mrs Veronica Tan)
-<br>
-</p>
+<p>Mdm Goh Beng Lay (Mrs Veronica Tan)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_beng_lay@moe.edu.sg
@@ -121,14 +115,10 @@ variant: tiptap
 <p>P1 Innovator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kasrina Rahaini Binte Rahmat
-<br>
-</p>
+<p>Mdm Kasrina Rahaini Binte Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kasrina_rahaini_rahmat@moe.edu.sg
-<br>
-</p>
+<p>kasrina_rahaini_rahmat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>204
@@ -207,9 +197,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_hui_ling@moe.edu.sg
-<br>
-</p>
+<p>tan_hui_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>210
@@ -272,14 +260,10 @@ variant: tiptap
 <p>P2 Reflector</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hwee Yuet Ying
-<br>
-</p>
+<p>Ms Hwee Yuet Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hwee_yuet_ying@moe.edu.sg
-<br>
-</p>
+<p>hwee_yuet_ying@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>216
@@ -594,14 +578,10 @@ variant: tiptap
 <p>P3 Inquirer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tammy Teo Tian Ki
-<br>
-</p>
+<p>Ms Tammy Teo Tian Ki</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_tian_ki@moe.edu.sg
-<br>
-</p>
+<p>teo_tian_ki@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>232
@@ -1274,7 +1254,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P6 Inquirer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1299,24 +1279,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yew Heng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_yew_heng@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>284</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
 <p>P6 Explorer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Claire Lu Ting Ting
-<br>
-</p>
+<p>Ms Claire Lu Ting Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>claire_lu_ting_ting@moe.edu.sg
