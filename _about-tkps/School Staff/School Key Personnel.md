@@ -66,7 +66,7 @@ variant: tiptap
 <p>Vice Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sharil Bin Yahya</p>
+<p>Mr Sahril Bin Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:telokkuraups@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">telokkuraups@moe.edu.sg</a>
