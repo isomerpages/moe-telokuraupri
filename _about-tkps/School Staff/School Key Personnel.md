@@ -63,13 +63,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vice Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Sharil Bin Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:telokkuraups@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">telokkuraups@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -99,22 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P1 to P2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rashidah Binte Mohamad Yusop</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rashidah_mohamad_yusop@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_mohamad_yusop@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>116</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head (P3 to P4)</p>
+<p>Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Foo Jong Yin</p>
@@ -129,7 +115,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P5 to P6)</p>
+<p>Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Darren Ng Tiong Bee</p>
@@ -239,6 +225,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>111</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rashidah Binte Mohamad Yusop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rashidah_mohamad_yusop@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_mohamad_yusop@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>116</p>
 </td>
 </tr>
 <tr>
@@ -357,13 +358,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Aneesa Rehana Amanullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>aneesah_rehana@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Edith Ang Sian Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_sian_hong_edith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sian_hong_edith@moe.edu.sg</a>
+<p><a href="ang_sian_hong_edith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sian_hong_edith@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -383,6 +398,34 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>291</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Arni Binte Johan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>arni_johan@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sathyajothi D/o Selvandran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sathyajothi_selvandran@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -477,13 +520,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lee Chee Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_chee_hao@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
