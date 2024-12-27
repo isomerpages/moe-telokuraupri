@@ -1078,10 +1078,10 @@ variant: tiptap
 <p>P5 Explorer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sung Voon Tet Peter</p>
+<p>Ms Goh Ya Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sung_voon_tet_peter@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">goh_ya_li@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1090,10 +1090,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Ya Li</p>
+<p>Mr Harith Iskandar Bin Zunil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_ya_li@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">harith_iskandar_zunil@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1323,10 +1323,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms Sheeba</p>
+<p>Mr Sung Voon Tet Peter</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sung_voon_tet_peter@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
