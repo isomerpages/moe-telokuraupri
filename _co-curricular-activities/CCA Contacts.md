@@ -78,13 +78,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sin Yoke Jing Mavis</p>
+<p>Mr Ng Gerald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sin_yoke_jing_mavis@moe.edu.sg</p>
+<p>gerald_ng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>223</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -117,7 +117,7 @@ variant: tiptap
 <p>lee_chee_hao@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>281</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ variant: tiptap
 <p>shawn_lee_shiyang@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>279</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -161,18 +161,18 @@ variant: tiptap
 <p>teo_tian_ki@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>232</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Siok Hui</p>
+<p>Ms Eunice Ng Si Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>choo_siok_hui@moe.edu.sg</p>
+<p>ng_si_ling_eunice@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>274</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -205,7 +205,7 @@ variant: tiptap
 <p>aw_yang_ming@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>282</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ variant: tiptap
 <p>aznizah_aris@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>340</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -255,10 +255,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Firouk Mydin</p>
+<p>Mr Teo Ser Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>firouk_mohamed_mydin@moe.edu.sg</p>
+<p>teo_ser_leng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -294,7 +294,7 @@ variant: tiptap
 <p>chang_mao_chiao@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>206</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -305,7 +305,7 @@ variant: tiptap
 <p>yip_weng_ee@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>286</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -338,7 +338,7 @@ variant: tiptap
 <p>noraida_yasmin_abd_jabbar@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>259</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -349,7 +349,51 @@ variant: tiptap
 <p>felicia_goh_xiu_xian@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>316</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Environmental Club</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Tel Ext</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Amelia Binte Othman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>amelia_othman@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Wei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_wei_ling@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -383,7 +427,7 @@ variant: tiptap
 <p>elnie_tryana_dridi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>220</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -394,7 +438,7 @@ variant: tiptap
 <p>lu_ting_ting@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>285</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -427,7 +471,7 @@ variant: tiptap
 <p>kua_shimin_ke_shimin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>235</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -438,7 +482,7 @@ variant: tiptap
 <p>vijayalekshmi_mariappan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>267</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -471,7 +515,7 @@ variant: tiptap
 <p>mohamed_hisham_salim@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>312</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -482,7 +526,7 @@ variant: tiptap
 <p>nurain_saiman@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>328</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -515,7 +559,7 @@ variant: tiptap
 <p>ramesh_eswari@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>336</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -526,7 +570,7 @@ variant: tiptap
 <p>juhaidah_amin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>264</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -553,24 +597,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wu Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yvonne_wu_ling@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>349</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ng Bao Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_bao_lin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>224</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeow Yun Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeow_yun_hui@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -603,7 +647,7 @@ variant: tiptap
 <p>haryati_mohamed@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>215</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -614,7 +658,7 @@ variant: tiptap
 <p>eng_shuen_yin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>347</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -647,7 +691,7 @@ variant: tiptap
 <p>tan_suat_hoon@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>280</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -658,7 +702,7 @@ variant: tiptap
 <p>loh_chai_na@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>323</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -692,7 +736,7 @@ variant: tiptap
 <p>kartini_mohamed_ramli@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>263</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -703,7 +747,7 @@ variant: tiptap
 <p>wong_li_hao_james@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>338</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -736,7 +780,7 @@ variant: tiptap
 <p>sathyajothi_selvandran@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>214</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -747,7 +791,7 @@ variant: tiptap
 <p>tan_hui_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>210</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -780,7 +824,7 @@ variant: tiptap
 <p>sung_voon_tet_peter@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>346</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -791,7 +835,7 @@ variant: tiptap
 <p>loy_qian_yin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>226</p>
+<p></p>
 </td>
 </tr>
 </tbody>
