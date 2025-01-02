@@ -601,7 +601,7 @@ variant: tiptap
 <p>Ms Aneesa Rehana Amanullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>aneesah_rehana@moe.edu.sg</p>
+<p>aneesa_rehana@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>292</p>
