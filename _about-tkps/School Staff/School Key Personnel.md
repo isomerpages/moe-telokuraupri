@@ -364,7 +364,8 @@ variant: tiptap
 <p>Ms Aneesa Rehana Amanullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>aneesah_rehana@moe.edu.sg</p>
+<p><a href="aneesa_rehana@moe.edu.sg" rel="noopener nofollow" target="_blank">aneesa_rehana@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>292</p>
@@ -408,7 +409,8 @@ variant: tiptap
 <p>Mdm Arni Binte Johan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>arni_johan@moe.edu.sg</p>
+<p><a href="arni_johan@moe.edu.sg" rel="noopener nofollow" target="_blank">arni_johan@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>299</p>
@@ -422,7 +424,8 @@ variant: tiptap
 <p>Mdm Sathyajothi D/o Selvandran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sathyajothi_selvandran@moe.edu.sg</p>
+<p><a href="sathyajothi_selvandran@moe.edu.sg" rel="noopener nofollow" target="_blank">sathyajothi_selvandran@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>300</p>
@@ -526,7 +529,8 @@ variant: tiptap
 <p>Mr Lee Chee Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_chee_hao@moe.edu.sg</p>
+<p><a href="lee_chee_hao@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_chee_hao@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>301</p>

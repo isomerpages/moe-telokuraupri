@@ -601,7 +601,8 @@ variant: tiptap
 <p>Ms Aneesa Rehana Amanullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>aneesah_rehana@moe.edu.sg</p>
+<p><a href="aneesa_rehana@moe.edu.sg" rel="noopener nofollow" target="_blank">aneesa_rehana@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>292</p>
@@ -1403,4 +1404,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p>&nbsp;<a href="" rel="noopener nofollow" target="_blank">aneesa_rehana@moe.edu.sg</a>
+</p>
