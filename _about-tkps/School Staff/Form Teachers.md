@@ -1404,5 +1404,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<a href="" rel="noopener nofollow" target="_blank">aneesa_rehana@moe.edu.sg</a>
-</p>
+<p></p>
