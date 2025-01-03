@@ -358,6 +358,51 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Stephanie Tan Jin Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_jin_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jin_jun@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>297</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Chun Ling Kelli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_chun_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chun_ling@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>293</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chee Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lee_chee_hao@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_chee_hao@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>301</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH English</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -493,47 +538,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Stephanie Tan Jin Jun</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jin_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jin_jun@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>297</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Goh Chun Ling Kelli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_chun_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chun_ling@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>293</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Chee Hao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="lee_chee_hao@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_chee_hao@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>301</p>
+<p></p>
 </td>
 </tr>
 </tbody>
