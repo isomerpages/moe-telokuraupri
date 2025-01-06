@@ -47,7 +47,7 @@ by the Health Promotion Board under the Healthy Meals in Schools Programme
 </ul>
 <p>Interest applicants are to submit the following documents directly to
 the school:&nbsp;</p>
-<p>a)&nbsp;&nbsp;Completed application form (as attached)
+<p>a)&nbsp;&nbsp;Completed application form (<a href="/files/PDF/APPLICATION_FOR_CANTEEN_STALL.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>)
 <br>b)&nbsp;&nbsp;Supporting documents (copy of applicant’s NRIC, Basic Food
 Hygiene certificate)
 <br>c)<strong>&nbsp;&nbsp;</strong>Proposed menu and pricing</p>
