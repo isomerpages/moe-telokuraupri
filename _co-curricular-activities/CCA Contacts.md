@@ -43,6 +43,22 @@ variant: tiptap
 <p>119</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PAL/CCA Coordinator</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mark Chang Mao Chiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chang_mao_chiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chang_mao_chiao@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>228</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Sports and Games</strong></h4>
