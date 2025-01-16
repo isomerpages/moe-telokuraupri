@@ -57,7 +57,7 @@ Casual sex can harm and hurt you and your loved ones.
 more information on MOE Sexuality Education.
 <br>
 </p>
-<p><strong>OVERVIEW OF TELOK KURAU PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong> 
+<p><strong>OVERVIEW OF TELOK KURAU PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
 <br>
 </p>
 </li>
@@ -107,7 +107,13 @@ from sexuality-related risks.
 <br><strong><u>Primary 5</u></strong> 
 <br>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -140,10 +146,9 @@ from sexuality-related risks.
 caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.
-<br>
-</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+affected, even when one’s body is experiencing changes due to puberty.</p>
+<p>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,7 +191,7 @@ and how to seek help for themselves and their friends.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 </tbody>
@@ -196,7 +201,13 @@ and how to seek help for themselves and their friends.
 <br><strong><u>Primary 6</u></strong> 
 <br>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -236,7 +247,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 5</p>
+<p>Term 4 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -272,9 +283,9 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable below. The
-completed opt-out form is to be submitted by <strong>5 February 2024.</strong> 
+completed opt-out form is to be submitted by <strong>5 February 2025.</strong> 
 <br>
-<br>Opt-out Form: <a href="/files/2024/SEd_Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SEd Opt Out Form (2024)</a>
+<br>Opt-out Form: <a href="/files/PDF/SEd_Opt_Out_Form_2025_.pdf" rel="noopener nofollow" target="_blank">SEd Opt Out Form (2025)</a>
 </p>
 <p></p>
 </li>
