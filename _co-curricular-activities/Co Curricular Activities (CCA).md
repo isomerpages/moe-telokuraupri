@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Co-Curricular Activities (CCA)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCA2025" src="/images/CCA_2025.jpg">
 </div>
 <h4><strong>Vision</strong></h4>
 <p>Character and Confidence Actualisation</p>
