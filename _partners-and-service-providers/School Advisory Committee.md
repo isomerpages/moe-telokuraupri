@@ -93,10 +93,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dr Tan Ter Ming, Timothy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Member</p>
 </td>
 </tr>
 </tbody>
