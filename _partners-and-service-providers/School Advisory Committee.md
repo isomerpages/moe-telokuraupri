@@ -46,23 +46,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dr Mustafa Izzuddin</strong>
+<p><strong>Dr Eric Ng Eng Seng</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member
-<br><em>Senior Lecturer, University Scholars Programme</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Monique Viengkhou Li</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member
-<br><em>AWS Institute, APJ Lead Amazon Web Services</em>
+<br><em>Chief Executive Officer, Smartflex Technology Pte Ltd</em>
 </p>
 </td>
 </tr>
@@ -79,28 +68,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dr Eric Ng Eng Seng</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member
-<br><em>Chief Executive Officer, Smartflex Technology Pte Ltd</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assoc Prof. TayHuay Ling</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member
-<br><em>Associate Professor, Singapore University of Social&nbsp;Sciences"</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Dr Mohamed Baisal s/o Abdul Nassar</strong>
 </p>
 </td>
@@ -112,12 +79,45 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mrs Monique Viengkhou Li</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member
+<br><em>AWS Institute, APJ Lead Amazon Web Services</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Mustafa Izzuddin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member
+<br><em>Senior Lecturer, University Scholars Programme</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Dr Tan Ter Ming, Timothy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member
 <br><em>Senior Lecturer, Natural Sciences &amp; Science Education</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assoc Prof. TayHuay Ling</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member
+<br><em>Associate Professor, Singapore University of Social&nbsp;Sciences"</em>
 </p>
 </td>
 </tr>
