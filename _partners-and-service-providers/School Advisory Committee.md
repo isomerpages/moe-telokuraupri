@@ -12,91 +12,113 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Catherine Loh</p>
+<p><strong>Mdm Catherine Loh</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chairman</p>
+<p>Chairman
+<br><em>Chief Executive Officer, The Community Foundation of Singapore</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Grace Goh</p>
+<p><strong>Mrs Grace Goh</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Grace Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
+<p>Vice-Chairman
+<br><em>Vice-President Audit and Control</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Mustafa Izzuddin</p>
+<p><strong>Mrs Grace Leong</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Monique Viengkhou Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Honorary Secretary
+<br><em>Principal</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jimmy Ho Ji Meng</p>
+<p><strong>Dr Mustafa Izzuddin</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Eric Ng Eng Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Member
+<br><em>Senior Lecturer, University Scholars Programme</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assoc Prof. TayHuay Ling</p>
+<p><strong>Mrs Monique Viengkhou Li</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Mohamed Baisal s/o Abdul Nassar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Member
+<br><em>AWS Institute, APJ Lead Amazon Web Services</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Tan Ter Ming, Timothy</p>
+<p><strong>Mr Jimmy Ho Ji Meng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Member
+<br><em>Construction Manager, Surbana Jurong Pte Ltd</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Eric Ng Eng Seng</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member
+<br><em>Chief Executive Officer, Smartflex Technology Pte Ltd</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assoc Prof. TayHuay Ling</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member
+<br><em>Associate Professor, Singapore University of Social&nbsp;Sciences"</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Mohamed Baisal s/o Abdul Nassar</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member
+<br><em>Medical Doctor, Shifa Clinic &amp; Surgery</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Tan Ter Ming, Timothy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member
+<br><em>Senior Lecturer, Natural Sciences &amp; Science Education</em>
+</p>
 </td>
 </tr>
 </tbody>
