@@ -112,7 +112,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assoc Prof. TayHuay Ling</strong>
+<p><strong>Assoc Prof. Tay Huay Ling</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
