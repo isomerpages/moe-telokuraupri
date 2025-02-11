@@ -117,8 +117,6 @@ third_nav_title: "2025"
 </li>
 <li>
 <p>Cai Xin Yun</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
@@ -127,8 +125,6 @@ third_nav_title: "2025"
 <ul data-tight="true" class="tight">
 <li>
 <p>Chen Ziyi</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
