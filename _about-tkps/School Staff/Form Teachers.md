@@ -73,7 +73,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;201</p>
+<p>&nbsp;203</p>
 </td>
 </tr>
 <tr>
@@ -322,7 +322,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P2 Encourager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -349,21 +349,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>P2 Synergiser</p>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chee Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hwee Yuet Ying</p>
+<p>lee_chee_hao@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hwee_yuet_ying@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;316</p>
+<p>301</p>
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>P2 Synergiser</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sathyajothi D/o Selvandran</p>
 </td>
@@ -373,6 +372,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;300</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Aw Kum Jin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:han_chin_kwang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_chin_kwang@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;235</p>
 </td>
 </tr>
 <tr>
