@@ -948,7 +948,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P5 Reflector</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -972,6 +972,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;332</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
