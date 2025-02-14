@@ -745,7 +745,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P4 Encourager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -772,7 +772,19 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Chun Ling Kelli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_chun_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_chun_ling@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>293</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>P4 Synergiser</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -796,6 +808,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;340</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Reza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_reza@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_reza@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>295</p>
 </td>
 </tr>
 <tr>
