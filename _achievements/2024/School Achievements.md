@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: "2024"
 ---
-<p><strong><u>2024</u></strong>
-</p>
+<h3><strong><u>2024</u></strong></h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -15,18 +15,26 @@ third_nav_title: "2024"
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Event</p>
+<p>Department</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Achievement</p>
+<p>Award</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Green Awards</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yellow Flame Award (Primary)</p>
+<p>School Green Awards (Yellow Flame Award)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
