@@ -1,6 +1,6 @@
 ---
 title: School Achievements
-permalink: /school-achievements/
+permalink: /achievements/2024/school-achievements/
 variant: tiptap
 description: ""
 third_nav_title: "2024"
