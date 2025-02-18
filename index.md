@@ -21,7 +21,23 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Telok Kurau Primary School
+      subtitle: Telok kurau
+      announcement_items:
+        - title: Introducing Parents Gateway
+          date: 12 February 2025
+          announcement: Parents Gateway developed by the Ministry of Education and
+            GovTech, Parents Gateway is a one-stop portal that strengthens
+            school-home partnership to support our children in their education
+            journey.
+          link_text: FIND OUT MORE
+          link_url: /useful-links/for-parents/parents-gateway/
+        - title: Get Online, Stay Connected with DigitalAccess@Home!
+          date: 03 January 2025
+          announcement: IMDA provides subsidised broadband and laptops/tablets to
+            lower-income households to support their lifestyle needs, including
+            work and social activities.
+          link_text: FIND OUT MORE
+          link_url: /useful-links/for-parents/imda-digihome/
   - infopic:
       title: For Students
       id: infopic
