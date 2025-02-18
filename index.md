@@ -11,10 +11,7 @@ sections:
       background: /images/2024Header_Edited.gif
       url: /contact-us/
       key_highlights:
-        - title: Useful Links
-          description: ""
-          url: /useful-links/for-students/student-mims/
-        - title: Events & Notices
+        - title: Events
           description: ""
           url: events-and-notices/events/p1-orientation/
         - title: Gallery
