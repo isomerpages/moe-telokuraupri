@@ -8,7 +8,7 @@ description: ""
 <p><strong>6 Mar 2025 ~ 8 Mar 2025</strong>
 </p>
 <p></p>
-<h4>P4 Outdoor Adventure Learning (OAL) Cohort Camp </h4>
+<h4>P4 Outdoor Adventure Learning (OAL) Cohort Camp</h4>
 <p></p>
 <p>The P4 OAL Cohort Camp will be conducted at <strong>Ministry of Education Changi Coast Outdoor Adventure Learning Centre</strong> (CCOALC).
 Using outdoors as the ‘classroom’ for learning and development, this camp
