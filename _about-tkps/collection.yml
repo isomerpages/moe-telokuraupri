@@ -2,7 +2,6 @@ collections:
   about-tkps:
     output: true
     order:
-      - Name Tags.md
       - Principal's Message.md
       - Our Mission and Vision.md
       - School Core Values.md
@@ -21,6 +20,7 @@ collections:
       - School Crest.md
       - School Song.md
       - Students' Pledge.md
+      - Name Tags.md
       - Homework Policy.md
       - Use of Mobile Devices.md
       - Corporate Video.md
