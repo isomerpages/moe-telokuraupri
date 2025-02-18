@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Events
           description: ""
-          url: /events/p1-orientation-2025-cohort/
+          url: /events/event-highlights/
         - title: Gallery
           description: ""
           url: /photogallery/
