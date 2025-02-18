@@ -24,6 +24,15 @@ and learning. In addition, they will recognise the importance of teamwork,
 understanding that collaboration enhances their chances of achieving success.</p>
 <p></p>
 <hr>
+<p><strong>27 Mar 2025</strong>
+</p>
 <p></p>
+<h4><strong>P2 Interdisciplinary Learning Journey </strong></h4>
+<p></p>
+<p>Our Primary 2 students are embarking on a Joyful Discovery – Interdisciplinary
+Learning Journey to the S.E.A. Aquarium on <strong>Thursday, 27 March 2025</strong>.
+This enriching experience will foster students’ collaboration, critical
+thinking and information skills. They will also explore the wonders and
+conservation of marine life.</p>
 <p></p>
 <p></p>
