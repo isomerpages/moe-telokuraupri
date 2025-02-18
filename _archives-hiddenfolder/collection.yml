@@ -2,5 +2,6 @@ collections:
   archives-hiddenfolder:
     output: true
     order:
+      - Old Achievements/Older Data.md
       - Old Achievements/.keep
       - TKPS Open House 2022.md
