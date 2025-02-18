@@ -2,5 +2,5 @@ collections:
   events-and-notices:
     output: true
     order:
-      - Open House 2024.md
       - P1 Orientation for 2025 Cohort.md
+      - Open House 2024.md
