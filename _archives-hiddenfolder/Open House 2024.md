@@ -1,9 +1,8 @@
 ---
 title: Open House 2024
-permalink: /events-and-notices/events/open-house-2024/
+permalink: /events/open-house-2024/
 variant: tiptap
 description: ""
-third_nav_title: Events
 ---
 <p>Hello everyone! We are pleased to share with you our upcoming TKPS Open
 House scheduled on <strong>Friday, 28 June 2024</strong>, from <strong>2 - 5 pm</strong>.</p>

@@ -1,6 +1,6 @@
 ---
 title: Student Achievements
-permalink: /achievements/2025/student-achievements/
+permalink: /achievements/2025/stud-achievements/
 variant: tiptap
 description: ""
 third_nav_title: "2025"

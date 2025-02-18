@@ -1,9 +1,8 @@
 ---
 title: P1 Orientation for 2025 Cohort
-permalink: /events-and-notices/events/p1-orientation/
+permalink: /events/p1-orientation-2025-cohort/
 description: ""
 variant: tiptap
-third_nav_title: Events
 ---
 <h4><strong>14 November 2024</strong></h4>
 <table style="minWidth: 75px">

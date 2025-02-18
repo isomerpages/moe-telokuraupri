@@ -2,10 +2,8 @@
 title: Older Data
 permalink: /achievements/archives/older-data/
 description: ""
-third_nav_title: Archives
+third_nav_title: Old Achievements
 ---
-
-
 ### **Archives**
 #### **Staff Awards**
 
@@ -163,7 +161,7 @@ third_nav_title: Archives
 | Aesthetics | 15th NTU Institutional Lion Dance Competition | Silver, Bronze |
 | Cognitive | Innovation, Design and Engineering ( IDE ) Competition | 7th Team Placing |
 | Cognitive | International Micro Coding Championship | Line Tracing – Silver, Bronze<br>Maze Runner – Gold, Silver |
-| Cognitive | Singapore Vex Robotics Championship | 1. Judges Award & Programming Challenge Bronze<br>2. Programming Challenge Gold & Team Alliance Gold Award |
+| Cognitive | Singapore Vex Robotics Championship | 1. Judges Award &amp; Programming Challenge Bronze<br>2. Programming Challenge Gold &amp; Team Alliance Gold Award |
 | Cognitive | DSO - DSTA Robotics Challenge 2019 | 1. Light Category: Gold And Silver<br>2. Heavy Category: Gold |
 |
 
@@ -199,7 +197,7 @@ third_nav_title: Archives
 | Physical | U-10 Boys Football JDR Trials | 2nd Team Placing |
 | Physical | National Primary Schools Football Championship (Senior Girls) | 1st Team Placing |
 | Physical | National Primary Schools Football Championship (Junior Girls) | 1st Team Placing |
-| Physical | Switzerland-Singapore Football Festival 2018 (Junior & Senior) | 2nd Team Placing |
+| Physical | Switzerland-Singapore Football Festival 2018 (Junior &amp; Senior) | 2nd Team Placing |
 | Physical | National Games Wushu Championships 2018 | 1. 3 Duan Changquan – 28th, 50th placing<br>2. 4 Duan Sword – 48th, 50th placing<br>3. 4 Duan Cudgel – 44th, 32nd, 66th |
 |  |  |  |
 

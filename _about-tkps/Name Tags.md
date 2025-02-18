@@ -2,7 +2,6 @@
 title: Name Tags
 permalink: /events-and-notices/notices/name-tags/
 description: ""
-third_nav_title: Notices
 variant: tiptap
 ---
 <h4><strong>Name Tags</strong></h4>
