@@ -2,7 +2,6 @@ collections:
   about-tkps:
     output: true
     order:
-      - Use of Images and Videos in Publication.md
       - Principal's Message.md
       - Our Mission and Vision.md
       - School Core Values.md
@@ -25,8 +24,9 @@ collections:
       - Use of Mobile Devices.md
       - Corporate Video.md
       - School Mascot.md
-      - School Information/Name Tags.md
+      - Use of Images and Videos in Publication.md
       - School Information/.keep
+      - School Information/Name Tags.md
       - School Information/Contact Us.md
       - School Information/School Terms and Holidays.md
       - School Information/School Rules.md
