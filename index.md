@@ -21,7 +21,7 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Telok kurau
+      subtitle: Telok Kurau Primary School
       announcement_items:
         - title: Introducing Parents Gateway
           date: 12 February 2025
