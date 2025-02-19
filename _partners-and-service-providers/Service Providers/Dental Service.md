@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Service Providers
 variant: tiptap
 ---
-<h3><strong>Dental Service</strong></h3>
+<h3><strong>HPB Dental Service</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
