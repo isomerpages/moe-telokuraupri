@@ -24,7 +24,7 @@ sections:
       subtitle: Telok Kurau Primary School
       announcement_items:
         - title: Introducing Parents Gateway
-          date: 12 February 2025
+          date: 03 February 2025
           announcement: Parents Gateway developed by the Ministry of Education and
             GovTech, Parents Gateway is a one-stop portal that strengthens
             school-home partnership to support our children in their education
@@ -32,12 +32,19 @@ sections:
           link_text: FIND OUT MORE
           link_url: /useful-links/for-parents/parents-gateway/
         - title: Get Online, Stay Connected with DigitalAccess@Home!
-          date: 03 January 2025
+          date: 06 January 2025
           announcement: IMDA provides subsidised broadband and laptops/tablets to
             lower-income households to support their lifestyle needs, including
             work and social activities.
           link_text: FIND OUT MORE
           link_url: /useful-links/for-parents/imda-digihome/
+        - title: School Canteen Vacancy
+          date: 02 January 2025
+          announcement: Telok Kurau Primary School has a vacancy for Chinese Cooked Food
+            Stall. Should you know of anyone who is interested and meets the
+            following criteria, please assist to circulate this info.
+          link_text: FIND OUT MORE
+          link_url: /useful-links/school-canteen-advertisement/
   - infopic:
       title: For Students
       id: infopic
