@@ -2,7 +2,6 @@ collections:
   archives-hiddenfolder:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Open House 2024.md
       - Old Achievements/2017.md
       - Old Achievements/2018.md
