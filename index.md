@@ -37,7 +37,7 @@ sections:
             lives. Nomination can be made by teachers, students, parents and
             members of the public.
           link_text: FIND OUT MORE
-          link_url: go.gov.sg/agab2025
+          link_url: https://go.gov.sg/agab2025
         - title: Most Inspiring Tamil Teachers' Award 2025
           date: 20 February 2025
           announcement: From 3 February to 4 April 2025, students, educators, parents, and
