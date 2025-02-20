@@ -45,6 +45,14 @@ sections:
             following criteria, please assist to circulate this info.
           link_text: FIND OUT MORE
           link_url: /useful-links/school-canteen-advertisement/
+        - title: The Inspiring Teacher of English Award
+          date: 20 February 2025
+          announcement: The Inspiring Teacher of English Award is a national award for
+            English teachers in Singapore schools, that acknowledges teachers
+            who ignite a love for the English language, and are effective in
+            helping their students speak and write accurately.
+          link_text: FIND OUT MORE
+          link_url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
   - infopic:
       title: For Students
       id: infopic
