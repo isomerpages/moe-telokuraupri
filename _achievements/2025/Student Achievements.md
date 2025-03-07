@@ -157,6 +157,37 @@ third_nav_title: "2025"
 <p>P4 to P6 Brownies</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Cross Links</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellent Unit Award 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+</p>
+<p>P4-P6 Red Cross members</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Aid Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+<p>Arul Selvamony Jenolin</p>
+<p>Boey Yan Le</p>
+<p>Ma Chenyu</p>
+<p>Muhammad Bin Senan Ali Hamood Al-Paz</p>
+<p>Ketbanchong Theeraphit</p>
+<p>Yeo En Le, Gwen</p>
+<p>Zaara Kiran Umer D/O Jagtar Singh</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Clubs and Societies</strong>
@@ -181,7 +212,7 @@ third_nav_title: "2025"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cognitive</p>
+<p>Robotics Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SMORPHI Robotics Challenge</p>
