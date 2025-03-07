@@ -36,7 +36,7 @@ third_nav_title: "2025"
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Xu Yu Tang</p>
+<p>Xu Yutang</p>
 </li>
 <li>
 <p>Cai Xin Yun</p>
@@ -105,7 +105,11 @@ third_nav_title: "2025"
 <td rowspan="1" colspan="1">
 <p><strong>First Prize</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>'Amiliya Fariha Binte Azri Zulfarhan</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -119,12 +123,26 @@ third_nav_title: "2025"
 <td rowspan="1" colspan="1">
 <p><strong>Second Prize</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Shaza Syahira Muhammad Najb</p>
+</li>
+<li>
 <p>Lim Siew Ling</p>
+</li>
+<li>
 <p>Irdina Solehah Binte Sufian</p>
+</li>
+<li>
 <p>Nur Zulaikha Nabilah Binte Mohammed Khalid</p>
+</li>
+<li>
 <p>Venkatachalam Prashitha</p>
+</li>
+<li>
 <p>Kok Xin Yun Selina</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -138,10 +156,20 @@ third_nav_title: "2025"
 <td rowspan="1" colspan="1">
 <p><strong>Third Prize</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Ifrah Zahra Binte Shahbaz Ahmad</p>
+</li>
+<li>
 <p>Nursyafiah Binte Mohamad Fairus</p>
+</li>
+<li>
 <p>Amira Nadine Dridi</p>
+</li>
+<li>
 <p>Sabrina Choo Kai Ting</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -154,7 +182,11 @@ third_nav_title: "2025"
 <td rowspan="1" colspan="1">
 <p><strong>Gold</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>P4 to P6 Brownies</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -167,7 +199,11 @@ third_nav_title: "2025"
 <td rowspan="1" colspan="1">
 <p><strong>Gold</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>P4-P6 Red Cross members</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -178,14 +214,42 @@ third_nav_title: "2025"
 <p>First Aid Competition 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze</p>
+<p><strong>Bronze</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Arul Selvamony Jenolin</p>
+</li>
+<li>
 <p>Boey Yan Le</p>
+</li>
+<li>
 <p>Ma Chenyu</p>
+</li>
+<li>
 <p>Muhammad Bin Senan Ali Hamood Al-Paz</p>
+</li>
+<li>
 <p>Ketbanchong Theeraphit</p>
+</li>
+<li>
 <p>Yeo En Le, Gwen</p>
+</li>
+<li>
 <p>Zaara Kiran Umer D/O Jagtar Singh</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -286,6 +350,17 @@ third_nav_title: "2025"
 <p>SITI AMINAH BINTE MOHAMMED NAZZER</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
