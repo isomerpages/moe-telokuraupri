@@ -212,7 +212,7 @@ third_nav_title: "2025"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cognitive</p>
+<p>Robotics Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SMORPHI Robotics Challenge</p>
