@@ -353,7 +353,8 @@ variant: tiptap
 <p>Mr Lee Chee Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_chee_hao@moe.edu.sg</p>
+<p><a href="lee_chee_hao@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_chee_hao@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>301</p>
@@ -376,14 +377,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Aw Kum Jin</p>
+<p>Mr Gerald Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:han_chin_kwang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_chin_kwang@moe.edu.sg</a>
+<p><a href="mailto:wong_jing_yang_gerald@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jing_yang_gerald@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;235</p>
+<p>238</p>
 </td>
 </tr>
 <tr>
