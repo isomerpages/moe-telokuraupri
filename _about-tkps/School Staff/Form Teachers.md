@@ -353,7 +353,8 @@ variant: tiptap
 <p>Mr Lee Chee Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_chee_hao@moe.edu.sg</p>
+<p><a href="lee_chee_hao@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_chee_hao@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>301</p>
