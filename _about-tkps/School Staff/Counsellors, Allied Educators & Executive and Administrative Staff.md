@@ -106,7 +106,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,20 +120,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>Corporate Support Officer</p>
+<td rowspan="1" colspan="1">
+<p>Ms Kelly Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maznah Binte Wari</p>
+<p>ng_leng_qiao@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>maznah_wari@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>132</p>
+<p></p>
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Salwani Binte Abu Naim</p>
 </td>
