@@ -127,7 +127,7 @@ variant: tiptap
 <p>ng_leng_qiao@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>132</p>
 </td>
 </tr>
 <tr>
