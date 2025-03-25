@@ -86,7 +86,7 @@ variant: tiptap
 </table>
 <p></p>
 <h4><strong>Office hours:</strong></h4>
-<p><strong>School term: 7.00 a.m. - 6.00 p.m.</strong>
+<p><strong>School term: 7.00 a.m. - 5.30 p.m.</strong>
 <br><strong>School holidays: 8.00 a.m. - 5.00 p.m.</strong>
 </p>
 <p><strong>The office is closed on weekends and public holidays.</strong>
