@@ -74,6 +74,53 @@ third_nav_title: "2025"
 </tbody>
 </table>
 <h3><strong>CCA Achievements</strong></h3>
+<p><strong>Physical Sports</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition / Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Schools Sports Council (SPSSC)</p>
+<p>National School Games Football</p>
+<p>National Senior Division Girls League 1 Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st place</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Uniformed Groups</strong>
 </p>
 <table style="minWidth: 75px">
