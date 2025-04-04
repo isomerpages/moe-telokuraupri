@@ -17,4 +17,6 @@ eligibility at this website <a href="http://www.go.gov.sg/digitalaccesschecker" 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="digihome" src="/images/digihomeimda.JPG">
 </div>
-<p></p>
+<p>Translations: Chinese (<a href="/files/PDF/IMDA_DAH_A4_Infographic_Flyer_Chinese.pdf" rel="noopener nofollow" target="_blank">File</a>),
+Malay (<a href="/files/PDF/IMDA_DAH_A4_Infographic_Flyer_Malay.pdf" rel="noopener nofollow" target="_blank">File</a>),
+Tamil (<a href="/files/PDF/IMDA_DAH_A4_Infographic_Flyer_Tamil.pdf" rel="noopener nofollow" target="_blank">File</a>)</p>
