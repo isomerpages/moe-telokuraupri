@@ -117,8 +117,26 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Member
-<br><em>Associate Professor, Singapore University of Social&nbsp;Sciences"</em>
+<br><em>Associate Professor, Singapore University of Social&nbsp;Sciences</em>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ng Wai Peng Priscilla</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member
+<br>General Manager, Grand Mercure Singapore Roxy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
