@@ -5,3 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
+<p>Eligible Singapore Citizens (SC) studying in the following schools or
+institutions can receive financial assistance from MOE on fees and other
+school expenses</p>
+<p>Click here to find out more about the financial assistance scheme.</p>
