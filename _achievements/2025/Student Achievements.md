@@ -238,6 +238,134 @@ third_nav_title: "2025"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Division Fest 2025 - Semaphore Drill</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Second Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kong Le En</p>
+</li>
+<li>
+<p>Chek Wei Qi</p>
+</li>
+<li>
+<p>'Amiliya Farisya Binte Azri Zulfarhan</p>
+</li>
+<li>
+<p>Zheng Yanyan</p>
+</li>
+<li>
+<p>Lim Wen Hui</p>
+</li>
+<li>
+<p>Syaurah Irsalina Binte Muhammad Ruzaini</p>
+</li>
+<li>
+<p>Nyla Shakira Binte Mohamad Faizal</p>
+</li>
+<li>
+<p>Venkatachalam Prashitha</p>
+</li>
+<li>
+<p>Leong Kah Yu Elyse</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Division Fest 2025 - Choral Reading</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Second Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cheng En Ting Megan</p>
+</li>
+<li>
+<p>Nur Fatini Binte Kusaini
+<br>Nur Neyla Keysha Binte Mohd Nizam</p>
+</li>
+<li>
+<p>Natra Suhayla Binte Mohammad Suhail</p>
+</li>
+<li>
+<p>Mellyna Lim</p>
+</li>
+<li>
+<p>Nur Aqila Raihana Binti Mohamed Zulkifli</p>
+</li>
+<li>
+<p>Nur Akiffa Naila Binte Samrudy</p>
+</li>
+<li>
+<p>Ye Xifei</p>
+</li>
+<li>
+<p>Qisya Adelia Binte Nurisman</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Division Fest 2025 - WAGGGS Trivia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Second Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Shaza Syahira Muhammad Najib</p>
+</li>
+<li>
+<p>Nur Bahiyah Binte Faruk Abdullah</p>
+</li>
+<li>
+<p>Sarah Sofia Binte Suhaimi</p>
+</li>
+<li>
+<p>'Amiliya Fariha Binte Azri Zulfarhan</p>
+</li>
+<li>
+<p>Batrisha Nadya Binte Muhammad Firdaus</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Division Fest 2025 - Patch Design</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Amira Nadine Dridi</p>
+</li>
+<li>
+<p>'Amiliya Fariha Binte Azri Zulfarhan</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Red Cross Links</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -401,13 +529,19 @@ third_nav_title: "2025"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Strategy Games Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>76th National Schools Individual Chess Championships 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>10th Individual Placing - Under 12 Girls Overall and East Zone category</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monali Roy</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
