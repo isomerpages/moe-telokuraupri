@@ -6,6 +6,10 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h3>Parenting for Wellness</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_15_at_5_12_06_PM.png">
+</div>
 <p>The "Parenting for Wellness" section on HealthHub Singapore offers expert-informed,
 practical resources to support parents in nurturing their children's mental
 and emotional well-being. It covers topics such as understanding personal
