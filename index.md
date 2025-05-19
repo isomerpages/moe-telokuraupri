@@ -31,6 +31,14 @@ sections:
           link_text: FIND OUT MORE
           link_url: /useful-links/for-parents/imda-digihome/
   - infopic:
+      title: TKPS Open House 2025
+      subtitle: Come & Join Us!
+      id: infopic
+      button: Click Here
+      url: https://www.telokkuraupri.moe.edu.sg/tkps-open-house-2025/
+      image: /images/Poster_2025.jpg
+      alt: TKPS Open House 2025
+  - infopic:
       title: For Students
       id: infopic
       description: All student learning portals
@@ -46,12 +54,4 @@ sections:
       url: /useful-links/social-media/
       image: /images/HOME/TKPSFollow.png
       alt: Image alt text
-  - infopic:
-      title: TKPS Open House 2025
-      subtitle: Come & Join Us!
-      id: infopic
-      button: Button Text
-      url: https://www.telokkuraupri.moe.edu.sg/tkps-open-house-2025/
-      image: /images/Poster_2025.jpg
-      alt: TKPS Open House 2025
 ---
