@@ -46,4 +46,12 @@ sections:
       url: /useful-links/social-media/
       image: /images/HOME/TKPSFollow.png
       alt: Image alt text
+  - infopic:
+      title: TKPS Open House 2025
+      subtitle: Come & Join Us!
+      id: infopic
+      button: Button Text
+      url: https://www.telokkuraupri.moe.edu.sg/tkps-open-house-2025/
+      image: /images/Poster_2025.jpg
+      alt: TKPS Open House 2025
 ---
