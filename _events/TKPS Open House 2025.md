@@ -12,3 +12,6 @@ description: ""
 be held on <strong>Friday, 11 July</strong> &nbsp;and we look forward to
 your support and participation as we warmly welcome prospective students
 and parents to <em>step into a world of joyful discovery</em> at <strong>TKPS</strong>.</p>
+<p></p>
+<p><strong>Sign up here</strong> : <a href="https://form.gov.sg/6823d801b6888482cf78161d" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6823d801b6888482cf78161d</a>
+</p>
