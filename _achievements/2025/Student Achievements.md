@@ -65,10 +65,88 @@ third_nav_title: "2025"
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Telok Blangah Tamil Language Competitions (Singing)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Vaanya Rivaashinii D/O Siva Ganesh</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Thirukkural Vizha 2005 Competitions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Motivational Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sivakumaran Shivanan</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bisikan Pena 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Team - Runner Up</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nur Aqilah Binte Nordin</p>
+</li>
+<li>
+<p>Daniqa Huda Binte Luqman</p>
+</li>
+<li>
+<p>A'isyah Nasyi'tah Binte Aden Firdaus</p>
+</li>
+<li>
+<p>Hana Romiz Binte Mohamad Reduan</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Individual - Outstanding Inspiring Pantun Performer</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nur Aqilah Binte Nordin</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rakan Bahasa 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Malay Language Ambassador 2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nuur Aisyah Nazurah Binte Ahmad 'Afif</p>
+<p></p>
+</li>
+<li>
+<p>Zayid Rafi Bin Muhammad Khairul</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
