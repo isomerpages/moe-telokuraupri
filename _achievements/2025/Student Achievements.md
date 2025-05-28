@@ -157,7 +157,8 @@ third_nav_title: "2025"
 <p>Singapore &amp; Asian Schools Math Olympiad (SASMO) 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p><strong>Gold</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>ANIKET PRASANN</p>
@@ -181,7 +182,8 @@ third_nav_title: "2025"
 <p>KAUNG KHANT MIN</p>
 </li>
 </ul>
-<p>SIlver</p>
+<p><strong>SIlver</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>ACHYUTH NAIR</p>
@@ -258,6 +260,38 @@ third_nav_title: "2025"
 </li>
 <li>
 <p>SINGH AMISH KUMAR</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asia Pacific Mathematical Olympiad for Primary School (APMOPS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>AMOLIK PRASANN</p>
+</li>
+</ul>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>KESHAV NAIR</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>TEOTICO ROBERT MATHEUS SORIANO</p>
+</li>
+<li>
+<p>ANAHAT SINGH</p>
 </li>
 </ul>
 </td>
