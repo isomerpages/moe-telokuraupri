@@ -149,6 +149,119 @@ third_nav_title: "2025"
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore &amp; Asian Schools Math Olympiad (SASMO) 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ANIKET PRASANN</p>
+</li>
+<li>
+<p>DONG XIYAO</p>
+</li>
+<li>
+<p>LI MINGXUAN</p>
+</li>
+<li>
+<p>DAS VANSH NARAYAN</p>
+</li>
+<li>
+<p>AMEEN AL ANAS</p>
+</li>
+<li>
+<p>AMOLIK PRASANN</p>
+</li>
+<li>
+<p>KAUNG KHANT MIN</p>
+</li>
+</ul>
+<p>SIlver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ACHYUTH NAIR</p>
+</li>
+<li>
+<p>MURUGANANDAM KRISHWIN</p>
+</li>
+<li>
+<p>PRAJWAL NANDY</p>
+</li>
+<li>
+<p>ANAHAT SINGH</p>
+</li>
+<li>
+<p>KESHAV NAIR</p>
+</li>
+</ul>
+<p><strong>Bronze</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>QIAO XIAOXIAO</p>
+</li>
+<li>
+<p>CALEN SEET TI SENG</p>
+</li>
+<li>
+<p>HUA PUZE</p>
+</li>
+<li>
+<p>SHAH SPARSH SHOUREEN</p>
+</li>
+<li>
+<p>TAN YU XIANG</p>
+</li>
+<li>
+<p>KAUNG KHANT KO</p>
+</li>
+<li>
+<p>XU YUTANG</p>
+</li>
+<li>
+<p>ANNABELLE BRONSHTEIN</p>
+</li>
+<li>
+<p>PENG JUNCHEN</p>
+</li>
+<li>
+<p>POONGUZHALI VASANTHAKUMAR</p>
+</li>
+<li>
+<p>SEW HEE TAT, NESTOR</p>
+</li>
+<li>
+<p>DHRUV DEEP</p>
+</li>
+<li>
+<p>HUANG ZIYING</p>
+</li>
+<li>
+<p>KUMAR BHAVINESHWARAN</p>
+</li>
+<li>
+<p>SHREYANSH RANJAN</p>
+</li>
+<li>
+<p>TEOTICO ROBERT MATHEUS SORIANO</p>
+</li>
+<li>
+<p>JEREMY LOH KAI KIT</p>
+</li>
+<li>
+<p>JOVIL RAI</p>
+</li>
+<li>
+<p>SINGH AMISH KUMAR</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>CCA Achievements</strong></h3>
