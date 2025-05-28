@@ -262,6 +262,31 @@ third_nav_title: "2025"
 <p>SINGH AMISH KUMAR</p>
 </li>
 </ul>
+<p><strong>Honorable Mention</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>AVYAANSH PANDEY</p>
+</li>
+<li>
+<p>GE FANYI</p>
+</li>
+<li>
+<p>MA CHENYU</p>
+</li>
+<li>
+<p>PENG ZIQI</p>
+</li>
+<li>
+<p>PATANKAR NIYATI</p>
+</li>
+<li>
+<p>CHAVEZ SEE</p>
+</li>
+<li>
+<p>SHIVAAN JAIN</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
