@@ -607,6 +607,177 @@ third_nav_title: "2025"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE (Innovation, Design &amp; Engineering) Series 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Team Alliance - Champion</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ARUSH OBEROI</p>
+</li>
+<li>
+<p>WU JINGYAO</p>
+</li>
+<li>
+<p>KAUNG KHANT MIN</p>
+</li>
+<li>
+<p>DOROTHY GANDASASMITA</p>
+</li>
+<li>
+<p>ANTON MUNOZ MARTIN</p>
+</li>
+<li>
+<p>ESHAN BIN HADI</p>
+</li>
+<li>
+<p>TEO YU YAO BRANSON</p>
+</li>
+<li>
+<p>TAN SUAN INN</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Team Alliance - 2nd Place</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>LEONARDO JACOB ROPATA</p>
+</li>
+<li>
+<p>NUR JIAN BINTE MOHAMMED ILMIFIDRI</p>
+</li>
+<li>
+<p>LIN WENFU ALFRED</p>
+</li>
+<li>
+<p>UTTARWAR DYLAN</p>
+</li>
+<li>
+<p>XU JINXIN</p>
+</li>
+<li>
+<p>TEOTICO ROBERT MATHEUS SORIANO</p>
+</li>
+<li>
+<p>ZHOU KIRA QINLUO</p>
+</li>
+<li>
+<p>MIKAYLA SABINE TANZON ALVAREZ</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE (Innovation, Design &amp; Engineering) Series 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Drive and Autonomous - Champion</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CHAN CHIU HANG</p>
+</li>
+<li>
+<p>CONTRERAS KYLE ZACHARY PARDO</p>
+</li>
+<li>
+<p>NUR TIARA ERYNA BINTE MOHAMMAD AFANDI</p>
+</li>
+<li>
+<p>GIDEON GERARD KWEK</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE (Innovation, Design &amp; Engineering) Series 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Think Award - Champion</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CHAN CHIU HANG</p>
+</li>
+<li>
+<p>CONTRERAS KYLE ZACHARY PARDO</p>
+</li>
+<li>
+<p>NUR TIARA ERYNA BINTE MOHAMMAD AFANDI</p>
+</li>
+<li>
+<p>GIDEON GERARD KWEK</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE (Innovation, Design &amp; Engineering) Series 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Build Award - Champion</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ANTON MUNOZ MARTIN</p>
+</li>
+<li>
+<p>ESHAN BIN HADI</p>
+</li>
+<li>
+<p>TEO YU YAO BRANSON</p>
+</li>
+<li>
+<p>TAN SUAN INN</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE (Innovation, Design &amp; Engineering) Series 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Amaze Award - Champion</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>LEONARDO JACOB ROPATA</p>
+</li>
+<li>
+<p>NUR JIAN BINTE MOHAMMED ILMIFIDRI</p>
+</li>
+<li>
+<p>LIN WENFU ALFRED</p>
+</li>
+<li>
+<p>UTTARWAR DYLAN</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Strategy Games Club</p>
 </td>
 <td rowspan="1" colspan="1">
