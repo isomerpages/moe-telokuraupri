@@ -1,0 +1,16 @@
+---
+title: Cyber Wellness
+permalink: /cyberwellness/
+variant: tiptap
+description: ""
+third_nav_title: For Students
+---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_29_165506.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_29_165522.png">
+</div>
+<p></p>
