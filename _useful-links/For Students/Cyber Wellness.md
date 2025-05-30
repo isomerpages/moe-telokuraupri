@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_29_165506.png">
 </div>
@@ -13,7 +12,8 @@ third_nav_title: For Students
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_29_165522.png">
 </div>
+<h4><strong>Another advice on balancing screen time for students</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oD9fI8N8ILQ?si=RGCQkeG5rLB-m3c-"></iframe>
+<iframe height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oD9fI8N8ILQ?si=RGCQkeG5rLB-m3c-"></iframe>
 </div>
 <p></p>
