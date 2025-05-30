@@ -760,10 +760,39 @@ third_nav_title: "2025"
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Disaster Risk Reduction Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>YEO EN LE, GWEN</p>
+</li>
+<li>
+<p>ARUL SELVAMONY JENOLIN</p>
+</li>
+<li>
+<p>ZAARA KIRAN UMER D\O JAGTAR SINGH</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ambassador of Blood Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>KARTHIKEYAN ADETI JAYAAMANI</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
