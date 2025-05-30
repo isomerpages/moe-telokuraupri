@@ -1068,6 +1068,23 @@ third_nav_title: "2025"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Infocomm Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Platinum Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>XU JINXIN</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Strategy Games Club</p>
 </td>
 <td rowspan="1" colspan="1">
