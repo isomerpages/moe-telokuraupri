@@ -304,19 +304,108 @@ third_nav_title: "2025"
 <p>AMOLIK PRASANN</p>
 </li>
 </ul>
-<p>Silver</p>
+<p><strong>Silver</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>KESHAV NAIR</p>
 </li>
 </ul>
-<p>Bronze</p>
+<p><strong>Bronze</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>TEOTICO ROBERT MATHEUS SORIANO</p>
 </li>
 <li>
 <p>ANAHAT SINGH</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Pen Calligraphy Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Individual Gold - Lower Primary Level</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zhang Boyan</p>
+</li>
+</ul>
+<p><strong>Individual Bronze - Upper Primary Level</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Yutang</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13th Singapore Brush and Pen Calligraphy Grand Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Individual - Merit Award (Brush)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Yutang</p>
+</li>
+<li>
+<p>Cai Xin Yun</p>
+</li>
+</ul>
+<p><strong>Individual - Merit Award (Pen)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Yutang</p>
+</li>
+<li>
+<p>Cai Xin Yun</p>
+</li>
+<li>
+<p>Zhang Boyan</p>
+</li>
+<li>
+<p>Chen Siyu</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14th Poi Ching School National Chinese Calligraphy Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Individual - Merit Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chen Ziyi</p>
+</li>
+</ul>
+<p><strong>Individual - Consolation Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Yutang</p>
+</li>
+<li>
+<p>Cai Xin Yun</p>
 </li>
 </ul>
 </td>
