@@ -97,8 +97,7 @@ variant: markdown
 <p>Ms Raelene Lee Shu Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="raelene_lee_shu_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raelene_lee_shu_xuan@moe.edu.sg</a>
-</p>
+<p>raelene_lee_shu_xuan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>249</p>
@@ -109,8 +108,7 @@ variant: markdown
 <p>Ms Brenda Ng Sok Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:brenda_ng_sok_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brenda_ng_sok_peng@moe.edu.sg</a>
-</p>
+<p>brenda_ng_sok_peng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>248</p>
@@ -124,8 +122,7 @@ variant: markdown
 <p>Mdm Fauziah Kani Bte Abdul Waduth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fauziah_kani_abdul_waduth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_kani_abdul_waduth@moe.edu.sg</a>
-</p>
+<p>fauziah_kani_abdul_waduth@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -139,8 +136,7 @@ variant: markdown
 <p>Mr Shaikh Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg</a>
-</p>
+<p>shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>131</p>
