@@ -109,10 +109,41 @@ variant: tiptap
 <p>Ms Brenda Ng Sok Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:brenda_ng_sok_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brenda_ng_sok_peng@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>248</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Allied Educator (Teaching &amp; Learning)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fauziah Kani Bte Abdul Waduth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fauziah_kani_abdul_waduth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_kani_abdul_waduth@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager (Adjunct)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shaikh Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>131</p>
 </td>
 </tr>
 <tr>
@@ -285,20 +316,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Tay Seok Ching</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
