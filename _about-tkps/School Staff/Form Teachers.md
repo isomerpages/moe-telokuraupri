@@ -451,7 +451,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P2 Learner</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -475,6 +475,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;299</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tao Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tao_fang@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>234</p>
 </td>
 </tr>
 <tr>
