@@ -1100,13 +1100,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nazihah Binti Na'amsah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nazihah_naamsah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazihah_naamsah@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>316</p>
 </td>
 </tr>
 <tr>
@@ -1234,13 +1235,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Melissa Low Eik Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:melissa_low_eik_wei_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melissa_low_eik_wei_a@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>324</p>
 </td>
 </tr>
 <tr>
