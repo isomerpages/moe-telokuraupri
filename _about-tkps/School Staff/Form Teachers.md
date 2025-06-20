@@ -221,7 +221,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P1 Explorer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,6 +245,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;216</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Chang Tze Edward</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chew_chang_tze_edward@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_chang_tze_edward@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>219</p>
 </td>
 </tr>
 <tr>
