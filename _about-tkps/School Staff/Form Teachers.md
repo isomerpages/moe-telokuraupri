@@ -936,7 +936,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P4 Inquirer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -960,6 +960,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;345</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jayanthi d/o Retnam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="jayanthi_retnam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayanthi_retnam@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>342</p>
 </td>
 </tr>
 <tr>
