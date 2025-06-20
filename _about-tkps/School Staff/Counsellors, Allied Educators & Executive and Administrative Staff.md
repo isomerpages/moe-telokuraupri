@@ -139,7 +139,7 @@ variant: tiptap
 <p>Mr Shaikh Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg</a>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
