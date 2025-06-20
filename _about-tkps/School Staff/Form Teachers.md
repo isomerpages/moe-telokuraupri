@@ -1019,18 +1019,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P5 Reflector</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Arafah Bte Tajudin</p>
+<p>Mdm Tan Jin Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">arafah_tajudin@moe.edu.sg</a>
+<p><a href="mailto:tan_jin_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jin_jun@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;335</p>
+<p>&nbsp;297</p>
 </td>
 </tr>
 <tr>
@@ -1043,17 +1043,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;332</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wu Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yvonne_wu_ling@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>329</p>
 </td>
 </tr>
 <tr>
@@ -1176,7 +1165,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;333</p>
+<p>&nbsp;334</p>
 </td>
 </tr>
 <tr>
@@ -1231,7 +1220,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P5 Navigator</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1242,7 +1231,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;303</p>
+<p>303</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wu Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yvonne_wu_ling@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>329</p>
 </td>
 </tr>
 <tr>
