@@ -458,14 +458,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Watt Siu Yee</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_siu_yee@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;299</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -556,14 +555,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kenneth Wong Cher Jian</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kenneth_wong_cher_jian@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;258</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1030,14 +1028,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Hafizah Bte Ismail</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_hafizah_ismail_b@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;322</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1138,32 +1135,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Harith Iskandar Bin Zunil</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">harith_iskandar_zunil@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;328</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>P5 Navigator</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Suat Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_suat_hoon@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;327</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Shaharzad B Kasman</p>
 </td>
@@ -1173,6 +1157,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;303</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
