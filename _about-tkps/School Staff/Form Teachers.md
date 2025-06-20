@@ -62,7 +62,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P1 Encourager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,6 +86,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;202</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tay Lin Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tay_lin_hong_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lin_hong@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>201</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +155,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P1 Learner</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,6 +179,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;210</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tuminah Bt Husman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tuminah_bt_husman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tuminah_bt_husman@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>214</p>
 </td>
 </tr>
 <tr>
