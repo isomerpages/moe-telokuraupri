@@ -1344,21 +1344,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P6 Encourager</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm Shen Huijie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shen_huijie@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;269</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Edith Ang Sian Hong (Mrs Satiish)</p>
 </td>
@@ -1368,6 +1356,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;298</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr James Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="long_soo_chiang_james@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_soo_chiang_james@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;237</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Cheng Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_cheng_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_cheng_chong@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>271</p>
 </td>
 </tr>
 <tr>
