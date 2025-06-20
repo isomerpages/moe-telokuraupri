@@ -592,21 +592,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Siu Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_siu_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_siu_yee@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>332</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
