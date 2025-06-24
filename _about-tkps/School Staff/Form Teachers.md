@@ -640,13 +640,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Aneesa Rehana Amanullah</p>
+<p>Ms Sheeba d/o Balakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>aneesa_rehana@moe.edu.sg</p>
+<p>sheeba_do_balakrishnan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>292</p>
+<p>234</p>
 </td>
 </tr>
 <tr>
