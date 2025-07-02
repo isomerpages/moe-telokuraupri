@@ -410,6 +410,73 @@ third_nav_title: "2025"
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth STEM Fair 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Distinction</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Li Mingxuan</p>
+</li>
+<li>
+<p>Sew Hee Tat, Nestor</p>
+</li>
+<li>
+<p>Bandekar Parth</p>
+</li>
+<li>
+<p>Aditya Sharma</p>
+</li>
+<li>
+<p>Raje Aadyansh Abhishek</p>
+</li>
+</ul>
+<p><strong>Accomplished</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Annabelle Bronshtein</p>
+</li>
+<li>
+<p>Xu Yutang</p>
+</li>
+<li>
+<p>Kavin Viramany</p>
+</li>
+<li>
+<p>Murugananda Krishwin</p>
+</li>
+<li>
+<p>Hana Saito</p>
+</li>
+</ul>
+<p><strong>Commendation</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cai Xinyun</p>
+</li>
+<li>
+<p>Chan Chiu Hang</p>
+</li>
+<li>
+<p>Chong Kai Jie</p>
+</li>
+<li>
+<p>Zayid Rafi Bin Muhammad Khairul</p>
+</li>
+<li>
+<p>Wu Youhan</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>CCA Achievements</strong></h3>
