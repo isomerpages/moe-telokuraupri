@@ -13,3 +13,12 @@ understanding of various strategy games, both physical and digital. Members
 will learn different strategies to play well and get to experience values
 such as resilience and to improve their skills to strive for better outcomes.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgc_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PXL_20240327_002116436_PORTRAIT.jpg">
+</div>
+<p></p>
