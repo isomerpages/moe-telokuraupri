@@ -730,18 +730,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Suat Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="tan_suat_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_suat_hoon@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>327</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Loh Chai Na</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -750,6 +738,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>211</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kelli Goh Chun Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_chun_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chun_ling@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>293</p>
 </td>
 </tr>
 </tbody>
