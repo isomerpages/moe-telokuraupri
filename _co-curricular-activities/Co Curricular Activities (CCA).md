@@ -72,7 +72,7 @@ in a vibrant environment.</p>
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Environment al Club</p>
+<p>Environmental Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Red Cross Youth</p>
