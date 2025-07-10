@@ -5,4 +5,30 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h3><strong>Chinese Dance</strong></h3><h4><strong>Introduction of CCA</strong></h4><p>As our school’s LLP focuses on character development through team sports and the arts, Chinese dance supports the aesthetic development of our students by allowing them to appreciate and connect with the Chinese culture through different forms of Chinese dance. This CCA provides our dancers with knowledge, skills and values through learning and performing Chinese Dance, as well as creating, appreciating and responding to dance. Through dance, we teach our members to be confident performers and learn the importance of teamwork and commitment. Our dancers learn about the development of artistic expressions by conveying emotions using both body and facial expressions. They are also given opportunities to be actively involved in school and public performances, such as the SYF AP.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/vpa2.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20CCA/Chinese%20Dance.jpg"></div><p></p>
+<h3><strong>Chinese Dance</strong></h3>
+<h4><strong>Introduction of CCA</strong></h4>
+<p>The TKPS Chinese Dance CCA nurtures our students’ aesthetic appreciation
+and deepens their connection to Chinese culture through a diverse repertoire
+of traditional and contemporary dance forms. Through structured lessons
+and performances, dancers develop not only technical skills and cultural
+understanding, but also values such as discipline, resilience, and respect
+for the arts.
+<br>
+<br>Members learn to express themselves creatively, using both body movements
+and facial expressions to convey emotion and meaning in their performances.
+They also explore choreography, dance appreciation, and critical response,
+fostering holistic artistic growth.
+<br>
+<br>The CCA provides a platform for students to grow into confident leaders
+and resilient learners, while at the same time emphasising teamwork and
+commitment. Our dancers frequently represent the school in key events such
+as the Singapore Youth Festival Arts Presentation (SYF AP), as well as
+various school and community performances.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/vpa2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20CCA/Chinese%20Dance.jpg">
+</div>
+<p></p>
