@@ -477,6 +477,92 @@ third_nav_title: "2025"
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lau Jia Zhang Quentin</p>
+</li>
+</ul>
+<p><strong>Silver</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aditya Sharma</p>
+</li>
+<li>
+<p>Kavin Viramany</p>
+</li>
+<li>
+<p>Li Mingxuan</p>
+</li>
+</ul>
+<p><strong>Bronze</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Annabelle Bronnshtein</p>
+</li>
+<li>
+<p>Calen Seet Ti Teng</p>
+</li>
+</ul>
+<p><strong>Merit</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aadyansh Raje</p>
+</li>
+<li>
+<p>Chong Kai Jie</p>
+</li>
+<li>
+<p>Ge Fanyi</p>
+</li>
+<li>
+<p>Muruganadam Krishwin</p>
+</li>
+<li>
+<p>Prajwal Nandy</p>
+</li>
+<li>
+<p>Wu Youhan</p>
+</li>
+<li>
+<p>Bandekar Parth</p>
+</li>
+<li>
+<p>Dong Xiyao</p>
+</li>
+<li>
+<p>Kaung Khant Ko</p>
+</li>
+<li>
+<p>Ong Jia Jet</p>
+</li>
+<li>
+<p>Cai Xinyun</p>
+</li>
+<li>
+<p>Peng Junchen</p>
+</li>
+<li>
+<p>Sew Hee Tat, Nestor</p>
+</li>
+<li>
+<p>Sivakumaran Shivanan</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>CCA Achievements</strong></h3>
@@ -1146,6 +1232,32 @@ third_nav_title: "2025"
 <ul data-tight="true" class="tight">
 <li>
 <p>XU JINXIN</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Infocomm Challenge (SIC) 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2D Game Development Most Engaging Experience - Diamond Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teotico Robert Matheus Soriano</p>
+</li>
+<li>
+<p>Julien Kee</p>
+</li>
+<li>
+<p>Xu Jinxin</p>
+</li>
+<li>
+<p>Macayana Maverick Zeroun Agamata</p>
 </li>
 </ul>
 </td>
