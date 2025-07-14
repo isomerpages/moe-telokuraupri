@@ -31,6 +31,14 @@ sections:
           link_text: FIND OUT MORE
           link_url: /useful-links/for-parents/imda-digihome/
   - infopic:
+      title: 100 YEARS ANNIVERSARY
+      subtitle: Join us!
+      id: infopic
+      description: May 2026
+      button: CLICK HERE
+      url: /tkps-100-years-annivesary/
+      image: /images/tkps100logo.jpg
+  - infopic:
       title: For Students
       id: infopic
       description: All student learning portals
