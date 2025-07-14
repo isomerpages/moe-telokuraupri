@@ -38,6 +38,7 @@ sections:
       button: CLICK HERE
       url: /tkps-100-years-annivesary/
       image: /images/tkps100logo.jpg
+      alt: TKPS100
   - infopic:
       title: For Students
       id: infopic
