@@ -34,7 +34,7 @@ sections:
       title: 100 YEARS ANNIVERSARY
       subtitle: Join us!
       id: infopic
-      description: INSPIRING INNOVATIONS, ENABLING TRANSFORMATIONS
+      description: MAY 2026
       button: CLICK HERE
       url: /tkps-100-years-annivesary/
       image: /images/tkps100logo.jpg
