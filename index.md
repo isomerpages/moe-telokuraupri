@@ -31,13 +31,13 @@ sections:
           link_text: FIND OUT MORE
           link_url: /useful-links/for-parents/imda-digihome/
   - infopic:
-      title: TKPS Open House 2025
-      subtitle: Come & Join Us!
+      title: 100 YEARS ANNIVERSARY
+      subtitle: Join us!
       id: infopic
-      button: Click Here
-      url: https://www.telokkuraupri.moe.edu.sg/tkps-open-house-2025/
-      image: /images/Poster_2025.jpg
-      alt: TKPS Open House 2025
+      description: MAY 2026
+      button: CLICK HERE
+      url: /tkps-100-years-annivesary/
+      image: /images/tkps100logo.jpg
   - infopic:
       title: For Students
       id: infopic
