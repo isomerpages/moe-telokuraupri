@@ -653,7 +653,7 @@ Solving Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Puan Noor Aishah Award 2024</p>
+<p>Puan Noor Aishah Award 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold</strong>
