@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: THE 21 CC DOMAIN
 ---
-<h4><strong>21st Century Competencies (21CC) domains in Singapore's education framework<br></strong></h4>
+<h4><strong>21st Century Competencies (21CC) Domains in Singapore's Education Framework<br></strong></h4>
 <p>In today's rapidly evolving global landscape, our students need more than
 just academic knowledge to thrive. The 21st Century Competencies (21CC)
 framework was developed by the Ministry of Education (MOE) Singapore to
