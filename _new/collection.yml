@@ -2,6 +2,8 @@ collections:
   new:
     output: true
     order:
+      - SIGNATURE PROGRAMMES/Applied Learning Programme (ALP) & Learning for
+        Life Programme (LLP).md
       - SIGNATURE PROGRAMMES/TLC & Values Ambassador.md
       - SIGNATURE PROGRAMMES/Growth Mindset.md
       - SIGNATURE PROGRAMMES/Future Quest.md
