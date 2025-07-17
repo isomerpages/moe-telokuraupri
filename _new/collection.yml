@@ -2,6 +2,7 @@ collections:
   new:
     output: true
     order:
+      - CCA/Physical Sports.md
       - CCA/.keep
       - SIGNATURE PROGRAMMES/.keep
       - SIGNATURE PROGRAMMES/Future Quest.md
