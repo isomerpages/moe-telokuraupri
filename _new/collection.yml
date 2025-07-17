@@ -1,0 +1,6 @@
+collections:
+  new:
+    output: true
+    order:
+      - Communication, Collaboration and  Information Skills (CCI).md
+      - Critical, Adaptive and Inventive Thinking (CAIT).md
