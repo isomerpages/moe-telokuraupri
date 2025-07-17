@@ -2,6 +2,7 @@ collections:
   new:
     output: true
     order:
+      - SIGNATURE PROGRAMMES/.keep
       - THE 21 CC DOMAIN/21CC Framework.md
       - THE 21 CC DOMAIN/.keep
       - THE 21 CC DOMAIN/Critical, Adaptive and Inventive Thinking (CAIT).md
