@@ -2,6 +2,7 @@ collections:
   new:
     output: true
     order:
+      - SIGNATURE PROGRAMMES/TLC & Values Ambassador.md
       - SIGNATURE PROGRAMMES/Growth Mindset.md
       - SIGNATURE PROGRAMMES/Future Quest.md
       - SIGNATURE PROGRAMMES/.keep
