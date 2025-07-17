@@ -2,8 +2,8 @@ collections:
   new:
     output: true
     order:
-      - The 21st CC Domain/.keep
-      - The 21st CC Domain/Critical, Adaptive and Inventive Thinking (CAIT).md
-      - The 21st CC Domain/Communication, Collaboration and  Information Skills
+      - THE 21 CC DOMAIN/.keep
+      - THE 21 CC DOMAIN/Critical, Adaptive and Inventive Thinking (CAIT).md
+      - THE 21 CC DOMAIN/Communication, Collaboration and  Information Skills
         (CCI).md
-      - The 21st CC Domain/Civic, Global and Cross Cultural  Literacy (CGC).md
+      - THE 21 CC DOMAIN/Civic, Global and Cross Cultural  Literacy (CGC).md
