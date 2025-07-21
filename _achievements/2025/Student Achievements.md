@@ -450,7 +450,7 @@ third_nav_title: "2025"
 <p>Kavin Viramany</p>
 </li>
 <li>
-<p>Murugananda Krishwin</p>
+<p>Muruganandam Krishwin</p>
 </li>
 <li>
 <p>Hana Saito</p>
