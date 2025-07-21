@@ -18,6 +18,15 @@ sections:
           description: ""
           url: /photogallery/
       variant: image
+  - infopic:
+      title: 100 YEARS ANNIVERSARY
+      subtitle: Join us!
+      id: infopic
+      description: MAY 2026
+      button: CLICK HERE
+      url: /tkps-100-years-annivesary/
+      image: /images/tkps100logo.jpg
+      alt: TKPS100
   - announcements:
       title: Announcements
       id: announcements
@@ -30,15 +39,6 @@ sections:
             work and social activities.
           link_text: FIND OUT MORE
           link_url: /useful-links/for-parents/imda-digihome/
-  - infopic:
-      title: 100 YEARS ANNIVERSARY
-      subtitle: Join us!
-      id: infopic
-      description: MAY 2026
-      button: CLICK HERE
-      url: /tkps-100-years-annivesary/
-      image: /images/tkps100logo.jpg
-      alt: TKPS100
   - infopic:
       title: For Students
       id: infopic

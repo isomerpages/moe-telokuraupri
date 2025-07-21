@@ -3,6 +3,7 @@ title: Critical, Adaptive and Inventive Thinking (CAIT)
 permalink: /critical-adaptive-and-inventive-thinking-cait/
 variant: tiptap
 description: ""
+third_nav_title: THE 21 CC DOMAIN
 ---
 <p><strong>Critical, Adaptive and Inventive Thinking</strong> enables students
 to use sound reasoning and metacognitive skills to inform decision-making,
