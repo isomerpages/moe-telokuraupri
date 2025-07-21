@@ -2,6 +2,7 @@ collections:
   new:
     output: true
     order:
+      - CAIT/ENGLISH FIESTA.md
       - CAIT/.keep
       - SIGNATURE PROGRAMMES/.keep
       - SIGNATURE PROGRAMMES/Future Quest.md
