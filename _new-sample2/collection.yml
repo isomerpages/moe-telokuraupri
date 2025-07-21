@@ -1,4 +1,5 @@
 collections:
   new-sample2:
     output: true
-    order: []
+    order:
+      - ENGLISH FIESTA.md
