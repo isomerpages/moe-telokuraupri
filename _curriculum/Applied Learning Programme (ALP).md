@@ -308,5 +308,16 @@ the impact of the CCA in cultivating STEM talent and pursuit of excellence.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>STEM Fiesta</strong></h4>
+<p>In 2024, the school has piloted the STEM Fiesta with support from NIE,
+CPDD and the Science Centre to provide a platform for students to showcase
+their skills and talents. In 2025, the school has extended invitation to
+cluster primary schools to foster social interaction and cross-collaboration
+among students, while showcasing critical and inventive thinking, as well
+as collaborative and communication skills through joint problem-solving
+activities.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEMFiesta2024.jpg">
+</div>
 <p></p>
