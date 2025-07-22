@@ -185,9 +185,7 @@ in everyday life</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Student engagement in ALP classroom lessons</strong>
-</p>
-<p></p>
+<h4><strong>Student engagement in ALP classroom lessons</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ALP3.jpg">
@@ -213,3 +211,37 @@ in everyday life</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP8.jpg">
 </div>
 <p></p>
+<h4><strong>Talent Development</strong></h4>
+<p>Students who demonstrate interest and aptitude in coding or robotics may
+join the Robotics CCA to further nurture their passion and skills. The
+school also provides opportunities for them to participate in both national
+and international competitions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic01.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic02.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic03.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic04.png">
+</div>
+<p></p>
+<h4><strong>Robotics Club CCA</strong></h4>
+<p>Robotics CCA nurtures problem-solving, creativity, and teamwork through
+hands-on coding and engineering challenges. It also supports talent development
+by identifying and stretching students’ potential in STEM through competitions,
+innovation projects, and advanced programming activities.</p>
+<p></p>
+<h4><strong>Showcasing Student Talents Through Competitions</strong></h4>
+<p>The Robotics Club CCA participates in competitions, providing students
+with opportunities to showcase their STEM skills and creativity. These
+platforms foster development of confidence and nurture students' talents.
+The team's accomplishments reflect their hard work and dedication, demonstrating
+the impact of the CCA in cultivating STEM talent and pursuit of excellence.</p>
