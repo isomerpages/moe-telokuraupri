@@ -257,4 +257,56 @@ the impact of the CCA in cultivating STEM talent and pursuit of excellence.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM03.jpg">
 </div>
+<p><strong><u>Achievements 2025</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SMORPHI Robotics Challenge @ SUTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SMORPHI Imaginary Challenge @ SUTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IDE VEX (Innovation, Design &amp; Engineering) Series 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Infocomm Challenge&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platinum Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Infocomm Challenge (SIC) 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Most Engaging</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
