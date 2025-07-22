@@ -245,3 +245,16 @@ with opportunities to showcase their STEM skills and creativity. These
 platforms foster development of confidence and nurture students' talents.
 The team's accomplishments reflect their hard work and dedication, demonstrating
 the impact of the CCA in cultivating STEM talent and pursuit of excellence.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM03.jpg">
+</div>
+<p></p>
