@@ -16,7 +16,7 @@ that include, but are not limited to:</p>
 <p>The school website</p>
 </li>
 <li>
-<p>The school’s monthly e-newsletter (Parent's Connect)</p>
+<p>The school’s monthly e-newsletter (Parents Connect)</p>
 </li>
 <li>
 <p>Promotional materials (slides, brochures) for school events</p>
