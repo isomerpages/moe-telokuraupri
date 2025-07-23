@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h3><strong>Lion and Dragon [Dance</strong></h3>
+<h3><strong>Lion and Dragon Dance</strong></h3>
 <h4><strong>Introduction of CCA</strong></h4>
 <p>Established in 2000, Telok Kurau Primary School’s Lion Dance troupe was
 formed to introduce students to the rich cultural heritage of traditional
