@@ -2,12 +2,13 @@ collections:
   new:
     output: true
     order:
+      - TKPS 100 Years Annivesary.md
       - SIGNATURE PROGRAMMES/.keep
       - SIGNATURE PROGRAMMES/Future Quest.md
       - SIGNATURE PROGRAMMES/Growth Mindset.md
       - SIGNATURE PROGRAMMES/TLC & Values Ambassador.md
-      - SIGNATURE PROGRAMMES/Applied Learning Programme (ALP) & Learning for
-        Life Programme (LLP).md
+      - SIGNATURE PROGRAMMES/Applied Learning Programme (ALP).md
+      - SIGNATURE PROGRAMMES/Learning for Life Programme (LLP).md
       - THE 21 CC DOMAIN/.keep
       - THE 21 CC DOMAIN/21CC Framework.md
       - THE 21 CC DOMAIN/Critical, Adaptive and Inventive Thinking (CAIT).md
