@@ -2,7 +2,6 @@ collections:
   new:
     output: true
     order:
-      - TKPS 100 Years Annivesary.md
       - SIGNATURE PROGRAMMES/.keep
       - SIGNATURE PROGRAMMES/Future Quest.md
       - SIGNATURE PROGRAMMES/Growth Mindset.md
