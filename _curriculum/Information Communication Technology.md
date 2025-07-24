@@ -212,10 +212,7 @@ reduce screen time and do other activities instead</p>
 <p></p>
 <p><strong>Termly SLS Cyber Wellness Winning&nbsp;Classes</strong>
 </p>
-<p><a href="/files/Cyber_Wellness_Lessons_Term_1_WINNERS_13March25.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a>
-</p>
-<p><a href="/files/Cyber_Wellness_Lessons_Term_2_WINNERS.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
