@@ -182,7 +182,7 @@ third_nav_title: "2025"
 <p>KAUNG KHANT MIN</p>
 </li>
 </ul>
-<p><strong>SIlver</strong>
+<p><strong>Silver</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
