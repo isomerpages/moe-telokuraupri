@@ -11,9 +11,17 @@ variant: tiptap
 <p>Quality learning in the hands of every learner - empowered&nbsp;with&nbsp;technology</p>
 <p></p>
 <h4><strong>Cyber Wellness @ TKPS</strong></h4>
-<div class="iframe-wrapper">
-<iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Cy-JPDUD4po"></iframe>
-</div>
+<p>At Telok Kurau Primary School, the Cyber Wellness Programme is an integral
+part of our Information and Communication Technology (ICT) curriculum.
+Rooted in our belief that every student should be a responsible and discerning
+digital citizen, the programme equips our pupils with the knowledge, values,
+and skills to navigate the online world safely and responsibly.</p>
+<p>To reinforce these important habits, the school conducts termly Cyber
+Wellness lessons through the Student Learning Space (SLS), helping students
+cultivate safe, respectful, and positive online behaviours. Through these
+thoughtfully designed lessons and activities, our students learn to protect
+themselves and others, make wise choices online, and contribute meaningfully
+to the digital&nbsp;community.</p>
 <p><strong>Cyber Wellness Themes and Corresponding topics*</strong>
 </p>
 <table style="minWidth: 50px">
@@ -199,7 +207,16 @@ reduce screen time and do other activities instead</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><em>* The topics are accompanied by SLS assignments as well as semesterly whole-school quizzes.</em>
 </p>
+<p></p>
+<p><strong>Termly SLS Cyber Wellness Winning&nbsp;Classes</strong>
+</p>
+<p><a href="/files/Cyber_Wellness_Lessons_Term_1_WINNERS_13March25.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a>
+</p>
+<p><a href="/files/Cyber_Wellness_Lessons_Term_2_WINNERS.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
