@@ -200,6 +200,9 @@ third_nav_title: "2025"
 <li>
 <p>KESHAV NAIR</p>
 </li>
+<li>
+<p>ADITHYA SHARMA</p>
+</li>
 </ul>
 <p><strong>Bronze</strong>
 </p>
