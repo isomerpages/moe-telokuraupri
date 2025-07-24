@@ -212,7 +212,12 @@ reduce screen time and do other activities instead</p>
 <p></p>
 <p><strong>Termly SLS Cyber Wellness Winning&nbsp;Classes</strong>
 </p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT17P2iSbSMp2viwnPoO11cQHc02HAj0zgM77TyE4xno_6K-tcksmDLTk5FSudJqg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAjX8eoxwAMmxqrKb-JukDTDTkEkUP379lg2Kf2uZfRHC-MGzCU85TsHvK4t81Iw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <p></p>
 <p></p>
