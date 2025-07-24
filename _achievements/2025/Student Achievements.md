@@ -203,6 +203,12 @@ third_nav_title: "2025"
 <li>
 <p>ADITYA SHARMA</p>
 </li>
+<li>
+<p>DANG MINH QUAN</p>
+</li>
+<li>
+<p>PAN YIFEI</p>
+</li>
 </ul>
 <p><strong>Bronze</strong>
 </p>
