@@ -213,10 +213,10 @@ reduce screen time and do other activities instead</p>
 <p><strong>Termly SLS Cyber Wellness Winning&nbsp;Classes</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT3zUn1Ns1iQjpqmscHac2fQQJKOfr79v7ywgrIlxpvjzYZhTsDhW3XFEuL6BUC8-WFQCiwYJIrPbcs/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="720px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT3zUn1Ns1iQjpqmscHac2fQQJKOfr79v7ywgrIlxpvjzYZhTsDhW3XFEuL6BUC8-WFQCiwYJIrPbcs/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJMTE6J0D_yYbBBTRvaJnF1_guyUKK0CP7B4WWXKd2CoKcf97bDOblID2hcIPm-D2fD_UZRIj69JCT/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="720px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJMTE6J0D_yYbBBTRvaJnF1_guyUKK0CP7B4WWXKd2CoKcf97bDOblID2hcIPm-D2fD_UZRIj69JCT/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
