@@ -24,7 +24,7 @@ citizens of Singapore and the world.</p>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Click Here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">TIE - SARAWAK &amp; HONG KONG </div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Click Here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">TIE - SARAWAK &amp; HONG KONG</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Click Here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">INTERDISCIPLINARY LEANRING JOURNEY</div>
