@@ -42,5 +42,5 @@ and values come together to make a difference in the real world.</p>
 developing this learning journey, and we look forward to seeing how our
 students grow through it—becoming confident individuals, self-directed
 learners, and active contributors to society.</p>
-<p>&nbsp;<strong><a href="https://www.telokkuraupri.moe.edu.sg/civic-global-and-cross-cultural-literacy-cgc/" rel="noopener nofollow" target="_blank">Previous</a></strong>
-</p>
+<h4>&nbsp;<strong><a href="https://www.telokkuraupri.moe.edu.sg/civic-global-and-cross-cultural-literacy-cgc/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
+<p></p>
