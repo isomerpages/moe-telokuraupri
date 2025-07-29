@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: SIGNATURE PROGRAMMES
 ---
-<p></p>
 <h4>Primary 2 – Joyful Discoverers Club</h4>
 <p>Our youngest explorers set off on a vibrant journey of discovery as part
 of their FutureQuest adventure! At the Sea Aquarium, students dive deep
