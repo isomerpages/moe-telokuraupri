@@ -44,5 +44,14 @@ together.</p>
 Hana Bridge — a perfect close to an enriching learning journey.</p>
 <p>A heartfelt thank you to our warm and generous hosts in Sarawak! This
 has been a trip full of learning, laughter and lasting memories. Stay tuned
-for more photos on our school website. 📸</p>
+for more photos on our school website.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250525_WA0015.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250525_WA0017.jpg">
+</div>
+<p></p>
+<hr>
 <p></p>
