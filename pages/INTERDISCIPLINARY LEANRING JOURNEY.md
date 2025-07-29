@@ -17,7 +17,6 @@ engaging learning experience that integrates subject knowledge with real-world
 skills. By aligning their lesson objectives and activities, the team designed
 a cohesive journey that nurtures <strong>critical thinking, communication, collaboration, creativity, and civic literacy</strong>—all
 within authentic and relevant contexts.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6.jpg">
 </div>
