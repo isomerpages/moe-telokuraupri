@@ -14,14 +14,11 @@ leaders and crafted acrostic poems</p>
 <li>
 <p>Middle Primary: Participated in a door decoration contest showcasing favourite
 book covers. During recess, they engaged in book-themed activities and
-voted for their favourite decorated door.
-<br>
-</p>
+voted for their favourite decorated door.</p>
 </li>
 <li>
 <p>Upper Primary: Demonstrated public speaking skills in the One Minute Speech
 event, sharing thoughts on SG60 with confidence.</p>
-<p></p>
 </li>
 <li>
 <p>The week kicked off with a delightful costume parade, where teachers and
