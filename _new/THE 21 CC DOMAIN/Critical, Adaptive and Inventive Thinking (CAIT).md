@@ -12,7 +12,7 @@ and ambiguities to adapt to changing contexts with agility.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">EL FIESTA</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Click Here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">CURRENT AFFAIRS</div>
+<div class="isomer-card-title">VOICES &amp; PERSPECTIVES</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Click Here</div>
 </div>
