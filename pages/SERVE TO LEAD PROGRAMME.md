@@ -58,3 +58,27 @@ energise others — including the seniors — through movement, rhythm and
 confidence. This session also reinforced the importance of communicating
 with clarity and supporting others through encouragement.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/331a6f84_8118_435f_98d8_5f4216db8549_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/92eab02f_4a63_4e4a_a144_5a3195cb4b74_2.jpg">
+</div>
+<p>The leadership journey culminates in the&nbsp;World Aquatics Learning
+Journey, where student leaders will reunite with the same seniors they
+had previously interacted with. During the session, our student leaders
+had the honour of acting as young ambassadors, guiding and interacting
+meaningfully with the seniors during the visit. This experience reminded
+them that leadership is not just about taking charge — it is also about
+listening, connecting, and making others feel seen and included.&nbsp;</p>
+<p></p>
+<p>Through these various touchpoints, our student leaders have had the opportunity
+to step out of their comfort zones, develop their leadership voice and
+serve others with empathy. They have learnt to listen actively, lead with
+heart and act with purpose.</p>
+<p></p>
+<p>The Serve to Lead programme is more than a series of events — it is a
+journey of character, service and community. As our student leaders continue
+to grow in their roles, we are confident that they will carry forward the
+values of humility, courage and compassion.</p>
