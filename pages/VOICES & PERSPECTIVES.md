@@ -22,17 +22,3 @@ and build key 21st Century Competencies, such as civic literacy and effective
 communication. More than just reading, it has helped our students become
 thoughtful, informed and participative members of society.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/V_P1.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/V_P2.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/V_P3.jpg">
-</div>
-<p></p>

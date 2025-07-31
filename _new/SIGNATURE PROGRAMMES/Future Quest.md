@@ -28,9 +28,6 @@ in expressing ideas—hallmarks of E21CC learning.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_CCI_2.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_CGC_9.jpg">
-</div>
 <h4>Primary 4 – Making Purposeful Connections</h4>
 <p>In this immersive FutureQuest experience, our Primary 4 students become
 purposeful connectors as they journey through science, culture, and sustainability.
@@ -41,6 +38,19 @@ and communication skills. Their adventure culminates in a hands-on aquaponics
 project, where they grow their own greens and plan a meal using their harvest
 to cook for their family. Through each task, students build on collaboration,
 critical thinking, and a deeper understanding of purposeful living.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_CCI_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_CAIT_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_CCI_5.png">
+</div>
+<p></p>
 <h4>Primary 6 – Future World Guardians</h4>
 <p>As Future World Guardians, our Primary 6 students take on real-world challenges
 with the spirit of service and innovation. They begin by researching pressing
@@ -54,3 +64,16 @@ mission launches them into the world of aerodynamics, where they design
 and test a bottle rocket using mathematics and science. Throughout this
 journey, they grow as proactive, future-ready leaders who strive and serve
 with purpose.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_CAIT_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_CGC_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_CCI_1.jpg">
+</div>
+<p></p>

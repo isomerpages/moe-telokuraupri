@@ -1,6 +1,6 @@
 ---
 title: CYBERWELLNESS
-permalink: /cyberwellness/
+permalink: /cyber-wellness/
 variant: tiptap
 description: ""
 ---
