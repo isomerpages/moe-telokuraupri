@@ -9,6 +9,7 @@ third_nav_title: SIGNATURE PROGRAMMES
 who have exemplified our school values with unwavering dedication. Symbolised
 by specially chosen animals and thoughtfully designed by Mr Mark Chang,
 each collar pin carries the spirit of the value it represents.</p>
+<p></p>
 <p>Aspiring to earn all six collar pins with each representing one school
 value, every student is empowered to strive for excellence and contribute
 positively to our school community.</p>
