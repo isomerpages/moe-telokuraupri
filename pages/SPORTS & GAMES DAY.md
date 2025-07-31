@@ -29,7 +29,6 @@ deeper sense of belonging.</p>
 <p><strong>To Provide Opportunities for Students to Demonstrate Fundamental Movement Skills</strong>
 <br>Games Day is aligned with our Physical Education goals by allowing students
 to apply age-appropriate movement skills in a fun, engaging context:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Primary 1 and 2</strong>: Class relay races focusing on key locomotor
