@@ -15,6 +15,22 @@ postcards. Their quest ends with a culinary adventure as they uncover the
 origins of roti prata, learn to follow a recipe, and take pride in making
 their own! These experiences nurture their curiosity, creativity, and confidence
 in expressing ideas—hallmarks of E21CC learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_CAIT_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_CCI_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_CCI_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_CGC_9.jpg">
+</div>
 <h4>Primary 4 – Making Purposeful Connections</h4>
 <p>In this immersive FutureQuest experience, our Primary 4 students become
 purposeful connectors as they journey through science, culture, and sustainability.
