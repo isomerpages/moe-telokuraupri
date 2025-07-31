@@ -1273,6 +1273,89 @@ third_nav_title: "2025"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSTA-DSO-VJC Robotics Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Heavy Category - 1st place</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ETHAN JOHN MERINA</p>
+</li>
+<li>
+<p>UTTARWAR DYLAN</p>
+</li>
+<li>
+<p>ARUSH OBEROI</p>
+</li>
+<li>
+<p>MACAYANA MAVERICK ZEROUN AGAMATA</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Light Category - 1st place</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>LEONARDO JACOB ROPATA</p>
+</li>
+<li>
+<p>MIKAYLA SABINE TANZON ALVAREZ</p>
+</li>
+<li>
+<p>GIDEON ELEOS PRAPTANA</p>
+</li>
+<li>
+<p>ZHOU KIRA QINLUO</p>
+</li>
+<li>
+<p>NUR HASANAH BINTE MUHAMMAD TAUFIQ</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Best Mechanical Construction (Primary)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CHAN CHIU HANG</p>
+</li>
+<li>
+<p>ANTON MUNOZ MARTIN</p>
+</li>
+<li>
+<p>DOROTHY GANDASASMITA</p>
+</li>
+<li>
+<p>CHNG MIN SHAN @ KAYDEN CHNG</p>
+</li>
+<li>
+<p>SITI AMINAH BINTE MOHAMMED NAZZER</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Most Innovative Design (Primary)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>JULIEN KEE</p>
+</li>
+<li>
+<p>CONTRERAS KYLE ZACHARY PARDO</p>
+</li>
+<li>
+<p>ACHYUTH NAIR</p>
+</li>
+<li>
+<p>RYDEN TAN</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Strategy Games Club</p>
 </td>
 <td rowspan="1" colspan="1">
