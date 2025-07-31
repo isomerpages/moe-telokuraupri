@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/critical-adaptive-and-inventive-thinking-cait/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
-<p><strong>Serve to Lead 2025: Nurturing Student Leaders with Heart and Purpose</strong>
-</p>
+<h4><strong>Serve to Lead 2025: Nurturing Student Leaders with Heart and Purpose</strong></h4>
 <p>At Telok Kurau Primary School, leadership is not about titles — it is
 about influence, empathy and service. In line with this belief, the Serve
 to Lead programme continues to provide authentic platforms for our Primary
