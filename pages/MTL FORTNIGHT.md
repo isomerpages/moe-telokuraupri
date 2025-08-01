@@ -19,6 +19,10 @@ enable them to learn and use MTL beyond the classroom.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/Manga_Workshop_Pic_1.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_Fortnight_Activity__1_.jpeg">
 </div>
 <h5></h5>
