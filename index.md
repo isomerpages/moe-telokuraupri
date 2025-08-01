@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Every Child, A Story of Growth
+      title: Telok Kurau Primary School
       background: /images/2024Header_Edited.gif
       url: /contact-us/
       key_highlights:
