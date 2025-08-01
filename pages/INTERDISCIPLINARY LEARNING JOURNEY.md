@@ -1,5 +1,5 @@
 ---
-title: INTERDISCIPLINARY LEANRING JOURNEY
+title: INTERDISCIPLINARY LEARNING JOURNEY
 permalink: /interdisciplinary-leanring-journey/
 variant: tiptap
 description: ""
