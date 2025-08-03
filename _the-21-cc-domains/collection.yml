@@ -2,6 +2,7 @@ collections:
   the-21-cc-domains:
     output: true
     order:
+      - 21CC Framework.md
       - CGC/.keep
       - CCI/.keep
       - CAIT/.keep
