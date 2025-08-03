@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Physical Sports/Wushua.md
+      - Physical Sports/Wushu.md
       - Physical Sports/Football.md
       - Physical Sports/Bowling.md
       - Physical Sports/.keep
