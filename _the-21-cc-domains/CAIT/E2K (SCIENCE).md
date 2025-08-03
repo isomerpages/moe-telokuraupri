@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CAIT
 ---
-<h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/critical-adaptive-and-inventive-thinking-cait/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
-<h4>Excellence 2000 (E2K) Science Programme</h4>
 <p>Our school offers the <strong>EXCELLENCE 2000 (E2K) SCIENCE PROGRAMME</strong> to
 selected primary 4 students. This is a science inquiry-based programme
 aimed to stretch primary pupils who have demonstrated strong interest and
@@ -28,12 +26,5 @@ and teachers facilitate pupils to learn from the mistakes. Through collaborative
 learning and guidance provided by the teacher, pupils practise scientific
 thinking and reasoning, develop confidence and independence in carrying
 out scientific inquiry as well as scientific habits, attitudes and dispositions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Science/science-e2k-01.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Science/science-e2k-02.jpg">
-</div>
 <h5></h5>
 <p></p>

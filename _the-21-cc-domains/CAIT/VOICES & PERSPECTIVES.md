@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CAIT
 ---
-<h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/critical-adaptive-and-inventive-thinking-cait/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <p>Voices and Perspectives is a programme conducted during the CCE (Character
 and Citizenship Education) periods in collaboration with the Mother Tongue
 Department. It is designed to help our students connect what they read
@@ -22,20 +21,4 @@ their perspectives with their classmates.</p>
 and build key 21st Century Competencies, such as civic literacy and effective
 communication. More than just reading, it has helped our students become
 thoughtful, informed and participative members of society.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VoiceP__1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VoiceP__3_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VoiceP__8_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VoiceP__9_.jpg">
-</div>
 <p></p>
