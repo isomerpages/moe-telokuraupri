@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - 21CC Framework.md
-      - CAIT/SERVE TO LEAD PROGRAMME.md
-      - CAIT/READING PROGRAMME.md
-      - CAIT/E2K (SCIENCE).md
-      - CAIT/E2K (MATHEMATICS).md
-      - CAIT/VOICES & PERSPECTIVES.md
-      - CAIT/ENGLISH FIESTA.md
       - CAIT/.keep
       - CAIT/Critical, Adaptive and Inventive Thinking (CAIT).md
+      - CAIT/ENGLISH FIESTA.md
+      - CAIT/VOICES & PERSPECTIVES.md
+      - CAIT/E2K (MATHEMATICS).md
+      - CAIT/E2K (SCIENCE).md
+      - CAIT/READING PROGRAMME.md
+      - CAIT/SERVE TO LEAD PROGRAMME.md
       - CCI/.keep
       - CCI/Communication, Collaboration and  Information Skills (CCI).md
       - CGC/.keep
