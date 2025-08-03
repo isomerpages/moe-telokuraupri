@@ -1,5 +1,5 @@
 collections:
-  new:
+  signature-programmes:
     output: true
     order:
       - SIGNATURE PROGRAMMES/.keep
