@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts/.keep
       - Physical Sports/.keep
