@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CGC
 ---
-<h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/civic-global-and-cross-cultural-literacy-cgc/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <h4><u>School Overseas Learning Journey to Sarawak (May 2025)</u></h4>
 <p>A group of our Primary 5 students embarked on a meaningful and exciting
 overseas immersion trip to Kuching, Sarawak last week to deepen their cross-cultural
@@ -47,10 +46,10 @@ Hana Bridge — a perfect close to an enriching learning journey.</p>
 <p>A heartfelt thank you to our warm and generous hosts in Sarawak! This
 has been a trip full of learning, laughter and lasting memories. Stay tuned
 for more photos on our school website.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250525_WA0015.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250525_WA0017.jpg">
 </div>
@@ -67,16 +66,4 @@ both groups had the opportunity to learn more about each other’s countries,
 school life, and cultures. It was a meaningful and memorable exchange that
 fostered new friendships and broadened perspectives for everyone involved.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
-</div>
-<h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/civic-global-and-cross-cultural-literacy-cgc/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <p></p>
