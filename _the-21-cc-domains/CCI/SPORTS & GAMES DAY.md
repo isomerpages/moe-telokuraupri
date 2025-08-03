@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: CCI
 ---
-<h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/communication-collaboration-and-information-skills-cci/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
-<h4>G<strong>ames Day @ TKPS</strong></h4>
+<h4><strong>Games Day @ TKPS</strong></h4>
 <p>Games Day @ TKPS is a signature event designed to bring the entire school
 community together in a spirit of celebration, camaraderie, and active
 participation. Held in conjunction with Children’s Day, this joyful occasion
 provides an opportunity for our students to celebrate together as one school.</p>
+<p></p>
 <p></p>
 <p>The event is thoughtfully curated with the following objectives in mind:</p>
 <ul data-tight="true" class="tight">
@@ -54,25 +54,6 @@ goal promotes teamwork, responsibility, and a strong sense of class identity.</p
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC02859.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC02889.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC02972.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC03049.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC03152.jpg">
-</div>
 <p>Ultimately, Games Day @ TKPS is not only a platform for physical activity
 and enjoyment but also a powerful vehicle for character development, relationship
 building, and school pride.</p>
