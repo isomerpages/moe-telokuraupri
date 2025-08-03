@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CCI
 ---
-<h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/communication-collaboration-and-information-skills-cci/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <p>Education and Career Guidance (ECG) is an integral part of our holistic
 education framework. Guided by MOE’s ECG objectives, our programme helps
 students in developing greater self-awareness and self-directedness, empowering
@@ -15,7 +14,6 @@ their future.</p>
 <p>Our aim is to nurture confident individuals who are curious about the
 world of work and equipped with the knowledge of their own strengths, interests,
 and aspirations.</p>
-<p></p>
 <h4><strong>Curriculum lessons&nbsp;</strong></h4>
 <p>ECG is introduced during Form Teacher Guidance Periods (FTGP) from Primary
 3, where students begin to discover and develop their character strengths
@@ -42,7 +40,6 @@ education and career options on the MySkillsFuture Student Portal in Primary
 5 and 6. Based on students’ indicated interests, the portal recommends
 potential career paths and occupations. Its game-like interface keeps students
 engaged and interested throughout the exploration process.</p>
-<p></p>
 <h4><strong>ECG Fair</strong></h4>
 <p>In 2024, our school hosted <strong>ECG Day</strong> with the theme <em>"Live Your Dreams"</em> to
 prepare our graduating students for the next stage of their education journey.
