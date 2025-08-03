@@ -3,7 +3,7 @@ title: Communication, Collaboration and  Information Skills (CCI)
 permalink: /communication-collaboration-and-information-skills-cci/
 variant: tiptap
 description: ""
-third_nav_title: THE 21 CC DOMAIN
+third_nav_title: CCI
 ---
 <p><strong>Communication, Collaboration and Information Skills</strong> enable
 students to communicate information, ideas and feelings clearly, engage

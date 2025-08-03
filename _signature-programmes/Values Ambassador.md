@@ -3,7 +3,6 @@ title: Values Ambassador
 permalink: /values-ambassador/
 variant: tiptap
 description: ""
-third_nav_title: SIGNATURE PROGRAMMES
 ---
 <p>The Values Ambassador Programme is a form of recognition for students
 who have exemplified our school values with unwavering dedication. Symbolised

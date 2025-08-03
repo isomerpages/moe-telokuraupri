@@ -3,6 +3,7 @@ title: VOICES & PERSPECTIVES
 permalink: /voices-perspectives/
 variant: tiptap
 description: ""
+third_nav_title: CAIT
 ---
 <h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/critical-adaptive-and-inventive-thinking-cait/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <p>Voices and Perspectives is a programme conducted during the CCE (Character

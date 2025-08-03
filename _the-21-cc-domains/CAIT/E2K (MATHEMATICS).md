@@ -3,6 +3,7 @@ title: E2K (MATHEMATICS)
 permalink: /e2k-mathematics/
 variant: tiptap
 description: ""
+third_nav_title: CAIT
 ---
 <h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/critical-adaptive-and-inventive-thinking-cait/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <h4><strong>Excellence 2000 (E2K) Mathematics Programme</strong></h4>

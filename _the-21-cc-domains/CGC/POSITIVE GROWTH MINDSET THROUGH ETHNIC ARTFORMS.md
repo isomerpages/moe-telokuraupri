@@ -3,6 +3,7 @@ title: POSITIVE GROWTH MINDSET THROUGH ETHNIC ARTFORMS
 permalink: /positive-growth-mindset-through-ethnic-artforms/
 variant: tiptap
 description: ""
+third_nav_title: CGC
 ---
 <h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/civic-global-and-cross-cultural-literacy-cgc/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <h4><strong>Harmony in Diversity: Learning the World Through Music</strong></h4>

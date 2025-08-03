@@ -3,6 +3,7 @@ title: WATER LEARNING TRAIL
 permalink: /water-learning-trail/
 variant: tiptap
 description: ""
+third_nav_title: CGC
 ---
 <h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/civic-global-and-cross-cultural-literacy-cgc/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <p>Do you know the school has a Rain Garden and a Butterfly Garden? The school’s

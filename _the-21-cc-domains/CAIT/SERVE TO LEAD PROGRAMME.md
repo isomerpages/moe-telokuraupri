@@ -3,6 +3,7 @@ title: SERVE TO LEAD PROGRAMME
 permalink: /serve-to-lead-programme/
 variant: tiptap
 description: ""
+third_nav_title: CAIT
 ---
 <h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/critical-adaptive-and-inventive-thinking-cait/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <h4><strong>Serve to Lead 2025: Nurturing Student Leaders with Heart and Purpose</strong></h4>

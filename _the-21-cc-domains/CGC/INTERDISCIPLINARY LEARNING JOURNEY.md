@@ -3,6 +3,7 @@ title: INTERDISCIPLINARY LEARNING JOURNEY
 permalink: /interdisciplinary-leanring-journey/
 variant: tiptap
 description: ""
+third_nav_title: CGC
 ---
 <h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/civic-global-and-cross-cultural-literacy-cgc/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <p>At Telok Kurau Primary School, we believe in preparing our students not

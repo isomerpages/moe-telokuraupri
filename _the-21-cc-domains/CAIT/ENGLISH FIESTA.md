@@ -3,6 +3,7 @@ title: ENGLISH FIESTA
 permalink: /english-fiesta/
 variant: tiptap
 description: ""
+third_nav_title: CAIT
 ---
 <h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/critical-adaptive-and-inventive-thinking-cait/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <p>It was a week filled with creativity, expression and a deep love for language!</p>

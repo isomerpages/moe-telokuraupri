@@ -3,6 +3,7 @@ title: CROSS CULTURAL CONNECTIONS
 permalink: /cross-cultural-connections/
 variant: tiptap
 description: ""
+third_nav_title: CGC
 ---
 <h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/civic-global-and-cross-cultural-literacy-cgc/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <h4><u>School Overseas Learning Journey to Sarawak (May 2025)</u></h4>

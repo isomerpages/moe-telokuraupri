@@ -3,7 +3,7 @@ title: Civic, Global and Cross Cultural  Literacy (CGC)
 permalink: /civic-global-and-cross-cultural-literacy-cgc/
 variant: tiptap
 description: ""
-third_nav_title: THE 21 CC DOMAIN
+third_nav_title: CGC
 ---
 <p><strong>Civic, Global and Cross-Cultural Literacy</strong> enables students
 to contribute constructively to their community and nation, interact respectfully

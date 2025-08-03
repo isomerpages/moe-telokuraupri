@@ -1,0 +1,29 @@
+collections:
+  the-21-cc-domains:
+    output: true
+    order:
+      - 21CC Framework.md
+      - CAIT/.keep
+      - CAIT/Critical, Adaptive and Inventive Thinking (CAIT).md
+      - CAIT/ENGLISH FIESTA.md
+      - CAIT/VOICES & PERSPECTIVES.md
+      - CAIT/E2K (MATHEMATICS).md
+      - CAIT/E2K (SCIENCE).md
+      - CAIT/READING PROGRAMME.md
+      - CAIT/SERVE TO LEAD PROGRAMME.md
+      - CCI/EDUCATION CAREER GUIDANCE.md
+      - CCI/EXPRESS & EMPOWER.md
+      - CCI/INSPIRE INQUIRE INNOVATE.md
+      - CCI/SPORTS & GAMES DAY.md
+      - CCI/PHYSICAL EDUCATION.md
+      - CCI/CYBERWELLNESS.md
+      - CCI/.keep
+      - CCI/Communication, Collaboration and  Information Skills (CCI).md
+      - CGC/INTERDISCIPLINARY LEARNING JOURNEY.md
+      - CGC/CROSS CULTURAL CONNECTIONS.md
+      - CGC/MTL FORTNIGHT.md
+      - CGC/POSITIVE GROWTH MINDSET THROUGH ETHNIC ARTFORMS.md
+      - CGC/VALUES IN ACTION.md
+      - CGC/WATER LEARNING TRAIL.md
+      - CGC/.keep
+      - CGC/Civic, Global and Cross Cultural  Literacy (CGC).md

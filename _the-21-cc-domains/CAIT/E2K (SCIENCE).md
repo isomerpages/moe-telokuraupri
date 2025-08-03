@@ -3,6 +3,7 @@ title: E2K (SCIENCE)
 permalink: /e2k-science/
 variant: tiptap
 description: ""
+third_nav_title: CAIT
 ---
 <h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/critical-adaptive-and-inventive-thinking-cait/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <h4>Excellence 2000 (E2K) Science Programme</h4>

@@ -3,7 +3,6 @@ title: Future Quest
 permalink: /future-quest/
 variant: tiptap
 description: ""
-third_nav_title: SIGNATURE PROGRAMMES
 ---
 <h4>Primary 2 – Joyful Discoverers Club</h4>
 <p>Our youngest explorers set off on a vibrant journey of discovery as part

@@ -1,0 +1,9 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - Future Quest.md
+      - Growth Mindset.md
+      - Values Ambassador.md
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
