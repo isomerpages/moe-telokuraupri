@@ -1,7 +1,0 @@
-collections:
-  new:
-    output: true
-    order:
-      - SIGNATURE PROGRAMMES/.keep
-      - THE 21 CC DOMAIN/.keep
-      - CCA/.keep
