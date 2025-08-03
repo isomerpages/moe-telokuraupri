@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - 21CC Framework.md
-      - CGC/Civic, Global and Cross Cultural  Literacy (CGC).md
-      - CGC/.keep
-      - CCI/Communication, Collaboration and  Information Skills (CCI).md
-      - CCI/.keep
-      - CAIT/Critical, Adaptive and Inventive Thinking (CAIT).md
       - CAIT/.keep
+      - CAIT/Critical, Adaptive and Inventive Thinking (CAIT).md
+      - CCI/.keep
+      - CCI/Communication, Collaboration and  Information Skills (CCI).md
+      - CGC/.keep
+      - CGC/Civic, Global and Cross Cultural  Literacy (CGC).md
