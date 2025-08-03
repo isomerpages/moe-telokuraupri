@@ -2,4 +2,5 @@ collections:
   the-21-cc-domains:
     output: true
     order:
+      - CCI/.keep
       - CAIT/.keep
