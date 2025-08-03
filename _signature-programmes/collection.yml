@@ -2,5 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Values Ambassador.md
       - Growth Mindset.md
       - Future Quest.md
