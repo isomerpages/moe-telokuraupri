@@ -1,4 +1,5 @@
 collections:
   the-21-cc-domains:
     output: true
-    order: []
+    order:
+      - CAIT/.keep
