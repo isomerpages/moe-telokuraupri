@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups.md
       - Physical Sports/Physical Sports.md
       - Physical Sports/.keep
       - Visual & Performing Arts/Visual & Performing Arts.md
