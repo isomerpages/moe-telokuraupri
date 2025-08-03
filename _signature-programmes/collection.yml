@@ -2,4 +2,5 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Growth Mindset.md
       - Future Quest.md
