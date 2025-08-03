@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
       - Values Ambassador.md
       - Growth Mindset.md
