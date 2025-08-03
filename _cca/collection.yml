@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Physical Sports/Basketball.md
-      - Physical Sports/Physical Sports Overview.md
       - Physical Sports/.keep
+      - Physical Sports/Physical Sports Overview.md
+      - Physical Sports/Basketball.md
       - Visual & Performing Arts/Visual & Performing Arts.md
       - Visual & Performing Arts/.keep
       - Clubs & Societies/Clubs & Societies.md
