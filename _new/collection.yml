@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - SIGNATURE PROGRAMMES/.keep
-      - SIGNATURE PROGRAMMES/Future Quest.md
       - SIGNATURE PROGRAMMES/Growth Mindset.md
       - SIGNATURE PROGRAMMES/Values Ambassador.md
       - SIGNATURE PROGRAMMES/Applied Learning Programme (ALP).md
