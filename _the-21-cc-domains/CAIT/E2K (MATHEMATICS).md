@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CAIT
 ---
-<h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/critical-adaptive-and-inventive-thinking-cait/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
-<h4><strong>Excellence 2000 (E2K) Mathematics Programme</strong></h4>
 <p>The school offers the E2K Mathematics Programme Singapore to P4 and P5
 students. It is a Mathematics enrichment programme for students who demonstrate
 interest and ability in Mathematics. It aims to develop in students’ mathematical
