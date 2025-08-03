@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CCI
 ---
-<h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/communication-collaboration-and-information-skills-cci/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <h4><strong>Cyber Wellness @ TKPS</strong></h4>
 <p>At Telok Kurau Primary School, the Cyber Wellness Programme is an integral
 part of our Information and Communication Technology (ICT) curriculum.
