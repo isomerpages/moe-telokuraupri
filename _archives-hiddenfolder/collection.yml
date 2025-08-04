@@ -2,7 +2,6 @@ collections:
   archives-hiddenfolder:
     output: true
     order:
-      - Physical Sports Overview.md
       - TKPS 100 Years Annivesary.md
       - EL FPSP (Archive).md
       - Future Problem Solving Programme (FPSP).md
