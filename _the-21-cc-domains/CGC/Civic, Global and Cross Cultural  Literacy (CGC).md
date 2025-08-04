@@ -36,11 +36,11 @@ citizens of Singapore and the world.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.telokkuraupri.moe.edu.sg/interdisciplinary-leanring-journey/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="INTERDISCIPLINARY LEANRING JOURNEY" src="/images/P2_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="INTERDISCIPLINARY LEARNING JOURNEY" src="/images/P2_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">INTERDISCIPLINARY LEANRING JOURNEY</div>
+<div class="isomer-card-title">INTERDISCIPLINARY LEARNING JOURNEY</div>
 <div class="isomer-card-link">Click Here</div>
 </div>
 </a>
