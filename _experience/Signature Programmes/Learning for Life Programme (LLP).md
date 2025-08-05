@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Signature Programmes
 ---
 <h4><strong>Character Development Through Sports – Project S.T.A.R.</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp_collage01.jpg">
+</div>
 <p>At Telok Kurau Primary School, character development is at the heart of
 our education. We strive to nurture students who understand what is right
 and are empowered to act with integrity, resilience and care.</p>
@@ -44,8 +46,4 @@ platforms to stretch their potential and take on leadership roles.</p>
 <p>Through sports, our students develop confidence, manage challenges, respect
 differences and work towards shared goals. With every pass, goal and game,
 they grow not just as athletes but as compassionate, future-ready individuals.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp_collage01.jpg">
-</div>
 <p></p>
