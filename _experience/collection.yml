@@ -2,5 +2,4 @@ collections:
   experience:
     output: true
     order:
-      - 21CC Domains/.keep
       - Signature Programmes/.keep
