@@ -8,7 +8,7 @@ third_nav_title: Signature Programmes
 <h4><strong>Innovative Thinking Through Coding and Robotics</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP.png">
 </div>
 <p><strong>Objectives:</strong>
 </p>
@@ -43,7 +43,7 @@ programmes starting from Primary 3, while Primary 1 and 2 are introduced
 to basic coding concepts through simple game-based activities.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP2.png">
 </div>
 <p></p>
 <p><strong>Coding and Mathematics Integration</strong>
@@ -187,31 +187,9 @@ in everyday life</p>
 </table>
 <p></p>
 <h4><strong>Student engagement in ALP classroom lessons</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ALP3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp_collage01.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ALP4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP6.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP5.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP7.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP8.jpg">
-</div>
-<p></p>
 <h4><strong>Talent Development</strong></h4>
 <p>Students who demonstrate interest and aptitude in coding or robotics may
 join the Robotics CCA to further nurture their passion and skills. The
@@ -219,34 +197,19 @@ school also provides opportunities for them to participate in both national
 and international competitions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp_collage02.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic02.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic03.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotic04.png">
-</div>
-<p></p>
 <h4><strong>Robotics Club CCA</strong></h4>
 <p>Robotics CCA nurtures problem-solving, creativity, and teamwork through
 hands-on coding and engineering challenges. It also supports talent development
 by identifying and stretching students’ potential in STEM through competitions,
 innovation projects, and advanced programming activities.</p>
-<p></p>
 <h4><strong>Showcasing Student Talents Through Competitions</strong></h4>
 <p>The Robotics Club CCA participates in competitions, providing students
 with opportunities to showcase their STEM skills and creativity. These
 platforms foster development of confidence and nurture students' talents.
 The team's accomplishments reflect their hard work and dedication, demonstrating
 the impact of the CCA in cultivating STEM talent and pursuit of excellence.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM01.jpg">
 </div>
@@ -308,7 +271,6 @@ the impact of the CCA in cultivating STEM talent and pursuit of excellence.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>STEM Fiesta</strong></h4>
 <p>In 2024, the school has piloted the STEM Fiesta with support from NIE,
 CPDD and the Science Centre to provide a platform for students to showcase
@@ -317,7 +279,6 @@ cluster primary schools to foster social interaction and cross-collaboration
 among students, while showcasing critical and inventive thinking, as well
 as collaborative and communication skills through joint problem-solving
 activities.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEMFiesta2024.jpg">
 </div>
