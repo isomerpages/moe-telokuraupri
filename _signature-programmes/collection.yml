@@ -2,6 +2,5 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Values Ambassador.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
