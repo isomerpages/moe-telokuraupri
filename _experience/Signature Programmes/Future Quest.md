@@ -5,83 +5,125 @@ variant: tiptap
 description: ""
 third_nav_title: Signature Programmes
 ---
-<p><strong>FutureQuest </strong>is Telok Kurau Primary School’s flagship
-interdisciplinary programme that brings learning to life through real-world,
-theme-based experiences. Designed to nurture 21st Century Competencies
-(21CC), it empowers students to explore, create and collaborate aross subject
-areas. Through hands-on projects, reflection and authentic tasks, our students
-develop into confident leaders, resilient learners and caring citizens,
-ready to thrive in an ever-changing world.</p>
+<h4><strong>FutureQuest: Learning Beyond Boundaries</strong></h4>
+<p>Telok Kurau Primary School’s flagship interdisciplinary programme that
+nurtures 21st Century Competencies through real-world, theme-based learning.</p>
 <p></p>
-<h4>Primary 2 – Joyful Discoverers Club</h4>
-<p>Our youngest explorers set off on a vibrant journey of discovery as part
-of their FutureQuest adventure! At the Sea Aquarium, students dive deep
-into the wonders of marine life and share about their favourite sea creatures.
-They then embark on a cultural exchange, exploring the traditions and lifestyles
-of two ASEAN countries and expressing their learning through thoughtful
-postcards. Their quest ends with a culinary adventure as they uncover the
-origins of roti prata, learn to follow a recipe, and take pride in making
-their own! These experiences nurture their curiosity, creativity, and confidence
-in expressing ideas—hallmarks of E21CC learning.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Title</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Key Learning Experiences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joyful Discoverers Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit to Sea Aquarium to explore marine life- Cultural exchange through
+ASEAN postcard writing</p>
+</li>
+<li>
+<p>Culinary adventure: learning and making roti prata</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_CGC_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_CCI_5.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_CAIT_3.jpg">
 </div>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Making Purposeful Connections</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Science through shadow puppetry (light and shadows)</p>
+</li>
+<li>
+<p>Exploring ASEAN cultures</p>
+</li>
+<li>
+<p>Aquaponics project: growing greens and cooking a family meal</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_CCI_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_CAIT_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_CCI_2.jpg">
-</div>
-<p></p>
-<h4>Primary 4 – Making Purposeful Connections</h4>
-<p>In this immersive FutureQuest experience, our Primary 4 students become
-purposeful connectors as they journey through science, culture, and sustainability.
-They begin by exploring the concepts of light and shadows through the art
-of shadow puppetry, applying scientific understanding in creative ways.
-Next, they delve into ASEAN cultures, developing cross-cultural awareness
-and communication skills. Their adventure culminates in a hands-on aquaponics
-project, where they grow their own greens and plan a meal using their harvest
-to cook for their family. Through each task, students build on collaboration,
-critical thinking, and a deeper understanding of purposeful living.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_CCI_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_CCI_3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_CAIT_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_CCI_1.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Future World Guardians</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Environmental advocacy via video creation</p>
+</li>
+<li>
+<p>Planning nutritious meals on a budget and food donation</p>
+</li>
+<li>
+<p>STEM challenge: designing and launching bottle rockets</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_CCI_5.png">
-</div>
-<p></p>
-<h4>Primary 6 – Future World Guardians</h4>
-<p>As Future World Guardians, our Primary 6 students take on real-world challenges
-with the spirit of service and innovation. They begin by researching pressing
-environmental issues and produce compelling short videos to advocate for
-change, using their voice to influence others. Next, they delve into food
-sustainability—planning a nutritious week’s grocery list for a family on
-a fixed budget, and curating a thoughtful food donation basket for those
-in need. Through this, they gain a deeper appreciation of the cost of living
-and the importance of empathy and wise resource management. Their final
-mission launches them into the world of aerodynamics, where they design
-and test a bottle rocket using mathematics and science. Throughout this
-journey, they grow as proactive, future-ready leaders who strive and serve
-with purpose.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_CAIT_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_CGC_1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_CCI_1.jpg">
-</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
