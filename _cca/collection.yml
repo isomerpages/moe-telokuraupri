@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Physical Sports/Physical Sports Overview.md
       - Physical Sports/.keep
       - Physical Sports/Basketball.md
       - Physical Sports/Bowling.md
