@@ -3,6 +3,7 @@ title: Future Quest
 permalink: /future-quest/
 variant: tiptap
 description: ""
+third_nav_title: Signature Programmes
 ---
 <p><strong>FutureQuest </strong>is Telok Kurau Primary School’s flagship
 interdisciplinary programme that brings learning to life through real-world,

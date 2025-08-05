@@ -1,8 +1,14 @@
 collections:
-  the-21-cc-domains:
+  experience:
     output: true
     order:
       - 21CC Framework.md
+      - Signature Programmes/.keep
+      - Signature Programmes/Future Quest.md
+      - Signature Programmes/Growth Mindset.md
+      - Signature Programmes/Values Ambassador.md
+      - Signature Programmes/Applied Learning Programme (ALP).md
+      - Signature Programmes/Learning for Life Programme (LLP).md
       - CAIT/.keep
       - CAIT/Critical, Adaptive and Inventive Thinking (CAIT).md
       - CAIT/English Fiesta.md

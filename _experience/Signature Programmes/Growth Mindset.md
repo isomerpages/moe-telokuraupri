@@ -3,6 +3,7 @@ title: Growth Mindset
 permalink: /growth-mindset/
 variant: tiptap
 description: ""
+third_nav_title: Signature Programmes
 ---
 <p>We at TKPS hold to the belief that every child can grow and thrive to
 become Confident Learners and Resilient Learners. Being equipped with a

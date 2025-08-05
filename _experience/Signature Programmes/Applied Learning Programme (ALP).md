@@ -3,6 +3,7 @@ title: Applied Learning Programme (ALP)
 permalink: /applied-learning-programme-alp/
 variant: tiptap
 description: ""
+third_nav_title: Signature Programmes
 ---
 <h4><strong>Innovative Thinking Through Coding and Robotics</strong></h4>
 <p></p>
