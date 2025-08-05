@@ -2,6 +2,7 @@ collections:
   archives-hiddenfolder:
     output: true
     order:
+      - Clubs & Societies Overview.md
       - Visual & Performing Arts Overview.md
       - Physical Sports Overview.md
       - TKPS 100 Years Annivesary.md
