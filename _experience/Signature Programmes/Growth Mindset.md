@@ -5,16 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Signature Programmes
 ---
-<p>We at TKPS hold to the belief that every child can grow and thrive to
-become Confident Learners and Resilient Learners. Being equipped with a
-growth mindset helps our students understand that their abilities and intelligence
-are not fixed traits, but can be developed through effort, good strategies,
-and persistence.</p>
+<p>We at TKPS belief that every child can grow and thrive to become Confident
+Learners and Resilient Learners. Being equipped with a growth mindset helps
+our students understand that their abilities and intelligence are not fixed
+traits, but can be developed through effort, good strategies and persistence.</p>
 <p></p>
 <p>Through specially curated lessons and activities, students understand
-that mistakes and setbacks are valuable opportunities to reflect, improve,
+that mistakes and setbacks are valuable opportunities to reflect, improve
 and succeed. This mindset empowers our students to take ownership of their
-learning, overcome challenges with confidence, and develop the character
+learning, overcome challenges with confidence and develop the character
 and grit to pursue their goals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/gwm1.jpg">
