@@ -1,5 +1,5 @@
 ---
-title: INSPIRE INQUIRE INNOVATE
+title: Inspire Inquire Innovate
 permalink: /inspire-inquire-innovate/
 variant: tiptap
 description: ""

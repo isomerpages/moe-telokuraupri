@@ -1,5 +1,5 @@
 ---
-title: MTL FORTNIGHT
+title: MTL Fortnight
 permalink: /mtl-fortnight/
 variant: tiptap
 description: ""

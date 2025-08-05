@@ -1,5 +1,5 @@
 ---
-title: EXPRESS & EMPOWER
+title: Express & Empower
 permalink: /express-empower/
 variant: tiptap
 description: ""

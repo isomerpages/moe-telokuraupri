@@ -4,6 +4,14 @@ permalink: /future-quest/
 variant: tiptap
 description: ""
 ---
+<p><strong>FutureQuest </strong>is Telok Kurau Primary School’s flagship
+interdisciplinary programme that brings learning to life through real-world,
+theme-based experiences. Designed to nurture 21st Century Competencies
+(21CC), it empowers students to explore, create and collaborate aross subject
+areas. Through hands-on projects, reflection and authentic tasks, our students
+develop into confident leaders, resilient learners and caring citizens,
+ready to thrive in an ever-changing world.</p>
+<p></p>
 <h4>Primary 2 – Joyful Discoverers Club</h4>
 <p>Our youngest explorers set off on a vibrant journey of discovery as part
 of their FutureQuest adventure! At the Sea Aquarium, students dive deep

@@ -1,5 +1,5 @@
 ---
-title: ENGLISH FIESTA
+title: English Fiesta
 permalink: /english-fiesta/
 variant: tiptap
 description: ""

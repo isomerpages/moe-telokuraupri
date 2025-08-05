@@ -1,5 +1,5 @@
 ---
-title: E2K (MATHEMATICS)
+title: E2K (Mathematics)
 permalink: /e2k-mathematics/
 variant: tiptap
 description: ""

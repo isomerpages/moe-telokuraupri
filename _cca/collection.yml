@@ -3,13 +3,11 @@ collections:
     output: true
     order:
       - Physical Sports/.keep
-      - Physical Sports/Physical Sports Overview.md
       - Physical Sports/Basketball.md
       - Physical Sports/Bowling.md
       - Physical Sports/Football.md
       - Physical Sports/Wushu.md
       - Visual & Performing Arts/.keep
-      - Visual & Performing Arts/Visual & Performing Arts Overview.md
       - Visual & Performing Arts/Art and Crafts.md
       - Visual & Performing Arts/Choir.md
       - Visual & Performing Arts/Guzheng Ensemble.md
@@ -18,13 +16,11 @@ collections:
       - Visual & Performing Arts/Indian Dance.md
       - Visual & Performing Arts/Malay Dance.md
       - Clubs & Societies/.keep
-      - Clubs & Societies/Clubs & Societies Overview.md
       - Clubs & Societies/Strategy Games Club.md
       - Clubs & Societies/Environmental Club.md
       - Clubs & Societies/Debating and Public Speaking.md
       - Clubs & Societies/Robotics.md
       - Uniformed Groups/.keep
-      - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Brownies.md
       - Uniformed Groups/Red Cross Youth.md
       - Uniformed Groups/Scouts.md

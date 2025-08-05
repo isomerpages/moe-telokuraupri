@@ -1,9 +1,8 @@
 ---
-title: Uniformed Groups
+title: Uniformed Groups Overview
 permalink: /uniformed-groups/
 variant: tiptap
 description: ""
-third_nav_title: Uniformed Groups
 ---
 <h4>CCA - Uniformed Groups</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.telokkuraupri.moe.edu.sg/brownies-2/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Brownies" src="/images/IMG_20250122_WA0037.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">BROWNIES</div><div class="isomer-card-link">Click Here</div></div></a>

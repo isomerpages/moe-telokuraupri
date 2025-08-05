@@ -1,5 +1,5 @@
 ---
-title: CYBERWELLNESS
+title: Cyberwellness
 permalink: /cyber-wellness/
 variant: tiptap
 description: ""

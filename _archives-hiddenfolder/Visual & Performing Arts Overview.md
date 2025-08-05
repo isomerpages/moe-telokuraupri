@@ -3,7 +3,6 @@ title: Visual & Performing Arts Overview
 permalink: /visual-performing-arts/
 variant: tiptap
 description: ""
-third_nav_title: Visual & Performing Arts
 ---
 <h4>CCA - Visual &amp; Performing Arts</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.telokkuraupri.moe.edu.sg/art-and-crafts-2/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ART &amp; CRAFT" src="/images/IMG_9006.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ART &amp; CRAFT</div><div class="isomer-card-link">Click Here</div></div></a>

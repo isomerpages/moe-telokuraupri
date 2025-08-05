@@ -1,5 +1,5 @@
 ---
-title: VOICES & PERSPECTIVES
+title: Voices & Perspectives
 permalink: /voices-perspectives/
 variant: tiptap
 description: ""

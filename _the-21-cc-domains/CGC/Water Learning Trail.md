@@ -1,5 +1,5 @@
 ---
-title: WATER LEARNING TRAIL
+title: Water Learning Trail
 permalink: /water-learning-trail/
 variant: tiptap
 description: ""

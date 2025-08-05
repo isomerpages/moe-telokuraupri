@@ -1,5 +1,5 @@
 ---
-title: READING PROGRAMME
+title: Reading Programme
 permalink: /reading-programme/
 variant: tiptap
 description: ""

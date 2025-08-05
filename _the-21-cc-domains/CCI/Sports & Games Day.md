@@ -1,5 +1,5 @@
 ---
-title: SPORTS & GAMES DAY
+title: Sports & Games Day
 permalink: /sports-games-day/
 variant: tiptap
 description: ""

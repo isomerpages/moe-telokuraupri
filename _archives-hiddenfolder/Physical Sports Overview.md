@@ -3,7 +3,6 @@ title: Physical Sports Overview
 permalink: /physical-sports/
 variant: tiptap
 description: ""
-third_nav_title: Physical Sports
 ---
 <h4>CCA - Physical Sports</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.telokkuraupri.moe.edu.sg/basketball-2/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BASKETBALL" src="/images/073199f6_1e7b_48bb_a300_590f0ae5a955.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">BASKETBALL</div><div class="isomer-card-link">Click Here</div></div></a>

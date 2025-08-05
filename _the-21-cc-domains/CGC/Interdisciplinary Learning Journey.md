@@ -1,5 +1,5 @@
 ---
-title: INTERDISCIPLINARY LEARNING JOURNEY
+title: Interdisciplinary Learning Journey
 permalink: /interdisciplinary-leanring-journey/
 variant: tiptap
 description: ""

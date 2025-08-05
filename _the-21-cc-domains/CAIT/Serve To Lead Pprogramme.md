@@ -1,5 +1,5 @@
 ---
-title: SERVE TO LEAD PROGRAMME
+title: Serve To Lead Pprogramme
 permalink: /serve-to-lead-programme/
 variant: tiptap
 description: ""

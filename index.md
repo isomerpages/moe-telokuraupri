@@ -17,7 +17,7 @@ sections:
         - title: Gallery
           description: ""
           url: /photogallery/
-      variant: center
+      variant: image
   - announcements:
       title: Announcements
       id: announcements

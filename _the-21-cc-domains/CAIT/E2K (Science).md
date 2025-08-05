@@ -1,5 +1,5 @@
 ---
-title: E2K (SCIENCE)
+title: E2K (Science)
 permalink: /e2k-science/
 variant: tiptap
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: VALUES IN ACTION
+title: Values In Action
 permalink: /values-in-action/
 variant: tiptap
 description: ""

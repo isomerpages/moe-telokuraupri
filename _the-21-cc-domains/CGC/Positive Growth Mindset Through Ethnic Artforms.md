@@ -1,5 +1,5 @@
 ---
-title: POSITIVE GROWTH MINDSET THROUGH ETHNIC ARTFORMS
+title: Positive Growth Mindset Through Ethnic Artforms
 permalink: /positive-growth-mindset-through-ethnic-artforms/
 variant: tiptap
 description: ""

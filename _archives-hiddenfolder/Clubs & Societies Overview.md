@@ -3,7 +3,6 @@ title: Clubs & Societies Overview
 permalink: /clubs-societies/
 variant: tiptap
 description: ""
-third_nav_title: Clubs & Societies
 ---
 <h4>CCA - Clubs &amp; Societies</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.telokkuraupri.moe.edu.sg/co-curricular-activities/Strategy-Games-Club-2/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STRATEGY GAMES CLUB" src="/images/sgc_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STRATEGY GAMES CLUB</div><div class="isomer-card-link">Click Here</div></div></a>

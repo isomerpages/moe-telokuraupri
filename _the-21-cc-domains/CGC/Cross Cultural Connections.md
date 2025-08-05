@@ -1,5 +1,5 @@
 ---
-title: CROSS CULTURAL CONNECTIONS
+title: Cross Cultural Connections
 permalink: /cross-cultural-connections/
 variant: tiptap
 description: ""
