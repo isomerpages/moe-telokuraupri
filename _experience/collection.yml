@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - Signature Programmes/Growth Mindset.md
       - Signature Programmes/Values Ambassador.md
       - Signature Programmes/Applied Learning Programme (ALP).md
       - Signature Programmes/Learning for Life Programme (LLP).md
