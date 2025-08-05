@@ -337,6 +337,77 @@ third_nav_title: "2025"
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>National Mathematical Olympiad of Singapore (NMOΣ) 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>LI MINGXUAN</p>
+</li>
+</ul>
+<p><strong>Silver</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>DONG XIYAO</p>
+</li>
+</ul>
+<p><strong>Bronze</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GE FANYI</p>
+</li>
+<li>
+<p>ADITYA SHARMA</p>
+</li>
+<li>
+<p>PENG JUNCHEN</p>
+</li>
+<li>
+<p>KAUNG KHANT KO</p>
+</li>
+<li>
+<p>AIRYL FIRDAUS BIN FAIRUL AFFANDY</p>
+</li>
+<li>
+<p>SHAH SPARSH SHOUREEN</p>
+</li>
+</ul>
+<p><strong>Honourable Mention</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ANNABELLE BRONSHTEIN</p>
+</li>
+<li>
+<p>PRAJWAL NANDY</p>
+</li>
+<li>
+<p>LAU JIA ZHENG QUENTIN</p>
+</li>
+<li>
+<p>TEY QIN QUAN</p>
+</li>
+<li>
+<p>CHAN CHIU HANG</p>
+</li>
+<li>
+<p>MIRZA HUZAIFA BIN MUHAMMAD RAFFI</p>
+</li>
+<li>
+<p>PATANKAR NIYATI</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>National Pen Calligraphy Competition</p>
 </td>
 <td rowspan="1" colspan="1">
