@@ -2,5 +2,4 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
