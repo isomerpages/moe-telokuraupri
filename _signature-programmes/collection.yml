@@ -1,5 +1,4 @@
 collections:
   signature-programmes:
     output: true
-    order:
-      - Learning for Life Programme (LLP).md
+    order: []
