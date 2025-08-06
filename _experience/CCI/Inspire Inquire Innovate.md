@@ -23,7 +23,6 @@ of forces.</p>
 </div>
 </li>
 </ul>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>In P4, they made shadow puppets to tell a story.</p>
@@ -39,9 +38,7 @@ of forces.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>In P5, they created greeting cards with electric circuits, blending Science
-and art.
-<br>
-</p>
+and art.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/I3_P5_Electric_Circuits_3.png">
 </div>
@@ -55,6 +52,5 @@ and art.
 such as critical thinking, collaboration, and self-directed learning. They
 apply scientific concepts in real-world contexts, take ownership of their
 learning, and inspire others with their innovation.</p>
-<p></p>
 <p>The I³ Awards celebrate not just outcomes, but the process of thinking,
 creating, and leading through Science.</p>
