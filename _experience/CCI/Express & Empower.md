@@ -11,13 +11,11 @@ Featuring both vocal and instrumental performances, the showcase provides
 a platform for students to express themselves with confidence, creativity
 and heart. Whether singing a solo or performing in an ensemble, each student
 brings their own story to life through sound.</p>
-<p></p>
 <p>More than just a performance, the showcase empowers students to take ownership
 of their learning and growth. Through rehearsals and stage experiences,
 they build resilience, develop stage presence and discover pride in their
 progress. Every note played and every lyric sung is a reflection of their
 commitment and courage.</p>
-<p></p>
 <p>At Telok Kurau Primary, we believe that when students are given space
 to express, they find the strength to grow.</p>
 <h4><strong>Play Like a PRO: Shaping Character Through Play</strong></h4>
