@@ -14,7 +14,7 @@ sections:
         - title: Events
           description: ""
           url: /events/event-highlights/
-        - title: Gallery
+        - title: Useful Links
           description: ""
           url: /photogallery/
       variant: image
