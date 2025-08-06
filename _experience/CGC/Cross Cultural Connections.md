@@ -49,7 +49,6 @@ for more photos on our school website.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250525_WA0015.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250525_WA0017.jpg">
 </div>
@@ -59,11 +58,14 @@ for more photos on our school website.</p>
 <p>Telok Kurau Primary School was delighted to host a group of 15 students
 and 4 teachers from Hangzhou Gudang No.1 Elementary School during their
 recent visit to Singapore. As part of their immersion experience, the students
-joined our Primary 5 classes for lessons in Math, Science, and English.
+joined our Primary 5 classes for lessons in Math, Science and English.
 They were warmly welcomed by our Primary 5 students, who served as their
 buddies throughout the visit. Through classroom activities and conversations,
 both groups had the opportunity to learn more about each other’s countries,
 school life, and cultures. It was a meaningful and memorable exchange that
 fostered new friendships and broadened perspectives for everyone involved.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/China_gudang.jpg">
+</div>
 <p></p>
