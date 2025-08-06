@@ -34,4 +34,7 @@ and values come together to make a difference in the real world.</p>
 developing this learning journey, and we look forward to seeing how our
 students grow through it—becoming confident individuals, self-directed
 learners, and active contributors to society.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilj_collage.jpg">
+</div>
 <p></p>
