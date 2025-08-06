@@ -16,7 +16,7 @@ sections:
           url: /events/event-highlights/
         - title: Useful Links
           description: ""
-          url: /photogallery/
+          url: /useful-links/for-students/student-mims/
       variant: image
   - announcements:
       title: Announcements
