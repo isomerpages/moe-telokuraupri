@@ -10,8 +10,6 @@ third_nav_title: CCI
 community together in a spirit of celebration, camaraderie, and active
 participation. Held in conjunction with Children’s Day, this joyful occasion
 provides an opportunity for our students to celebrate together as one school.</p>
-<p></p>
-<p></p>
 <p>The event is thoughtfully curated with the following objectives in mind:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -53,7 +51,9 @@ enthusiastically and supporting one another during the games. This shared
 goal promotes teamwork, responsibility, and a strong sense of class identity.</p>
 </li>
 </ul>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spgames_collage_01.jpg">
+</div>
 <p>Ultimately, Games Day @ TKPS is not only a platform for physical activity
 and enjoyment but also a powerful vehicle for character development, relationship
 building, and school pride.</p>
