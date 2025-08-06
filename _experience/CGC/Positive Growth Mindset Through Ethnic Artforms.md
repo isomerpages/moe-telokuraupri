@@ -20,7 +20,6 @@ empathy and confidence.</p>
 communication and respect. By learning through music, our students grow
 into thoughtful and open-minded individuals, ready to contribute meaningfully
 in an increasingly diverse and interconnected world.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/aesthetics4.jpg">
 </div>
