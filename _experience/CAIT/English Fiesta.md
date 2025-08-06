@@ -34,6 +34,9 @@ language-based experiences</p>
 students and teachers would be dressed as their favourite literary characters.
 This fun-filled launch aims to spark excitement and set the tone for a
 week of literary adventures.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/el_fiesta_01.jpg">
+</div>
 <hr>
 <p><strong>Lower Primary: Joyful Language Explorers</strong>
 </p>
