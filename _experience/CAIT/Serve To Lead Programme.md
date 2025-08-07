@@ -21,6 +21,12 @@ where student leaders from Telok Kurau Primary School, Maha Bodhi School
 and St. Anthony’s Canossian Primary School came together. This session
 helped our student leaders connect with peers from other schools, understand
 their responsibilities and explore what it truly means to lead with initiative.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lead_collage_02.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DC104196.jpg">
+</div>
 <p>Following this, the P4 and P5 leaders participated in the Active X Playdate,
 a meaningful intergenerational experience supported by SportSG. During
 this session, our P4 students interacted with seniors through modified
