@@ -17,7 +17,6 @@ of forces.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/I3_P3_Sailboat_2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/I3_P3_Sailboat_3.png">
 </div>
@@ -29,7 +28,6 @@ of forces.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/I3_P4_Shadow_Puppet_1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/I3_P4_Shadow_Puppet_3.png">
 </div>
@@ -42,7 +40,6 @@ and art.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/I3_P5_Electric_Circuits_3.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/I3_P5_Electric_Circuits_2.png">
 </div>
