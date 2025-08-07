@@ -1,5 +1,5 @@
 collections:
-  archives-hiddenfolder:
+  not-in-used-archives:
     output: true
     order:
       - Values Ambassador.md
