@@ -24,7 +24,7 @@ sections:
       id: infopic
       description: "2026"
       button: Click Here
-      url: /tkps-100-years-annivesary/
+      url: /tkps-100-years-anniversary/
       image: /images/TKPS_100A_Logo_Final.png
       alt: TKPS100
   - announcements:
