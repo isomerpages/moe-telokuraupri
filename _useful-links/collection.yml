@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Sexuality Education.md
       - For Students/.keep
       - For Students/Student MIMS Portal.md
       - For Students/Student Learning Space.md
