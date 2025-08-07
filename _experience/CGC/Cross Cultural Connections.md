@@ -76,4 +76,10 @@ fostered new friendships and broadened perspectives for everyone involved.</p>
 <p></p>
 <p><strong><em>Jian Kang Elementary School (Taiwan)</em></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TaiwanVisit_01.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TaiwanVisit_0collage1.jpg">
+</div>
 <p></p>
