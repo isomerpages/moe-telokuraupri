@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CCI
 ---
-<h4><strong><a href="https://www.telokkuraupri.moe.edu.sg/communication-collaboration-and-information-skills-cci/" rel="noopener nofollow" target="_blank">Previous</a></strong></h4>
 <p>At TKPS, we believe that a physically educated student is one who is developed
 holistically—physically, mentally, emotionally, and socially—and is well-prepared
 to thrive in a fast-changing, interconnected world.</p>
