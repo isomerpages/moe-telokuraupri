@@ -112,10 +112,66 @@ third_nav_title: "2024"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Outstanding Contribution Award (Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Koh Theng Theng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Satyajothi d/o Selvandran</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Stephanie Tan Lai Yim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outstanding Contribution Award (Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infrastructure</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Week</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Growth Mindset</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Operations Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Serve To Lead</p>
 </td>
 </tr>
 </tbody>
