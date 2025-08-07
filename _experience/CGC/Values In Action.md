@@ -15,13 +15,19 @@ students' civic and cultural literacy. At Tier 1, all students participate
 in level-wide projects that expose them to different community segments
 and cultural traditions. These experiences help them understand various
 perspectives and needs within our multicultural society.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/via1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/via2.png">
 </div>
 <p>At Tier 2, student leaders and CCA groups take greater ownership in planning
 and implementing VIA projects, allowing them to develop deeper insights
 into community issues while honing their leadership capabilities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA11.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA12.jpg">
 </div>

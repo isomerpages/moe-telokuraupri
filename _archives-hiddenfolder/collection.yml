@@ -2,6 +2,7 @@ collections:
   archives-hiddenfolder:
     output: true
     order:
+      - Values Ambassador.md
       - Uniformed Groups Overview.md
       - Clubs & Societies Overview.md
       - Visual & Performing Arts Overview.md
