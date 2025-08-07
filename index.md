@@ -20,9 +20,9 @@ sections:
       variant: image
   - infopic:
       title: 100 Years Anniversary
-      subtitle: Join Us
+      subtitle: Celebrate with us
       id: infopic
-      description: May 2026
+      description: "2026"
       button: Click Here
       url: /tkps-100-years-annivesary/
       image: /images/TKPS_100A_Logo_Final.png
