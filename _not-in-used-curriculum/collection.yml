@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  not-in-used-curriculum:
     output: true
     order:
       - Applied Learning Programme (ALP).md
