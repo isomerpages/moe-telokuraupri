@@ -13,4 +13,7 @@ These activities include performing arts such as drama, cross talk, and
 learning journeys, as well as introductions to facets of Chinese, Malay
 and Indian culture. Students are exposed to a variety of activities to
 enable them to learn and use MTL beyond the classroom.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_fortnight.jpg">
+</div>
 <p></p>
