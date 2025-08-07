@@ -18,4 +18,3 @@ to engage students in understanding the standards of potable water.</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/science1.jpg">
 </div>
 <p></p>
-<p></p>
