@@ -18,6 +18,9 @@ progress. Every note played and every lyric sung is a reflection of their
 commitment and courage.</p>
 <p>At Telok Kurau Primary, we believe that when students are given space
 to express, they find the strength to grow.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/showcase_collage.jpg">
+</div>
 <hr>
 <h4><strong>Play Like a PRO: Shaping Character Through Play</strong></h4>
 <p>At our school, play is more than just fun—it’s a foundation for growth.
