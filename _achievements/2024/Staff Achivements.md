@@ -123,7 +123,7 @@ third_nav_title: "2024"
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Satyajothi d/o Selvandran</p>
+<p>Mdm Sathyajothi d/o Selvandran</p>
 </td>
 </tr>
 <tr>
