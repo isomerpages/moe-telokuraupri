@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Telok Kurau Primary School
-      background: /images/2024Header_Edited.gif
+      background: /images/Website_Header_2025.gif
       url: /contact-us/
       key_highlights:
         - title: Events
