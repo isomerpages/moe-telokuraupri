@@ -18,6 +18,15 @@ sections:
           description: ""
           url: /useful-links/for-students/student-mims/
       variant: image
+  - infopic:
+      title: 100 Years Anniversary
+      subtitle: Join Us
+      id: infopic
+      description: May 2026
+      button: Click Here
+      url: /events/tkps-100-years-annivesary/
+      image: /images/TKPS_100A_Logo_Final.png
+      alt: TKPS100
   - announcements:
       title: Announcements
       id: announcements
