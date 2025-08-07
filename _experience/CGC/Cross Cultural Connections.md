@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CGC
 ---
-<h4><u>School Overseas Learning Journey to Sarawak (May 2025)</u></h4>
+<h4>School Overseas Learning Journey to Sarawak (May 2025)</h4>
 <p>A group of our Primary 5 students embarked on a meaningful and exciting
 overseas immersion trip to Kuching, Sarawak last week to deepen their cross-cultural
 understanding, global awareness and to grow as joyful and curious learners.
@@ -54,18 +54,26 @@ for more photos on our school website.</p>
 </div>
 <p></p>
 <hr>
-<h4><u>School Visit - Hangzhou Gudang No.1 Elementary School (China)</u></h4>
-<p>Telok Kurau Primary School was delighted to host a group of 15 students
-and 4 teachers from Hangzhou Gudang No.1 Elementary School during their
-recent visit to Singapore. As part of their immersion experience, the students
-joined our Primary 5 classes for lessons in Math, Science and English.
-They were warmly welcomed by our Primary 5 students, who served as their
-buddies throughout the visit. Through classroom activities and conversations,
-both groups had the opportunity to learn more about each other’s countries,
+<h4>School Visits - Taiwan &amp; China</h4>
+<p>Telok Kurau Primary School was delighted to host students and teachers
+from Taipei Jian Kang Elementary School and Hangzhou Gudang No.1 Elementary
+School during their recent visit to Singapore on 9<sup>th</sup> and 10<sup>th</sup> July
+respectively. As part of their immersion experience, the students joined
+our Primary 5 classes for lessons in Math, Science and English. They were
+warmly welcomed by our Primary 5 students, who served as their buddies
+throughout the visit. Through classroom activities and conversations, both
+groups had the opportunity to learn more about each other’s countries,
 school life, and cultures. It was a meaningful and memorable exchange that
 fostered new friendships and broadened perspectives for everyone involved.</p>
-<p></p>
+<p><strong><em>Hangzhou Gudang No.1 Elementary School (China)</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChinaVisit_01.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/China_gudang.jpg">
 </div>
+<p></p>
+<p><strong><em>Jian Kang Elementary School (Taiwan)</em></strong>
+</p>
 <p></p>
