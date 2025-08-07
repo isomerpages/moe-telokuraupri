@@ -36,3 +36,8 @@ and responsibility.</p>
 is empowered to lead, learn and play with purpose. Aligned with our school
 values, <em>Play Like a PRO</em> cultivates respectful, resilient individuals—ready
 for life, one recess at a time.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/play_collage.jpg">
+</div>
+<p></p>
