@@ -1,6 +1,6 @@
 ---
-title: TKPS 100 Years Annivesary
-permalink: /tkps-100-years-annivesary/
+title: TKPS 100 Years Anniversary
+permalink: /tkps-100-years-anniversary/
 variant: tiptap
 description: ""
 ---

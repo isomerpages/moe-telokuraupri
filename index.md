@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Telok Kurau Primary School
-      background: /images/2024Header_Edited.gif
+      background: /images/Website_Header_2025.gif
       url: /contact-us/
       key_highlights:
         - title: Events
@@ -18,6 +18,15 @@ sections:
           description: ""
           url: /useful-links/for-students/student-mims/
       variant: image
+  - infopic:
+      title: 100 Years Anniversary
+      subtitle: Celebrate with us
+      id: infopic
+      description: "2026"
+      button: Click Here
+      url: /tkps-100-years-anniversary/
+      image: /images/TKPS_100A_Logo_Final.png
+      alt: TKPS100
   - announcements:
       title: Announcements
       id: announcements

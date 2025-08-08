@@ -1,5 +1,5 @@
 collections:
-  archives-hiddenfolder:
+  not-in-used-archives:
     output: true
     order:
       - Values Ambassador.md
@@ -7,7 +7,6 @@ collections:
       - Clubs & Societies Overview.md
       - Visual & Performing Arts Overview.md
       - Physical Sports Overview.md
-      - TKPS 100 Years Annivesary.md
       - EL FPSP (Archive).md
       - Future Problem Solving Programme (FPSP).md
       - School Canteen Advertisement.md
