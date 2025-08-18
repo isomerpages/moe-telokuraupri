@@ -502,29 +502,29 @@ third_nav_title: "2025"
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Li Mingxuan</p>
-</li>
-<li>
-<p>Sew Hee Tat, Nestor</p>
+<p>Aditya Sharma</p>
 </li>
 <li>
 <p>Bandekar Parth</p>
 </li>
 <li>
-<p>Aditya Sharma</p>
+<p>Li Mingxuan</p>
 </li>
 <li>
 <p>Raje Aadyansh Abhishek</p>
 </li>
+<li>
+<p>Sew Hee Tat, Nestor</p>
+</li>
 </ul>
-<p><strong>Accomplished</strong>
+<p><strong>Accomplishment</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Annabelle Bronshtein</p>
 </li>
 <li>
-<p>Xu Yutang</p>
+<p>Hana Saito</p>
 </li>
 <li>
 <p>Kavin Viramany</p>
@@ -533,7 +533,7 @@ third_nav_title: "2025"
 <p>Muruganandam Krishwin</p>
 </li>
 <li>
-<p>Hana Saito</p>
+<p>Xu Yutang</p>
 </li>
 </ul>
 <p><strong>Commendation</strong>
@@ -549,10 +549,10 @@ third_nav_title: "2025"
 <p>Chong Kai Jie</p>
 </li>
 <li>
-<p>Zayid Rafi Bin Muhammad Khairul</p>
+<p>Wu Youhan</p>
 </li>
 <li>
-<p>Wu Youhan</p>
+<p>Zayid Rafi Bin Muhammad Khairul</p>
 </li>
 </ul>
 </td>
@@ -602,43 +602,43 @@ third_nav_title: "2025"
 <p>Aadyansh Raje</p>
 </li>
 <li>
-<p>Chong Kai Jie</p>
-</li>
-<li>
-<p>Ge Fanyi</p>
-</li>
-<li>
-<p>Muruganadam Krishwin</p>
-</li>
-<li>
-<p>Prajwal Nandy</p>
-</li>
-<li>
-<p>Wu Youhan</p>
-</li>
-<li>
 <p>Bandekar Parth</p>
-</li>
-<li>
-<p>Dong Xiyao</p>
-</li>
-<li>
-<p>Kaung Khant Ko</p>
-</li>
-<li>
-<p>Ong Jia Jet</p>
 </li>
 <li>
 <p>Cai Xinyun</p>
 </li>
 <li>
+<p>Chong Kai Jie</p>
+</li>
+<li>
+<p>Dong Xiyao</p>
+</li>
+<li>
+<p>Ge Fanyi</p>
+</li>
+<li>
+<p>Kaung Khant Ko</p>
+</li>
+<li>
+<p>Muruganadam Krishwin</p>
+</li>
+<li>
+<p>Ong Jia Jet</p>
+</li>
+<li>
 <p>Peng Junchen</p>
+</li>
+<li>
+<p>Prajwal Nandy</p>
 </li>
 <li>
 <p>Sew Hee Tat, Nestor</p>
 </li>
 <li>
 <p>Sivakumaran Shivanan</p>
+</li>
+<li>
+<p>Wu Youhan</p>
 </li>
 </ul>
 </td>
