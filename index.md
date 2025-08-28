@@ -46,7 +46,7 @@ sections:
             via the link below. Your kind words and fond memories mean a lot to
             our teachers and staff as we continue making TKPS a joyful place for
             learning.
-          link_text: Click here to post your messages
+          link_text: CLICK HERE TO POST YOUR MESSAGES
           link_url: https://onetkps.padlet.org/tkpsadmin/tkps-teachers-day-2025-5rkqrpgknt4yfh8s
         - title: TKPS Alumni Homecoming - 21 November 2025
           date: 28 August 2025
@@ -54,8 +54,8 @@ sections:
             reconnect with former students ahead of TKPS100 in 2026. Relive
             memories, reunite with friends and teachers, and celebrate our
             shared journey. Stay tuned for more details—do spread the word!
-          link_text: ""
-          link_url: ""
+          link_text: FIND OUT MORE
+          link_url: /tkps-alumni-homecoming-2025/
   - infopic:
       title: For Students
       id: infopic
