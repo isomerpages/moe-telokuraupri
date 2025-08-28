@@ -39,6 +39,13 @@ sections:
             work and social activities.
           link_text: FIND OUT MORE
           link_url: /useful-links/for-parents/imda-digihome/
+        - title: Teachers' Day Messages
+          date: 28 August 2025
+          announcement: With Teachers’ Day approaching, we would like to warmly invite you
+            to show your appreciation by sending a heartfelt message to your
+            teachers from TKPS through the link below.
+          link_text: Click here to post your messages
+          link_url: https://onetkps.padlet.org/tkpsadmin/tkps-teachers-day-2025-5rkqrpgknt4yfh8s
   - infopic:
       title: For Students
       id: infopic
