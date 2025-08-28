@@ -39,6 +39,23 @@ sections:
             work and social activities.
           link_text: FIND OUT MORE
           link_url: /useful-links/for-parents/imda-digihome/
+        - title: Teachers' Day Messages
+          date: 28 August 2025
+          announcement: With Teachers’ Day nearing, we invite you to share your
+            appreciation by sending a heartfelt message to your TKPS teachers
+            via the link below. Your kind words and fond memories mean a lot to
+            our teachers and staff as we continue making TKPS a joyful place for
+            learning.
+          link_text: Click here to post your messages
+          link_url: https://onetkps.padlet.org/tkpsadmin/tkps-teachers-day-2025-5rkqrpgknt4yfh8s
+        - title: TKPS Alumni Homecoming - 21 November 2025
+          date: 28 August 2025
+          announcement: Join us for TKPS Alumni Homecoming on Fri, 21 Nov 2025, as we
+            reconnect with former students ahead of TKPS100 in 2026. Relive
+            memories, reunite with friends and teachers, and celebrate our
+            shared journey. Stay tuned for more details—do spread the word!
+          link_text: ""
+          link_url: ""
   - infopic:
       title: For Students
       id: infopic
