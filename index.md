@@ -32,13 +32,15 @@ sections:
       id: announcements
       subtitle: Telok Kurau Primary School
       announcement_items:
-        - title: Get Online, Stay Connected with DigitalAccess@Home!
-          date: 14 April 2025
-          announcement: IMDA provides subsidised broadband and laptops/tablets to
-            lower-income households to support their lifestyle needs, including
-            work and social activities.
-          link_text: FIND OUT MORE
-          link_url: /useful-links/for-parents/imda-digihome/
+        - title: Teachers' Day Lunch Outing - 04 Sep 2025
+          date: 03 September 2025
+          announcement: "This year, on 4 September, our teachers will be heading off a
+            little earlier for a special Teachers’ Day celebration lunch. As
+            such, we will not be able to host visits in school. Instead, we
+            warmly invite you to show your appreciation by sending a heartfelt
+            message through the link below:"
+          link_text: CLICK HERE TO POST YOUR MESSAGES
+          link_url: https://onetkps.padlet.org/tkpsadmin/tkps-teachers-day-2025-5rkqrpgknt4yfh8s
         - title: Teachers' Day Messages
           date: 28 August 2025
           announcement: With Teachers’ Day nearing, we invite you to share your
@@ -56,6 +58,13 @@ sections:
             shared journey. Stay tuned for more details—do spread the word!
           link_text: FIND OUT MORE
           link_url: /tkps-alumni-homecoming-2025/
+        - title: Get Online, Stay Connected with DigitalAccess@Home!
+          date: 14 April 2025
+          announcement: IMDA provides subsidised broadband and laptops/tablets to
+            lower-income households to support their lifestyle needs, including
+            work and social activities.
+          link_text: FIND OUT MORE
+          link_url: /useful-links/for-parents/imda-digihome/
   - infopic:
       title: For Students
       id: infopic
