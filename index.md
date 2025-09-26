@@ -32,15 +32,6 @@ sections:
       id: announcements
       subtitle: Telok Kurau Primary School
       announcement_items:
-        - title: Teachers' Day Lunch Outing - 04 Sep 2025
-          date: 03 September 2025
-          announcement: "This year, on 4 September, our teachers will be heading off a
-            little earlier for a special Teachers’ Day celebration lunch. As
-            such, we will not be able to host visits in school. Instead, we
-            warmly invite you to show your appreciation by sending a heartfelt
-            message through the link below:"
-          link_text: CLICK HERE TO POST YOUR MESSAGES
-          link_url: https://onetkps.padlet.org/tkpsadmin/tkps-teachers-day-2025-5rkqrpgknt4yfh8s
         - title: Teachers' Day Messages
           date: 28 August 2025
           announcement: With Teachers’ Day nearing, we invite you to share your
