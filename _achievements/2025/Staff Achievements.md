@@ -33,10 +33,12 @@ third_nav_title: "2025"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Our Schools, Our Stories (OSOS) Photo &amp; Video Contest 2025,<em> “Walls That Teach, Spaces That Inspire"</em> - Honourable Mention Award </strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Amatul Jameel Suhani Sujari
+<br>(HOD Partnership and Engagement)</p>
 </td>
 </tr>
 </tbody>
