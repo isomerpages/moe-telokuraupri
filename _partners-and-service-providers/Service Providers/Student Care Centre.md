@@ -58,3 +58,6 @@ academically, emotionally, and socially.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>Registration for 2026</strong></h4>
+<p>Register Now :<strong> </strong><a href="/files/PDF/SCC___Pro_Teach_Information_Sheet__P1_2026_.pdf" rel="noopener nofollow" target="_blank">Proteach Registration 2026</a>
+</p>
