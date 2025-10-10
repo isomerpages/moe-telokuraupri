@@ -119,3 +119,7 @@ via SMS.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>Registration for 2026</strong></h4>
+<p>Register Now : <a href="/files/PDF/TKPS_School_Bus_Registration_Form.pdf" rel="noopener nofollow" target="_blank">School Bus Registration 2026</a>
+</p>
+<p></p>
