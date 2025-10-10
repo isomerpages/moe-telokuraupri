@@ -79,7 +79,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,17 +105,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Brenda Ng Sok Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>brenda_ng_sok_peng@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>248</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Allied Educator (Teaching &amp; Learning)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager (Adjunct)</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shaikh Abdullah</p>
