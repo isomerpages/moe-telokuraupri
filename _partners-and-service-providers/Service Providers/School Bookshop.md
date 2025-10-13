@@ -41,6 +41,3 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>Order Form for 2026</strong></h4>
-<p>Order School Uniform Now : <a href="/files/PDF/Telok__Kurau_Primary_School_2026___Bookshop_Order_Form.pdf" rel="noopener nofollow" target="_blank">School Uniform Form 2025</a>
-</p>
