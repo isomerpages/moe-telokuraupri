@@ -37,6 +37,14 @@ Impact Award</p>
 <p>SPSO 2025 Top 20 School</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Admin Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE Innergy &amp; Outstanding Innovator Awards 2025</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
