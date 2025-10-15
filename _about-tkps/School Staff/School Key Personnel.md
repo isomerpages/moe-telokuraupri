@@ -219,7 +219,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Educational Support</p>
+<p>HOD Educational Support with SEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rashidah Binte Mohamad Yusop</p>
