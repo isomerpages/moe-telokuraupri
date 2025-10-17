@@ -1427,6 +1427,84 @@ third_nav_title: "2025"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hack@Code National Online Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Champion</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>JULIEN KEE</p>
+</li>
+<li>
+<p>SITI AMINAH BINTE MOHAMMED NAZZER</p>
+</li>
+<li>
+<p>NUR HASANAH BINTE MUHAMMAD TAUFIQ</p>
+</li>
+</ul>
+<p></p>
+<p><strong>3rd Place</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ARUSH OBEROI</p>
+</li>
+<li>
+<p>CHAN CHIU HANG</p>
+</li>
+<li>
+<p>MACAYANA MAVERICK ZEROUN AGAMATA</p>
+</li>
+<li>
+<p>LEE MIN TED</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Judges Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ZHOU KIRA QINLUO</p>
+</li>
+<li>
+<p>DOROTHY GANDASASMITA</p>
+</li>
+<li>
+<p>MIKAYLA SABINE TANZON ALVAREZ</p>
+</li>
+<li>
+<p>UTTARWAR DYLAN</p>
+</li>
+<li>
+<p>ETHAN JOHN MERINA</p>
+</li>
+<li>
+<p>GIDEON ELEOS PRAPTANA</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Special Commendation Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ANTON MUNOZ MARTIN</p>
+</li>
+<li>
+<p>LEONARDO JACOB ROPATA</p>
+</li>
+<li>
+<p>CONTRERAS KYLE ZACHARY PARDO</p>
+</li>
+</ul>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Strategy Games Club</p>
 </td>
 <td rowspan="1" colspan="1">
