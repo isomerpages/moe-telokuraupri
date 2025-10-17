@@ -643,6 +643,23 @@ third_nav_title: "2025"
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22nd IMSO Mathematics National Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Medal</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>LI MINGXUAN</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>CCA Achievements</strong></h3>
