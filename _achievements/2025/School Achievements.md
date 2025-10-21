@@ -45,6 +45,14 @@ Impact Award</p>
 <p>MOE Innergy &amp; Outstanding Innovator Awards 2025</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NMOS Top 20 School</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
