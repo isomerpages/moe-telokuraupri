@@ -2,8 +2,8 @@ collections:
   events:
     output: true
     order:
-      - TKPS 100 Years Anniversary.md
       - Event Highlights.md
+      - TKPS 100 Years Anniversary.md
       - TKPS Alumni Homecoming 2025.md
-      - TKPS Open House 2025.md
       - P1 Orientation for 2026 Cohort.md
+      - TKPS Open House 2025.md
