@@ -190,7 +190,8 @@ Mdm Pamela Leck at <a href="mailto:leck_hwee_huan@moe.edu.sg" rel="noopener nofo
 <h4><strong>Partners and Service Providers</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>P1 2026 Booklist (Pending)</p>
+<p>Booklist : <a href="/files/PDF/Telok_Kurau_Booklist_2026_Primary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 2026 Booklist</a>
+</p>
 </li>
 <li>
 <p>School Bus : <a href="/files/PDF/TKPS_School_Bus_Registration_Form.pdf" rel="noopener nofollow" target="_blank">School Bus Registration 2026</a>
