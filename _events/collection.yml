@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - P1 Orientation for 2026 Cohort.md
       - TKPS 100 Years Anniversary.md
       - Event Highlights.md
       - TKPS Alumni Homecoming 2025.md
