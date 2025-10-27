@@ -157,10 +157,20 @@ prevention tips</p>
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rise of the Harmony Keepers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning about martial arts form through applying mathematical concepts</p>
+</li>
+<li>
+<p>Water sustainability and calculating utility bills</p>
+</li>
+<li>
+<p>Creating light-up cards to show appreciation for teachers</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
