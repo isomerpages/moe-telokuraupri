@@ -36,6 +36,45 @@ nurtures 21st Century Competencies through real-world, theme-based learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Little Trailblazers</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit to Singapore Zoo - sharing information with others</p>
+</li>
+<li>
+<p>Learning about Chinese, Malay and Indians through their food, greetings
+and traditions</p>
+</li>
+<li>
+<p>Students take part in farm-based multiplication activities and connected
+storytelling with mathematics</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_FQ_CCI.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_FQ_CGC.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_FQ_CAIT.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,6 +102,42 @@ ASEAN postcard writing</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_CAIT_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Everyday Heroes</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Discovery about local herbs that can be used for cooking and repelling
+mosquitoes</p>
+</li>
+<li>
+<p>Investigating potential areas for mosquito breeding in school and spreading
+prevention tips</p>
+</li>
+<li>
+<p>Designing and constructing wind-powered vehicles</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_FQ_CGC.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_FQ_CCI.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_FQ_CAIT.png">
 </div>
 </td>
 </tr>
@@ -97,6 +172,40 @@ ASEAN postcard writing</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_CGC_2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rise of the Harmony Keepers</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning about martial arts form through applying mathematical concepts</p>
+</li>
+<li>
+<p>Water sustainability and calculating utility bills</p>
+</li>
+<li>
+<p>Creating light-up cards to show appreciation for teachers</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_FQ_CGC.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_FQ_CAIT.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_FQ_CCI.png">
 </div>
 </td>
 </tr>
