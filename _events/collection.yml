@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Awards For Teachers 2025.md
       - Event Highlights.md
       - TKPS 100 Years Anniversary.md
       - TKPS Alumni Homecoming 2025.md
