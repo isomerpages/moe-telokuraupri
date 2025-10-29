@@ -32,6 +32,13 @@ sections:
       id: announcements
       subtitle: Telok Kurau Primary School
       announcement_items:
+        - title: Nominate Teachers for PAT, OYEA and CTA 2026
+          date: 29 October 2025
+          announcement: Each year, awards recognise teachers who inspire, motivate and
+            care deeply for their students. We invite you and your child/ward to
+            show appreciation by nominating deserving teachers below.
+          link_text: FIND OUT MORE
+          link_url: /teacher-nominations/
         - title: TKPS Alumni Homecoming - 21 November 2025
           date: 26 September 2025
           announcement: Join us for TKPS Alumni Homecoming on Fri, 21 Nov 2025, as we
