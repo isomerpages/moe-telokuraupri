@@ -202,7 +202,7 @@ Mdm Pamela Leck at <a href="mailto:leck_hwee_huan@moe.edu.sg" rel="noopener nofo
 </p>
 </li>
 <li>
-<p>Student Care Centre :<strong> </strong><a href="/files/PDF/SCC___Pro_Teach_Information_Sheet__P1_2026_.pdf" rel="noopener nofollow" target="_blank">Proteach Registration 2026</a>
+<p>Student Care Centre :<strong> </strong><a href="/files/PDF/SCC___Pro_Teach_Information_Sheet_P1_2026v2.pdf" rel="noopener nofollow" target="_blank">Proteach Registration 2026 (updated 29 Oct 2025)</a>
 </p>
 </li>
 <li>
