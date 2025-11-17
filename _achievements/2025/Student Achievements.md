@@ -660,6 +660,33 @@ third_nav_title: "2025"
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Zone Tamil Language Cluster Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Individual- Second Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>VAANYA RIVAASHINII D/O SIVA GANESH</p>
+</li>
+<li>
+<p>SIVAKUMARAN SARVESH</p>
+</li>
+</ul>
+<p><strong>Individual- Consolation Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NOR FASEHA SULTANA BINTE MOHAMED YUSOFF</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>CCA Achievements</strong></h3>
