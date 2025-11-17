@@ -660,6 +660,93 @@ third_nav_title: "2025"
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Zone Tamil Language Cluster Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Individual- Second Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>VAANYA RIVAASHINII D/O SIVA GANESH</p>
+</li>
+<li>
+<p>SIVAKUMARAN SARVESH</p>
+</li>
+</ul>
+<p><strong>Individual- Consolation Prize</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NOR FASEHA SULTANA BINTE MOHAMED YUSOFF</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Chinese Language Competition (ICLC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Individual- Gold</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Yu Tang</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8th National Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Team- Silver Medal</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chen Ziyi</p>
+</li>
+<li>
+<p>Xu Yu Tang</p>
+</li>
+<li>
+<p>Cai Xin Yun</p>
+</li>
+<li>
+<p>Riko Fu Xiaoying</p>
+</li>
+</ul>
+<p><strong>Team- Bronze Medal</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ji Haochen</p>
+</li>
+<li>
+<p>Chee Zi Qi Chloe</p>
+</li>
+</ul>
+<p><strong>Individual - Bronze</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Saniaa Hans</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>CCA Achievements</strong></h3>
