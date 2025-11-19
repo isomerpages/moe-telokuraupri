@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>Telok Kurau Primary School will be celebrating <strong>100th Anniversary </strong>in <strong>May 2026</strong>.</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tkps100logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TKPS_100A_Logo_Finalv2_01.png">
 </div>
 <p><strong><u>Unveiling the TKPS100 Logo: A Celebration of Legacy, Unity, and Vision</u></strong>
 </p>
