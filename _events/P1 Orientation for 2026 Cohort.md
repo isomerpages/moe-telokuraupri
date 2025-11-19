@@ -198,7 +198,7 @@ Mdm Pamela Leck at <a href="mailto:leck_hwee_huan@moe.edu.sg" rel="noopener nofo
 </p>
 </li>
 <li>
-<p>School Uniform : <a href="/files/PDF/Telok__Kurau_Primary_School_2026___Bookshop_Order_Form.pdf" rel="noopener nofollow" target="_blank">School Uniform Form 2026</a>
+<p>School Uniform Online Order Form : <a href="https://asencio.com.sg/" rel="noopener nofollow" target="_blank">https://asencio.com.sg/</a>
 </p>
 </li>
 <li>
