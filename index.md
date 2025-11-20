@@ -2,7 +2,7 @@
 layout: homepage
 title: Telok Kurau Primary School
 description: Brief site description here
-image: /images/About TKPS/tkps_logo-new.png
+image: /images/TKPS_100A_Logo2.png
 permalink: /
 notification: ""
 sections:
