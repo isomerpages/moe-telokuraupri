@@ -2,7 +2,7 @@
 layout: homepage
 title: Telok Kurau Primary School
 description: Brief site description here
-image: /images/About TKPS/tkps_logo-new.png
+image: /images/TKPS_100A_Logo2.png
 permalink: /
 notification: ""
 sections:
@@ -25,7 +25,7 @@ sections:
       description: "2026"
       button: Click Here
       url: /tkps-100-years-anniversary/
-      image: /images/TKPS_100A_Logo_Final.png
+      image: /images/TKPS_100A_Logo2.png
       alt: TKPS100
   - announcements:
       title: Announcements
