@@ -2,6 +2,8 @@ collections:
   not-in-used-archives:
     output: true
     order:
+      - TKPS Alumni Homecoming 2025.md
+      - TKPS Open House 2025.md
       - P1 Orientation for 2025 Cohort.md
       - Values Ambassador.md
       - Uniformed Groups Overview.md
@@ -10,7 +12,6 @@ collections:
       - Physical Sports Overview.md
       - EL FPSP (Archive).md
       - Future Problem Solving Programme (FPSP).md
-      - School Canteen Advertisement.md
       - CWellness.md
       - Open House 2024.md
       - Old Achievements/2017.md

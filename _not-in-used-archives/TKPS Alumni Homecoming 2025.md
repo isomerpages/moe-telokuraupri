@@ -30,4 +30,5 @@ registrants will be notified by 31 October 2025.</p>
 <p></p>
 <p>The other registrants will be added to our alumni contact list and invited
 to future events.</p>
-<p></p>
+<p><strong>Event has ended.</strong>
+</p>

@@ -56,4 +56,4 @@ Hygiene certificate)
 provide food sampling at the applicant’s own expense.
 <br>
 <br>The successful applicant will be expected to commence operation of the
-stall by February 2025.</p>
+stall by January / February 2026.</p>
