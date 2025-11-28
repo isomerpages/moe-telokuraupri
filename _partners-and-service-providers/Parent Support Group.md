@@ -21,7 +21,7 @@ hand in hand to make a difference in the children’s’ lives.</p>
 <br>8. K2 visits
 <br>9. Maths Booster</p>
 <p></p>
-<h4><strong>Exco Members</strong></h4>
+<h4><strong>PSG Exco Members</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -38,92 +38,31 @@ hand in hand to make a difference in the children’s’ lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PSG Mentor</p>
+<p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Aishah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PSG Chairperson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hafidah Binte Abdul Hamid</p>
+<p>Ms Shintya Goh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st Vice Chairperson</p>
+<p>Vice Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Puteri Fatia</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2nd Vice Chairperson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Aisyah Binte Mohamed Amir</p>
+<p>Mrs Kalaiselvi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secretary</p>
+<p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mahendran Mangayarkarasi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Asst Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Dety Rinavani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Treasurer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ranjini Padattil</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Asst Treasurer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jenny Sim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Communications</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Faridah Bte Ibrahim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Programmes</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Aisyah Binte Mohamed Amir</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Programme Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ruwain Farwana
-<br>Ms Quah Soo Ying
-<br>Mrs Lakshmi Mallika Varamasi</p>
+<p>Ms Elyn Ang</p>
+<p>Ms Chua Tuan Miang Diann</p>
+<p>Ms Chen Yu Mei</p>
+<p>Ms Nordiana Binte Sulaiman</p>
+<p>Mdm Nur Fadillah Zailani</p>
+<p>Ms Toh Boon Hwee</p>
 </td>
 </tr>
 <tr>
