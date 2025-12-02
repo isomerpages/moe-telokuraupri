@@ -23,7 +23,7 @@ more info on SLS.</p>
 <p>If you have difficulty logging in or would like to apply for a new MIMS
 account, please refer to Accounts and Login Troubleshooting for more information.</p>
 <p>School Helpline : 6244 1600 (Mon-Fri: 8am-4pm)
-<br>SLS Helpdesk : 6702 6513 (Mon-Fri: 4pm-9pm, Sat: 9am-9pm)
+<br>SLS Helpdesk : 6702 6513 (Mon-Fri: 4pm-9pm, Sat: 9am-3pm)
 <br>Email : helpdesk@sls.ufinity.com
 <br>
 <br>Online Guide : <a href="https://www.learning.moe.edu.sg/student-user-guide/index/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/student-user-guide/index/</a>
