@@ -92,5 +92,123 @@ variant: tiptap
 <p><strong>The office is closed on weekends and public holidays.</strong>
 <br><em>*Operating hours may vary on the eve of public holidays.</em>
 </p>
-<p><strong>School hours: 7.30 a.m. - 1.30 p.m.</strong>
+<p><strong>School hours: 7.30 a.m. - 1.45 p.m.</strong>
 </p>
+<p></p>
+<hr>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Walk-in Gates Operating Hours (School Opening)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Location</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Opening Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gate 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.30 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gate 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 a.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gate 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 a.m.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Walk-in Gates Operating Hours (School Dismissal)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Location</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Opening Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gate 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.40 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gate 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.40 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 p.m.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
