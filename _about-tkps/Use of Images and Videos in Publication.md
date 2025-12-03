@@ -33,6 +33,6 @@ that include, but are not limited to:</p>
 <p></p>
 </li>
 </ul>
-<p>If you <strong>DO NOT wish for your child/ward to be featured</strong>,
-please contact the school.</p>
+<p>If you <strong>DO NOT wish for your child to be featured</strong>, please
+contact the school.</p>
 <p></p>
