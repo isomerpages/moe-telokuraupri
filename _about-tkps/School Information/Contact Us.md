@@ -150,11 +150,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Gate 6</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>7.00 a.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 a.m.</p>
+<td rowspan="1" colspan="2">
+<p><strong><em>Closed for upgrading works till end Feb 2026</em></strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -202,11 +200,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Gate 6</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1.40 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15 p.m.</p>
+<td rowspan="1" colspan="2">
+<p><strong><em>Closed for upgrading works till end Feb 2026</em></strong>
+</p>
 </td>
 </tr>
 </tbody>
