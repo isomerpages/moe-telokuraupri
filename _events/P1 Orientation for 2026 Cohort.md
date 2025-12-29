@@ -178,7 +178,7 @@ Mdm Pamela Leck at <a href="mailto:leck_hwee_huan@moe.edu.sg" rel="noopener nofo
 <h4><strong>Useful Links</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Information Booklet for P1 Parents (<a href="/files/PDF/Information_Booklet_for_P1_Parents_v3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Link</a>)</p>
+<p>Information Booklet for P1 Parents (<a href="/files/PDF/Information_Booklet_for_P1_Parents_v3_2026revised.pdf" rel="noopener nofollow" target="_blank">Link</a>)</p>
 </li>
 <li>
 <p>Parent Gateway Setup (<a href="https://www.telokkuraupri.moe.edu.sg/files/2024/a_One_Time_Onboarding.pdf" rel="noopener nofollow" target="_blank">Link</a>)</p>
