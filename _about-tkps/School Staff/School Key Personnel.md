@@ -757,14 +757,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager (Adjunct)</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shaikh Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg</a>
-</p>
+<p>shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>131</p>
