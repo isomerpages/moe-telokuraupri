@@ -96,7 +96,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Primary)</p>
+<p>Year Head (P1 &amp; P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Foo Jong Yin</p>
@@ -110,7 +110,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)</p>
+<p>Year Head (P3 &amp; P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Chun Ling Kelli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_chun_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chun_ling@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>115</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (P5 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Darren Ng Tiong Bee</p>
@@ -119,21 +134,7 @@ variant: tiptap
 <p>ng_tiong_bee@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>115</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>122</p>
 </td>
 </tr>
 </tbody>
@@ -359,20 +360,6 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Chun Ling Kelli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_chun_ling@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>293</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Lee Chee Hao</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -468,7 +455,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Applied Learning Programme</p>
+<p>SH STEM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Reza</p>
@@ -482,7 +469,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Information and Communication Technology &amp; Cyberwellness</p>
+<p>SH ICT &amp; Cyberwellness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Teo Bee Lin</p>
@@ -492,6 +479,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>296</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH ICT &amp; Data Mangement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kwek Wenhong Shane</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kwek_wenhong_shane@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -510,16 +511,44 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH Physical Edication</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shawn Lee Shi Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shawn_lee_shiyang@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH PAL &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mark Chang Mao Chiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chang_mao_chiao@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>294</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Seah Xing Fen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>seah_xing_fen@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>293</p>
 </td>
 </tr>
 </tbody>
@@ -700,6 +729,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad Dzulkifli Bin Zarinal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ahmad_dzulkifli_zarinal@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>108</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -714,16 +757,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Dzulkifli Bin Zarinal</p>
+<p>Mr Shaikh Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ahmad_dzulkifli_zarinal@moe.edu.sg</p>
+<p>shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>108</p>
+<p>131</p>
 </td>
 </tr>
 <tr>
