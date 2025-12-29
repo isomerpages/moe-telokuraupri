@@ -105,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Allied Educator (Teaching &amp; Learning)</p>
+<p>AED(Admin Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fauziah Kani Bte Abdul Waduth</p>
@@ -115,20 +115,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Shaikh Abdullah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>131</p>
 </td>
 </tr>
 <tr>
@@ -232,20 +218,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>306</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher Aide</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Ying Ling Lyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
