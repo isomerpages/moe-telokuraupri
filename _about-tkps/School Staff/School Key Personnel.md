@@ -729,6 +729,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad Dzulkifli Bin Zarinal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ahmad_dzulkifli_zarinal@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>108</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -743,16 +757,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>Operations Manager (Adjunct)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Dzulkifli Bin Zarinal</p>
+<p>Mr Shaikh Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ahmad_dzulkifli_zarinal@moe.edu.sg</p>
+<p><a href="mailto:shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shaikh_abdullah_ahmadulamin_mahmood@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>108</p>
+<p>131</p>
 </td>
 </tr>
 <tr>
