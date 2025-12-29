@@ -2,6 +2,7 @@ collections:
   not-in-used-archives:
     output: true
     order:
+      - myON.md
       - Ft2026.md
       - TKPS Alumni Homecoming 2025.md
       - TKPS Open House 2025.md
