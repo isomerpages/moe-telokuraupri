@@ -17,7 +17,7 @@ reflects our rich heritage, shared values and forward-looking aspirations.</p>
 of the <em>#OneTKPS</em> spirit. Every detail — from colours and symbols
 to design inspirations — was thoughtfully contributed, making the final
 creation both deeply personal and proudly collective.</p>
-<p>Anchored in the centennial theme “Inspiring Innovations, Enabling Transformations,”
+<p>Anchored in the centennial theme “Inspiring Innovation, Enabling Transformation,”
 the logo was birthed during a special staff bonding session. Teachers and
 staff across departments came together to brainstorm, sketch and share
 what TKPS represents to each of us — in the past, the present and for generations
