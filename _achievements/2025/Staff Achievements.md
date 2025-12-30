@@ -42,6 +42,18 @@ third_nav_title: "2025"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2025 National Day Long Service Medal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Theng Theng (Mrs Koh)</p>
+<p>Mr Chua Yew Cheong Rodger</p>
+<p>Mdm Noraida Yasmin Bte Abd Jabbar (Mrs El-Tayeb)</p>
+<p>Mdm Tan Choon Jhet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Our Schools, Our Stories (OSOS) Photo &amp; Video Contest 2025,<em> “Walls That Teach, Spaces That Inspire"</em> - Honourable Mention Award</strong>
 </p>
 </td>
