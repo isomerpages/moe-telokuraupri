@@ -425,7 +425,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P2 Learner</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -449,18 +449,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>205</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Choon Jhet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_choon_jhet@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>201</p>
 </td>
 </tr>
 <tr>
@@ -601,7 +589,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P3 Encourager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -617,13 +605,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Aneesa Rehana</p>
+<p>Mdm Seri Muslihah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aneesa_rehana@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aneesa_rehana@moe.edu.sg</a>&nbsp;</p>
+<p><a href="mailto:seri_muslihah_md_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seri_muslihah_md_nor@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>292</p>
+<p>263</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -658,26 +658,26 @@ variant: tiptap
 <p>P3 Innovator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joe Ang Choon Hai</p>
+<p>Mdm Tan Choon Jhet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_choon_hai@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_choon_jhet@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>265</p>
+<p>201</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Puay Oon Melody</p>
+<p>Mr Kwek Wenhong Shane</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_puay_oon_melody@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kwek_wenhong_shane@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>291</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -724,26 +724,26 @@ variant: tiptap
 <p>P3 Inquire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Seri Muslihah</p>
+<p>Mr Joe Ang Choon Hai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:seri_muslihah_md_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seri_muslihah_md_nor@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ang_choon_hai@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>263</p>
+<p>265</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kwek Wenhong Shane</p>
+<p>Mdm Tan Puay Oon Melody</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kwek_wenhong_shane@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_puay_oon_melody@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>291</p>
 </td>
 </tr>
 </tbody>
