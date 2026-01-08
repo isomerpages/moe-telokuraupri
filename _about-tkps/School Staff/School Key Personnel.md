@@ -511,7 +511,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Physical Edication</p>
+<p>SH Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shawn Lee Shi Yang</p>
