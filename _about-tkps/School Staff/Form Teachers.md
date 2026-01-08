@@ -482,7 +482,7 @@ variant: tiptap
 <p>P2 Explorer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kimbery Moey Yen Hong</p>
+<p>Ms Kimberly Moey Yen Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">moey_yen_hong_kimberly@moe.edu.sg</a>
