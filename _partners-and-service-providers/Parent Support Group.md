@@ -87,8 +87,8 @@ hand in hand to make a difference in the children’s’ lives.</p>
 <p>The membership is renewable yearly.</p>
 <p>All parent/guardian of students currently studying in TKPS are welcomed
 to join the PSG.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/psg4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSGOQ2026.jpg">
 </div>
-<p></p>
+<p>Link : <a href="https://forms.gle/YcyTPTEhgXTEp6to8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/YcyTPTEhgXTEp6to8</a>
+</p>
