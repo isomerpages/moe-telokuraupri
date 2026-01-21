@@ -147,12 +147,11 @@ caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.</p>
-<p>
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -165,14 +164,13 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong> 
-<br>
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
 </p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -184,14 +182,12 @@ own responses when they encounter pornography by applying the strategy <strong>�
 <p>In this lesson, students will learn about sexual abuse, how it can happen
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends.
-<br>
-</p>
+and how to seek help for themselves and their friends.</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -247,7 +243,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 4</p>
+<p>Term 4 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -283,7 +279,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable below. The
-completed opt-out form is to be submitted by <strong>5 February 2025.</strong> 
+completed opt-out form is to be submitted by <strong>6 February 2026.</strong> 
 <br>
 <br>Opt-out Form: <a href="/files/PDF/SEd_Opt_Out_Form_2025_.pdf" rel="noopener nofollow" target="_blank">SEd Opt Out Form (2025)</a>
 </p>
