@@ -281,7 +281,7 @@ lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable below. The
 completed opt-out form is to be submitted by <strong>6 February 2026.</strong> 
 <br>
-<br>Opt-out Form: <a href="/files/PDF/SEd_Opt_Out_Form_2025_.pdf" rel="noopener nofollow" target="_blank">SEd Opt Out Form (2025)</a>
+<br>Opt-out Form: <a href="/files/PDF/TKPS_Out_Opt_Form_2026.pdf" rel="noopener nofollow" target="_blank">TKPS Out-Opt Form (2026)</a>
 </p>
 <p></p>
 </li>
