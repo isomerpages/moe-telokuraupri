@@ -20,28 +20,20 @@ on sexuality issues.</p>
 <p></p>
 </li>
 <li>
-<p>The <strong>Goals</strong> of Sexuality Education are:
-<br>
-</p>
+<p>The <strong>Goals</strong> of Sexuality Education are:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students
 in managing their physiological, social and emotional changes as they grow
-up and develop safe and healthy relationships.
-<br>
-</p>
+up and develop safe and healthy relationships.</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students
-to make wise, informed and responsible decisions on sexuality matters.
-<br>
-</p>
+to make wise, informed and responsible decisions on sexuality matters.</p>
 <p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
 develop a moral compass and respect for themselves and others by having
 positive mainstream values and attitudes about sexuality that are premised
-on the family as the basic unit of society.
-<br>
-</p>
+on the family as the basic unit of society.</p>
+<p></p>
 </li>
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:
-<br>
 <br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
 yourself as you love and respect others;</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
@@ -51,35 +43,31 @@ families);</p>
 decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
-Casual sex can harm and hurt you and your loved ones.
-<br>
+Casual sex can harm and hurt you and your loved ones.</p>
+<p>
 <br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.
-<br>
-</p>
+more information on MOE Sexuality Education.</p>
+<p></p>
 <p><strong>OVERVIEW OF TELOK KURAU PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
-<br>
 </p>
+<p></p>
 </li>
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on the scope of Sexuality Education in the school curriculum.
-<br>
-</p>
+more information on the scope of Sexuality Education in the school curriculum.</p>
+<p></p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:
-<br>
 <br>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)
 <br>
-<br><strong>SEXUALITY EDUCATION LESSONS </strong>:
-<br>
-</p>
+<br><strong>SEXUALITY EDUCATION LESSONS </strong>:</p>
+<p></p>
 </li>
 <li>
 <p>The upper primary years mark the onset of puberty. With better nutrition
@@ -91,9 +79,8 @@ cognitive or emotional maturity to modulate their behaviours. Furthermore,
 our young are also exposed to a wide range of influences that could endanger
 health and undermine the integrity of the family. Our students require
 close guidance so that they can respond with discernment to the sexual
-messages in the media and other sources.
-<br>
-</p>
+messages in the media and other sources.</p>
+<p></p>
 </li>
 <li>
 <p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
@@ -102,11 +89,11 @@ to manage the physiological, social and emotional changes in their growing
 years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
-from sexuality-related risks.
-<br>
+from sexuality-related risks.</p>
+<p>
 <br><strong><u>Primary 5</u></strong> 
-<br>
 </p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -193,10 +180,11 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <p>
-<br>
 <br><strong><u>Primary 6</u></strong> 
-<br>
 </p>
+</li>
+<li>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -280,7 +268,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable below. The
 completed opt-out form is to be submitted by <strong>6 February 2026.</strong> 
-<br>
+</p>
+<p>
 <br>Opt-out Form: <a href="/files/PDF/TKPS_Out_Opt_Form_2026.pdf" rel="noopener nofollow" target="_blank">TKPS Out-Opt Form (2026)</a>
 </p>
 <p></p>
@@ -288,7 +277,7 @@ completed opt-out form is to be submitted by <strong>6 February 2026.</strong>
 <li>
 <p>Parents can contact the school at 62441600 or via email at <a rel="noopener noreferrer nofollow" target="_blank">telokkuraups@moe.edu.sg</a> for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
+<p></p>
 </li>
 </ol>
-<p></p>
 <p></p>
