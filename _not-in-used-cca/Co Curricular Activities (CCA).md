@@ -8,12 +8,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CCA2025" src="/images/CCA_2025.jpg">
 </div>
-<h4><strong>Vision</strong></h4>
-<p>Character and Confidence Actualisation</p>
-<h4><strong>Mission</strong></h4>
-<p>To implement a well-structured co-curricular programme which encourages
-mass participation in Co-Curricular Activities (CCAs) as well as discover
-and develop talents.</p>
 <h4><strong>CCAs@TKPS</strong></h4>
 <p>CCAs are an integral part of the holistic development and learning experiences
 for our students. It allows them to discover their interests and talents;
@@ -175,25 +169,4 @@ Good Leadership and Service (EAGLES), provided they satisfy the eligibility
 criteria.</p>
 </li>
 </ol>
-<h4><strong>CCAs@TKPS Workflow for Recruitment/Transfer</strong></h4>
-<ol>
-<li>
-<p>The recruitment of CCA members will be opened to the <strong>2025 Primary 3</strong> cohort
-and a transfer exercise will be opened to the <strong>2025 Primary 4 cohort</strong> in <strong>Term 1 2025</strong>.</p>
-</li>
-<li>
-<p>Students will <strong>indicate their top three CCA choices in rank order</strong>.
-If there is no choice/single choice exercised, the school will then make
-the final decision in allocating a CCA.</p>
-</li>
-<li>
-<p>There are membership caps for selected CCAs. Students who apply for these
-CCAs will need to fulfill the conditions in order to be considered for
-final selection.</p>
-</li>
-</ol>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_TKPS_CCA_Policy_WEF_2025.jpg">
-</div>
 <p></p>
