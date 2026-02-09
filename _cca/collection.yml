@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Co Curricular Activities (CCA).md
       - Physical Sports/.keep
       - Physical Sports/Basketball.md
       - Physical Sports/Bowling.md

@@ -2,7 +2,6 @@ collections:
   not-in-used-cca:
     output: true
     order:
-      - Co Curricular Activities (CCA).md
       - CCA Contacts.md
       - Physical Sports/.keep
       - Physical Sports/Basketball.md
