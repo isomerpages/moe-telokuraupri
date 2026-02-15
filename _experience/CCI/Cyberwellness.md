@@ -16,9 +16,7 @@ Wellness lessons through the Student Learning Space (SLS), helping students
 cultivate safe, respectful and positive online behaviors. Through these
 thoughtfully designed lessons and activities, our students learn to protect
 themselves and others, make wise choices online, and contribute meaningfully
-to the digital&nbsp;community.
-<br>
-</p>
+to the digital&nbsp;community.</p>
 <hr>
 <p>On 10 Feb 2026, our school marked Total Defence Day with interactive Digital
 Defence recess activity booths! Students engaged in games and shared cyber-safety
@@ -26,9 +24,8 @@ tips to stay "Secure, Alert, and Responsible." The lively, collaborative
 energy empowered everyone to spot scams and play their part in keeping
 Singapore—and our digital world—safe.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xAEkYFYUqEI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xAEkYFYUqEI"></iframe>
 </div>
-<p></p>
 <hr>
 <p><strong>Cyber Wellness Themes and Corresponding topics*</strong>
 </p>
