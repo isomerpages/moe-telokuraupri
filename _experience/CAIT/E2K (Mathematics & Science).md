@@ -24,8 +24,8 @@ experiences offered serve to help students to:</p>
 thinking and effective communication skills.</p>
 </li>
 </ul>
-<p>Teachers who have been trained in the E2K pedagogy run the programme.
-The programme will take place over 15 weeks in Semester 1.</p>
+<p>Our teachers have been trained in the E2K pedagogy run the programme.
+The programme will take place from Term 1 to Term 3.</p>
 <hr>
 <h4><strong>Excellence 2000 (E2K) Science Programme</strong></h4>
 <p>The E2K Science Programme offers opportunities for students to engage
