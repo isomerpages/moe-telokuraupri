@@ -24,26 +24,27 @@ experiences offered serve to help students to:</p>
 thinking and effective communication skills.</p>
 </li>
 </ul>
-<p>Teachers who have been trained in the E2K pedagogy run the programme.
-The programme will take place over 15 weeks in Semester 1.</p>
+<p>Our teachers have been trained in the E2K pedagogy run the programme.
+The programme will take place from Term 1 to Term 3.</p>
 <hr>
 <h4><strong>Excellence 2000 (E2K) Science Programme</strong></h4>
-<p>Our school offers the&nbsp;E2K<strong> </strong>Science Programme&nbsp;to
-selected primary 4 students. This is a science inquiry-based programme
+<p>The E2K Science Programme offers opportunities for students to engage
+in scientific investigations to discover and deepen their understanding
+of advanced science concepts through an inquiry approach.&nbsp;The rich
+learning experiences offered by the programme serve to help students to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop the habits, attitudes and dispositions scientists possess.</p>
+</li>
+<li>
+<p>Gain important 21st century competencies such as critical thinking, invention
+thinking and effective communication skills.</p>
+</li>
+</ul>
+<p>Teachers who have been trained in the E2K pedagogy run the programme in
+schools. Our school offers the&nbsp;E2K<strong> </strong>Science Programme&nbsp;to
+selected primary 4 to 6 students. This is a science inquiry-based programme
 aimed to stretch primary pupils who have demonstrated strong interest and
-ability in science. It is adapted from Israel’s E2K Programme which is
-developed by the Israel Centre for Excellence through Education (ICEE).
-We have modified this enrichment programme to integrate technology where
-teachers use e-pedagogy to create a more participatory, connected and reflective
-classroom to nurture future-ready learners.</p>
-<p>Through this E2K Programme, we hope that students will develop scientific
-inquiry process skills, as well as nurture other important 21st century
-competencies such as resilience and resourcefulness, critical and inventive
-thinking, and effective communication skills.</p>
-<p>Students will learn Science by going through the same process that scientists
-use to generate knowledge in Science. Just as practising scientists make
-mistakes in the real world, students are allowed to make mistakes in E2K
-and teachers facilitate students to learn from the mistakes. Through collaborative
-learning and guidance provided by the teacher, students practise scientific
-thinking and reasoning, develop confidence and independence in carrying
-out scientific inquiry as well as scientific habits, attitudes and dispositions.</p>
+ability in science. We have modified this enrichment programme to integrate
+technology where teachers use e-pedagogy to create a more participatory,
+connected and reflective classroom to nurture future-ready learners.</p>
