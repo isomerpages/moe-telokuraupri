@@ -43,7 +43,7 @@ thinking and effective communication skills.</p>
 </ul>
 <p>Teachers who have been trained in the E2K pedagogy run the programme in
 schools. Our school offers the&nbsp;E2K<strong> </strong>Science Programme&nbsp;to
-selected primary 4 to 6 students. This is a science inquiry-based programme
+selected primary 4 and 5 students. This is a science inquiry-based programme
 aimed to stretch primary pupils who have demonstrated strong interest and
 ability in science. We have modified this enrichment programme to integrate
 technology where teachers use e-pedagogy to create a more participatory,
