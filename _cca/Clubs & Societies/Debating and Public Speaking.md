@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6U4An2Cmsa8"></iframe>
+</div>
 <p>The Debating and Public speaking CCA provides members with the knowledge,
 skills and values through various oratorical and debating activities.</p>
 <h4><strong>Debate</strong></h4>
