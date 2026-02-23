@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Physical Sports
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HRsocTIeTRg"></iframe>
+</div>
 <p>TKPS Basketball CCA aims to develop a passion in our boys and girls in
 learning to play basketball well. Our focus is not just on developing sound
 fundamental skills and team strategies, but on building strong character.

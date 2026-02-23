@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Physical Sports
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vc1idHKpFTY"></iframe>
+</div>
 <p>Our TKPS Wushu team aims to promote the spirit of Wushu and emphasises
 character building and inculcation of values in our members. Self-discipline
 and resilience are essential values for learning the fundamentals of Wushu.

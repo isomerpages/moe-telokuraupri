@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p9NN_cA5EYQ"></iframe>
+</div>
 <p>The TKPS Strategy Games Club is a forward-looking CCA that teaches its
 members about strategic thinking, problem-solving skills and teamwork through
 understanding of various strategy games, both physical and digital. Members

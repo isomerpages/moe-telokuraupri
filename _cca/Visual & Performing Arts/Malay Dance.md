@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kRnHQIkosmg"></iframe>
+</div>
 <p>The TKPS Malay Dance CCA plays a vital role in preserving and promoting
 the rich cultural heritage of the Malay community through the performing
 arts. It provides students with a meaningful platform to develop grace,

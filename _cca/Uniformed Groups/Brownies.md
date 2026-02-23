@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Uniformed Groups
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/myrC4AhHfwc"></iframe>
+</div>
 <p>The Brownies programme aims to develop our girls to their fullest potential
 as responsible citizens of the world. They are engaged in activities such
 as singing, craftwork, indoor and outdoor games, simple cooking and sewing.

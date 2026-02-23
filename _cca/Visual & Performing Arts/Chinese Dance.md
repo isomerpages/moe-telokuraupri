@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sXPUfidBYg0"></iframe>
+</div>
 <p>The TKPS Chinese Dance CCA nurtures our students’ aesthetic appreciation
 and deepens their connection to Chinese culture through a diverse repertoire
 of traditional and contemporary dance forms. Through structured lessons
