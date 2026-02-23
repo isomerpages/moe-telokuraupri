@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zEi1jOEqe-s"></iframe>
+</div>
 <p>Established in 2000, Telok Kurau Primary School’s Lion Dance troupe was
 formed to introduce students to the rich cultural heritage of traditional
 Chinese performing arts. Over the years, it has grown into a vibrant and
