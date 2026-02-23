@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PoFJ4bbW3I4"></iframe>
+</div>
 <p>The school’s Choir comprises an enthusiastic group of students and teachers
 who share a passion and appreciation for music and singing. As an important
 part of our school’s LLP, choir exposes our members to different genres,
