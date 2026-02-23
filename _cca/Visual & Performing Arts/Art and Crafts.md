@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pxVEv6_cVvA"></iframe>
+</div>
 <p>The school’s Art and Crafts CCA provides a creative platform for students
 to explore and expand their artistic talents beyond the classroom. It nurtures
 budding artists by exposing them to a wide variety of art forms, encouraging
