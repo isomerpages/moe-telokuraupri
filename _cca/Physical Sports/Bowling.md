@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Physical Sports
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/I0zN3Ei71Z0"></iframe>
+</div>
 <p>Bowling is a newly formed CCA at TKPS. It is a skill-based sport that
 has a focus on hand-eye coordination and targeting skills, and at the same
 time building muscular strength, flexibility, balance and coordination.
