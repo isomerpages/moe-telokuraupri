@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tjCjr3ZugAo"></iframe>
+</div>
 <p>The TKPS Robotics CCA is the core CCA in our Active Learning Programme
 (ALP). It provides the knowledge, skills and values to nurture our students
 interest in Science, Technology, Engineering and Mathematics (STEM).</p>
