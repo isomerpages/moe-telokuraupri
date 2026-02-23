@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z4t--mkZVqw"></iframe>
+</div>
 <p>Our school’s Environmental Club provides our members with the knowledge,
 skills and values of conservation and sustainable practices that are important
 for our environment. The focus will be on promoting environmental awareness
