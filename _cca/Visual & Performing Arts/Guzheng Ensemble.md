@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-<p>he Guzheng Ensemble is an important CCA, in cultivating a genuine love
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yy3B68LU9Lk"></iframe>
+</div>
+<p>The Guzheng Ensemble is an important CCA, in cultivating a genuine love
 and a lifelong passion for music amongst its members. We aim to help them
 achieve mastery as they learn to play beautiful pieces of music! Since
 its establishment, the ensemble has embarked on the journey of musicianship,
