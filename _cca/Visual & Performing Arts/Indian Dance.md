@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3dlgjguDvZI"></iframe>
+</div>
 <p>The school’s Indian Dance CCA offers students a meaningful platform to
 appreciate the rich aesthetics and traditions of Indian culture through
 exposure to various Indian dance genres. Beginning with foundational steps,
