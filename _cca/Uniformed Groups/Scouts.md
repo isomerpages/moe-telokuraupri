@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Uniformed Groups
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Mp3vfXGuQg4"></iframe>
+</div>
 <p>Cub Scouts are guided by the Scout Promise and Scout Laws. We believe
 that Scouting encourages the physical, mental, spiritual and social development
 of our cub scouts, with an emphasis on duty to country and helping other
