@@ -11,7 +11,7 @@ third_nav_title: Physical Sports
 <p>TKPS Basketball CCA aims to develop a passion in our boys and girls in
 learning to play basketball well. Our focus is not just on developing sound
 fundamental skills and team strategies, but on building strong character.
-As one of our team sports in our <strong>Learning for Life Programme (LLP) – “Character Development Through Team Sports and the Arts”</strong>,
+As one of our team sports in our <strong>Learning for Life Programme (LLP) – “Character Development Through Sports”</strong>,
 the CCA instils in our members the belief in “playing right, playing well”,
 through strong partnership with our teachers, coaches and parents in teaching
 of values such as resilience, teamwork and sportsmanship. It has achieved
