@@ -19,10 +19,10 @@ sections:
           url: /useful-links/for-students/student-mims/
       variant: image
   - infopic:
-      title: 90 More Days
-      subtitle: Celebrate with us
+      title: 90 Days to go
+      subtitle: TKPS100 Musical Gala
       id: infopic
-      description: TKPS 100 Years Anniversary
+      description: 26 May 2026
       button: Click Here
       url: /90-more-days/
       image: /images/tkps100formation.jpg
