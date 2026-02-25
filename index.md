@@ -25,28 +25,13 @@ sections:
       description: TKPS 100 Years Anniversary
       button: Click Here
       url: /90-more-days/
-      image: /images/TKPS_100A_Logo2.png
+      image: /images/tkps100formation.jpg
       alt: TKPS100
   - announcements:
       title: Announcements
       id: announcements
       subtitle: Telok Kurau Primary School
       announcement_items:
-        - title: Nominate Teachers for PAT, OYEA and CTA 2026
-          date: 29 October 2025
-          announcement: Each year, awards recognise teachers who inspire, motivate and
-            care deeply for their students. We invite you and your child/ward to
-            show appreciation by nominating deserving teachers below.
-          link_text: FIND OUT MORE
-          link_url: /teacher-nominations/
-        - title: TKPS Alumni Homecoming - 21 November 2025
-          date: 26 September 2025
-          announcement: Join us for TKPS Alumni Homecoming on Fri, 21 Nov 2025, as we
-            reconnect with former students ahead of TKPS100 in 2026. Relive
-            memories, reunite with friends and teachers, and celebrate our
-            shared journey. Stay tuned for more details—do spread the word!
-          link_text: FIND OUT MORE
-          link_url: /tkps-alumni-homecoming-2025/
         - title: Get Online, Stay Connected with DigitalAccess@Home!
           date: 26 February 2026
           announcement: IMDA provides subsidised broadband and laptops/tablets to
