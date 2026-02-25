@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: TKPS 100 Years Anniversary
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U0v21b5CqYo"></iframe>
+</div>
 <p>As we begin our centennial journey in 2026, the <strong>TKPS100 Human Formation</strong> stands
 as a powerful symbol of who we are and what we share. By coming together
 as one — P1 to P6 students, staff and stakeholders — we honour the legacy
