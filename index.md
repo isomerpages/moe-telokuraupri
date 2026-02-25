@@ -48,7 +48,7 @@ sections:
           link_text: FIND OUT MORE
           link_url: /tkps-alumni-homecoming-2025/
         - title: Get Online, Stay Connected with DigitalAccess@Home!
-          date: 14 April 2025
+          date: 26 February 2026
           announcement: IMDA provides subsidised broadband and laptops/tablets to
             lower-income households to support their lifestyle needs, including
             work and social activities.
