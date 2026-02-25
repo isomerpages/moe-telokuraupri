@@ -19,12 +19,12 @@ sections:
           url: /useful-links/for-students/student-mims/
       variant: image
   - infopic:
-      title: 100 Years Anniversary
+      title: 90 More Days
       subtitle: Celebrate with us
       id: infopic
-      description: "2026"
+      description: TKPS 100 Years Anniversary
       button: Click Here
-      url: /tkps-100-years-anniversary/
+      url: /90-more-days/
       image: /images/TKPS_100A_Logo2.png
       alt: TKPS100
   - announcements:
