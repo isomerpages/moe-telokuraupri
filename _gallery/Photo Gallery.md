@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2026" src="/images/Galley_Banner_2026.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="2026" src="/images/Galley_Banner_2026.jpg">
 </div>
 <p></p><a class="isomer-image-wrapper" href="https://www.flickr.com/photos/199885725@N02/collections/72157723684221321/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Gallery/Galley_Banner_2025.jpg"></a>
 <p></p><a class="isomer-image-wrapper" href="https://www.flickr.com/photos/199885725@N02/collections/72157722511714903/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Events_Photo_2024.png"></a>
