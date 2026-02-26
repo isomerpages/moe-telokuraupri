@@ -22,7 +22,7 @@ sections:
       title: 90 Days to go
       subtitle: TKPS100 Musical Gala
       id: infopic
-      description: 26 May 2026
+      description: 28 May 2026
       button: Click Here
       url: /90-more-days/
       image: /images/tkps100formation.jpg
