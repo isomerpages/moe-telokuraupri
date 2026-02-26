@@ -1,10 +1,11 @@
 ---
-title: TKPS 100 Years Anniversary
-permalink: /tkps-100-years-anniversary/
+title: TKPS 100 Years Logo
+permalink: /tkps-100-years-logo/
 variant: tiptap
 description: ""
+third_nav_title: TKPS 100 Years Anniversary
 ---
-<h4>Telok Kurau Primary School will be celebrating <strong>100th Anniversary </strong>in <strong>May 2026</strong>.</h4>
+<h4>Telok Kurau Primary School will be celebrating <strong>100th Anniversary</strong>.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TKPS_100A_Logo_Finalv2_01.png">
 </div>
