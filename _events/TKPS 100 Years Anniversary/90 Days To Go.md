@@ -20,7 +20,6 @@ vital part of our story and together, we create something far greater than
 ourselves. Captured in a time-lapse video, this special moment reflects
 not just a formation but a community moving as one — a meaningful tribute
 that will be preserved as part of our 100-year legacy.</p>
-<p></p>
 <p>Follow us on our social media to walk this centennial journey with us
 as we celebrate 100 years of TKPS.</p>
 <p></p>
