@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: TKPS 100 Years Anniversary
 ---
-<p><strong><em>28 Feb 2026</em></strong>
+<p><strong><em>28 February 2026</em></strong>
 </p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U0v21b5CqYo"></iframe>
