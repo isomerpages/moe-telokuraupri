@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: TKPS 100 Years Anniversary
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TKPS_banner_01.jpg">
+</div>
 <p>The TKPS100 facade banner has been unveiled at Telok Kurau Primary School,
 marking a key milestone as the school approaches its 100th anniversary.
 <br>
@@ -18,7 +21,4 @@ TKPS community.</p>
 <p></p>
 <p>TKPS100 – Soaring High.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TKPS_banner_01.jpg">
-</div>
 <p></p>
