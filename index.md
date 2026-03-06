@@ -24,7 +24,7 @@ sections:
       id: infopic
       description: 28 May 2026
       button: Click Here
-      url: /80-days-to-go/
+      url: /90-days-to-go/
       image: /images/TKPS100_banner_artwork.jpg
       alt: TKPS100
   - announcements:
