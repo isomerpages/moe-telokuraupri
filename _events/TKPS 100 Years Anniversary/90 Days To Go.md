@@ -1,10 +1,12 @@
 ---
 title: 90 Days To Go
-permalink: /90-more-days/
+permalink: /90-days-to-go/
 variant: tiptap
 description: ""
 third_nav_title: TKPS 100 Years Anniversary
 ---
+<p><strong><em>28 February 2026</em></strong>
+</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U0v21b5CqYo"></iframe>
 </div>
@@ -18,7 +20,6 @@ vital part of our story and together, we create something far greater than
 ourselves. Captured in a time-lapse video, this special moment reflects
 not just a formation but a community moving as one — a meaningful tribute
 that will be preserved as part of our 100-year legacy.</p>
-<p></p>
 <p>Follow us on our social media to walk this centennial journey with us
 as we celebrate 100 years of TKPS.</p>
 <p></p>
