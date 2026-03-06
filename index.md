@@ -20,7 +20,7 @@ sections:
       variant: image
   - infopic:
       title: 80 Days to go
-      subtitle: TKPS100 Musical Gala
+      subtitle: TKPS Centennial Musical
       id: infopic
       description: 28 May 2026
       button: Click Here
