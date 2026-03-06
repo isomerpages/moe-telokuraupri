@@ -2,10 +2,10 @@ collections:
   events:
     output: true
     order:
-      - TKPS 100 Years Anniversary/80 Days To Go.md
       - TKPS 100 Years Anniversary/.keep
       - TKPS 100 Years Anniversary/TKPS 100 Years Logo.md
       - TKPS 100 Years Anniversary/90 Days To Go.md
+      - TKPS 100 Years Anniversary/80 Days To Go.md
       - Event Highlights.md
       - Teachers Award Nominations.md
       - P1 Orientation for 2026 Cohort.md
