@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: TKPS 100 Years Anniversary
 ---
+<p><strong><em>8 March 2026</em></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TKPS100_banner_artwork.jpg">
 </div>
@@ -20,5 +22,4 @@ TKPS community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TKPS_banner_01.jpg">
 </div>
-<p></p>
 <p></p>
