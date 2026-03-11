@@ -153,7 +153,7 @@ in a vibrant environment.</p>
 <p>We believe that sufficient time and space is needed in order of students
 to develop the skills and competencies related to the CCA. The students
 will remain in their CCAs for the duration of their primary school years
-from Primary 4 to build the essential skills and competencies.</p>
+from Primary 3 to build the essential skills and competencies.</p>
 </li>
 <li>
 <p>CCAs are conducted within the curriculum time on Wednesdays, 7.45 a.m.
