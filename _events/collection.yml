@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - TKPS 100 Years Anniversary/70 Days To Go.md
       - TKPS 100 Years Anniversary/.keep
       - TKPS 100 Years Anniversary/TKPS 100 Years Logo.md
       - TKPS 100 Years Anniversary/90 Days To Go.md
