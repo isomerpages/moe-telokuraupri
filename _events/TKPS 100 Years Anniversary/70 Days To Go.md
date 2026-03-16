@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: TKPS 100 Years Anniversary
 ---
+<p><strong><em>18 March 2026</em></strong>
+</p>
 <p>Every school carries a story shaped by the people who walked its corridors
 — the teachers who gave their hearts to education and the students who
 carried its values into the world. As Telok Kurau Primary School celebrates
