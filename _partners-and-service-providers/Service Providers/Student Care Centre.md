@@ -20,7 +20,7 @@ potential.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vision: </strong>
+<p><strong>Vision:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,7 +29,7 @@ potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mission: </strong>
+<p><strong>Mission:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
