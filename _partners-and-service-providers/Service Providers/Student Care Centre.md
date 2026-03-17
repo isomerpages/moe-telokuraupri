@@ -7,14 +7,73 @@ variant: tiptap
 ---
 <h3><strong>Student Care Centre</strong></h3>
 <h4><strong>Pro-Teach@ Telok Kurau Student Care Centre</strong></h4>
-<p>At Pro-Teach, we partner with Telok Kurau Primary School to provide exceptional
-after-school care for our children. Our holistic approach focuses on quality
-character development and enrichment programmes designed to help students
-grow into well-rounded individuals. Through our 'Character Compass' programme,
-we nurture positive mental qualities and resilience, while our 'Media World'
-programme helps students build confidence and communication skills. We
-are dedicated to creating a supportive environment where students can thrive
-academically, emotionally, and socially.</p>
+<p>Pro-Teach provides after-school care that supports students’ holistic
+development in close partnership with the school. Anchored on the vision,
+the character development and enrichment programmes are carefully designed
+and implemented to nurture students’ character strengths and develop their
+potential.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vision: </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A Lighthouse For Every Child</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mission: </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awakening Compassion, Developing Competencies and Moulding</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Character Development Programme</strong></h4>
+<p>Grounded on the principles of Positive Psychology, the Character Compass
+programme incorporates craft work, outdoor activities and guided reflections
+to nurture positive mental qualities and resilience, helping students to
+build &nbsp;confidence and maintain a positive sense of well-being. The
+You Can Do It programme develops positive character traits, instils essential
+life skills and supports students’ emotional well-being. In Goodness Me
+programme, students engage in role-play activities to build social awareness
+and develop positive relationships with their peers. In addition, specially
+designed activities are organised to celebrate festivals and occasions
+such as Teachers’ Days and National Day to &nbsp;inculcate respect and
+appreciation in students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SCC2026" src="/images/SCC2026_01.jpg">
+</div>
+<h4><strong>Enrichment Programme</strong></h4>
+<p>The Media World programme provides students with speech and drama experience,
+teaching self-expression and presentation skills, building confidence and
+communication skills in students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SCC2026" src="/images/SCC2026_02.jpg">
+</div>
+<h4><strong>Homework Supervision</strong></h4>
+<p>Students are supported in completing their homework to build responsibility,
+discipline and resilience. The teachers provide close supervision and establish
+routine that guide students in completing their assignments and engage
+in regular revision, fostering positive learning habits and self-management
+skills.</p>
+<p></p>
+<h4><strong>Outdoor Activities</strong></h4>
+<p>To promote active and healthy lifestyles, the <em>Kinetic Kids</em> programme
+engages students in games and outdoor play to develop fundamental sports
+skills while fostering teamwork and sportsmanship.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SCC2026" src="/images/SCC2026_03.jpg">
+</div>
 <h4><strong>Operating Hours and Contact Information</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -22,6 +81,12 @@ academically, emotionally, and socially.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Fiona, Branch Head
+<br>Ms Hong, Centre Supervisor</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tel :</p>
