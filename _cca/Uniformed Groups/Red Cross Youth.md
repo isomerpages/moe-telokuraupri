@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3JNa6eJcrz8"></iframe>
-</div>
 <p>The Red Cross Youth is a CCA that teaches our members to strive and do
 one’s best. It takes to cognizance the Red Cross ethos and service to humanity
 as its focus. Our CCA combines character-building, leadership, essential
