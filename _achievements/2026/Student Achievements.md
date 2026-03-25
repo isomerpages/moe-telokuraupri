@@ -1,6 +1,6 @@
 ---
-title: Student Achievement
-permalink: /student-achievement-2026/
+title: Student Achievements
+permalink: /student-achievements-2026/
 variant: tiptap
 description: ""
 third_nav_title: "2026"
@@ -37,8 +37,15 @@ third_nav_title: "2026"
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Outstanding Award &amp; Merit Award</u></strong>
-<br>- Cai Xinyun (6 Synergiser)
-<br>- Xu Yutang (6 Reflector)</p>
+<br>-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cai Xinyun (6 Synergiser)</p>
+</li>
+<li>
+<p>Xu Yutang (6 Reflector)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -74,8 +81,16 @@ third_nav_title: "2026"
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>1st Place</u></strong>
-<br>- Batrisha Nadya Binte Muhammad Firdaus (6 Encourager)
-<br>- Nursyafiah Binte Mohamad Fairus (6 Explorer)</p>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Batrisha Nadya Binte Muhammad Firdaus (6 Encourager)</p>
+</li>
+<li>
+<p>Nursyafiah Binte Mohamad Fairus (6 Explorer)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -87,18 +102,45 @@ third_nav_title: "2026"
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>3rd Place</u></strong>
-<br>- Uttarwar Dylan (P5 Reflector)
-<br>- Chan Chiu Hang (P6 Encourager)
-<br>- Dorothy Gandasasmita (P6 Innovator)
-<br>- Julien Kee (P6 Inquirer)
-<br>- Anton Munoz Martin (P6 Synergiser)</p>
-<p>&nbsp;</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Uttarwar Dylan (P5 Reflector)</p>
+</li>
+<li>
+<p>Chan Chiu Hang (P6 Encourager)</p>
+</li>
+<li>
+<p>Dorothy Gandasasmita (P6 Innovator)</p>
+</li>
+<li>
+<p>Julien Kee (P6 Inquirer)</p>
+</li>
+<li>
+<p>Anton Munoz Martin (P6 Synergiser)</p>
+</li>
+</ul>
+<p></p>
 <p><strong><u>5th Place</u></strong>
-<br>- Zhou Kira Qinluo (P5 Reflector)
-<br>- Arush Oberoi (P6 Encourager)
-<br>- Leonardo Jacob Ropata (P6 Inquirer)
-<br>- Contreras Kyle Zachary Pardo (P6 Synergiser)
-<br>- Macayana Maverick Zeroun Agamata (P6 Synergiser)</p>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zhou Kira Qinluo (P5 Reflector)</p>
+</li>
+<li>
+<p>Arush Oberoi (P6 Encourager)</p>
+</li>
+<li>
+<p>Leonardo Jacob Ropata (P6 Inquirer) C</p>
+</li>
+<li>
+<p>Contreras Kyle Zachary Pardo (P6 Synergiser)</p>
+</li>
+<li>
+<p>Macayana Maverick Zeroun Agamata (P6 Synergiser)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
