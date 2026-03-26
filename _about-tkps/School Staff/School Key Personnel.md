@@ -578,20 +578,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Steven Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_boon_seng_steven@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>260</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lead Teacher Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -718,7 +704,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Matthew Toh</p>
+<p>Mr Toh Kheng Guan, Matthew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>matthew_toh@schools.gov.sg</p>
@@ -757,7 +743,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Manager (Adj)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shaikh Abdullah</p>
