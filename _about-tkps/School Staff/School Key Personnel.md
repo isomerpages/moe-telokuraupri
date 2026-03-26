@@ -237,7 +237,7 @@ variant: tiptap
 <p>HOD Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeffrey Tan</p>
+<p>Mr Tan Kong Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_kong_hui@moe.edu.sg</p>
@@ -293,7 +293,7 @@ variant: tiptap
 <p>HOD Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarah Zheng Huimin</p>
+<p>Mdm Zheng Huimin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>zheng_huimin@moe.edu.sg</p>
