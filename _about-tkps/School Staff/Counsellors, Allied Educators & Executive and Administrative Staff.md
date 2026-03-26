@@ -29,7 +29,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,6 +40,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>245</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Ying Ling, Lynn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ying_ling_c@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>240</p>
 </td>
 </tr>
 <tr>
@@ -104,21 +115,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>AED(Admin Support)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Fauziah Kani Bte Abdul Waduth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fauziah_kani_abdul_waduth@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,6 +137,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>132</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Fauziah Kani Bte Abdul Waduth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>fauziah_kani_abdul_waduth@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>241</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +225,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>306</p>
+<p></p>
 </td>
 </tr>
 <tr>
