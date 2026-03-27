@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours:
       - days: School term
-        time: 7.00 am - 6.00 pm
+        time: 7.00 am - 5.30 pm
         description: ""
       - days: School Holidays
         time: 8.00 am - 5.00 pm
