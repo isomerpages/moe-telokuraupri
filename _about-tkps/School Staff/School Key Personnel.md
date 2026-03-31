@@ -371,20 +371,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Aneesa Rehana Amanullah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>aneesa_rehana@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>292</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH Science</p>
 </td>
 <td rowspan="1" colspan="1">
