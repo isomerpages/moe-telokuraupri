@@ -468,10 +468,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Aw Kum Jin</p>
+<p>Mdm Ng Bao Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:ng_bao_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_bao_lin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>202</p>
@@ -589,7 +590,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P3 Encourager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -613,17 +614,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>263</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1116,7 +1106,8 @@ variant: tiptap
 <p>Mdm Kelly Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:kelly_teo_hwee_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kelly_teo_hwee_keng@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>330</p>
