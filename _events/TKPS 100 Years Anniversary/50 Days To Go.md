@@ -7,6 +7,9 @@ third_nav_title: TKPS 100 Years Anniversary
 ---
 <p><strong><em>08 April 2026</em></strong>
 </p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DUQPJSukoGc"></iframe>
+</div>
 <p>The countdown continues.</p>
 <p></p>
 <p>As we journey towards our centennial celebration, we are excited to unveil
