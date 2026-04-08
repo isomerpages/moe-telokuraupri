@@ -2,7 +2,6 @@
 title: TKPS Featured
 permalink: /about-tkps/tkps-featured/
 description: ""
-third_nav_title: TKPS Featured
 variant: tiptap
 ---
 <h4><strong>TKPS Featured</strong></h4>

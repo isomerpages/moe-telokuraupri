@@ -2,7 +2,6 @@
 title: A School's Story Set To Music
 permalink: /about-tkps/tkps-featured/a-sch-story-set-to-music/
 description: ""
-third_nav_title: TKPS Featured
 variant: tiptap
 ---
 <h4><strong>A School’s Story Set To Music</strong></h4>

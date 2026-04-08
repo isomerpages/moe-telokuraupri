@@ -2,7 +2,6 @@
 title: Music Teacher Is In Tune With His Pupils
 permalink: /about-tkps/tkps-featured/music-teacher-in-tune-with-pupils/
 description: ""
-third_nav_title: TKPS Featured
 variant: tiptap
 ---
 <h4><strong>Music Teacher Is In Tune With His Pupils</strong></h4>

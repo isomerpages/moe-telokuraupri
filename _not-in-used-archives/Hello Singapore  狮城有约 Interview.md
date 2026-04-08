@@ -2,7 +2,6 @@
 title: Hello Singapore  狮城有约 Interview
 permalink: /about-tkps/tkps-featured/hello-singapore-interview/
 description: ""
-third_nav_title: TKPS Featured
 variant: tiptap
 ---
 <h4><strong>Hello Singapore 狮城有约 Interview</strong></h4>
