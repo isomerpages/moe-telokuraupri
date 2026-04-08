@@ -2,7 +2,6 @@ collections:
   about-tkps:
     output: true
     order:
-      - TKPS Featured/.keep
       - Principal's Message.md
       - Our Mission and Vision.md
       - School Core Values.md
@@ -21,6 +20,7 @@ collections:
       - Corporate Video.md
       - School Mascot.md
       - Use of Images and Videos in Publication.md
+      - TKPS Featured/.keep
       - School Information/.keep
       - School Information/Contact Us.md
       - School Information/School Terms and Holidays.md
