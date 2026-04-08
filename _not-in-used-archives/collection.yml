@@ -2,6 +2,7 @@ collections:
   not-in-used-archives:
     output: true
     order:
+      - Conversational Chinese and Malay Programme.md
       - Hello Singapore  狮城有约 Interview.md
       - Music Teacher Is In Tune With His Pupils.md
       - TKPS Featured.md
