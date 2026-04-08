@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: TKPS Featured
 ---
-<h4>Extracted from Little Red Dot, The Straits Times <br>(30 Sep 2025)</h4>
+<p>Extracted from Little Red Dot, The Straits Times (30 Sep 2025)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_liondance_01.jpg">
 </div>
