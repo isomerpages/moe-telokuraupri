@@ -2,7 +2,7 @@ collections:
   about-tkps:
     output: true
     order:
-      - AA/.keep
+      - TKPS Featured/.keep
       - Principal's Message.md
       - Our Mission and Vision.md
       - School Core Values.md
