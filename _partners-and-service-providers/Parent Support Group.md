@@ -5,22 +5,40 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Parent Support Group</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG_LOGO.jpg">
+</div>
 <h4><strong>Mission</strong></h4>
-<p>Hand in Hand, Making a Difference</p>
-<p>As Telok Kurau Primary School Parent Support Group, we believe that no
-matter which nationality or religion, we work together as a big family
-hand in hand to make a difference in the children’s’ lives.</p>
+<p>We strive to build a vibrant school community grounded in passion, dedicated
+to the growth of our children, and anchored in a spirit of service.</p>
 <h4><strong>Activities</strong></h4>
-<p>1. Games Room
-<br>2. READ To Me
-<br>3. P1 Orientation
-<br>4. Teachers’ Day
-<br>5. Childrens’ Day
-<br>6. National Day
-<br>7. Recess Engagement for different events
-<br>8. K2 visits
-<br>9. Maths Booster</p>
-<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Reading Programmes (Kids Read, Read to Rise (CL),&nbsp; Recess Engagement
+Read with me (MTL)</p>
+</li>
+<li>
+<p>P1 Orientation</p>
+</li>
+<li>
+<p>Open House</p>
+</li>
+<li>
+<p>Celebratory &amp; Cultural Events</p>
+</li>
+<li>
+<p>NE Commemorative Events</p>
+</li>
+<li>
+<p>Recess Engagement</p>
+</li>
+<li>
+<p>Signature School Experiences</p>
+</li>
+<li>
+<p>Parent- Child Bonding Activities</p>
+</li>
+</ol>
 <h4><strong>PSG Exco Members</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -65,23 +83,19 @@ hand in hand to make a difference in the children’s’ lives.</p>
 <p>Ms Toh Boon Hwee</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1514.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_1a.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07089.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_3.jpg">
 </div>
 <h4><strong>Membership</strong></h4>
 <p>The membership is renewable yearly.</p>
