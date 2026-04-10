@@ -3,6 +3,7 @@ title: Conversational Chinese and Malay Programme
 permalink: /about-tkps/tkps-featured/conversational-chi-and-malay-prog/
 description: ""
 variant: tiptap
+third_nav_title: TKPS Featured
 ---
 <h4><strong>Conversational Chinese and Malay programme</strong></h4>
 <div class="isomer-image-wrapper">

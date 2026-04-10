@@ -2,10 +2,6 @@ collections:
   not-in-used-archives:
     output: true
     order:
-      - A School's Story Set To Music.md
-      - Conversational Chinese and Malay Programme.md
-      - Hello Singapore  狮城有约 Interview.md
-      - Music Teacher Is In Tune With His Pupils.md
       - TKPS Featured.md
       - myON.md
       - Ft2026.md
