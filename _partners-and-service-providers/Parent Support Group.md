@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Parent Support Group</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG_LOGO.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG_LOGO.jpg">
 </div>
 <h4><strong>Mission</strong></h4>
 <p>We strive to build a vibrant school community grounded in passion, dedicated
