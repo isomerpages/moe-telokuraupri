@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Parent Support Group</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG_LOGO.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG_LOGO.jpg">
 </div>
 <h4><strong>Mission</strong></h4>
 <p>We strive to build a vibrant school community grounded in passion, dedicated
@@ -41,19 +41,19 @@ Read with me (MTL)</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TKPSPSG2026_2027.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSGNew01a.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_1a.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG_1a.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_3.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG_3.jpg">
 </div>
 <h4><strong>Membership</strong></h4>
 <p>The membership is renewable yearly.</p>
