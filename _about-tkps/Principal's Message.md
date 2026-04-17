@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Principal's Message</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:30vh" height="auto" width="100%" src="/images/Mrs_Grace_Leong_2024.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Mrs_Grace_Leong_2024.png">
 </div>
 <h4><strong>Celebrating 100 Years of Excellence: Telok Kurau Primary School</strong></h4>
 <p>From humble beginnings in 1926, Telok Kurau Primary School has grown into
