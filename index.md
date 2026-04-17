@@ -19,13 +19,13 @@ sections:
           url: /useful-links/for-students/student-mims/
       variant: image
   - infopic:
-      title: 50 Days to go
+      title: 40 Days to go
       subtitle: TKPS Centennial Musical
       id: infopic
       description: 28 May 2026
       button: Click Here
-      url: /50-days-to-go/
-      image: /images/TKPS100_banner_artwork.jpg
+      url: /40-days-to-go/
+      image: /images/Cast_Video_GIF.gif
       alt: TKPS100
   - announcements:
       title: Announcements
