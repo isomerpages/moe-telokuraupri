@@ -8,29 +8,48 @@ third_nav_title: TKPS 100 Years Anniversary
 <p><strong><em>18 April 2026</em></strong>
 </p>
 <p></p>
-<p>Our Cast Takes the Stage.</p>
+<p><strong><u>Our Cast Takes the Stage</u></strong>
+</p>
 <p></p>
-<p>As we continue our journey towards Telok Kurau Primary School’s 100th
-anniversary, we are proud to unveil the cast of our centennial musical,
-One Voice, One Heartbeat.</p>
+<p>A time capsule is discovered.
+<br>Was it meant to be opened?
+<br>…maybe not.
+<br>But of course—they opened it anyway.
+<br>And just like that,
+<br>everything begins.</p>
 <p></p>
-<p>These students come together as one ensemble, each playing a part in bringing
-this story to life.</p>
+<p>Meet the cast of One Voice, One Heartbeat—
+<br>the students bringing this journey to life.
+<br>What starts as a simple search
+<br>quickly turns into something much bigger.</p>
 <p></p>
-<p>In One Voice, One Heartbeat, a group of students preparing for the school’s
-centennial uncover a hidden time capsule. Drawn to its message, they journey
-through the school—discovering stories, memories and moments that have
-shaped the TKPS community across generations.</p>
+<p>One clue leads to another.
+<br>One moment leads to the next.
+<br>And before they know it, they’re pulled into stories, memories and experiences
+that feel surprisingly close to home.</p>
 <p></p>
-<p>Along the way, they experience moments of doubt, growth and change. Through
-shared experiences and the support of one another, they begin to realise
-that growth is not about standing alone, but about learning, trying and
-moving forward together.</p>
+<p>It’s exciting.
+<br>It’s confusing.
+<br>It’s not always easy.
+<br>There are questions.
+<br>There are choices.</p>
 <p></p>
-<p>As their journey unfolds, they come to understand that the true spirit
-of TKPS lies not just in its history, but in the people who carry it forward—each
-with a voice, united by one heartbeat.</p>
+<p>And a few moments where they’re probably thinking…
+<br>“Wait, what just happened?”</p>
 <p></p>
-<p>We look forward to welcoming you on 16 May for our matinee and on 28 May
-for our centennial performance, as One Voice, One Heartbeat comes to life—a
-celebration of our shared journey, one voice, one heartbeat. 🎭✨</p>
+<p>But along the way, something shifts.
+<br>They begin to see things differently.
+<br>About themselves.
+<br>About one another.
+<br>About what it means to move forward together.</p>
+<p></p>
+<p>So… what exactly was inside the time capsule?
+<br>And where will it take them next?</p>
+<p></p>
+<p>One journey.
+<br>Many voices.
+<br>One heartbeat.</p>
+<p></p>
+<p>16 May. 28 May.
+<br><em>One Voice, One Heartbeat.</em>
+</p>
