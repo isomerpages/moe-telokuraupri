@@ -11,6 +11,9 @@ third_nav_title: TKPS 100 Years Anniversary
 <p><strong><u>Our Cast Takes the Stage</u></strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cast_Video_GIF.gif">
+</div>
 <p>A time capsule is discovered.
 <br>Was it meant to be opened?
 <br>…maybe not.
