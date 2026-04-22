@@ -486,7 +486,7 @@ variant: tiptap
 <p>SH Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sandy Soh</p>
+<p>Mrs Sandy Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>soh_hui_shian_sandy@moe.edu.sg</p>
