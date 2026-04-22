@@ -1322,7 +1322,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Hui Shian Sandy</p>
+<p>Mrs Sandy Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">soh_hui_shian_sandy@moe.edu.sg</a>
