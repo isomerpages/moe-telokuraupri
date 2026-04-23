@@ -65,6 +65,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Peggy Quek Pei Tee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>quek_pei_tee_peggy_a@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>Senior Special Education Needs Officer</p>
 </td>
