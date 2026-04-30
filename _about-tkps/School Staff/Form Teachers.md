@@ -1271,7 +1271,7 @@ variant: tiptap
 <p>Mdm Kow Wan Sien</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Know_wan_sien@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Kow_wan_sien@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
