@@ -416,6 +416,52 @@ third_nav_title: "2026"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Certificate of Achievement (Bronze)</u></strong>
+<br>NUUR AISYAH NAZURAH BINTE AHMAD 'AFIF, P6 Encourager
+<br>BOEY YAN LE, P6 ENCOURAGER
+<br>MA CHENYU, P6 ENCOURAGER
+<br>WU PEIQI, P6 LEARNER
+<br>YEO EN LE, GWEN, P6 LEARNER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Disaster Risk Reduction Championship 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Certificate of Achievement (Silver Award)</u></strong>
+<br>MUHAMMAD A'SYRAF BIN IBRAHIM, P5 LEARNER
+<br>CLAYTON YEE JUN HAO, P4 ENCOURAGER
+<br>LUO ZIHENG, P4 SYNERGISER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth Ambassador of Blood Donation Championship (ABC) 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Certificate of Achievement (Bronze Award)</u></strong>
+<br>ONG JING HAN KAELYN, P6 SYNERGISER
+<br>KOR ZENG HEE DAPHNE, P5 REFLECTOR
+<br>SAUNG HNIN PHYU, P5 SYNERGISER
+<br>DURRAH HANNAH BINTE MUHAMMAD FARIZ, P4 REFLECTOR
+<br>SAFIA BINTE MUHAMMAD TAUFIQ, P4 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Strategy Games Club</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -503,7 +549,7 @@ third_nav_title: "2026"
 <p>Singapore Youth Festival 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Accomplishment</strong>
+<p><strong><u>Accomplishment</u></strong>
 <br>1. KHOO RUI XIN, 4 ENCOURAGER
 <br>2. SHERRIS YONG RUO EN, 4 REFLECTOR
 <br>3. DUAN MEIX, 5 ENCOURAGER
@@ -526,13 +572,17 @@ third_nav_title: "2026"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2026 SPSSC NSG Wushu National Competitions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>8th place (4-Duan Cudgel - Senior Boys)</u></strong>
+<br>EDEN SOH KHEE HAO, 5 ENCOURAGER
+<br>
+<br><strong><u>Top 40% (3-Duan Changquan - Junior Boys)</u></strong>
+<br>NG YI QUAN, 3 LEARNER</p>
 </td>
 </tr>
 </tbody>
