@@ -107,46 +107,13 @@ third_nav_title: "2026"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zhang Shoushi Calligraphy Competition 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Dance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -190,6 +157,33 @@ third_nav_title: "2026"
 <br>2. ZHANG BOYAN, 4 REFLECTOR
 <br>3. ANIKET PRASANN, 5 ENCOURAGER
 <br>4. LIU SIQI, 5 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Mathematical Olympiad (RMO) 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>High Distinction</u></strong>
+<br>1. CHAVEZ SEE, 6 SYNERGISER
+<br>2. LI MINGXUAN, 6 REFLECTOR
+<br>
+<br><strong><u>Distinction</u></strong>
+<br>1. DONG XIYAO, 6 REFLECTOR
+<br>2. CHEONG JIA YING, 6 REFLECTOR
+<br>3. WU YOUHAN, 6 ENCOURAGER
+<br>4. YU XINRAN, 6 LEARNER
+<br>
+<br><strong><u>Merit</u></strong>
+<br>1.MACAYANA MAVERICK ZEROUN AGAMATA, 6 SYNERGISER
+<br>2. WAN SHI EN, 6 SYNERGISER
+<br>3. THAMIZHENIYAN THAMIZHCHEZHIYAN, 6 REFLECTOR
+<br>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
@@ -390,6 +384,34 @@ third_nav_title: "2026"
 <td rowspan="1" colspan="1">
 <p><strong>Excellent Unit Award YOA 2025 - Gold Award</strong>
 </p>
+<p>1. CLAYTON YEE JUN HAO, P4 ENCOURAGER
+<br>2.CHONG EN XIN KAYLEE, P4 LEARNER
+<br>3.DURRAH HANNAH BINTE MUHAMMAD FARIZ, P4 REFLECTOR
+<br>4.SAFIA BINTE MUHAMMAD TAUFIQ, P4 REFLECTOR
+<br>5.LUO ZIHENG, P4 SYNERGISER
+<br>6.AAIRA SAFIYYAH BINTE MUHAMMAD SHALEHUDDINP, 5 INNOVATOR
+<br>7.NUR AINUN AZZAHRA BINTI MOHAMED NOOR, P5 INNOVATOR
+<br>8.NOOR FAIZAH SYIRIN BINTE ABDULLAH, P5 INQUIRER
+<br>9.NUR KAMALIAH BINTE ABDULLAH, P5 INQUIRER
+<br>10.MUHAMMAD A'SYRAF BIN IBRAHIM, P5 LEARNER
+<br>11.ARUL SELVAMONY JENOLIN, P5 REFLECTOR
+<br>12.KOR ZENG HEE DAPHNE, P5 REFLECTOR
+<br>13.VRISHALIE D/O RAMENDRAN, P5 REFLECTOR
+<br>14.SAUNG HNIN PHYU, P5 SYNERGISER
+<br>15.WONG ANN TENG, P5 SYNERGISER
+<br>16.NUUR AISYAH NAZURAH BINTE AHMAD 'AFIF, P6 ENCOURAGER
+<br>17.BOEY YAN LE, P6 ENCOURAGER</p>
+<p>18.CHENYU, P6 ENCOURAGER
+<br>19.MUHAMMAD BIN SENAN ALI HAMOOD AL-PAZ, P6 EXPLORER
+<br>20.KETBANCHONG THEERAPHIT, P6 INNOVATOR
+<br>21.NUR RIDAYU BINTE MOHAMMAD RIDHWAN, P6 INQUIRER
+<br>22.WU PEIQI, P6 LEARNER
+<br>23.YEO EN LE, GWEN, P6 LEARNER
+<br>24.KEYUS MAGAR, P6 LEARNER
+<br>25.SHARIFAH SHAFIQAH BINTE ABDUL HALIM, P6 NAVIGATOR
+<br>26.ZAARA KIRAN UMER D/O JAGTAR SINGH, P6 NAVIGATOR
+<br>27.CHONG JUN HAO ETHAN, P6 NAVIGATOR
+<br>28.ONG JING HAN KAELYN, P6 SYNERGISER</p>
 </td>
 </tr>
 <tr>
@@ -471,6 +493,35 @@ third_nav_title: "2026"
 <br>25 LEE HAN NA P6-LN
 <br>26 ZHAO JIHAN P6-NV
 <br>27 CAI XINYUN P6-SN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guzheng Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Accomplishment</strong>
+<br>1. KHOO RUI XIN, 4 ENCOURAGER
+<br>2. SHERRIS YONG RUO EN, 4 REFLECTOR
+<br>3. DUAN MEIX, 5 ENCOURAGER
+<br>4. ANNABELLE INZI GANI, 5 INNOVATOR
+<br>5. NG KAI LIN, 5 INQUIRER
+<br>6. KESLYN SEE QIAN WEN, 5 LEARNER
+<br>7. LI JINGRUI, 5 LEARNER
+<br>8. DAN QIANXUN, 5 REFLECTOR
+<br>9.PENG XIYU, 5 REFLECTOR
+<br>10. SUN YUXIAN, 5 REFLECTOR
+<br>11.SUN HEQIAN, 5 REFLECTOR
+<br>12. GOH YU QIN, 6 ENCOURAGER
+<br>13. KOH EN HUI ELVA, 6 ENCOURAGER
+<br>14. PENG ZIQI, 6 ENCOURAGER
+<br>15. YU XINRAN, 6 LEARNER
+<br>16. RENETTA KONG, 6 REFLECTOR
+<br>17. LEE JIE YING, BERNICE, 6 SYNERGISER
+<br>18. WAN SHI EN, 6 SYNERGISER</p>
 </td>
 </tr>
 <tr>
