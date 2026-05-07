@@ -66,6 +66,91 @@ third_nav_title: "2026"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The National Chinese Challenge Competition 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Individual Merit Award</u></strong>
+</p>
+<p>1. ZHONG WEIDE, 6 INNOVATOR
+<br>2. XU YUTANG, 6 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The NTU National Chinese Calligraphy Competition 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Merit Award</u></strong>
+<br>CAI XINYUN, 6 SYNERGISER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NGEE ANN NATIONAL STUDENTS' CALLIGRAPHY COMPETITION 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Merit Award</u></strong>
+<br>CAI XINYUN, 6 SYNERGISER
+<br>
+<br><strong><u>Consolation Award</u></strong>
+<br>XU YUTANG, 6 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Shoushi Calligraphy Competition 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,25 +168,11 @@ third_nav_title: "2026"
 </p>
 <p><strong><u>BRONZE</u></strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>SHOURYA NUTIGATTU, 4 ENCOURAGER</p>
-</li>
-</ol>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>HU TONG, 5 ENCOURAGER</p>
-</li>
-<li>
-<p>AMMAR MURTAZA MANDSAURWALA, 5 ENCOURAGER</p>
-</li>
-<li>
-<p>YUAN JUNYAO, 5 ENCOURAGER</p>
-</li>
-<li>
-<p>KAUNG HTET AUNG, 5 SYNERGISER</p>
-</li>
-</ol>
+<p>1. SHOURYA NUTIGATTU, 4 ENCOURAGER
+<br>2. HU TONG, 5 ENCOURAGER
+<br>3. AMMAR MURTAZA 4 MANDSAURWALA, 5 ENCOURAGER
+<br>4. YUAN JUNYAO, 5 ENCOURAGER
+<br>5. KAUNG HTET AUNG, 5 SYNERGISER</p>
 <p></p>
 <p><strong><u>SILVER</u></strong>
 </p>
