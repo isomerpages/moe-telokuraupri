@@ -37,7 +37,7 @@ third_nav_title: "2026"
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Outstanding Award &amp; Merit Award</u></strong>
-<br>-</p>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Cai Xinyun (6 Synergiser)</p>
@@ -46,6 +46,176 @@ third_nav_title: "2026"
 <p>Xu Yutang (6 Reflector)</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The National Chinese Challenge 2026 ( 华文比拼2026)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>4th position</u></strong>
+</p>
+<p>1. ZHONG WEIDE, 6 INNOVATOR
+<br>2. XU YUTANG, 6 REFLECTOR
+<br>3. DAN QIANXUN, 5 REFLECTOR
+<br>4. EMMA ZHAO RUO TONG, 5 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The National Chinese Challenge Competition 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Individual Merit Award</u></strong>
+</p>
+<p>1. ZHONG WEIDE, 6 INNOVATOR
+<br>2. XU YUTANG, 6 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The NTU National Chinese Calligraphy Competition 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Merit Award</u></strong>
+<br>CAI XINYUN, 6 SYNERGISER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NGEE ANN NATIONAL STUDENTS' CALLIGRAPHY COMPETITION 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Merit Award</u></strong>
+<br>CAI XINYUN, 6 SYNERGISER
+<br>
+<br><strong><u>Consolation Award</u></strong>
+<br>XU YUTANG, 6 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Shoushi Calligraphy Competition 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Bronze Award</u></strong>
+<br>1. XU YUTANG, 6 REFLECTOR
+<br>2. HU TONG, 5 ENCOURAGER
+<br>
+<br><strong><u>Merit Award</u></strong>
+<br>1. CAI XINYUN, 6 SYNERGISER
+<br>2. SUN YONGYI, 5 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>37th National Student Calligraphy Competition (2026第37届全国学生书法比赛)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>2nd Place</u></strong>
+<br>1. CAI XINYUN, 6 SYNERGISER
+<br>
+<br><strong><u>Merit Award</u></strong>
+<br>1. HU TONG, 5 ENCOURAGER
+<br>2. SUN YONGYI, 5 REFLECTOR
+<br>3. XU YUTANG, 6 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore &amp; Asian Schools Math Olympiad (SASMO) 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>HONOURABLE MENTION</u></strong>
+</p>
+<p>1. KENDRA CHIANG CHEN NING, 4 ENCOURAGER
+<br>2. LIM SI RU AGNES, 4 REFLECTOR
+<br>3. KENDRICK CHIANG YONG ZHAO, 4 REFLECTOR
+<br>4. DUAN MEIXI, 5 ENCOURAGER
+<br>5. KYAW PHONE KHANT, 5 ENCOURAGER
+<br>
+</p>
+<p><strong><u>BRONZE</u></strong>
+</p>
+<p>1. SHOURYA NUTIGATTU, 4 ENCOURAGER
+<br>2. HU TONG, 5 ENCOURAGER
+<br>3. AMMAR MURTAZA 4 MANDSAURWALA, 5 ENCOURAGER
+<br>4. YUAN JUNYAO, 5 ENCOURAGER
+<br>5. KAUNG HTET AUNG, 5 SYNERGISER</p>
+<p></p>
+<p><strong><u>SILVER</u></strong>
+</p>
+<p>1. BIAN XITONG, 4 ENCOURAGER
+<br>2. SUN YONGYI, 5 REFLECTOR
+<br>3. WANG YUXI, 5 REFLECTOR
+<br>4. ACHYUTH NAIR, 5 REFLECTOR
+<br>5. SUN HEQIAN, 5 REFLECTOR
+<br>6. LIU HELING, 5 SYNERGISER
+<br>
+</p>
+<p><strong><u>GOLD</u></strong>
+</p>
+<p>1.ANSH ROHATGI, 4 ENCOURAGER
+<br>2. ZHANG BOYAN, 4 REFLECTOR
+<br>3. ANIKET PRASANN, 5 ENCOURAGER
+<br>4. LIU SIQI, 5 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Mathematical Olympiad (RMO) 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>High Distinction</u></strong>
+<br>1. CHAVEZ SEE, 6 SYNERGISER
+<br>2. LI MINGXUAN, 6 REFLECTOR
+<br>
+<br><strong><u>Distinction</u></strong>
+<br>1. DONG XIYAO, 6 REFLECTOR
+<br>2. CHEONG JIA YING, 6 REFLECTOR
+<br>3. WU YOUHAN, 6 ENCOURAGER
+<br>4. YU XINRAN, 6 LEARNER
+<br>
+<br><strong><u>Merit</u></strong>
+<br>1.MACAYANA MAVERICK ZEROUN AGAMATA, 6 SYNERGISER
+<br>2. WAN SHI EN, 6 SYNERGISER
+<br>3. THAMIZHENIYAN THAMIZHCHEZHIYAN, 6 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Science Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Gold</u></strong>
+<br>SUN HEQIAN, 5 REFLECTOR</p>
 </td>
 </tr>
 </tbody>
@@ -81,7 +251,6 @@ third_nav_title: "2026"
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>1st Place</u></strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -91,6 +260,100 @@ third_nav_title: "2026"
 <p>Nursyafiah Binte Mohamad Fairus (6 Explorer)</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Division Fest 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Snack Making 2nd Place</u></strong>
+</p>
+<p>1. CHAN YU QING P5 LEARNER
+<br>2. VENKATACHALAM PRASHITHA P5 SYNERGISER
+<br>3. DAMAYANTHI GANESHKUMAR P6 INNOVATOR
+<br>4. MONALI ROY P6 REFLECTOR
+<br>5. YE XIFEI P6 REFLECTOR</p>
+<p></p>
+<p><strong><u>Semaphore Drill 2nd place</u></strong>
+</p>
+<p>1. AZALEA MARDHIA BINTE AZHAR, P4 ENCOURAGER
+<br>2.CHENG EN TING MEGAN, P5 INNOVATOR
+<br>3. NUR NAYLA KEYSHA BINTE MOHD NIZAM, P5 INNOVATOR
+<br>4. SABRINA CHOO KAI TING, P5 INNOVATOR
+<br>5. AMIRA NADINE DRIDI, P5 REFLECTOR
+<br>6.NUR BAHIYAH BINTE FARUK ABDULLAH, P6 INQUIRER
+<br>7, NUR SOPHY RAILAA BINTE RIDHWAN, P6 INQUIRER
+<br>8. NATRA SUHAYLA BINTE MOHAMMAD SUHAIL, P6 NAVIGATOR</p>
+<p></p>
+<p><strong><u>Choral Reading 3rd Place</u></strong>
+</p>
+<p>1. NUR FATINI BINTE KUSAINI, P5 INNOVATOR
+<br>2 SAFIYYA BANU BINTE MUHAMMAD WASSIM, P5 INQUIRER
+<br>3. SHARIFAH NELYDIA BINTE SYED MOHAMMED YAZID ALSAGOFF, P5 LEARNER
+<br>4.BATRISHA NADYA BINTE MUHAMMAD FIRDAUS, P6 ENCOURAGER
+<br>5.LEONG KAH YU ELYSE, P6 ENCOURAGER
+<br>6.DIAN FATEHA UMAIRAH BINTE SUHAIMAN, P6 EXPLORER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Gold</u></strong>
+</p>
+<p>1 AZALEA MARDHIA BINTE AZHAR, P4 ENCOURAGER
+<br>2 AASHI RAI, P4 INNOVATOR
+<br>3 MUSFIRA BEGUM D/O MOHAMED BASHEER, P4 INNOVATOR
+<br>4 NUR ALISYA BINTE ABDULLAH, P4 INNOVATOR
+<br>5 SHARIFAH SHAFIRAH BINTE ABDUL HALIM, P4 INNOVATOR
+<br>6 SITI NUR MUEZZA BINTE MOHAMMAD RIDZUAN, P4 INNOVATOR
+<br>7 MARYAM LEYAH ROSE PENNEY, P4 LEARNER
+<br>8 NAILA SAFIYYA BINTE MUHAMMAD RAFFI, P4 LEARNER
+<br>9 NUR SHAHIRAH BINTE MOHAMED GHANY, P4 LEARNER
+<br>10 ZHANG AN'AI JAZEBEL, P4 LEARNER
+<br>11 CHENG EN TING MEGAN, P5 INNOVATOR
+<br>12 KOH JIA QI LEWAYNE, P5 INNOVATOR
+<br>13 NUR FATINI BINTE KUSAINI, P5 INNOVATOR
+<br>14 NUR NAYLA KEYSHA BINTE MOHD NIZAM, P5 INNOVATOR
+<br>15 SABRINA CHOO KAI TING, P5 INNOVATOR
+<br>16 ZHENG YANYAN, P5 INNOVATOR
+<br>17 KOK XIN YUN SELINA, P5 INQUIRER
+<br>18 NUR FARHANNAH IZZATI BINTE ABDULLAH, P5 INQUIRER
+<br>19 NUR QURAISYA QAIRAWANI BINTE MUHAMMAD JUNAIDY, P5 INQUIRER
+<br>20 SAFIYYA BANU BINTE MUHAMMAD WASSIM, P5 INQUIRER
+<br>21 CHAN YU QING, P5 LEARNER
+<br>22 LIM WEN HUI ,P5 LEARNER
+<br>23 MYA ARYANA ARYSHA BINTE MUHAMMAD, P5 LEARNER
+<br>24 SHARIFAH NELYDIA BINTE SYED MOHAMMED YAZID ALSAGOFF, P5 LEARNER
+<br>25 AMIRA NADINE DRIDI ,P5 REFLECTOR
+<br>26 AMILIYA FARISYA BINTE AZRI ZULFARHAN, P5 SYNERGISER
+<br>27 VENKATACHALAM PRASHITHA, P5 SYNERGISER
+<br>28 BATRISHA NADYA BINTE MUHAMMAD FIRDAUS, P6 ENCOURAGER
+<br>29 LEONG KAH YU ELYSE, P6 ENCOURAGER
+<br>30 DIAN FATEHA UMAIRAH BINTE SUHAIMAN, P6 EXPLORER
+<br>31 NURSYAFIAH BINTE MOHAMAD FAIRUS, P6 EXPLORER
+<br>32 DAMAYANTHI GANESHKUMAR, P6 INNOVATOR
+<br>33 SARAH SOFIA BINTE SUHAIMI, P6 INNOVATOR
+<br>34 SHAZA SYAHIRA MUHAMMAD NAJIB, P6 INNOVATOR
+<br>35 SITI HAAJAR ILMIAH BINTE MAHMOOD, P6 INNOVATOR
+<br>36 AMILIYA FARIHA BINTE AZRI ZULFARHAN, P6 INQUIRER
+<br>37 KHOR KAI YING, P6 INQUIRER
+<br>38 NUR BAHIYAH BINTE FARUK ABDULLAH, P6 INQUIRER
+<br>39 NUR SOPHY RAILAA BINTE RIDHWAN, P6 INQUIRER
+<br>40 NUR ZULAIKHA NABILAH BINTE MOHAMMED KHALID ,P6 INQUIRER
+<br>41 IRDINA SOLEHAH BINTE SUFIAN, P6 NAVIGATOR
+<br>42 NATRA SUHAYLA BINTE MOHAMMAD SUHAIL, P6 NAVIGATOR
+<br>43 MONALI ROY P6 REFLECTOR
+<br>44 YE XIFEI, P6 REFLECTOR
+<br>45 LIM SIEW LING, P6 TRAILBLAZER</p>
 </td>
 </tr>
 <tr>
@@ -141,6 +404,230 @@ third_nav_title: "2026"
 <p>Macayana Maverick Zeroun Agamata (P6 Synergiser)</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth (Links) Excellent Unit Award YOA 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent Unit Award YOA 2025 - Gold Award</strong>
+</p>
+<p>1. CLAYTON YEE JUN HAO, P4 ENCOURAGER
+<br>2.CHONG EN XIN KAYLEE, P4 LEARNER
+<br>3.DURRAH HANNAH BINTE MUHAMMAD FARIZ, P4 REFLECTOR
+<br>4.SAFIA BINTE MUHAMMAD TAUFIQ, P4 REFLECTOR
+<br>5.LUO ZIHENG, P4 SYNERGISER
+<br>6.AAIRA SAFIYYAH BINTE MUHAMMAD SHALEHUDDINP, 5 INNOVATOR
+<br>7.NUR AINUN AZZAHRA BINTI MOHAMED NOOR, P5 INNOVATOR
+<br>8.NOOR FAIZAH SYIRIN BINTE ABDULLAH, P5 INQUIRER
+<br>9.NUR KAMALIAH BINTE ABDULLAH, P5 INQUIRER
+<br>10.MUHAMMAD A'SYRAF BIN IBRAHIM, P5 LEARNER
+<br>11.ARUL SELVAMONY JENOLIN, P5 REFLECTOR
+<br>12.KOR ZENG HEE DAPHNE, P5 REFLECTOR
+<br>13.VRISHALIE D/O RAMENDRAN, P5 REFLECTOR
+<br>14.SAUNG HNIN PHYU, P5 SYNERGISER
+<br>15.WONG ANN TENG, P5 SYNERGISER
+<br>16.NUUR AISYAH NAZURAH BINTE AHMAD 'AFIF, P6 ENCOURAGER
+<br>17.BOEY YAN LE, P6 ENCOURAGER</p>
+<p>18.CHENYU, P6 ENCOURAGER
+<br>19.MUHAMMAD BIN SENAN ALI HAMOOD AL-PAZ, P6 EXPLORER
+<br>20.KETBANCHONG THEERAPHIT, P6 INNOVATOR
+<br>21.NUR RIDAYU BINTE MOHAMMAD RIDHWAN, P6 INQUIRER
+<br>22.WU PEIQI, P6 LEARNER
+<br>23.YEO EN LE, GWEN, P6 LEARNER
+<br>24.KEYUS MAGAR, P6 LEARNER
+<br>25.SHARIFAH SHAFIQAH BINTE ABDUL HALIM, P6 NAVIGATOR
+<br>26.ZAARA KIRAN UMER D/O JAGTAR SINGH, P6 NAVIGATOR
+<br>27.CHONG JUN HAO ETHAN, P6 NAVIGATOR
+<br>28.ONG JING HAN KAELYN, P6 SYNERGISER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Certificate of Achievement (Bronze)</u></strong>
+<br>NUUR AISYAH NAZURAH BINTE AHMAD 'AFIF, P6 Encourager
+<br>BOEY YAN LE, P6 ENCOURAGER
+<br>MA CHENYU, P6 ENCOURAGER
+<br>WU PEIQI, P6 LEARNER
+<br>YEO EN LE, GWEN, P6 LEARNER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Disaster Risk Reduction Championship 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Certificate of Achievement (Silver Award)</u></strong>
+<br>MUHAMMAD A'SYRAF BIN IBRAHIM, P5 LEARNER
+<br>CLAYTON YEE JUN HAO, P4 ENCOURAGER
+<br>LUO ZIHENG, P4 SYNERGISER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth Ambassador of Blood Donation Championship (ABC) 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Certificate of Achievement (Bronze Award)</u></strong>
+<br>ONG JING HAN KAELYN, P6 SYNERGISER
+<br>KOR ZENG HEE DAPHNE, P5 REFLECTOR
+<br>SAUNG HNIN PHYU, P5 SYNERGISER
+<br>DURRAH HANNAH BINTE MUHAMMAD FARIZ, P4 REFLECTOR
+<br>SAFIA BINTE MUHAMMAD TAUFIQ, P4 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Strategy Games Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>77th National Schools Individual Chess Championships 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>U12 Girls Category: Overall 9th Position and East Zone 3rd Position</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monali Roy (6 Reflector)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Indian Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Distinction</u></strong>
+</p>
+<p>HUMAIRAH FATHIMA BINTE MOHAMED ALI JINNAH, 3 LEARNER
+<br>ALAGAPPAN YUHATHI SRI, 4 LEARNER
+<br>SYAH ILHAN BIN ALI, 4 INNOVATOR
+<br>S EZAFIA NIKAAYLA, 5 ENCOURAGER
+<br>NORALVEENA ERYNNA BINTE MOHAMED ABDUL KADER, 5 LEARNER
+<br>CHAI XUE QI, PAIGE, 5 LEARNER
+<br>TAMILSELVAM SAITHEERTHA, 5 LEARNER
+<br>VRISHALIE D/O RAMENDRAN, 5 REFLECTOR
+<br>ARUL SELVAMONY JENOLIN, 5 REFLECTOR
+<br>VENKATACHALAM PRASHITHA, 5 SYNERGISER
+<br>PATANKAR NIYATI, 6 REFLECTOR
+<br>SENTHI KAAVIYA THROWPATHI, 6 EXPLORER
+<br>ALAGAPPAN MAHATHI SRI, NAVIGATOR
+<br>TISSERA JAID ELLISHA AMINDHRI, NAVIGATOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Accomplishment</u></strong>
+<br>1 GOH YU TONG P4-EC
+<br>2 MUN RUO XI ANGEL P4-EC
+<br>3 SCARLETT TOH YING HUI P4-EC
+<br>4 CHLOE SAI YI EN P4-LN
+<br>5 CHEE ZI QI CHLOE P4-RF
+<br>6 GOH QING YING LEIA P4-RF
+<br>7 HILARY HENG P4-RF
+<br>8 LIM SI RU AGNES P4-RF
+<br>9 MAVIS ENG YUN HAN P4-RF
+<br>10 ADELE CHUA EN XUAN P4-SN
+<br>11 CHAN WING HUEN, HAZEL P4-SN
+<br>12 HU TONG P5-EC
+<br>13 ZOEY KWEK PEK HUAN P5-EC
+<br>14 TAN JIA XIN P5-IQ
+<br>15 GRACE SNG YEE EN P5-LN
+<br>16 CHAYADA TAN JIA REN P5-LN
+<br>17 SU SHANG YA P5-RF
+<br>18 SUN YONGYI P5-RF
+<br>19 TEOH ZI EN P5-RF
+<br>20 AU YEUNG HUEN HUEN, ALYSSA P6-EC
+<br>21 WU YOUHAN P6-EC
+<br>22 FAN YUXUAN P6-EP
+<br>23 WU PEIYAO P6-EP
+<br>24 LIN ENNING P6-IN
+<br>25 LEE HAN NA P6-LN
+<br>26 ZHAO JIHAN P6-NV
+<br>27 CAI XINYUN P6-SN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guzheng Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Accomplishment</u></strong>
+<br>1. KHOO RUI XIN, 4 ENCOURAGER
+<br>2. SHERRIS YONG RUO EN, 4 REFLECTOR
+<br>3. DUAN MEIX, 5 ENCOURAGER
+<br>4. ANNABELLE INZI GANI, 5 INNOVATOR
+<br>5. NG KAI LIN, 5 INQUIRER
+<br>6. KESLYN SEE QIAN WEN, 5 LEARNER
+<br>7. LI JINGRUI, 5 LEARNER
+<br>8. DAN QIANXUN, 5 REFLECTOR
+<br>9.PENG XIYU, 5 REFLECTOR
+<br>10. SUN YUXIAN, 5 REFLECTOR
+<br>11.SUN HEQIAN, 5 REFLECTOR
+<br>12. GOH YU QIN, 6 ENCOURAGER
+<br>13. KOH EN HUI ELVA, 6 ENCOURAGER
+<br>14. PENG ZIQI, 6 ENCOURAGER
+<br>15. YU XINRAN, 6 LEARNER
+<br>16. RENETTA KONG, 6 REFLECTOR
+<br>17. LEE JIE YING, BERNICE, 6 SYNERGISER
+<br>18. WAN SHI EN, 6 SYNERGISER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026 SPSSC NSG Wushu National Competitions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>8th place (4-Duan Cudgel - Senior Boys)</u></strong>
+<br>EDEN SOH KHEE HAO, 5 ENCOURAGER
+<br>
+<br><strong><u>Top 40% (3-Duan Changquan - Junior Boys)</u></strong>
+<br>NG YI QUAN, 3 LEARNER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Taekwondo 2026 Senior Division Boys Poomsae Individual
+Poom 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>7th Place</u></strong>
+<br>CHAN CHIU HANG, P6 ENCOURAGER</p>
 </td>
 </tr>
 </tbody>
