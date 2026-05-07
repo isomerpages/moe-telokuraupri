@@ -113,7 +113,30 @@ third_nav_title: "2026"
 <p>Zhang Shoushi Calligraphy Competition 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance</p>
+<p><strong><u>Bronze Award</u></strong>
+<br>1. XU YUTANG, 6 REFLECTOR
+<br>2. HU TONG, 5 ENCOURAGER
+<br>
+<br><strong><u>Merit Award</u></strong>
+<br>1. CAI XINYUN, 6 SYNERGISER
+<br>2. SUN YONGYI, 5 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>37th National Student Calligraphy Competition (2026第37届全国学生书法比赛)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>2nd Place</u></strong>
+<br>1. CAI XINYUN, 6 SYNERGISER
+<br>
+<br><strong><u>Merit Award</u></strong>
+<br>1. HU TONG, 5 ENCOURAGER
+<br>2. SUN YONGYI, 5 REFLECTOR
+<br>3. XU YUTANG, 6 REFLECTOR</p>
 </td>
 </tr>
 <tr>
@@ -180,10 +203,19 @@ third_nav_title: "2026"
 <br><strong><u>Merit</u></strong>
 <br>1.MACAYANA MAVERICK ZEROUN AGAMATA, 6 SYNERGISER
 <br>2. WAN SHI EN, 6 SYNERGISER
-<br>3. THAMIZHENIYAN THAMIZHCHEZHIYAN, 6 REFLECTOR
-<br>
-<br>
-</p>
+<br>3. THAMIZHENIYAN THAMIZHCHEZHIYAN, 6 REFLECTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Science Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Gold</u></strong>
+<br>SUN HEQIAN, 5 REFLECTOR</p>
 </td>
 </tr>
 </tbody>
@@ -583,6 +615,19 @@ third_nav_title: "2026"
 <br>
 <br><strong><u>Top 40% (3-Duan Changquan - Junior Boys)</u></strong>
 <br>NG YI QUAN, 3 LEARNER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Taekwondo 2026 Senior Division Boys Poomsae Individual
+Poom 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>7th Place</u></strong>
+<br>CHAN CHIU HANG, P6 ENCOURAGER</p>
 </td>
 </tr>
 </tbody>
