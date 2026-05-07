@@ -113,7 +113,7 @@ third_nav_title: "2026"
 <p>Zhang Shoushi Calligraphy Competition 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chinese Dance</p>
 </td>
 </tr>
 <tr>
@@ -433,6 +433,44 @@ third_nav_title: "2026"
 <br>SENTHI KAAVIYA THROWPATHI, 6 EXPLORER
 <br>ALAGAPPAN MAHATHI SRI, NAVIGATOR
 <br>TISSERA JAID ELLISHA AMINDHRI, NAVIGATOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Accomplishment</u></strong>
+<br>1 GOH YU TONG P4-EC
+<br>2 MUN RUO XI ANGEL P4-EC
+<br>3 SCARLETT TOH YING HUI P4-EC
+<br>4 CHLOE SAI YI EN P4-LN
+<br>5 CHEE ZI QI CHLOE P4-RF
+<br>6 GOH QING YING LEIA P4-RF
+<br>7 HILARY HENG P4-RF
+<br>8 LIM SI RU AGNES P4-RF
+<br>9 MAVIS ENG YUN HAN P4-RF
+<br>10 ADELE CHUA EN XUAN P4-SN
+<br>11 CHAN WING HUEN, HAZEL P4-SN
+<br>12 HU TONG P5-EC
+<br>13 ZOEY KWEK PEK HUAN P5-EC
+<br>14 TAN JIA XIN P5-IQ
+<br>15 GRACE SNG YEE EN P5-LN
+<br>16 CHAYADA TAN JIA REN P5-LN
+<br>17 SU SHANG YA P5-RF
+<br>18 SUN YONGYI P5-RF
+<br>19 TEOH ZI EN P5-RF
+<br>20 AU YEUNG HUEN HUEN, ALYSSA P6-EC
+<br>21 WU YOUHAN P6-EC
+<br>22 FAN YUXUAN P6-EP
+<br>23 WU PEIYAO P6-EP
+<br>24 LIN ENNING P6-IN
+<br>25 LEE HAN NA P6-LN
+<br>26 ZHAO JIHAN P6-NV
+<br>27 CAI XINYUN P6-SN</p>
 </td>
 </tr>
 <tr>
