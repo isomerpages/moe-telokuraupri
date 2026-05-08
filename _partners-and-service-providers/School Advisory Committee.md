@@ -10,7 +10,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Slide1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Slide2a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Slide2anew.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Slide3a.jpg">
