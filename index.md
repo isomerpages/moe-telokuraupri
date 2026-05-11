@@ -32,6 +32,14 @@ sections:
       id: announcements
       subtitle: Telok Kurau Primary School
       announcement_items:
+        - title: TKPS100 Memories
+          date: 11 May 2026
+          announcement: We warmly invite our alumni, staff, former students and parents to
+            share a meaningful photo that captures your memories of Telok Kurau
+            Primary School. Help us celebrate 100 years of stories through your
+            experiences.
+          link_text: CLICK HERE
+          link_url: https://padlet.com/onetkps/tkps-100-memories-gt3yzyfp0lg01pzq
         - title: Get Online, Stay Connected with DigitalAccess@Home!
           date: 26 February 2026
           announcement: IMDA provides subsidised broadband and laptops/tablets to
