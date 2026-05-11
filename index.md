@@ -18,15 +18,6 @@ sections:
           description: ""
           url: /useful-links/for-students/student-mims/
       variant: image
-  - infopic:
-      title: 20 Days to go
-      subtitle: TKPS Centennial Musical
-      id: infopic
-      description: 28 May 2026
-      button: Click Here
-      url: /20-days-to-go/
-      image: /images/20days_aspirations.jpg
-      alt: TKPS100
   - announcements:
       title: Announcements
       id: announcements
@@ -47,6 +38,15 @@ sections:
             work and social activities.
           link_text: FIND OUT MORE
           link_url: /useful-links/for-parents/imda-digihome/
+  - infopic:
+      title: 20 Days to go
+      subtitle: TKPS Centennial Musical
+      id: infopic
+      description: 28 May 2026
+      button: Click Here
+      url: /20-days-to-go/
+      image: /images/20days_aspirations.jpg
+      alt: TKPS100
   - infopic:
       title: For Students
       id: infopic
