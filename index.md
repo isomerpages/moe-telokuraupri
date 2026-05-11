@@ -18,6 +18,26 @@ sections:
           description: ""
           url: /useful-links/for-students/student-mims/
       variant: image
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Telok Kurau Primary School
+      announcement_items:
+        - title: TKPS100 Memories
+          date: 11 May 2026
+          announcement: We warmly invite our alumni, staff, former students and parents to
+            share a meaningful photo that captures your memories of Telok Kurau
+            Primary School. Help us celebrate 100 years of stories through your
+            experiences.
+          link_text: CLICK HERE
+          link_url: https://padlet.com/onetkps/tkps-100-memories-gt3yzyfp0lg01pzq
+        - title: Get Online, Stay Connected with DigitalAccess@Home!
+          date: 26 February 2026
+          announcement: IMDA provides subsidised broadband and laptops/tablets to
+            lower-income households to support their lifestyle needs, including
+            work and social activities.
+          link_text: FIND OUT MORE
+          link_url: /useful-links/for-parents/imda-digihome/
   - infopic:
       title: 20 Days to go
       subtitle: TKPS Centennial Musical
@@ -27,18 +47,6 @@ sections:
       url: /20-days-to-go/
       image: /images/20days_aspirations.jpg
       alt: TKPS100
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Telok Kurau Primary School
-      announcement_items:
-        - title: Get Online, Stay Connected with DigitalAccess@Home!
-          date: 26 February 2026
-          announcement: IMDA provides subsidised broadband and laptops/tablets to
-            lower-income households to support their lifestyle needs, including
-            work and social activities.
-          link_text: FIND OUT MORE
-          link_url: /useful-links/for-parents/imda-digihome/
   - infopic:
       title: For Students
       id: infopic
