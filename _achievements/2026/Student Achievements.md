@@ -283,8 +283,6 @@ third_nav_title: "2026"
 <p>Raffles Mathematical Olympiad RMO 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong><u>High Distinction</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -292,16 +290,12 @@ third_nav_title: "2026"
 <p>Chavez See (6 Synergiser)</p>
 </li>
 <li>
-<p>Li Mingxuan (6 Reflector)
-<br>
-</p>
+<p>Li Mingxuan (6 Reflector)</p>
 </li>
 </ul>
-</li>
-<li>
 <p><strong><u>Distinction</u></strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Dong Xiyao (6 Reflector)</p>
 </li>
@@ -312,15 +306,12 @@ third_nav_title: "2026"
 <p>Wu Youhan (6 Encourager)</p>
 </li>
 <li>
-<p>Yu Xinran (6 Learner)
-<br>
-<br>
-</p>
+<p>Yu Xinran (6 Learner)</p>
 </li>
-<li>
+</ul>
 <p><strong><u>Merit</u></strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Macayana Maverick Zeroun Agamata (6 Synergiser)</p>
 </li>
@@ -329,6 +320,33 @@ third_nav_title: "2026"
 </li>
 <li>
 <p>Thamizheniyan Thamizhchezhiyan (6 Reflector)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asia Pacific Mathematical Olympiad for Primary School (APMOPS) 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Platinum</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Li Mingxuan (P6 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Bronze</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Adrian Lim Zhuo Hong (P6 Reflector)</p>
+</li>
+<li>
+<p>Dong Xiyao (P6 Reflector)</p>
 </li>
 </ul>
 </td>
@@ -420,7 +438,6 @@ third_nav_title: "2026"
 </li>
 <li>
 <p>Ye Xifei (6 Reflector)</p>
-<p></p>
 </li>
 </ul>
 <p><strong><u>Semaphore Drill 2nd Place</u></strong>
@@ -880,11 +897,9 @@ third_nav_title: "2026"
 <p>Singapore Youth Festival 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><u>Distinction</u></strong>
+<p><strong><u>Certificate Of Distinction</u></strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Humairah Fathima Binte Mohamed Ali Jinnah 3 Learner</p>
 </li>
@@ -936,11 +951,9 @@ third_nav_title: "2026"
 <p>Singapore Youth Festival 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><u>Accomplishment</u></strong>
+<p><strong><u>Certificate Of Accomplishment</u></strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Goh Yu Tong (4 Encourager)</p>
 </li>
@@ -1033,7 +1046,7 @@ third_nav_title: "2026"
 <p>Singapore Youth Festival 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Accomplishment</u></strong>
+<p><strong><u>Certificate Of Accomplishment</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1089,6 +1102,205 @@ third_nav_title: "2026"
 </li>
 <li>
 <p>Wan Shi En (6 Synergiser)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Certificate Of Accomplishment</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nur Khaliesah Shirin Mohamad Khalifee (4 Encourager)</p>
+</li>
+<li>
+<p>Aufa Raissa Binte Muhammad Rozaidi (4 Innovator)</p>
+</li>
+<li>
+<p>Nadya Aqilah Binte Saparin (4 Innovator)</p>
+</li>
+<li>
+<p>Nur Althea Raihana Binti Mohamed Zulkifli (4 Innovator)</p>
+</li>
+<li>
+<p>Nur Syafirah Binte Muhammad Faddley (4 Learner)</p>
+</li>
+<li>
+<p>Sumayyah Binte Muhammad Alnur (4 Learner)</p>
+</li>
+<li>
+<p>Nur Alya Alisha Binte Muhammad Fadli (5 Innovator)</p>
+</li>
+<li>
+<p>Siti Nur Alysha Binte Ahmad Azrin (5 Learner)</p>
+</li>
+<li>
+<p>Hanania Insyirah Binte Herman (5 Synergiser)</p>
+</li>
+<li>
+<p>Nayli Aliya Binte Abdul Jalil (5 Synergiser)</p>
+</li>
+<li>
+<p>Qurratu Ain Al-Adawiyah Binte Muhammad Hafiz (5 Synergiser)</p>
+</li>
+<li>
+<p>Siti Maisarah Binte Mohammad Nizar (5 Synergiser)</p>
+</li>
+<li>
+<p>Siti Faatimah Binte Bambang Hermanto (6 Explorer)</p>
+</li>
+<li>
+<p>Keira Annesa Waluya (6 Innovator)</p>
+</li>
+<li>
+<p>Aisya Humaira Binte Mohamad Zaki (6 Inquirer)</p>
+</li>
+<li>
+<p>Dhiya Qyreen Binte Mohamad Azhari (6 Learner)</p>
+</li>
+<li>
+<p>Nur A'syurah Binte Ibrahim (6 Learner)</p>
+</li>
+<li>
+<p>Nur Aafiyah Binte Abdul Halim (6 Learner)</p>
+</li>
+<li>
+<p>Nur Alysha Binte Ghazali (6 Learner)</p>
+</li>
+<li>
+<p>Nur Arisya Dania Binte Muhammad Luqman (6 Learner)</p>
+</li>
+<li>
+<p>Zerina Binte Norhesham (6 Learner)</p>
+</li>
+<li>
+<p>De'melda Sheryna Binte Syamil Mateen (6 Navigator)</p>
+</li>
+<li>
+<p>Nur Shakeela Binte Ali (6 Navigator)</p>
+</li>
+<li>
+<p>A'isyah Nasyi'tah Binte Aden Firdaus (6 Synergiser)</p>
+</li>
+<li>
+<p>Nur Aqilah Binte Nordin (6 Synergiser)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Certificate Of Accomplishment</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kendra Chiang Chen Ning (4 Encourager)</p>
+</li>
+<li>
+<p>Nigam Rupika (4 Encourager)</p>
+</li>
+<li>
+<p>Ong Kar Poh (4 Encourager)</p>
+</li>
+<li>
+<p>Koh Zhi Xuan Callie P4 Innovator</p>
+</li>
+<li>
+<p>Celine Tan Ke En (4 Reflector)</p>
+</li>
+<li>
+<p>Andalam Sahasra (4 Synergiser)</p>
+</li>
+<li>
+<p>Bahiyyah Uzma Binte Ashraf Ali (4 Synergiser)</p>
+</li>
+<li>
+<p>Cheng Xin Yi Alize (4 Synergiser)</p>
+</li>
+<li>
+<p>Megan Liu Huiling (4 Synergiser)</p>
+</li>
+<li>
+<p>Meryl Lim (4 Synergiser)</p>
+</li>
+<li>
+<p>Felicia Vera Lin Wenmin (5 Encourager)</p>
+</li>
+<li>
+<p>He Linxi (5 Encourager)</p>
+</li>
+<li>
+<p>Meher Sona Mahesh Desai (5 Encourager)</p>
+</li>
+<li>
+<p>Nur Wafiyyah Binte Luqman Al-Haqim (5 Encourager)</p>
+</li>
+<li>
+<p>Su Htet Wai (5 Encourager)</p>
+</li>
+<li>
+<p>Zhou Hanchen (5 Encourager)</p>
+</li>
+<li>
+<p>Dian Qaleesyah Muhammad Irfan (5 Inquirer)</p>
+</li>
+<li>
+<p>Ede Eliana (5 Synergiser)</p>
+</li>
+<li>
+<p>Hana Romiza Binte Muhamad Reduan (6 Encourager)</p>
+</li>
+<li>
+<p>Ge Fanyi (6 Encourager)</p>
+</li>
+<li>
+<p>Azrah Mysha Binte Azmi (6 Explorer)</p>
+</li>
+<li>
+<p>Maritza Binte Mohamed Ridwan (6 Explorer)</p>
+</li>
+<li>
+<p>Farah Fatimah D/O Mohamed Baisal (6 Innovator)</p>
+</li>
+<li>
+<p>Mika Liu Feng'an (6 Innovator)</p>
+</li>
+<li>
+<p>Nur Naura Eryna Binte Mohammad Afandi (6 Inquirer)</p>
+</li>
+<li>
+<p>Athirah Nafi'ah Binte Mohamad Alfie (6 Learner)</p>
+</li>
+<li>
+<p>Lim En Xuan Valerie (6 Reflector)</p>
+</li>
+<li>
+<p>Summer Lee Sze Mun (6 Reflector)</p>
+</li>
+<li>
+<p>Divena Sudheer (6 Synergiser)</p>
+</li>
+<li>
+<p>Sivakumaran Shivanan (6 Synergiser)</p>
+</li>
+<li>
+<p>Lee Mary-Anne (6 Trailblazer)</p>
+</li>
+<li>
+<p>Gregory Ting Xuan Yang (6 Trailblazer)</p>
 </li>
 </ul>
 </td>
