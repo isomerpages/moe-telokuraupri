@@ -58,10 +58,20 @@ third_nav_title: "2026"
 <td rowspan="1" colspan="1">
 <p><strong><u>4th position</u></strong>
 </p>
-<p>1. ZHONG WEIDE, 6 INNOVATOR
-<br>2. XU YUTANG, 6 REFLECTOR
-<br>3. DAN QIANXUN, 5 REFLECTOR
-<br>4. EMMA ZHAO RUO TONG, 5 REFLECTOR</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zhong Weide (6 Innovator)</p>
+</li>
+<li>
+<p>Xu Yutang (6 Reflector)</p>
+</li>
+<li>
+<p>Dan Qianxun (5 Reflector)</p>
+</li>
+<li>
+<p>Emma Zhao Ruo Tong (5 Reflector)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -74,8 +84,14 @@ third_nav_title: "2026"
 <td rowspan="1" colspan="1">
 <p><strong><u>Individual Merit Award</u></strong>
 </p>
-<p>1. ZHONG WEIDE, 6 INNOVATOR
-<br>2. XU YUTANG, 6 REFLECTOR</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zhong Weide (6 Innovator)</p>
+</li>
+<li>
+<p>Xu Yutang (6 Reflector)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -87,7 +103,8 @@ third_nav_title: "2026"
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Merit Award</u></strong>
-<br>CAI XINYUN, 6 SYNERGISER</p>
+</p>
+<p>Cai Xinyun (6 Synergiser)</p>
 </td>
 </tr>
 <tr>
@@ -95,14 +112,16 @@ third_nav_title: "2026"
 <p>Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NGEE ANN NATIONAL STUDENTS' CALLIGRAPHY COMPETITION 2026</p>
+<p>Ngee Ann National Students' Calligraphy Competition 2026</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Merit Award</u></strong>
-<br>CAI XINYUN, 6 SYNERGISER
-<br>
-<br><strong><u>Consolation Award</u></strong>
-<br>XU YUTANG, 6 REFLECTOR</p>
+</p>
+<p>Cai Xinyun (6 Synergiser)</p>
+<p></p>
+<p><strong><u>Consolation Award</u></strong>
+<br>Xu Yutang (6 Reflector)</p>
 </td>
 </tr>
 <tr>
@@ -114,10 +133,18 @@ third_nav_title: "2026"
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Bronze Award</u></strong>
-<br>1. XU YUTANG, 6 REFLECTOR
-<br>2. HU TONG, 5 ENCOURAGER
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Yutang (6 Reflector)</p>
+</li>
+<li>
+<p>Hu Tong (5 Encourager)
 <br>
-<br><strong><u>Merit Award</u></strong>
+</p>
+</li>
+</ul>
+<p><strong><u>Merit Award</u></strong>
 <br>1. CAI XINYUN, 6 SYNERGISER
 <br>2. SUN YONGYI, 5 REFLECTOR</p>
 </td>
