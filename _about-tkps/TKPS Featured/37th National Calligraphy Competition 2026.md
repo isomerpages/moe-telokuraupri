@@ -11,4 +11,5 @@ third_nav_title: TKPS Featured
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zaobao_5_May_2026_37th_National_Calligraphy_Competition.jpg">
 </div>
-<p>extracted from Lianhe Zaobao</p>
+<p><em>~ extracted from Lianhe Zaobao</em>
+</p>
