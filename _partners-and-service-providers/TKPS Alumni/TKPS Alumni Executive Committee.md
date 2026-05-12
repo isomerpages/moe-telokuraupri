@@ -5,10 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: TKPS Alumni
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AlumniNew01a.jpg">
 </div>
+<p>We are committed to keeping the Telok Kurau spirit alive — mentoring and
+inspiring current students, nurturing bonds across generations and giving
+back to the school that shaped us.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Alumni2026_01.jpg">
 </div>
