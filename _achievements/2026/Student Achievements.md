@@ -343,7 +343,11 @@ third_nav_title: "2026"
 <td rowspan="1" colspan="1">
 <p><strong><u>Gold</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Sun Heqian (5 Reflector)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -381,8 +385,14 @@ third_nav_title: "2026"
 <td rowspan="1" colspan="1">
 <p><strong><u>1st Place</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Batrisha Nadya Binte Muhammad Firdaus (6 Encourager)</p>
+</li>
+<li>
 <p>Nursyafiah Binte Mohamad Fairus (6 Explorer)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -395,29 +405,75 @@ third_nav_title: "2026"
 <td rowspan="1" colspan="1">
 <p><strong><u>Snack Making 2nd Place</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Chan Yu Qing (5 Learner)</p>
+</li>
+<li>
 <p>Venkatachalam Prashitha (5 Synergiser)</p>
+</li>
+<li>
 <p>Damayanthi Ganeshkumar (6 Innovator)</p>
+</li>
+<li>
 <p>Monali Roy (6 Reflector)</p>
+</li>
+<li>
 <p>Ye Xifei (6 Reflector)</p>
+<p></p>
+</li>
+</ul>
 <p><strong><u>Semaphore Drill 2nd Place</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Azalea Mardhia Binte Azhar (4 Encourager)</p>
+</li>
+<li>
 <p>Cheng En Ting Megan (5 Innovator)</p>
+</li>
+<li>
 <p>Nur Nayla Keysha Binte Mohd Nizam (5 Innovator)</p>
+</li>
+<li>
 <p>Sabrina Choo Kai Ting (5 Innovator)</p>
+</li>
+<li>
 <p>Amira Nadine Dridi (5 Reflector)</p>
+</li>
+<li>
 <p>Nur Bahiyah Binte Faruk Abdullah (6 Inquirer)</p>
+</li>
+<li>
 <p>Nur Sophy Railaa Binte Ridhwan (6 Inquirer)</p>
+</li>
+<li>
 <p>Natra Suhayla Binte Mohammad Suhail (6 Navigator)</p>
+<p></p>
+</li>
+</ul>
 <p><strong><u>Choral Reading 3rd Place</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Nur Fatini Binte Kusaini (5 Innovator)</p>
+</li>
+<li>
 <p>Safiyya Banu Binte Muhammad Wassim (5 Inquirer)</p>
+</li>
+<li>
 <p>Sharifah Nelydia Binte Syed Mohammed Yazid Alsagoff (5 Learner)</p>
+</li>
+<li>
 <p>Batrisha Nadya Binte Muhammad Firdaus (6 Encourager)</p>
+</li>
+<li>
 <p>Leong Kah Yu Elyse (6 Encourager)</p>
+</li>
+<li>
 <p>Dian Fateha Umairah Binte Suhaiman (6 Explorer)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -714,4 +770,9 @@ third_nav_title: "2026"
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
 <p>&nbsp;</p>
+</li>
+</ul>
+<p></p>
