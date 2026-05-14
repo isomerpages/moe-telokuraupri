@@ -1324,9 +1324,5 @@ third_nav_title: "2026"
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp;</p>
-</li>
-</ul>
+<p></p>
 <p></p>

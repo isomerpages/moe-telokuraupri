@@ -11,6 +11,12 @@ variant: tiptap
 <h4><strong>Mission</strong></h4>
 <p>We strive to build a vibrant school community grounded in passion, dedicated
 to the growth of our children, and anchored in a spirit of service.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSGNew_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSGNew_2.jpg">
+</div>
 <h4><strong>Activities</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -39,10 +45,6 @@ Read with me (MTL)</p>
 <p>Parent- Child Bonding Activities</p>
 </li>
 </ol>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSGNew01a.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG_1a.jpg">
