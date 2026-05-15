@@ -11,10 +11,10 @@ variant: tiptap
 <p>We strive to build a vibrant school community grounded in passion, dedicated
 to the growth of our children, and anchored in a spirit of service.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSGNew_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PGSGnew0_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSGNew_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PGSGnew0_2.jpg">
 </div>
 <h4><strong>Activities</strong></h4>
 <ol data-tight="true" class="tight">
