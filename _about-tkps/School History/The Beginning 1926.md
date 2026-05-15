@@ -91,7 +91,5 @@ fond memories of students’ shared experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/eps-mural.jpg">
 </div>
-<p>
-<br>Check out Eunos Primary School Commemorative Publication for 2022: <a href="https://issuu.com/eunosps/docs/eunos_primary_school_-_commemorative_book_2022" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
+<p></p>
 <p></p>

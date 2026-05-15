@@ -4,7 +4,6 @@ permalink: /partners-and-service-providers/psg/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Parent Support Group</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG_LOGO.jpg">
 </div>
