@@ -9,12 +9,11 @@ third_nav_title: TKPS Alumni
 <p>We are committed to keeping the Telok Kurau Primary spirit alive by mentoring
 and inspiring current students, nurturing bonds across generations and
 giving back to the school that shaped us.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumninew1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni2026_2__2_.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumninew2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni2026_2__1_.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Alumni2026_01.jpg">
