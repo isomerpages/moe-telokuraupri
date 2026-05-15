@@ -18,5 +18,4 @@ and ensure every child has the opportunity to thrive.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Slide3a.jpg">
 </div>
-<h4></h4>
 <p></p>
