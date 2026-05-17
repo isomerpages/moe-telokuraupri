@@ -10,7 +10,7 @@ third_nav_title: TKPS Alumni
 and inspiring current students, nurturing bonds across generations and
 giving back to the school that shaped us.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni2026_2__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni_new17may.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni2026_2__1_.jpg">
