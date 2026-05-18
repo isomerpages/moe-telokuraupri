@@ -6,7 +6,7 @@ description: ""
 third_nav_title: TKPS 100 Years Anniversary
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="microsite" src="/images/10DaysToGo.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="microsite" src="/images/10DaysToGo.jpg">
 </div>
 <p><strong>Welcome to our centennial microsite!</strong> Explore upcoming
 anniversary activities and signature programmes, follow exclusive interviews
