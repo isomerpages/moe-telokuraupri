@@ -39,13 +39,13 @@ sections:
           link_text: FIND OUT MORE
           link_url: /useful-links/for-parents/imda-digihome/
   - infopic:
-      title: 20 Days to go
+      title: 10 Days to go
       subtitle: TKPS Centennial Musical
       id: infopic
       description: 28 May 2026
       button: Click Here
-      url: /20-days-to-go/
-      image: /images/20days_aspirations.jpg
+      url: /10-days-to-go/
+      image: /images/10DaysToGo.jpg
       alt: TKPS100
   - infopic:
       title: For Students
