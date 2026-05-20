@@ -18,6 +18,7 @@ thoughtfully designed lessons and activities, our students learn to protect
 themselves and others, make wise choices online, and contribute meaningfully
 to the digital&nbsp;community.</p>
 <hr>
+<h4><strong>Total Defence Day @ TKPS</strong></h4>
 <p>On 10 Feb 2026, our school marked Total Defence Day with interactive Digital
 Defence recess activity booths! Students engaged in games and shared cyber-safety
 tips to stay "Secure, Alert, and Responsible." The lively, collaborative
@@ -213,8 +214,7 @@ reduce screen time and do other activities instead</p>
 </table>
 <p><em>* The topics are accompanied by SLS assignments as well as semesterly whole-school quizzes.</em>
 </p>
-<p><strong>CW Pledges</strong>
-</p>
+<h4><strong>CW Pledges</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="570" width="1013" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_vAUkp_4XL8"></iframe>
 </div>
@@ -234,18 +234,4 @@ reduce screen time and do other activities instead</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="570" width="1013" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wFbgVmCDdF4"></iframe>
 </div>
 <p></p>
-<p><strong>Termly SLS Cyber Wellness Winning&nbsp;Classes</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="720px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT3zUn1Ns1iQjpqmscHac2fQQJKOfr79v7ywgrIlxpvjzYZhTsDhW3XFEuL6BUC8-WFQCiwYJIrPbcs/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="720px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJMTE6J0D_yYbBBTRvaJnF1_guyUKK0CP7B4WWXKd2CoKcf97bDOblID2hcIPm-D2fD_UZRIj69JCT/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="720px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTaVZFat8ikr_EKyit1NZJK46QXqr0v01wd8HO1T-vQJX-ugoehy3dYOJYr0w6iwTSRarqw8kHCXXSS/pubembed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="720px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfesvNhqbR1GVXp-sFdO7N_SLxAl3b05KT1Wlz06xDrgHvg0L5sP_vtf3Y2U_fmg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
