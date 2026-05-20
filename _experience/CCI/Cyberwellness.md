@@ -213,6 +213,26 @@ reduce screen time and do other activities instead</p>
 </table>
 <p><em>* The topics are accompanied by SLS assignments as well as semesterly whole-school quizzes.</em>
 </p>
+<p><strong>CW Pledges</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="570" width="1013" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_vAUkp_4XL8"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="570" width="1013" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WYUw5qpLX7A"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="570" width="1013" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kQ-ZIs6how0"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="570" width="1013" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wz3nWaNHMw0"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="570" width="1013" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4C_Uy2cXUfM"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="570" width="1013" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wFbgVmCDdF4"></iframe>
+</div>
 <p></p>
 <p><strong>Termly SLS Cyber Wellness Winning&nbsp;Classes</strong>
 </p>
