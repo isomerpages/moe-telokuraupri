@@ -10,7 +10,7 @@ strategic advice and resources that enrich every student’s development,
 while bridging the school and community to foster meaningful partnerships
 and ensure every child has the opportunity to thrive.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Slide1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_pg1_June2026.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_new.jpg">
