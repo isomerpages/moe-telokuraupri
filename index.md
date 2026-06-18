@@ -23,6 +23,13 @@ sections:
       id: announcements
       subtitle: Telok Kurau Primary School
       announcement_items:
+        - title: TKPS100 Microsite
+          date: 18 June 2026
+          announcement: Thank you for being part of our 100 years journey.  We invite you
+            to browse, reminisce and celebrate this historic milestone with us
+            on this special microsite.
+          link_text: CLICK HERE
+          link_url: https://sites.google.com/moe.edu.sg/tkps100/
         - title: TKPS100 Memories
           date: 11 May 2026
           announcement: We warmly invite our alumni, staff, former students and parents to
