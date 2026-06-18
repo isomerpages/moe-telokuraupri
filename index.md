@@ -30,7 +30,7 @@ sections:
             on this special microsite.
           link_text: CLICK HERE
           link_url: https://sites.google.com/moe.edu.sg/tkps100/
-        - title: TKPS100 Memories
+        - title: Share Your Memories
           date: 11 May 2026
           announcement: We warmly invite our alumni, staff, former students and parents to
             share a meaningful photo that captures your memories of Telok Kurau
