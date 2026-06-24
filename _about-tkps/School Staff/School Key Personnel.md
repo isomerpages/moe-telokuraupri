@@ -469,7 +469,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH ICT &amp; Data Mangement</p>
+<p>SH ICT &amp; Data Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kwek Wenhong Shane</p>
