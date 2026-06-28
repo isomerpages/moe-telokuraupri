@@ -85,10 +85,12 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Debating and Public Speaking</p>
+<p><a href="/debating-and-public-speaking-2/" rel="noopener nofollow" target="_blank">Debating and Public Speaking</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brownies</p>
+<p><a href="/brownies-2/" rel="noopener nofollow" target="_blank">Brownies</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -101,10 +103,12 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Environmental Club</p>
+<p><a href="/environmental-club-2/" rel="noopener nofollow" target="_blank">Environmental Club</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Red Cross Youth</p>
+<p><a href="/red-cross-youth-2/" rel="noopener nofollow" target="_blank">Red Cross Youth</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -117,10 +121,12 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Robotics</p>
+<p><a href="/robotics-2/" rel="noopener nofollow" target="_blank">Robotics</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Scouts</p>
+<p><a href="/scouts-2/" rel="noopener nofollow" target="_blank">Scouts</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +139,8 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Strategy Games Club</p>
+<p><a href="/strategy-games-club-2/" rel="noopener nofollow" target="_blank">Strategy Games Club</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
