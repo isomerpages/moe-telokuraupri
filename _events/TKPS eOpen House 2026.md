@@ -49,3 +49,5 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 </a>
 </div>
 <p></p>
+<p>Our CCA Experience</p>
+<p></p>
