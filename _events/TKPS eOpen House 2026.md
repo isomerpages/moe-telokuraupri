@@ -50,4 +50,129 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 </div>
 <p></p>
 <p>Our CCA Experience</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="CCA2025" src="/images/CCA_2025.jpg">
+</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>PHYSICAL SPORTS (PS)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>VISUAL &amp; PERFORMING ARTS (VPA)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CLUBS &amp; SOCIETIES (CS)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>UNIFORMED GROUPS (UG)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art and Crafts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debating and Public Speaking</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bowling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Environmental Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guzheng Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lion &amp; Dragon Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Strategy Games Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indian Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
