@@ -4,21 +4,11 @@ permalink: /tkps-eopen-house-2026/
 variant: tiptap
 description: ""
 ---
-<h3>The TKPS Experience</h3>
-<p></p>
-<p><strong>Corporate Video</strong>
-</p>
+<h4><strong>The TKPS Experience</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2S3tBKYOdE4"></iframe>
 </div>
-<p><strong>TKPS 100 Aniiversary</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/at3in-tUdgI"></iframe>
-</div>
-<p></p>
-<p><strong>Our Signature Programmes</strong>
-</p>
+<h4><strong>Our Signature Programmes</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/future-quest/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FQ" src="/images/P5_FQ_CCI.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Future Quest</div><div class="isomer-card-description">Explore FutureQuest, Telok Kurau Primary School's interdisciplinary programme that builds 21st Century skills through hands-on, real-world learning from Primary 1 to 6.</div><div class="isomer-card-link">Click Here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/growth-mindset/" class="isomer-card">
 <div class="isomer-card-image">
@@ -48,8 +38,7 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 </div>
 </a>
 </div>
-<p></p>
-<p>Our CCA Experience</p>
+<h4><strong>Our CCA Experience</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="CCA2025" src="/images/CCA_2025.jpg">
 </div>
@@ -193,4 +182,25 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>Voices from Our Stakeholders</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PSG Chairperson</p>
+</li>
+<li>
+<p>P6 Graduation</p>
+</li>
+<li>
+<p><em>Voices Across Generations </em><a href="https://sites.google.com/moe.edu.sg/tkps100/voices-across-generations" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/tkps100/voices-across-generations</a>
+</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>TKPS 100 Anniversary</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/at3in-tUdgI"></iframe>
+</div>
+<h4></h4>
 <p></p>
