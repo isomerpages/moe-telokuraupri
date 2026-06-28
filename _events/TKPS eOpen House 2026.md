@@ -77,10 +77,12 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basketball</p>
+<p><a href="/basketball-2/" rel="noopener nofollow" target="_blank">Basketball</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art and Crafts</p>
+<p><a href="/art-and-crafts-2/" rel="noopener nofollow" target="_blank">Arts and Craft</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Debating and Public Speaking</p>
@@ -91,10 +93,12 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bowling</p>
+<p><a href="/bowling-2/" rel="noopener nofollow" target="_blank">Bowling</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choir</p>
+<p><a href="/choir-2/" rel="noopener nofollow" target="_blank">Choir</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Environmental Club</p>
@@ -105,10 +109,12 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Football</p>
+<p><a href="/football-2/" rel="noopener nofollow" target="_blank">Football</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guzheng Ensemble</p>
+<p><a href="/guzheng-ensemble-2/" rel="noopener nofollow" target="_blank">Guzheng Ensemble</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Robotics</p>
@@ -119,10 +125,12 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wushu</p>
+<p><a href="/wushu-2/" rel="noopener nofollow" target="_blank">Wushu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lion &amp; Dragon Dance</p>
+<p><a href="/lion-and-dragon-dance-2/" rel="noopener nofollow" target="_blank">Lion and Dragon Dance</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Strategy Games Club</p>
@@ -136,7 +144,8 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance</p>
+<p><a href="/chinese-dance-2/" rel="noopener nofollow" target="_blank">Chinese Dance</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -150,7 +159,8 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indian Dance</p>
+<p><a href="/indian-dance-2/" rel="noopener nofollow" target="_blank">Indian Dance</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -164,7 +174,8 @@ teamwork and resilience in every student through Project S.T.A.R.</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Malay Dance</p>
+<p><a href="/malay-dance-2/" rel="noopener nofollow" target="_blank">Malay Dance</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
