@@ -14,19 +14,26 @@ Please note the following conditions:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The device must remain switched&nbsp;off till the end of school hours
-and Enrichment lessons, Small Group Teaching&nbsp;sessions, CCAs and Higher
-Mother Tongue lessons.</p>
+<p>Students are discouraged from bringing mobile devices to school.</p>
 </li>
 <li>
-<p>At the end of school hours, mobile devices can only be switched on and
-operated on silent mode when&nbsp;the students are at one of the four call/
-messaging zones,
-<br>
-</p>
+<p>Students are not to wear smart glasses and watches to school.</p>
 </li>
 <li>
-<p></p>
+<p>Students are to be responsible for their belongings. The school will not
+be held responsible for any damages or losses.</p>
+</li>
+<li>
+<p>Students are to keep their devices switched off and put them in their
+bags during curriculum hours.</p>
+</li>
+<li>
+<p>Students are only allowed to use their devices to make urgent phone calls
+after school, and only in RICHIE Café.</p>
+</li>
+<li>
+<p>At any other times, students must seek permission from their teachers
+to use their devices.</p>
 </li>
 <li>
 <p>In cases of emergency parents/ guardians can call the School General Office
