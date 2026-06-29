@@ -666,7 +666,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P3 Innovator</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -693,21 +693,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>P3 Learner</p>
+<td rowspan="1" colspan="1">
+<p>Mdm Kwan Wai Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sheeba d/o Balakrishnan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sheeba_do_balakrishnan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>282</p>
+<p>262</p>
 </td>
 </tr>
 <tr>
+<td rowspan="3" colspan="1">
+<p>P3 Learner</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Ms Sin Yoke Jing Mavis</p>
 </td>
@@ -729,6 +728,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>283</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sha'irah Binte Sharin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>282</p>
 </td>
 </tr>
 <tr>
