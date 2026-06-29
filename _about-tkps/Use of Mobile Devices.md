@@ -6,58 +6,42 @@ variant: tiptap
 ---
 <h4><strong>Students' Use of Mobile Devices</strong></h4>
 <p>We understand that parents/guardians may at times require their children
-to bring mobile devices to school.&nbsp;The school policy on the use of
-mobile devices ensures that students are focussed during school hours and&nbsp;not
-distracted by calls, messaging or using the social media, multimedia and
-internet functions of the mobile&nbsp;device. Please note the following
-conditions:</p>
+to bring mobile devices which include smart glasses and watches to school.&nbsp;The
+school policy on the use of mobile devices ensures that students are focused
+during school hours and&nbsp;not distracted by calls, messaging or using
+the social media, multimedia and internet functions of the mobile&nbsp;device.
+Please note the following conditions:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The mobile device must be switched off by 7.25 am every morning. The device
-must remain switched&nbsp;off till the end of school hours and Supplementary
-/ Enrichment lessons, Small Group Teaching&nbsp;sessions, CCAs and Higher
-Mother Tongue lessons.</p>
+<p>Students are discouraged from bringing mobile devices to school.</p>
 </li>
 <li>
-<p>At the end of school hours, mobile devices can only be switched on and
-operated on silent mode when&nbsp;the students are at one of the four call/
-messaging zones,
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Gate 1 dismissal area,</p>
+<p>Students are not to wear smart glasses and watches to school.</p>
 </li>
 <li>
-<p>Gate 4 dismissal area,</p>
+<p>Students are to be responsible for their belongings. The school will not
+be held responsible for any damages or losses.</p>
 </li>
 <li>
-<p>Gate 6 dismissal area,</p>
+<p>Students are to keep their devices switched off and put them in their
+bags during curriculum hours.</p>
 </li>
 <li>
-<p>School Canteen.</p>
-</li>
-</ul>
-<p></p>
+<p>Students are only allowed to use their devices to make urgent phone calls
+after school, and only in RICHIE Café.</p>
 </li>
 <li>
-<p>The use of mobile devices is not permitted in other areas of the school
-after school hours.</p>
+<p>At any other times, students must seek permission from their teachers
+to use their devices.</p>
 </li>
 <li>
-<p>In cases of emergency parents/ guardians can call the School Office to
-get in touch with their child/ward. For non-emergencies, parents/ guardians
-can SMS their child and leave a message for him/her to&nbsp;return a call
-as soon as the message is read at the end of school hours.</p>
+<p>In cases of emergency parents/ guardians can call the School General Office
+to get in touch with their child/ward.</p>
 </li>
 <li>
 <p>Students are responsible for the care of their mobile devices and must
 be kept with them at all times.</p>
-</li>
-<li>
-<p>The mobile device must be clearly labelled with the student’s name and
-class.</p>
 </li>
 <li>
 <p>The school shall not be held responsible for any loss or damage of students’

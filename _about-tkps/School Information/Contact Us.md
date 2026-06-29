@@ -6,6 +6,8 @@ third_nav_title: School Information
 variant: tiptap
 ---
 <h4><strong>Contact Us</strong></h4>
+<p>At Telok Kurau Primary School, we welcome your comments, compliments or
+feedback about our school, our programmes, our staff and our service providers.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7421044867087!2d103.909217314754!3d1.3308236990293683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da17fc2a4b143b%3A0x5e392d85530b0419!2sTelok%20Kurau%20Primary%20School!5e0!3m2!1sen!2ssg!4v1668762510284!5m2!1sen!2ssg"></iframe>
 </div>
@@ -106,7 +108,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>Walk-in Gates Operating Hours (School Opening)</strong>
+<p><strong>Operating Hours of School Gates (Opening)</strong>
 </p>
 </th>
 </tr>
@@ -169,8 +171,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>Walk-in Gates Operating Hours (School Dismissal)</strong>
-</p>
+<p>Operating Hours of School Gates (Dismissal)</p>
 </th>
 </tr>
 <tr>
