@@ -106,7 +106,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>Walk-in Gates Operating Hours (School Opening)</strong>
+<p><strong>Operating Hours of School Gates (Opening)</strong>
 </p>
 </th>
 </tr>
@@ -169,8 +169,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>Walk-in Gates Operating Hours (School Dismissal)</strong>
-</p>
+<p>Operating Hours of School Gates (Dismissal)</p>
 </th>
 </tr>
 <tr>
