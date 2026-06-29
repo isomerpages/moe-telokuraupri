@@ -1356,25 +1356,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>296</p>
+<p>273</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P6 Navigator</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Wu Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yvonne_wu_ling@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>270</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Shaharzad B Kasman</p>
 </td>
@@ -1383,7 +1371,29 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>303</p>
+<p>241</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Dong Jinmei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>274</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Sahara Bte Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>237</p>
 </td>
 </tr>
 <tr>
