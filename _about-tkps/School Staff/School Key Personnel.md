@@ -427,20 +427,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Discipline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Shaharzad B Kasman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shaharzad_b_kasman@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>303</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH STEM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -451,20 +437,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>295</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH ICT &amp; Cyberwellness</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Teo Bee Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teo_bee_lin@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>296</p>
 </td>
 </tr>
 <tr>
@@ -630,20 +602,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>257</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
