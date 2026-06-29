@@ -6,18 +6,18 @@ variant: tiptap
 ---
 <h4><strong>Students' Use of Mobile Devices</strong></h4>
 <p>We understand that parents/guardians may at times require their children
-to bring mobile devices to school.&nbsp;The school policy on the use of
-mobile devices ensures that students are focussed during school hours and&nbsp;not
-distracted by calls, messaging or using the social media, multimedia and
-internet functions of the mobile&nbsp;device. Please note the following
-conditions:</p>
+to bring mobile devices which include smart glasses and watches to school.&nbsp;The
+school policy on the use of mobile devices ensures that students are focused
+during school hours and&nbsp;not distracted by calls, messaging or using
+the social media, multimedia and internet functions of the mobile&nbsp;device.
+Please note the following conditions:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The mobile device must be switched off by 7.25 am every morning. The device
-must remain switched&nbsp;off till the end of school hours and Supplementary
-/ Enrichment lessons, Small Group Teaching&nbsp;sessions, CCAs and Higher
-Mother Tongue lessons.</p>
+must remain switched&nbsp;off till the end of school hours and Enrichment
+lessons, Small Group Teaching&nbsp;sessions, CCAs and Higher Mother Tongue
+lessons.</p>
 </li>
 <li>
 <p>At the end of school hours, mobile devices can only be switched on and
