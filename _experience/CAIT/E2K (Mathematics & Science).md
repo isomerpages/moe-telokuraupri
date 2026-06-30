@@ -48,3 +48,8 @@ aimed to stretch primary pupils who have demonstrated strong interest and
 ability in science. We have modified this enrichment programme to integrate
 technology where teachers use e-pedagogy to create a more participatory,
 connected and reflective classroom to nurture future-ready learners.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E2K_SCI.jpg">
+</div>
+<p></p>
