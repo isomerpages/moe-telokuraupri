@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School History
 ---
+<h4><strong>Telok Kurau Primary School</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -12,12 +13,14 @@ third_nav_title: School History
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Principal</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Period of Leadership</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Principal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Period of Leadership</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -88,7 +91,101 @@ third_nav_title: School History
 <p>Mrs Grace Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023 - Present</p>
+<p>2023 – Present</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Eunos Primary School</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Principal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Period of Leadership</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Salmah Yunos</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1984 – 1994</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Soh Cheng Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1994 – 1996</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Huai Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1996 – 2002</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ang Chin Du</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2002 – 2009</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jennifer Choy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2009 – 2017</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Grace Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2017 – 2022</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Bedok Town Primary School</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Last Serving Principal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Period of Leadership</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Khar Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1989 – 1995</p>
 </td>
 </tr>
 </tbody>
