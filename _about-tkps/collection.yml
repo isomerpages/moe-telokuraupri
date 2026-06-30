@@ -2,7 +2,6 @@ collections:
   about-tkps:
     output: true
     order:
-      - School Rules.md
       - Principal's Message.md
       - Our Mission and Vision.md
       - School Core Values.md
@@ -22,10 +21,11 @@ collections:
       - Name Tags.md
       - Homework Policy.md
       - Use of Mobile Devices.md
+      - School Rules.md
       - The TKPS Experience.md
       - Use of Images and Videos in Publication.md
-      - TKPS Featured/TKPS Featured Overview.md
       - TKPS Featured/.keep
+      - TKPS Featured/TKPS Featured Overview.md
       - TKPS Featured/National Chinese Challenge 2026.md
       - TKPS Featured/37th National Calligraphy Competition 2026.md
       - TKPS Featured/The Learning Space.md
