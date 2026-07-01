@@ -17,6 +17,9 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/for-students/student-mims/
+        - title: Contact Us
+          description: ""
+          url: /about-tkps/school-information/contact-us/
       variant: image
   - announcements:
       title: Announcements
