@@ -32,7 +32,7 @@ and ambiguities to adapt to changing contexts with agility.</p>
 <div class="isomer-card-link">Click Here</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.telokkuraupri.moe.edu.sg/serve-to-lead-programme/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SERVE TO LEAD PROGRAMME" src="/images/DC104196.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SERVE TO LEAD PROGRAMME</div><div class="isomer-card-link">Click Here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.telokkuraupri.moe.edu.sg/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.telokkuraupri.moe.edu.sg/programme-for-active-learning-pal/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PAL" src="/images/PAL_AdvClub_01.png">
