@@ -232,7 +232,7 @@ Robotics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MOE Innergy Award and Outstanding Innovator Award - </strong>
+<p><strong>MOE Innergy Award and Outstanding Innovator Award -</strong>
 </p>
 <p>Decision Support System - Enhanced Student Enrolment &amp; Movement Support
 System</p>
@@ -244,6 +244,164 @@ System</p>
 <p>Mdm Nur Salwani Binte Abu Naim
 <br>Mdm Tahira Bibi d/o Abdul Rahman
 <br>Mr Toh Kheng Guan, Matthew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOE Long Service Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>10 years</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Chun Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Zheng Lin Gabriel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ramesh Eswari</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>15 years</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad Dzulkifli Bin Zarinal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amelia Binte Othman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Neeta N Ramchandani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sin Yoke Jing Mavis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Puay Oon Melody</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zarina Binte Abdul Karim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zheng Huimin Sarah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>20 years</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Theodora Teong Ying Xi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Aw Yang Ming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Claire Lu Ting Ting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>25 years</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kartini Bte Mohamed Ramli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Choon Jhet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>30 years</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Randeep Kaur Bath</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sahril Bin Yahya</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Vijayalekshmi d/o Mariappan</p>
 </td>
 </tr>
 </tbody>
