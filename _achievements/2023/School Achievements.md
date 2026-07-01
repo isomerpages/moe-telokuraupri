@@ -25,7 +25,20 @@ third_nav_title: "2023"
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Green Awards (Yellow Flame Award)</p>
+<p><strong>School Green Awards (Yellow Flame Award)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Organised by the Singapore Environment Council (SEC), the School Green
+Awards (SGA) recognises schools for their commitment to environmental sustainability,
+environmental education and community outreach. The award celebrates schools
+that inspire students to develop responsible environmental habits and create
+meaningful, lasting impact through sustainability initiatives.</p>
 </td>
 </tr>
 <tr>
