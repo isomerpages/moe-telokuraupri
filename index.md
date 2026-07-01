@@ -42,21 +42,12 @@ sections:
           link_text: CLICK HERE
           link_url: https://padlet.com/onetkps/tkps-100-memories-gt3yzyfp0lg01pzq
         - title: Get Online, Stay Connected with DigitalAccess@Home!
-          date: 26 February 2026
+          date: 13 April 2026
           announcement: IMDA provides subsidised broadband and laptops/tablets to
             lower-income households to support their lifestyle needs, including
             work and social activities.
           link_text: FIND OUT MORE
           link_url: /useful-links/for-parents/imda-digihome/
-  - infopic:
-      title: 10 Days to go
-      subtitle: TKPS Centennial Musical
-      id: infopic
-      description: 28 May 2026
-      button: Click Here
-      url: /10-days-to-go/
-      image: /images/10DaysToGo.jpg
-      alt: TKPS100
   - infopic:
       title: For Students
       id: infopic
