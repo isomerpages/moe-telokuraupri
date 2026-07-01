@@ -107,7 +107,23 @@ sustainability, resulting in fewer status enquiries.</p>
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NMOS Top 20 School</p>
+<p><strong>NMOS Top 20 School</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The National Mathematical Olympiad of Singapore (NMOS) is an NUS High
+School initiative, working in partnership with the Singapore Mathematical
+Society.</p>
+<p>The NMOS Top 20 School award recognises schools that have achieved outstanding
+results in the National Mathematical Olympiad of Singapore (NMOS). This
+award celebrates schools whose students have demonstrated exceptional mathematical
+ability, logical reasoning, and problem-solving skills, placing them among
+the top 20 schools in this prestigious national competition.</p>
 </td>
 </tr>
 </tbody>
