@@ -230,6 +230,22 @@ Robotics</p>
 <p>P3 EL&amp; MTL SLS e-Oral</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOE Innergy Award and Outstanding Innovator Award - </strong>
+</p>
+<p>Decision Support System - Enhanced Student Enrolment &amp; Movement Support
+System</p>
+<p></p>
+<p><em>Enhanced FAS Processes with Sustainability and Efficiency</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Salwani Binte Abu Naim
+<br>Mdm Tahira Bibi d/o Abdul Rahman
+<br>Mr Toh Kheng Guan, Matthew</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
