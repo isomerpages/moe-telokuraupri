@@ -14,24 +14,16 @@ third_nav_title: "2023"
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Award</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Achievement</p>
+<p></p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>School Green Awards (Yellow Flame Award)</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Organised by the Singapore Environment Council (SEC), the School Green
