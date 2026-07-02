@@ -62,27 +62,16 @@ of Nurturing People</div>
 <div class="isomer-card-link">Click Here</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/about-tkps/tkps-featured/hello-singapore-interview/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/tkpsfeatured2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">(2017) Hello Singapore 狮城有约 Interview</div><div class="isomer-card-link">Click Here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/about-tkps/tkps-featured/conversational-chi-and-malay-prog/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/about-tkps/tkps-featured/a-sch-story-set-to-music/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/tkpsfeatured4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/tkpsfeatured5.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">(2017) Conversational Chinese and Malay Programme</div>
+<div class="isomer-card-title">(2016) A School's Story Set To Music</div>
 <div class="isomer-card-link">Click Here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/about-tkps/tkps-featured/a-sch-story-set-to-music/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/tkpsfeatured5.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">(2016) A School's Story Set To Music</div><div class="isomer-card-link">Click Here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/about-tkps/tkps-featured/music-teacher-in-tune-with-pupils/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/tkpsfeatured1.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">(2013) Music Teacher Is In Tune With His Pupils</div>
-<div class="isomer-card-link">Click Here</div>
-</div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/about-tkps/tkps-featured/music-teacher-in-tune-with-pupils/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/tkpsfeatured1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">(2013) Music Teacher Is In Tune With His Pupils</div><div class="isomer-card-link">Click Here</div></div></a>
 </div>
 <p></p>
