@@ -96,6 +96,6 @@ displays to speech recordings and reflection journals. Selected classes
 may also perform short skits or book trailers for their peers.</p>
 <p></p>
 <p>The English Language Fiesta promises to be a meaningful and memorable
-experience, encouraging every TKPS student to explore language with joy
-and confidence.</p>
+experience, encouraging every student to explore language with joy and
+confidence.</p>
 <p></p>
