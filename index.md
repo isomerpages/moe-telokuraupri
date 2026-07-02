@@ -26,6 +26,13 @@ sections:
       id: announcements
       subtitle: Telok Kurau Primary School
       announcement_items:
+        - title: TKPS E-Open House
+          date: 03 July 2026
+          announcement: Welcome to our E-Open House microsite. We invite you to browse,
+            explore and get to know us better. This microsite will be accessible
+            to all visitors from 3 July to 31 August 2026.
+          link_text: CLICK HERE
+          link_url: https://sites.google.com/moe.edu.sg/tkps-e-open-house-2026/home
         - title: TKPS100 Microsite
           date: 18 June 2026
           announcement: Thank you for being part of our 100 years journey.  We invite you
@@ -34,7 +41,7 @@ sections:
           link_text: CLICK HERE
           link_url: https://sites.google.com/moe.edu.sg/tkps100/
         - title: Share Your Memories
-          date: 11 May 2026
+          date: 01 June 2026
           announcement: We warmly invite our alumni, staff, former students and parents to
             share a meaningful photo that captures your memories of Telok Kurau
             Primary School. Help us celebrate 100 years of stories through your
@@ -42,7 +49,7 @@ sections:
           link_text: CLICK HERE
           link_url: https://padlet.com/onetkps/tkps-100-memories-gt3yzyfp0lg01pzq
         - title: Get Online, Stay Connected with DigitalAccess@Home!
-          date: 13 April 2026
+          date: 25 May 2026
           announcement: IMDA provides subsidised broadband and laptops/tablets to
             lower-income households to support their lifestyle needs, including
             work and social activities.
