@@ -17,7 +17,7 @@ third_nav_title: TKPS Featured
 of Nurturing People</div>
 <div class="isomer-card-link">Click Here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/telok-kurau-primary-school-celebrates-its-centennial/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/TKPS_featured_TL01.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">(2026) Telok Kurau Primary School Celebrates Its Centennial </div><div class="isomer-card-link">Click Here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/telok-kurau-primary-school-celebrates-its-centennial/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/TKPS_featured_TL01.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">(2026) Telok Kurau Primary School Celebrates Its Centennial</div><div class="isomer-card-link">Click Here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/tkps-celebrates-100-years/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -28,7 +28,7 @@ of Nurturing People</div>
 <div class="isomer-card-title">(2026) TKPS Celebrates 100 Years</div>
 <div class="isomer-card-link">Click Here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/telok-kurau-primary-school-celebrates-its-centennial/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/TKPS_featured_BH02.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">(2026) Telok Kurau Primary School Celebrates Its Centennial </div><div class="isomer-card-link">Click Here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/telok-kurau-primary-school-celebrates-its-centennial/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/TKPS_featured_BH02.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">(2026) Telok Kurau Primary School Celebrates Its Centennial</div><div class="isomer-card-link">Click Here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/national-chinese-challenge-2026/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
