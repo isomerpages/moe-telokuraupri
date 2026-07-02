@@ -290,6 +290,26 @@ School Students</p>
 <p>Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Fo Guang Shan Pen Calligraphy Competition 2026(佛光山硬笔书法比赛)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Merit Award</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Yutang (6 Reflector)</p>
+</li>
+<li>
+<p>Hu Tong (5 Encourager)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Lensa Peribahasa</p>
 </td>
 <td rowspan="1" colspan="1">
