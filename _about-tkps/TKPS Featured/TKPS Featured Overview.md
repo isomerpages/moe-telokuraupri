@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: TKPS Featured
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.istana.gov.sg/newsroom/transcripts-of-remarks-by-president-tharman-shanmugaratnam-at-telok-kurau-primary-centennial-celebrations-on-28-may-2026-at-telok-kurau-primary-school-hall/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="President Tharman" src="/images/president_tharman.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">President Tharman Shanmugaratnam 's Speech at TKPS Centennial Celebrations on 28 May 2026</div><div class="isomer-card-link">Click Here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.istana.gov.sg/newsroom/transcripts-of-remarks-by-president-tharman-shanmugaratnam-at-telok-kurau-primary-centennial-celebrations-on-28-may-2026-at-telok-kurau-primary-school-hall/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="President Tharman" src="/images/president_tharman.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">President Tharman's Speech at TKPS Centennial Celebrations on 28 May 2026</div><div class="isomer-card-link">Click Here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/national-chinese-challenge-2026/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
