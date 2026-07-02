@@ -77,8 +77,7 @@ promoting engagement and peer appreciation.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>One-Minute Speech Challenge</em>: Students prepare short speeches
-reflecting on the theme <strong>"SG60 – My Hopes for the Future"</strong>,
-honing their public speaking skills.</p>
+reflecting on the theme, honing their public speaking skills.</p>
 </li>
 <li>
 <p><em>Book-to-Screen Reviews</em>: Classes compare books and their movie
