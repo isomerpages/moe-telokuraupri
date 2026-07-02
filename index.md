@@ -26,9 +26,9 @@ sections:
       id: announcements
       subtitle: Telok Kurau Primary School
       announcement_items:
-        - title: TKPS E-Open House
+        - title: TKPS e-Open House 2026
           date: 03 July 2026
-          announcement: Welcome to our E-Open House microsite. We invite you to browse,
+          announcement: Welcome to our e-Open House microsite. We invite you to browse,
             explore and get to know us better. This microsite will be accessible
             to all visitors from 3 July to 31 August 2026.
           link_text: CLICK HERE
