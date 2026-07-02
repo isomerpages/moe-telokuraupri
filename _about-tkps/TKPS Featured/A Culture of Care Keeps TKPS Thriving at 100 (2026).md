@@ -15,6 +15,6 @@ the school's caring ethos continues to shape its curriculum and classroom
 approach, particularly for High Ability students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TKPS_featured_BH02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TKPS_featured_BH02.png">
 </div>
 <p></p>
