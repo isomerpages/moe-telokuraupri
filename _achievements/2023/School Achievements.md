@@ -14,7 +14,7 @@ third_nav_title: "2023"
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Department</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
@@ -22,7 +22,7 @@ third_nav_title: "2023"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Green Awards (Yellow Flame Award)</strong>
