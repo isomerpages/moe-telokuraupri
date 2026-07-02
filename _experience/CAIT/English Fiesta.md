@@ -7,7 +7,7 @@ third_nav_title: CAIT
 ---
 <h4><strong>A Celebration of Language, Expression and Imagination</strong></h4>
 <p>We believe language is a powerful tool for thinking, communicating and
-connecting with the world. The <strong>English Language Fiesta 2025</strong> brings
+connecting with the world. The <strong>English Language Fiesta </strong>brings
 a joyful week-long celebration which engages students in meaningful, creative
 and immersive experiences with the English language.</p>
 <p><strong>Objectives of the Fiesta</strong>
