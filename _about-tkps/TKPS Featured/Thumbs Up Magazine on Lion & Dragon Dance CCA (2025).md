@@ -1,5 +1,5 @@
 ---
-title: Thumbs Up Magazine on Lion & Dragon Dance CCA
+title: Thumbs Up Magazine on Lion & Dragon Dance CCA (2025)
 permalink: /thumbs-up-article-on-lion-dragon-dance-cca/
 variant: tiptap
 description: ""

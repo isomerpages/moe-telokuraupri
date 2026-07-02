@@ -6,11 +6,11 @@ description: ""
 third_nav_title: CCI
 ---
 <h4><strong>Cyber Wellness @ TKPS</strong></h4>
-<p>At Telok Kurau Primary School, the Cyber Wellness Programme is an integral
-part of our Information and Communication Technology (ICT) curriculum.
-Rooted in our belief that every student should be a responsible and discerning
-digital citizen, the programme equips our students with the knowledge,
-values, and skills to navigate the online world safely and responsibly.</p>
+<p>The Cyber Wellness Programme is an integral part of our Information and
+Communication Technology (ICT) curriculum. Rooted in our belief that every
+student should be a responsible and discerning digital citizen, the programme
+equips our students with the knowledge, values and skills to navigate the
+online world safely and responsibly.</p>
 <p>To reinforce these important habits, the school conducts termly Cyber
 Wellness lessons through the Student Learning Space (SLS), helping students
 cultivate safe, respectful and positive online behaviors. Through these

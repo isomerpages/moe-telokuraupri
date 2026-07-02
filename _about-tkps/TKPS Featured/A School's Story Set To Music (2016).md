@@ -1,5 +1,5 @@
 ---
-title: A School's Story Set To Music
+title: A School's Story Set To Music (2016)
 permalink: /about-tkps/tkps-featured/a-sch-story-set-to-music/
 description: ""
 variant: tiptap

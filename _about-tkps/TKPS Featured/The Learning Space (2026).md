@@ -1,5 +1,5 @@
 ---
-title: The Learning Space
+title: The Learning Space (2026)
 permalink: /the-learning-space/
 variant: tiptap
 description: ""

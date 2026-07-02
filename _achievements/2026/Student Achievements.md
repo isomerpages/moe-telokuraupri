@@ -191,6 +191,165 @@ third_nav_title: "2026"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The 14th National Hard-Pen and Soft-Pen Calligraphy Competition for Primary
+and Secondary School Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Merit Award (Hard-Pen)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Yutang (6 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Merit (Hard Pen)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cai Xinyun (6 Synergiser)</p>
+</li>
+<li>
+<p>Zhang Boyan (4 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Merit Award (Soft Pen)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cai Xinyun (6 Synergiser)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The 15th National On-site Calligraphy Competition for Primary and Secondary
+School Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Merit Award</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Yutang (6 Reflector)</p>
+</li>
+<li>
+<p>Cai Xinyun (6 Synergiser)</p>
+</li>
+<li>
+<p>Hu Tong (5 Encourager)</p>
+</li>
+<li>
+<p>Sun Yongyi (5 Reflector)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9th Annual National Text Recital Competition 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Silver Award</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Saniaa Hans (3 Synergiser)</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Bronze Award</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chee Zi Qi Chloe (4 Reflector)</p>
+</li>
+<li>
+<p>Ji Haochen (4 Encourager)</p>
+</li>
+<li>
+<p>Tan Zi Han (4 Reflector)</p>
+</li>
+<li>
+<p>Ang Yui Nyi (3 Encourager)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fo Guang Shan Pen Calligraphy Competition 2026(佛光山硬笔书法比赛)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Merit Award</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Yutang (6 Reflector)</p>
+</li>
+<li>
+<p>Hu Tong (5 Encourager)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lensa Peribahasa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Bronze</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nur Humaira Binti Mohammed Taha (4 Encourager)</p>
+</li>
+<li>
+<p>Mohamad Khalid Bin Mohamad Zaki (4 Encourager)</p>
+</li>
+<li>
+<p>Eshan Saidi Mahardhika (4 Synergiser)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rakan Bahasa Malay Language Student Ambassadors</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Rakan Bahasa Ambassador</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Ibrahim Mishary Bin Muhammad Nazir (5 Reflector)</p>
+</li>
+<li>
+<p>Zahra Binte Muhammad Hafiz (5 Encourager)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">

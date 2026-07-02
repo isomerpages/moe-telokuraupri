@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCI
 ---
-<p>At TKPS, we believe that a physically educated student is one who is developed
+<p>We believe that a physically educated student is one who is developed
 holistically—physically, mentally, emotionally, and socially—and is well-prepared
 to thrive in a fast-changing, interconnected world.</p>
 <div class="isomer-image-wrapper">
@@ -13,7 +13,7 @@ to thrive in a fast-changing, interconnected world.</p>
 </div>
 <p>Our Physical Education Programme is closely aligned with the Ministry
 of Education (MOE)’s Physical Education Curriculum Framework and aims to
-equip students with the knowledge, attitudes, beliefs, and skills needed
+equip students with the knowledge, attitudes, beliefs and skills needed
 to engage in a wide variety of physical activities throughout their lives.
 We promote a lifestyle of healthful living, encouraging students to participate
 actively, responsibly, and respectfully.</p>
