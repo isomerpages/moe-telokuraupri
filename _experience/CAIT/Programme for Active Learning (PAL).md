@@ -30,13 +30,13 @@ Visual Arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL_AdvClub_01.png">
 </div>
 <h4><strong>TKPS Adventurer’s Club</strong></h4>
-<p>To further promote the active role of learning, we have introduced a narrative-driven
+<p>To further promote the active role of learning, we introduce a narrative-driven
 immersive experience through the TKPS Adventurer’s Club, where students
-complete missions, earn stickers, and become full-fledged adventurers.</p>
+complete missions, earn stickers and become full-fledged adventurers.</p>
 <p></p>
 <p>Our world is a beautiful place. On their path to becoming full-fledged
-junior adventurers, students will go on journeys to explore various locations,
-some imaginary, some grounded in reality. They will meet different characters,
+junior adventurers, students go on journeys to explore various locations,
+some imaginary, some grounded in reality. They meet different characters,
 learn more about themselves, work collaboratively in teams, overcome different
 challenges to complete missions through creativity and teamwork to earn
 their achievement stickers.</p>
@@ -44,22 +44,22 @@ their achievement stickers.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL_AdvClub_02.png">
 </div>
 <p><strong><em>OUTDOOR EDUCATION: Learning beyond the classroom!</em></strong>
-<br>Students explored nature and built resilience through outdoor activities.</p>
+<br>Students explore nature and build resilience through outdoor activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL_AdvClub_03.png">
 </div>
 <p><strong><em>SPORTS AND GAMES: Teamwork in action!</em></strong>
-<br><em>Students worked together, strategised, and had fun playing in teams.</em>
+<br><em>Students work together, strategise and have fun playing in teams.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL_AdvClub_04.png">
 </div>
 <p><strong><em>VISUAL ARTS: Creativity at work!</em></strong>
-<br><em>Students expressed themselves through collaborative artmaking.</em>
+<br><em>Students express themselves through collaborative artmaking.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL_AdvClub_05.png">
 </div>
 <p><strong><em>Performing Arts: Bringing stories to life!</em></strong>
-<br><em>Students used voice and movement to explore characters and emotions.</em>
+<br><em>Students use voice and movement to explore characters and emotions.</em>
 </p>
