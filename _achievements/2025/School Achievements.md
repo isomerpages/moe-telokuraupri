@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
-<h3><strong><u>2025</u></strong></h3>
+<h3><strong>2025</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
