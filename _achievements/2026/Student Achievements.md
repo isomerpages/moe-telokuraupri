@@ -191,13 +191,48 @@ third_nav_title: "2026"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The 14th National Hard-Pen and Soft-Pen Calligraphy Competition for Primary
+and Secondary School Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Merit Award (Hard-Pen)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xu Yutang (6 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Merit (Hard Pen)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cai Xinyun (6 Synergiser)</p>
+</li>
+<li>
+<p>Zhang Boyan (4 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Merit Award (Soft Pen)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cai Xinyun (6 Synergiser)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lensa Peribahasa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Bronze </u></strong>
+<p><strong><u>Bronze</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
