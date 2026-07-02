@@ -76,13 +76,13 @@ promoting engagement and peer appreciation.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>One-Minute Speech Challenge</em>: Students will prepare short speeches
+<p><em>One-Minute Speech Challenge</em>: Students prepare short speeches
 reflecting on the theme <strong>"SG60 – My Hopes for the Future"</strong>,
 honing their public speaking skills.</p>
 </li>
 <li>
-<p><em>Book-to-Screen Reviews</em>: Classes will compare books and their
-movie adaptations, writing or presenting short reviews.</p>
+<p><em>Book-to-Screen Reviews</em>: Classes compare books and their movie
+adaptations, writing or presenting short reviews.</p>
 </li>
 <li>
 <p><em>Literature Circles</em>: Small group discussions around selected texts
@@ -92,11 +92,11 @@ to develop comprehension and communication skills.</p>
 <hr>
 <p><strong>Closing Showcase</strong>
 </p>
-<p>The week will conclude with a showcase of student work—from poems and
-door displays to speech recordings and reflection journals. Selected classes
+<p>The week concludes with a showcase of student work—from poems and door
+displays to speech recordings and reflection journals. Selected classes
 may also perform short skits or book trailers for their peers.</p>
 <p></p>
-<p>This year's English Language Fiesta promises to be a meaningful and memorable
+<p>The English Language Fiesta promises to be a meaningful and memorable
 experience, encouraging every TKPS student to explore language with joy
 and confidence.</p>
 <p></p>
