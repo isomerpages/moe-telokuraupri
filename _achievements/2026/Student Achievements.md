@@ -197,10 +197,14 @@ third_nav_title: "2026"
 <p>Lensa Peribahasa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze
+<p><strong><u>Bronze </u></strong>
 <br>
-<br>Nur Humaira Binti Mohammed Taha (4 Encourager)</p>
-<p>Mohamad Khalid Bin Mohamad Zaki (4 Encourager)</p>
+<br>Nur Humaira Binti Mohammed Taha (4 Encourager)
+<br>
+</p>
+<p>Mohamad Khalid Bin Mohamad Zaki (4 Encourager)
+<br>
+</p>
 <p>Eshan Saidi Mahardhika (4 Synergiser)</p>
 <p></p>
 </td>
@@ -213,7 +217,11 @@ third_nav_title: "2026"
 <p>Rakan Bahasa Malay Language Student Ambassadors</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Rakan Bahasa Ambassador</p>
 <p></p>
+<p>Muhammad Ibrahim Mishary Bin Muhammad Nazir (5 Reflector)</p>
+<p>
+<br>Zahra Binte Muhammad Hafiz (5 Encourager)</p>
 </td>
 </tr>
 <tr>
