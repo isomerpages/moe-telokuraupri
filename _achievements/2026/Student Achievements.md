@@ -191,6 +191,33 @@ third_nav_title: "2026"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lensa Peribahasa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze
+<br>
+<br>Nur Humaira Binti Mohammed Taha (4 Encourager)</p>
+<p>Mohamad Khalid Bin Mohamad Zaki (4 Encourager)</p>
+<p>Eshan Saidi Mahardhika (4 Synergiser)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rakan Bahasa Malay Language Student Ambassadors</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
