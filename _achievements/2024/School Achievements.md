@@ -7,8 +7,9 @@ third_nav_title: "2024"
 ---
 <h3><strong><u>2024</u></strong></h3>
 <p></p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -16,14 +17,15 @@ third_nav_title: "2024"
 <th rowspan="1" colspan="1">
 <p>Award</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>School Green Awards (Yellow Flame Award)</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Organised by the Singapore Environment Council (SEC), the School Green
 Awards (SGA) recognises schools for their commitment to environmental sustainability,
