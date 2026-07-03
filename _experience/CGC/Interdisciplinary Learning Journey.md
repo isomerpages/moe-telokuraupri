@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: CGC
 ---
-<p>At Telok Kurau Primary School, we believe in preparing our students not
-only with academic knowledge but also with essential life skills for the
-future. This year, our teachers from various disciplines came together
-to design an exciting new interdisciplinary learning journey anchored in
-the values of the <strong>21st Century Competencies (E21CC)</strong> framework.</p>
+<p>We believe in preparing our students not only with academic knowledge
+but also with essential life skills for the future. Our teachers from various
+disciplines came together to design an exciting new interdisciplinary learning
+journey anchored in the values of the <strong>21st Century Competencies (E21CC)</strong> framework.</p>
 <p>Teachers from English, Science, Mathematics, Art, and Character &amp;
 Citizenship Education worked collaboratively to co-plan a meaningful and
 engaging learning experience that integrates subject knowledge with real-world
