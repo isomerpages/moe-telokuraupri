@@ -6,12 +6,12 @@ description: ""
 third_nav_title: CGC
 ---
 <h4><strong>Harmony in Diversity: Learning the World Through Music</strong></h4>
-<p>At Telok Kurau Primary School, music serves as a bridge that connects
-people, cultures and communities. Through our cultural music programme,
-students engage with musical traditions from Singapore and beyond, including
-local ethnic sounds such as Teochew opera and Malay kompang, as well as
-music from Asian, Western and Oceanic cultures. These experiences offer
-insights into the stories, values and expressions of diverse communities.</p>
+<p>Music serves as a bridge that connects people, cultures and communities.
+Through our cultural music programme, students engage with musical traditions
+from Singapore and beyond, including local ethnic sounds such as Teochew
+opera and Malay kompang, as well as music from Asian, Western and Oceanic
+cultures. These experiences offer insights into the stories, values and
+expressions of diverse communities.</p>
 <p>As students listen, create and perform, they explore how music reflects
 identity and tradition. They learn to appreciate different cultural perspectives,
 approach unfamiliar practices with curiosity and express themselves with
