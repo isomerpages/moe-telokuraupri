@@ -248,7 +248,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P1 Navigator</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -272,18 +272,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>232</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chew Chang Tze Edward</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chew_chang_tze_edward@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>236</p>
 </td>
 </tr>
 </tbody>
@@ -344,7 +332,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P2 Encourager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -368,17 +356,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>217</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Abdul Hadi Bin Jamsuri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>242</p>
 </td>
 </tr>
 <tr>

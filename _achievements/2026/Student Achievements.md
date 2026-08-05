@@ -485,7 +485,7 @@ School Students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asia Pacific Mathematical Olympiad for Primary School (APMOPS) 2026</p>
@@ -512,6 +512,68 @@ School Students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Mathematical Olympiad of Singapore (NMOΣ) 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Gold</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sun Heqian (5 Reflector)</p>
+</li>
+<li>
+<p>Sun Yongyi (5 Reflector)</p>
+</li>
+<li>
+<p>Aniket Prasann (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Silver</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>He Linxi (5 Encourager)</p>
+</li>
+<li>
+<p>Liu Siqi (5 Reflector)</p>
+</li>
+<li>
+<p>Wang Yuxi (5 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Bronze</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Achyuth Nair (5 Reflector)</p>
+</li>
+<li>
+<p>Ammar Murtaza Mandsaurwala (5 Encourager)</p>
+</li>
+<li>
+<p>Yuan Junyao (5 Encourager)</p>
+</li>
+<li>
+<p>Dan Qianxun (5 Reflector)</p>
+</li>
+<li>
+<p>Hu Tong (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Honourable Mention</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chng Min Shan @Kayden Chng (5 Encourager)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -523,6 +585,86 @@ School Students</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sun Heqian (5 Reflector)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad (SPSO) 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Gold</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sun Heqian (5 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Silver</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Achyuth Nair (5 Reflector)</p>
+</li>
+<li>
+<p>Aniket Prasann (5 Encourager</p>
+</li>
+<li>
+<p>Liu Siqi (5 Reflector)</p>
+</li>
+<li>
+<p>Vedika Sharma (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Bronze</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ammar Murtaza Mandsaurwala (5 Encourager)</p>
+</li>
+<li>
+<p>Lai Chien Yu (5 Reflector)</p>
+</li>
+<li>
+<p>Qiao Xiao Xiao (5 Encourager</p>
+</li>
+<li>
+<p>Wang Yuxi (5 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Merit</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Avyaansh Pandey (5 Encourager)</p>
+</li>
+<li>
+<p>Dan Qianxun (5 Reflector)</p>
+</li>
+<li>
+<p>Edsger Pang (5 Encourager</p>
+</li>
+<li>
+<p>Isabel Jin-Yuan Fernandes (5 Reflector)</p>
+</li>
+<li>
+<p>Liu Zeyang (5 Reflector)</p>
+</li>
+<li>
+<p>Mohamad Ryu Haqqi Bin</p>
+</li>
+<li>
+<p>Mohamad Gadafi (5 Reflector)</p>
+</li>
+<li>
+<p>Sharlyn Alya Binte Muhammad Ruzaini (5 Encourager</p>
+</li>
+<li>
+<p>Teoh Zi En (5 Reflector)</p>
 </li>
 </ul>
 </td>
@@ -625,7 +767,6 @@ School Students</p>
 </li>
 <li>
 <p>Natra Suhayla Binte Mohammad Suhail (6 Navigator)</p>
-<p></p>
 </li>
 </ul>
 <p><strong><u>Choral Reading 3rd Place</u></strong>
@@ -803,6 +944,29 @@ School Students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner's Award 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Conferred the Chief Commissioner's Award 2026</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Amiliya Fariha Binte Azri Zulfarhan (6 Inquirer)</p>
+</li>
+<li>
+<p>Nur Zulaikha Nabilah Binte Mohammed Khalid (6 Inquirer)</p>
+</li>
+<li>
+<p>Shaza Syahira Muhammad Najib (6 Innovator)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Robotics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -845,6 +1009,246 @@ School Students</p>
 </li>
 <li>
 <p>Macayana Maverick Zeroun Agamata (6 Synergiser)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE Series 2026 (Innovation, Design, and Engineering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Team Alliance Champions</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zhou Kira Qinluo (5 Reflector)</p>
+</li>
+<li>
+<p>Tan Zi Han (4 Reflector)</p>
+</li>
+<li>
+<p>Vanna Yeo En Xian (4 Reflector)</p>
+</li>
+<li>
+<p>Isabel Jin-Yuan Fernandes (5 Reflector)</p>
+</li>
+<li>
+<p>Maheshwari Viraaj (4 Encourager)</p>
+</li>
+<li>
+<p>Ammar Murtaza Mandsaurwala (5 Encourager)</p>
+</li>
+<li>
+<p>Gideon Eleos Praptana (5 Encourager)</p>
+</li>
+<li>
+<p>Ethan John Merina (5 Reflector)</p>
+</li>
+<li>
+<p>Liu Zeyang (5 Reflector)</p>
+</li>
+<li>
+<p>Helena Celestine Garcia Caba (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Robot Skills Champions</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ammar Murtaza Mandsaurwala (5 Encourager)</p>
+</li>
+<li>
+<p>Gideon Eleos Praptana (5 Encourager)</p>
+</li>
+<li>
+<p>Ethan John Merina (5 Reflector)</p>
+</li>
+<li>
+<p>Liu Zeyang (5 Reflector)</p>
+</li>
+<li>
+<p>Helena Celestine Garcia Caba (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Excellence Award</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lazarus Ropata (4 Synergiser)</p>
+</li>
+<li>
+<p>Lai Jun Aun (5 Learner)</p>
+</li>
+<li>
+<p>Ansh Rohatgi (4 Encourager)</p>
+</li>
+<li>
+<p>Uttarwar Dylan (5 Reflector)</p>
+</li>
+<li>
+<p>Kiren Ashton Satiish (3 Synergiser)</p>
+</li>
+<li>
+<p>Zhou Kira Qinluo (5 Reflector)</p>
+</li>
+<li>
+<p>Tan Zi Han (4 Reflector)</p>
+</li>
+<li>
+<p>Vanna Yeo En Xian (4 Reflector)</p>
+</li>
+<li>
+<p>Isabel Jin-Yuan Fernandes (5 Reflector)</p>
+</li>
+<li>
+<p>Maheshwari Viraaj (4 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Amaze Award</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chng Min Shan @ Kayden Chng (5 Encourager)</p>
+</li>
+<li>
+<p>Nur Hasanah Binte Muhammad Taufiq (5 Reflector)</p>
+</li>
+<li>
+<p>Ahmad Firas Bin Ahmad Jamal (5 Reflector)</p>
+</li>
+<li>
+<p>Lim Jun Rui Dylan (5 Reflector)</p>
+</li>
+<li>
+<p>Achyuth Nair (5 Reflector)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSTA-DSO-VJC Robotics Challenge 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Light Robots Champions</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Uttarwar Dylan (5 Reflector)</p>
+</li>
+<li>
+<p>Zhou Kira Qinluo (5 Reflector)</p>
+</li>
+<li>
+<p>Isabel Jin-Yuan Fernandes (5 Reflector)</p>
+</li>
+<li>
+<p>Lazarus Ropata (4 Synergiser)</p>
+</li>
+<li>
+<p>Kiren Ashton Satiish (3 Synergiser)</p>
+</li>
+</ul>
+<p><strong><u>Heavy Robots Champions</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ethan John Merina (5 Reflector)</p>
+</li>
+<li>
+<p>Liu Zeyang (5 Reflector)</p>
+</li>
+<li>
+<p>Aydi Zulfadli Bin Muhammed Haziq (3 Encourager)</p>
+</li>
+<li>
+<p>Syed Muhammad Bin Syed Naufal Al-Edrus (4 Synergiser)</p>
+</li>
+<li>
+<p>Isaiah Law (3 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>DIY Robots Champions</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Achyuth Nair (5 Reflector)</p>
+</li>
+<li>
+<p>Lim Jun Rui Dylan (5 Reflector)</p>
+</li>
+<li>
+<p>Nur Hasanah Binte Muhammad Taufiq (5 Reflector)</p>
+</li>
+<li>
+<p>Ahmad Firas Bin Ahmad Jamal (5 Reflector)</p>
+</li>
+<li>
+<p>Gideon Eleos Praptana (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Most Technical Proficiency</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chng Min Shan @ Kayden Chng (5 Encourager)</p>
+</li>
+<li>
+<p>Maheshwari Viraaj (4 Encourager)</p>
+</li>
+<li>
+<p>Tan Zi Han (4 Reflector)</p>
+</li>
+<li>
+<p>Lai Jun Aun (5 Learner)</p>
+</li>
+<li>
+<p>Vanna Yeo En Xian (4 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Most Innovative Design</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Achyuth Nair (5 Reflector)</p>
+</li>
+<li>
+<p>Lim Jun Rui Dylan (5 Reflector)</p>
+</li>
+<li>
+<p>Nur Hasanah Binte Muhammad Taufiq (5 Reflector)</p>
+</li>
+<li>
+<p>Ahmad Firas Bin Ahmad Jamal (5 Reflector)</p>
+</li>
+<li>
+<p>Gideon Eleos Praptana (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Most Technical Proficiency</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Uttarwar Dylan (5 Reflector)</p>
+</li>
+<li>
+<p>Zhou Kira Qinluo (5 Reflector)</p>
+</li>
+<li>
+<p>Isabel Jin-Yuan Fernandes (5 Reflector)</p>
+</li>
+<li>
+<p>Lazarus Ropata (4 Synergiser)</p>
+</li>
+<li>
+<p>Kiren Ashton Satiish (3 Synergiser)</p>
 </li>
 </ul>
 </td>
@@ -1477,6 +1881,45 @@ School Students</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ng Yi Quan (3 Learner)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bowling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026 NSG Bowling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Silver Achievement Pin</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Arif Alfian Bin Abdul Adi (4 Synergiser)</p>
+</li>
+</ul>
+<p><strong><u>Bronze Achievement Pin</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Huzaifah Bin Norasiddin (4 Encourager)</p>
+</li>
+<li>
+<p>Abdullah Bin Mohammed Salehin (5 Synergiser)</p>
+</li>
+<li>
+<p>Chua Ken-Ji Fredrik (5 Synergiser)</p>
+</li>
+<li>
+<p>Siti Ayesha Binte Shaikh Abdullah (5 Encourager)</p>
+</li>
+<li>
+<p>Sharlyn Alya Binte Muhammad Ruzaini (5 Encourager)</p>
+</li>
+<li>
+<p>Farisya Rizqah Binte Muhammad Farid (4 Reflector)</p>
 </li>
 </ul>
 </td>
