@@ -1126,7 +1126,120 @@ School Students</p>
 <p>DSTA-DSO-VJC Robotics Challenge 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Light Robots Champions</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Uttarwar Dylan (5 Reflector)</p>
+</li>
+<li>
+<p>Zhou Kira Qinluo (5 Reflector)</p>
+</li>
+<li>
+<p>Isabel Jin-Yuan Fernandes (5 Reflector)</p>
+</li>
+<li>
+<p>Lazarus Ropata (4 Synergiser)</p>
+</li>
+<li>
+<p>Kiren Ashton Satiish (3 Synergiser)</p>
+</li>
+</ul>
+<p><strong><u>Heavy Robots Champions</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ethan John Merina (5 Reflector)</p>
+</li>
+<li>
+<p>Liu Zeyang (5 Reflector)</p>
+</li>
+<li>
+<p>Aydi Zulfadli Bin Muhammed Haziq (3 Encourager)</p>
+</li>
+<li>
+<p>Syed Muhammad Bin Syed Naufal Al-Edrus (4 Synergiser)</p>
+</li>
+<li>
+<p>Isaiah Law (3 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>DIY Robots Champions</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Achyuth Nair (5 Reflector)</p>
+</li>
+<li>
+<p>Lim Jun Rui Dylan (5 Reflector)</p>
+</li>
+<li>
+<p>Nur Hasanah Binte Muhammad Taufiq (5 Reflector)</p>
+</li>
+<li>
+<p>Ahmad Firas Bin Ahmad Jamal (5 Reflector)</p>
+</li>
+<li>
+<p>Gideon Eleos Praptana (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Most Technical Proficiency</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chng Min Shan @ Kayden Chng (5 Encourager)</p>
+</li>
+<li>
+<p>Maheshwari Viraaj (4 Encourager)</p>
+</li>
+<li>
+<p>Tan Zi Han (4 Reflector)</p>
+</li>
+<li>
+<p>Lai Jun Aun (5 Learner)</p>
+</li>
+<li>
+<p>Vanna Yeo En Xian (4 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Most Innovative Design</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Achyuth Nair (5 Reflector)</p>
+</li>
+<li>
+<p>Lim Jun Rui Dylan (5 Reflector)</p>
+</li>
+<li>
+<p>Nur Hasanah Binte Muhammad Taufiq (5 Reflector)</p>
+</li>
+<li>
+<p>Ahmad Firas Bin Ahmad Jamal (5 Reflector)</p>
+</li>
+<li>
+<p>Gideon Eleos Praptana (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Most Technical Proficiency</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Uttarwar Dylan (5 Reflector)</p>
+</li>
+<li>
+<p>Zhou Kira Qinluo (5 Reflector)</p>
+</li>
+<li>
+<p>Isabel Jin-Yuan Fernandes (5 Reflector)</p>
+</li>
+<li>
+<p>Lazarus Ropata (4 Synergiser)</p>
+</li>
+<li>
+<p>Kiren Ashton Satiish (3 Synergiser)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
