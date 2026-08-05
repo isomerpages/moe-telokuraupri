@@ -574,17 +574,6 @@ School Students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -950,6 +939,29 @@ School Students</p>
 </li>
 <li>
 <p>Lim Siew Ling (6 Trailblazer)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner's Award 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Conferred the Chief Commissioner's Award 2026</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Amiliya Fariha Binte Azri Zulfarhan (6 Inquirer)</p>
+</li>
+<li>
+<p>Nur Zulaikha Nabilah Binte Mohammed Khalid (6 Inquirer)</p>
+</li>
+<li>
+<p>Shaza Syahira Muhammad Najib (6 Innovator)</p>
 </li>
 </ul>
 </td>
