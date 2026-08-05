@@ -485,7 +485,7 @@ School Students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asia Pacific Mathematical Olympiad for Primary School (APMOPS) 2026</p>
@@ -512,6 +512,79 @@ School Students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Mathematical Olympiad of Singapore (NMOΣ) 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Gold</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sun Heqian (5 Reflector)</p>
+</li>
+<li>
+<p>Sun Yongyi (5 Reflector)</p>
+</li>
+<li>
+<p>Aniket Prasann (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Silver</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>He Linxi (5 Encourager)</p>
+</li>
+<li>
+<p>Liu Siqi (5 Reflector)</p>
+</li>
+<li>
+<p>Wang Yuxi (5 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Bronze</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Achyuth Nair (5 Reflector)</p>
+</li>
+<li>
+<p>Ammar Murtaza Mandsaurwala (5 Encourager)</p>
+</li>
+<li>
+<p>Yuan Junyao (5 Encourager)</p>
+</li>
+<li>
+<p>Dan Qianxun (5 Reflector)</p>
+</li>
+<li>
+<p>Hu Tong (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Honourable Mention</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chng Min Shan @Kayden Chng (5 Encourager)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -523,6 +596,86 @@ School Students</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sun Heqian (5 Reflector)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad (SPSO) 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Gold</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sun Heqian (5 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Silver</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Achyuth Nair (5 Reflector)</p>
+</li>
+<li>
+<p>Aniket Prasann (5 Encourager</p>
+</li>
+<li>
+<p>Liu Siqi (5 Reflector)</p>
+</li>
+<li>
+<p>Vedika Sharma (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Bronze</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ammar Murtaza Mandsaurwala (5 Encourager)</p>
+</li>
+<li>
+<p>Lai Chien Yu (5 Reflector)</p>
+</li>
+<li>
+<p>Qiao Xiao Xiao (5 Encourager</p>
+</li>
+<li>
+<p>Wang Yuxi (5 Reflector)</p>
+</li>
+</ul>
+<p><strong><u>Merit</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Avyaansh Pandey (5 Encourager)</p>
+</li>
+<li>
+<p>Dan Qianxun (5 Reflector)</p>
+</li>
+<li>
+<p>Edsger Pang (5 Encourager</p>
+</li>
+<li>
+<p>Isabel Jin-Yuan Fernandes (5 Reflector)</p>
+</li>
+<li>
+<p>Liu Zeyang (5 Reflector)</p>
+</li>
+<li>
+<p>Mohamad Ryu Haqqi Bin</p>
+</li>
+<li>
+<p>Mohamad Gadafi (5 Reflector)</p>
+</li>
+<li>
+<p>Sharlyn Alya Binte Muhammad Ruzaini (5 Encourager</p>
+</li>
+<li>
+<p>Teoh Zi En (5 Reflector)</p>
 </li>
 </ul>
 </td>
@@ -1479,6 +1632,54 @@ School Students</p>
 <p>Ng Yi Quan (3 Learner)</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bowling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026 NSG Bowling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Achievement Pin</p>
+<p></p>
+<p></p>
+<p>Bronze Achievement Pin</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
