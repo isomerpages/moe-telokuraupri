@@ -1004,6 +1004,133 @@ School Students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE Series 2026 (Innovation, Design, and Engineering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Team Alliance Champions</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zhou Kira Qinluo (5 Reflector)</p>
+</li>
+<li>
+<p>Tan Zi Han (4 Reflector)</p>
+</li>
+<li>
+<p>Vanna Yeo En Xian (4 Reflector)</p>
+</li>
+<li>
+<p>Isabel Jin-Yuan Fernandes (5 Reflector)</p>
+</li>
+<li>
+<p>Maheshwari Viraaj (4 Encourager)</p>
+</li>
+<li>
+<p>Ammar Murtaza Mandsaurwala (5 Encourager)</p>
+</li>
+<li>
+<p>Gideon Eleos Praptana (5 Encourager)</p>
+</li>
+<li>
+<p>Ethan John Merina (5 Reflector)</p>
+</li>
+<li>
+<p>Liu Zeyang (5 Reflector)</p>
+</li>
+<li>
+<p>Helena Celestine Garcia Caba (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Robot Skills Champions</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ammar Murtaza Mandsaurwala (5 Encourager)</p>
+</li>
+<li>
+<p>Gideon Eleos Praptana (5 Encourager)</p>
+</li>
+<li>
+<p>Ethan John Merina (5 Reflector)</p>
+</li>
+<li>
+<p>Liu Zeyang (5 Reflector)</p>
+</li>
+<li>
+<p>Helena Celestine Garcia Caba (5 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Excellence Award</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lazarus Ropata (4 Synergiser)</p>
+</li>
+<li>
+<p>Lai Jun Aun (5 Learner)</p>
+</li>
+<li>
+<p>Ansh Rohatgi (4 Encourager)</p>
+</li>
+<li>
+<p>Uttarwar Dylan (5 Reflector)</p>
+</li>
+<li>
+<p>Kiren Ashton Satiish (3 Synergiser)</p>
+</li>
+<li>
+<p>Zhou Kira Qinluo (5 Reflector)</p>
+</li>
+<li>
+<p>Tan Zi Han (4 Reflector)</p>
+</li>
+<li>
+<p>Vanna Yeo En Xian (4 Reflector)</p>
+</li>
+<li>
+<p>Isabel Jin-Yuan Fernandes (5 Reflector)</p>
+</li>
+<li>
+<p>Maheshwari Viraaj (4 Encourager)</p>
+</li>
+</ul>
+<p><strong><u>Amaze Award</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chng Min Shan @ Kayden Chng (5 Encourager)</p>
+</li>
+<li>
+<p>Nur Hasanah Binte Muhammad Taufiq (5 Reflector)</p>
+</li>
+<li>
+<p>Ahmad Firas Bin Ahmad Jamal (5 Reflector)</p>
+</li>
+<li>
+<p>Lim Jun Rui Dylan (5 Reflector)</p>
+</li>
+<li>
+<p>Achyuth Nair (5 Reflector)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSTA-DSO-VJC Robotics Challenge 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Red Cross Youth</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1671,39 +1798,6 @@ School Students</p>
 <p>Farisya Rizqah Binte Muhammad Farid (4 Reflector)</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
