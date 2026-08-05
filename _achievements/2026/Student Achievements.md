@@ -1642,11 +1642,35 @@ School Students</p>
 <p>2026 NSG Bowling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Achievement Pin</p>
-<p></p>
-<p></p>
-<p>Bronze Achievement Pin</p>
-<p></p>
+<p><strong><u>Silver Achievement Pin</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Arif Alfian Bin Abdul Adi (4 Synergiser)</p>
+</li>
+</ul>
+<p><strong><u>Bronze Achievement Pin</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Huzaifah Bin Norasiddin (4 Encourager)</p>
+</li>
+<li>
+<p>Abdullah Bin Mohammed Salehin (5 Synergiser)</p>
+</li>
+<li>
+<p>Chua Ken-Ji Fredrik (5 Synergiser)</p>
+</li>
+<li>
+<p>Siti Ayesha Binte Shaikh Abdullah (5 Encourager)</p>
+</li>
+<li>
+<p>Sharlyn Alya Binte Muhammad Ruzaini (5 Encourager)</p>
+</li>
+<li>
+<p>Farisya Rizqah Binte Muhammad Farid (4 Reflector)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
