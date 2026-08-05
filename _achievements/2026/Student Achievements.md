@@ -767,7 +767,6 @@ School Students</p>
 </li>
 <li>
 <p>Natra Suhayla Binte Mohammad Suhail (6 Navigator)</p>
-<p></p>
 </li>
 </ul>
 <p><strong><u>Choral Reading 3rd Place</u></strong>
