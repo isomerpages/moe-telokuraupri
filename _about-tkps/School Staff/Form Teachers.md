@@ -332,7 +332,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P2 Encourager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -356,17 +356,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>217</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Abdul Hadi Bin Jamsuri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>242</p>
 </td>
 </tr>
 <tr>
