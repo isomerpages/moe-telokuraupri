@@ -4,6 +4,10 @@ permalink: /fundraising-to-enrich-the-learning-experiences-of-maitri-school-stud
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tkps_mathri.png">
+</div>
 <p>As Telok Kurau Primary School celebrates its 100<sup>th</sup> anniversary,
 we honour our meaningful connection with Maitri School. Maitri School is
 a Special Education school established by Metta Welfare Association (MWA),
