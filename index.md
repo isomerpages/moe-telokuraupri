@@ -26,6 +26,15 @@ sections:
       id: announcements
       subtitle: Telok Kurau Primary School
       announcement_items:
+        - title: Fundraising to Enrich the Learning Experiences of Maitri School Students
+          date: 07 August 2026
+          announcement: As Telok Kurau Primary School celebrates its 100th anniversary, we
+            honour our meaningful connection with Maitri School. Maitri School
+            is a Special Education school established by Metta Welfare
+            Association (MWA), a registered charity and the school’s parent
+            organisation in November 2019.
+          link_text: CLICK HERE
+          link_url: /fundraising-to-enrich-the-learning-experiences-of-maitri-school-students/
         - title: TKPS e-Open House 2026
           date: 03 July 2026
           announcement: Welcome to our e-Open House microsite. We invite you to browse,
